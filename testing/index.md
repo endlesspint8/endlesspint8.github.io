@@ -42,7 +42,7 @@ subtitle: Failing Real Kwick
   </li>
   <li>Not enough time.
     <ul>
-      <li>I feel this is a legit concern and a strong indicator of what you deem important at the time. That was not meant to sound dismissive or insensitive. Whether you're wasting time or maximizing your talents what it is you **actually do** with your time is the best measure of what you've decided to value. I've had time commitments of all shades of legitimacy, from the productive (pursuing education) to the questionable (drinking beer), back to the productive again (drinking beer; I now consider it research).</li>
+      <li>I feel this is a legit concern and a strong indicator of what you deem important at the time. That was not meant to sound dismissive or insensitive. Whether you're wasting time or maximizing your talents what it is you <b>actually do</b> with your time is the best measure of what you've decided to value. I've had time commitments of all shades of legitimacy, from the productive (pursuing education) to the questionable (drinking beer), back to the productive again (drinking beer; I now consider it research).</li>
     </ul>
   </li>
   <li>Lacking expertise in... well, you name it:
@@ -55,12 +55,12 @@ subtitle: Failing Real Kwick
   </li>
   <li>Low energy.
     <ul>
-      <li>This one's a real bitch, especially the older I get. Which is _every damn day_. It is tough to keep going after a long day at the office and maybe a trip to the gym. You want to spend time with family, friends, pets, or sometimes just yourself doing nothing at all. Believe it or not 20-year olds reading this, there is a time fast approaching when "going out" will be the least appealing option when considering what to do with your free time. Just imagine how much enthusiasm you can muster when what used to pass for having a good time has tipped over the other side of the cost-benefit fence.</li>
+      <li>This one's a real bitch, especially the older I get. Which is <i>every damn day</i>. It is tough to keep going after a long day at the office and maybe a trip to the gym. You want to spend time with family, friends, pets, or sometimes just yourself doing nothing at all. Believe it or not 20-year olds reading this, there is a time fast approaching when "going out" will be the least appealing option when considering what to do with your free time. Just imagine how much enthusiasm you can muster when what used to pass for having a good time has tipped over the other side of the cost-benefit fence.</li>
     </ul>
   </li>
   <li>Not knowing where to start.
     <ul>
-      <li>In what might seem as a direct contradition to the first point, there have been times when I had _too many_ ~~great~~ pretty decent ideas about what analyses or visualizations to pursue. In these instances it was not uncommon to feel one of two things: a) overwhelmed by the options; & b) intoxicated (pun intended) by the opportunities, getting excited by brainstorming and allowing my imagination to run wild but having nothing tangible to show for it.</li>
+      <li>In what might seem as a direct contradition to the first point, there have been times when I had <i>too many</i> <strike>great</strike> pretty decent ideas about what analyses or visualizations to pursue. In these instances it was not uncommon to feel one of two things: a) overwhelmed by the options; & b) intoxicated (pun intended) by the opportunities, getting excited by brainstorming and allowing my imagination to run wild but having nothing tangible to show for it.</li>
     </ul>
   </li>
 </ol>
