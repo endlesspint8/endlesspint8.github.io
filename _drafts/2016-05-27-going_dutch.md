@@ -33,7 +33,7 @@ Simple and <a href="https://www.youtube.com/watch?v=IIf9diK-6wk" target="_blank"
 
 Stop words are typically the most common words in use over a collection of documents. They are neither surprising in their frequency nor very informative when it comes to recognizing subjects covered. They are of course critical to being understood in normal communication being the glue that helps string words into sentences (conjunctions, prepositions, and pronouns). The purpose for my identifying Dutch stop words was thus two-fold: to use them as a screen to get to the more interesting words and to keep them around for my own elucidation. While not computationaly interesting they could still prove to be a meaningful resource to my learning ambitions.
 
-Where to find stop words? AskJeeves! Na, I’m just kidding. I asked Uncle Google of course. I thought that I may get an English list of words and translate those into Dutch, but that turned out to be unncessary. Instead, I took three results from <a href="https://www.google.nl/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dutch%20stop%20words" target="_blank">the first search page returned</a>, made <a href="/code/dutch_stop_words" target="_blank">a superset of the words from each list</a>, and then had something to screen against.<sup id="a1">[1](#f1)</sup> 
+Where to find stop words? <a href="http://vignette1.wikia.nocookie.net/logopedia/images/b/bb/Jeeves_too.jpg/revision/latest?cb=20110511061243" target="_blank">AskJeeves</a>! Na, I’m just kidding. I asked Uncle Google of course. I thought that I may get an English list of words and translate those into Dutch, but that turned out to be unncessary. Instead, I took three results from <a href="https://www.google.nl/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dutch%20stop%20words" target="_blank">the first search page returned</a>, made <a href="/code/dutch_stop_words" target="_blank">a superset of the words from each list</a>, and then had something to screen against.<sup id="a1">[1](#f1)</sup> 
 
 <p align="center">
   <b>Stop Words</b><br>
@@ -153,6 +153,8 @@ Helpful in identifying key terms for each article, or day or whatever your choic
 </p>
 
 ## Conclusion
+
+World cloud with apologies to <a href="https://twitter.com/dataskeptic" target="_blank">Kyle</a> at <a href="http://dataskeptic.com/epnotes/kill-the-word-cloud.php" target="_blank">Data Skeptic</a>.
 
 While the language is difficult as hell both the people and accent are delightful and it’s high time I make myself better understood. 
 
