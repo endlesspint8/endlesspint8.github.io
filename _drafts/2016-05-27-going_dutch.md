@@ -58,12 +58,9 @@ Where to find stop words? <a href="http://vignette1.wikia.nocookie.net/logopedia
 |dat|it|403|
 |te|too|324|
 
-Top words after filtering stop words, <a href="https://xkcd.com/1331/" target="_blank">frequency</a> ; 
-What: 
-Why:
-How:
+For those who've done the “<a href="http://www.learnpython.org/en/Hello,_World!" target="_blank">Hello world</a>” of big data you can anticipate my next steps. Get a word count across all articles, filter out stop words, and sort in descending order of <a href="https://xkcd.com/1331/" target="_blank">frequency</a>. I figured <a href="/datasets/dutch/top100_nonStopWords.csv" target="_blank">the top 50-100 words</a> would be a strong place to start for any future flash cards, at least before the Internet destroys them as well. 
 
-For those who've done the “Hello world” of big data you can anticipate my next steps. Get a word count (bag of words) of all articles, filter out “stop words”, and <a href="/code/dutch_words/#all-without-stop-words" target="_blank">sort in descending order of frequency</a>. I figured <a href="/datasets/dutch/top100_nonStopWords.csv" target="_blank">the top 50-100 words</a> would be a strong place to start for any future flash cards, at least before the Internet destroys them as well. 
+Though I want to be absolutely clear about two things: this is NOT big data AND I know that. I simply wanted an excuse to get some more practice with <a href="https://spark.apache.org/docs/1.2.0/programming-guide.html" target="_blank">Spark</a> and running <a href="https://www.vagrantup.com/" target="_blank">Vagrant</a> (partial nerd talk for data tools).
 
 **Top-10 Non-Stop Words**
 
@@ -88,12 +85,8 @@ For those who've done the “Hello world” of big data you can anticipate my ne
   <img src="/gallery/2016/dutch/output_2top.gif">
 </p>
 
-Though I want to be absolutely clear about two things: this is NOT big data AND I know that. I simply wanted an excuse to get some more practice with <a href="https://spark.apache.org/docs/1.2.0/programming-guide.html" target="_blank">Spark</a> and running <a href="https://www.vagrantup.com/" target="_blank">Vagrant</a> (partial nerd talk for data tools).
 
- 
 ## Hello World 2,  or better yet… Hallo Wereld Twee
-
-Bigrams:
 
 Single words were a good start but how about something a bit more interesting, perhaps <a href="https://en.wikipedia.org/wiki/Bigram" target="_blank">bigrams</a>. It'd be nice to start stringing words together, especially inspired by an authoritative source.
 
@@ -125,7 +118,13 @@ The process was similar to the above with the obvious addition of taking two wor
 
 ## TF-IDF: 
 
-The final approach covered here is the most mathematically sophisticated but still a simple concept. We wish to identify words that are often used but balance that out by overly common words across all articles. For instance, we would expect large counts for stop words but if we had a way for penalizing words as common as these we should be able to find article-specific interesting terms. 
+The final approach covered was yet one step of sophistication furtherbut still a simple concept. We wish to identify words that are often used but balance that out by overly common words that appear in many articles. For instance, we would expect large counts for stop words but if we had a way for penalizing words as common as these we should be able to find article-specific interesting terms. 
+
+An example of how this works will go a long way to explaining its power. Suppose three articles with the following words:
+
+[table of three columns]
+
+[simple math w/resulting scores]
 
 Helpful in identifying key terms for each article, or day or whatever your choice of unit. Typically a good step towards getting a better representation of what the topic (of the article) is and prepares the way for future clustering possibilities, a topic for another day.
 
@@ -156,26 +155,26 @@ Helpful in identifying key terms for each article, or day or whatever your choic
 
 World cloud with apologies to <a href="https://twitter.com/dataskeptic" target="_blank">Kyle</a> at <a href="http://dataskeptic.com/epnotes/kill-the-word-cloud.php" target="_blank">Data Skeptic</a>.
 
-While the language is difficult as hell both the people and accent are delightful and it’s high time I make myself better understood. 
+How far along has this excercise gotten us to deciphering Dutch? I took some random sentences and ran them against our numerous word collections to get an idea. Below you can see the original content, my best approximation (I was lenient on the grammar aspect), and Google translate's take.
 
-This will be overly circuitous: being a lover of NYC history, longtime resident, a beer buff, and fond of tangential investigations I thought I'd use some data tools at my disposal for a little learnin'. I turned my attention to Dutch. Not the Dutch, but the Dutch language. 
+[table of sentence with (partial) translations]
 
- 
-
-## Left Out
-
-Mapping
-
-Clustering
-
-Sentiment Analysis - should be a bit odd for news articles, but potentially interesting.
-
-Comments/Tweets - perhaps more appropriate for SA
-
-Classification - based on the findings, some possible examples would have been for determining articles related to traffic (“bus”), crime (“politie”), or sports (“PSV” [link]).
+[concluding comments]
 
 
+<br>
 
+---
+
+**Left Out**
+
+- **Mapping** locations of news stories to review geographical/temporal/subject locations or trends.
+- **Clustering** of news stories.
+- **Sentiment Analysis** - should be a bit odd for news articles, but potentially interesting.
+- **Comments/Tweets** - perhaps more appropriate for SA
+- **Classification** - based on the findings, some possible examples would have been for determining articles related to traffic (“bus”), crime (“politie”), or sports (“PSV” [link]).
+
+All of the above, and more, can be performed on any number of text-based data sets. Look out for most of these to begin appearing in the posts to come.
 
 <br>
 
@@ -194,6 +193,7 @@ Tools
 1. PySpark via Vagrant from Berkely by way of edX; https://twitter.com/atalwalkar
 2. <a href="https://www.vagrantup.com/docs/synced-folders/basic_usage.html" target="_blank">Sync folders</a> in Vagrant; https://twitter.com/vagrantup
 3. Create <a href="http://gifmaker.me/" target="_blank">gif</a>; gifmaker.me
+4. Word cloud at http://www.wordle.net/advanced
 
 Techniques
 
