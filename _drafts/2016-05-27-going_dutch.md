@@ -5,7 +5,9 @@ subtitle: Learning a Language with Modern Tools
 ---
 
 
-Are we really only going to talk about one issue? Please, that's tedious, leaves you open to some <a href="https://www.youtube.com/watch?v=JcRHUOTNobE" target="_blank">well deserved ribbing</a>, and <a href="https://en.wikipedia.org/wiki/Prohibition_Party" target="_blank">that's how Prohibition was passed</a> (I think we've all learned from that mistake). Like most of us are wont to do <a href="https://youtu.be/-jqCqvGuutQ?t=110" target="_blank">in real life</a> let us jump from subject to subject, share stories, describe our dreams and brilliant ideas that only an ample amount of drinking would allow us to divulge and share with another. That's what this post is and, similarly to a regular conversation, feel free to change the subject and browse to another more beer-centric posting, whether through poking around or following one of several links sprinkled through the text (here’s an interesting tie-in with <a href="http://www.theguardian.com/world/2016/apr/25/amsterdam-kings-day-urine-plan" target="_blank">beer and the Dutch</a>).
+## Are we really only going to talk about one issue? 
+
+Please, that's tedious, leaves you open to some <a href="https://www.youtube.com/watch?v=JcRHUOTNobE" target="_blank">well deserved ribbing</a>, and <a href="https://en.wikipedia.org/wiki/Prohibition_Party" target="_blank">it's how Prohibition was passed</a> (I think we've all learned from that mistake). Like most of us are wont to do <a href="https://youtu.be/-jqCqvGuutQ?t=110" target="_blank">in real life</a> let us jump from subject to subject, share stories, describe our dreams and brilliant ideas that only an ample amount of drinking would allow us to divulge and share with another. That's what this post is and, similarly to a regular conversation, feel free to change the subject and browse to another more beer-centric posting, whether through poking around or following one of several links sprinkled through the text (here’s an interesting tie-in with <a href="http://www.theguardian.com/world/2016/apr/25/amsterdam-kings-day-urine-plan" target="_blank">beer and the Dutch</a>).
 
 I don’t know about you but after a six pack (or six posts in this case) I usually deem myself witty, engaging, and a purveyor of interesting stories and amusing anecdotes. I become loquacious and expansive in my insightful commentary. It is also clear that those around me share this outlook, that they are more easily swayed by my charm which I normally, responsibly, and modestly keep at bay for fear of misusing its power. Dare I say that the barriers of language appear to melt away and those fortunate enough to be present in my company communicate as if by thought alone with words discarded nearly as soon as they’re spoken, disappearing leaving only <a href="https://www.youtube.com/watch?v=CSaFgAwnRSc&feature=youtu.be&t=25" target="_blank">the meaning behind</a>.
 
@@ -13,9 +15,9 @@ But in recent months I’ve encountered an obstacle: actually living abroad. The
 
 > There is no off position on the genius switch. - David Letterman
 
-It turns out that language remains a necessary bridge. I cannot bear the thought of withholding from these good people any longer. It is time I make a stronger effort at making myself understandable more completely and attempt to meet the good people of the Netherlands halfway. You see, the Dutch founded NYC, make damn good beer themselves, & having recently/temporarily/in-denial-about-the-whole-finality-of-the-prospect relocated to the land of various combinations of <a href="https://www.youtube.com/watch?v=_LlPU6KenjU" target="_blank">smoking and breakfast pastries</a>.
+It turns out that language remains a necessary bridge. I cannot bear the thought of withholding from these good people any longer. It is time I make a stronger effort at making myself understandable more completely and attempt to meet the good people of the Netherlands halfway. Afterall, the Dutch founded NYC, make damn good beer themselves, & having recently/temporarily/in-denial-about-the-whole-finality-of-the-prospect relocated to the land of various combinations of <a href="https://www.youtube.com/watch?v=_LlPU6KenjU" target="_blank">smoking and breakfast pastries</a> I sorta, kinda, wanna, needta do this.
 
-The objective: to learn some of the language and a bit about contemporary Dutch life. Where to turn? How about that item that was nearly killed off by the Internet: the newspaper? I'm in a particular part of the country, which translated to American-ese means “not in Amsterdam”, and I wanted to take that into consideration. Why not use another resource, one that replaced an actual internet casualty: Wikipedia
+The objective: to learn some of the language and a bit about contemporary Dutch life. Where to turn? How about that item that was nearly killed off by the Internet: the newspaper? I'm in a particular part of the country, which translated to American-ese means “not in Amsterdam”, and I wanted to take that into consideration. Why not use another resource, one that replaced an actual internet casualty: Wikipedia.
 
 **Regional Dutch newspapers**:
 
@@ -25,14 +27,13 @@ The objective: to learn some of the language and a bit about contemporary Dutch 
 
 I volunteered one of the above publications to be my vic-, source, and proceeded to pull three front page stories each day, 2-3 times a day, for 4 weeks. The idea was to capture all article text plus some metadata characteristics: date, time, subject classification, and map coordinates where applicable. 
 
-# As Easy as 1-2-3? (Een-twee-drie)
+## As Easy as 1-2-3? (Een-twee-drie)
 
-Simple and <a href="https://www.youtube.com/watch?v=IIf9diK-6wk" target="_blank">too easy</a>? Occassionaly yes, but there was a good amount of legwork needed. My three-pronged approach to this exercise: bag of words, bigrams, and term frequency - inverse document frequency (<a href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf" target="_blank">tf-idf</a>). I thought each of these methods would be helpful in finding out more about Dutch and possibly where to start. But before all that I would need to identify <a href="https://en.wikipedia.org/wiki/Stop_words" target="_blank">stop words</a>. 
+Simple and <a href="https://www.youtube.com/watch?v=IIf9diK-6wk" target="_blank">too easy</a>? Not completely. There was a good amount of legwork needed. My three-pronged approach to this exercise: <a href="https://en.wikipedia.org/wiki/Bag-of-words_model" target="_blank">bag of words</a>, <a href="https://en.wikipedia.org/wiki/Bigram" target="_blank">bigrams</a>, and term frequency - inverse document frequency (<a href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf" target="_blank">tf-idf</a>). I thought each of these methods would be helpful in finding out more about Dutch and possibly where to start with the language. But before all that I would need to identify <a href="https://en.wikipedia.org/wiki/Stop_words" target="_blank">stop words</a>. 
 
-Identified stop words: combine, translate, and count
-What: the uninteresting words/glue that hold together the less common, potentially more interesting, words.
-Why: without identifying and filtering these out I could be sure to come up with nothing particularly interesting or surprising.
-How: AskJeeves! Na, I’m just kidding - <a href="https://www.google.nl/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dutch%20stop%20words" target="_blank">Google</a>, of course. I took three top results from the first returned page, made a superset of the words from each list, and then had something to screen against.<sup id="a1">[1](#f1)</sup> 
+Stop words are typically the most common words in use over a collection of documents. They are neither surprising in their frequency nor very informative when it comes to recognizing subjects covered. They are of course critical to being understood in normal communication being the glue that helps string words into sentences (conjunctions, prepositions, and pronouns). The purpose for my identifying Dutch stop words was thus two-fold: to use them as a screen to get to the more interesting words and to keep them around for my own elucidation. While not computationaly interesting they could still prove to be a meaningful resource to my learning ambitions.
+
+Where to find stop words? AskJeeves! Na, I’m just kidding. I asked Uncle Google of course. I thought that I may get an English list of words and translate those into Dutch, but that turned out to be unncessary. Instead, I took three results from <a href="https://www.google.nl/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dutch%20stop%20words" target="_blank">the first search page returned</a>, made <a href="/code/dutch_stop_words" target="_blank">a superset of the words from each list</a>, and then had something to screen against.<sup id="a1">[1](#f1)</sup> 
 
 <p align="center">
   <b>Stop Words</b><br>
@@ -62,7 +63,7 @@ What:
 Why:
 How:
 
-For anyone who’s done the “Hello world” of big data/Hadoop you can anticipate my next steps. Get a word count (bag of words) of all articles, filter out “stop words”, and sort in descending order of frequency. I figured the top 50-100 words would be a strong place to start for any future flash cards, at least before the Internet destroys them as well. 
+For those who've done the “Hello world” of big data you can anticipate my next steps. Get a word count (bag of words) of all articles, filter out “stop words”, and <a href="/code/dutch_words/#all-without-stop-words" target="_blank">sort in descending order of frequency</a>. I figured <a href="/datasets/dutch/top100_nonStopWords.csv" target="_blank">the top 50-100 words</a> would be a strong place to start for any future flash cards, at least before the Internet destroys them as well. 
 
 **Top-10 Non-Stop Words**
 
