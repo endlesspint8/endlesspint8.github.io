@@ -143,6 +143,10 @@ Helpful in identifying key terms for each article, or day or whatever your choic
 |hoorn|Horn|0.312658317|
 |volkel|volkel|0.312110305|
 
+World cloud with apologies to <a href="https://twitter.com/dataskeptic" target="_blank">Kyle</a> at <a href="http://dataskeptic.com/epnotes/kill-the-word-cloud.php" target="_blank">Data Skeptic</a>.
+
+<img src="/gallery/2016/dutch/tf_idf9.png">
+
 <p align="center">
   <b>tf-idf</b><br>
   <a href="/code/dutch_words/#all-articles-via-sklearn" target="_blank">Code</a> |
@@ -153,7 +157,7 @@ Helpful in identifying key terms for each article, or day or whatever your choic
 
 ## Conclusion
 
-World cloud with apologies to <a href="https://twitter.com/dataskeptic" target="_blank">Kyle</a> at <a href="http://dataskeptic.com/epnotes/kill-the-word-cloud.php" target="_blank">Data Skeptic</a>.
+
 
 How far along has this excercise gotten us to deciphering Dutch? I took some random sentences and ran them against our numerous word collections to get an idea. Below you can see the original content, my best approximation (I was lenient on the grammar aspect), and Google translate's take.
 
