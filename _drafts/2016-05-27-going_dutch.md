@@ -143,17 +143,9 @@ Helpful in identifying key terms for each article, or day or whatever your choic
 |hoorn|Horn|0.312658317|
 |volkel|volkel|0.312110305|
 
-World cloud with apologies to <a href="https://twitter.com/dataskeptic" target="_blank">Kyle</a> at <a href="http://dataskeptic.com/epnotes/kill-the-word-cloud.php" target="_blank">Data Skeptic</a>.
+**Top-10 tf-idf World Cloud** (with apologies to <a href="https://twitter.com/dataskeptic" target="_blank">Kyle</a> at <a href="http://dataskeptic.com/epnotes/kill-the-word-cloud.php" target="_blank">Data Skeptic</a>)
 
 <img src="/gallery/2016/dutch/tf_idf9.png">
-
-<p align="center">
-  <b>tf-idf</b><br>
-  <a href="/code/dutch_words/#all-articles-via-sklearn" target="_blank">Code</a> |
-  <a href="/datasets/dutch/article_tfidf_merge.csv" target="_blank">Data Set</a>
-  <br><br>
-  <img src="/gallery/2016/dutch/output_4tfidf.gif">
-</p>
 
 ## Conclusion
 
