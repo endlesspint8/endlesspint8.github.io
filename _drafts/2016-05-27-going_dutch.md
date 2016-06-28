@@ -15,7 +15,7 @@ But in recent months I’ve encountered an obstacle: actually living abroad. The
 
 > There is no off position on the genius switch. - David Letterman
 
-It turns out that language remains a necessary bridge. I cannot bear the thought of withholding from these good people any longer. It is time I make a stronger effort at making myself understandable more completely and attempt to meet the adorably accented people of the Netherlands halfway (honestly, have a Dutch person speak to you in English; more than half the time it's irresistable). Afterall, the Dutch founded NYC, make damn good beer themselves, & having recently/temporarily/in-denial-about-the-whole-finality-of-the-prospect relocated to the land of various combinations of <a href="https://www.youtube.com/watch?v=_LlPU6KenjU" target="_blank">smoking and breakfast pastries</a> I sorta, kinda, wanna, needta do this.
+It turns out that language remains a necessary bridge. I cannot bear the thought of withholding from these good people any longer. It is time I make a stronger effort at making myself understandable more completely and attempt to meet the adorably accented people of the Netherlands halfway.<sup id="a1">[1](#f1)</sup> Afterall, the Dutch founded NYC, make damn good beer themselves, & having recently/temporarily/in-denial-about-the-whole-finality-of-the-prospect relocated to the land of various combinations of <a href="https://www.youtube.com/watch?v=_LlPU6KenjU" target="_blank">smoking and breakfast pastries</a> I sorta, kinda, wanna, needta do this.
 
 The objective: to learn some of the language and a bit about contemporary Dutch life. Where to turn? How about that item that was nearly killed off by the Internet: the newspaper? I'm in a particular part of the country, which translated to American-ese means “not in Amsterdam”, and I wanted to take that into consideration. Why not use another resource, one that replaced an actual internet casualty: Wikipedia.
 
@@ -33,7 +33,7 @@ Simple and <a href="https://www.youtube.com/watch?v=IIf9diK-6wk" target="_blank"
 
 Stop words are typically the most common words in use over a collection of documents. They are neither surprising in their frequency nor very informative when it comes to recognizing subjects covered. They are of course critical to being understood in normal communication, being the glue that helps string words into sentences (conjunctions, prepositions, and pronouns). The purpose for my identifying Dutch stop words was thus two-fold: to use them as a screen to get to the more interesting words and to keep them around for my own elucidation. While not computationaly interesting they could still prove to be a meaningful resource to my learning ambitions.
 
-Where to find stop words? <a href="http://vignette1.wikia.nocookie.net/logopedia/images/b/bb/Jeeves_too.jpg/revision/latest?cb=20110511061243" target="_blank">AskJeeves</a>! Na, I’m just kidding. I asked Uncle Google, of course. I thought that I may get an English list of words and translate those into Dutch, but that turned out to be unncessary. Instead, I took three results from <a href="https://www.google.nl/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dutch%20stop%20words" target="_blank">the first search page returned</a>, made <a href="/code/dutch_stop_words" target="_blank">a superset of the words from each list</a>, and then had something to screen against.<sup id="a1">[1](#f1)</sup> 
+Where to find stop words? <a href="http://vignette1.wikia.nocookie.net/logopedia/images/b/bb/Jeeves_too.jpg/revision/latest?cb=20110511061243" target="_blank">AskJeeves</a>! Na, I’m just kidding. I asked Uncle Google, of course. I thought that I may get an English list of words and translate those into Dutch, but that turned out to be unncessary. Instead, I took three results from <a href="https://www.google.nl/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dutch%20stop%20words" target="_blank">the first search page returned</a>, made <a href="/code/dutch_stop_words" target="_blank">a superset of the words from each list</a>, and then had something to screen against.<sup id="a2">[2](#f2)</sup> 
 
 <p align="center">
   <b>Stop Words</b><br>
@@ -159,7 +159,9 @@ World cloud with apologies to <a href="https://twitter.com/dataskeptic" target="
 
 
 
-How far along has this excercise gotten us to deciphering Dutch? I took some random sentences and ran them against our numerous word collections to get an idea. Below you can see the original content, my best approximation (I was lenient on the grammar aspect), and Google translate's take.
+How far along has this excercise gotten us to deciphering Dutch? I took some random sentences and ran them against our numerous word collections <a href="https://gist.github.com/endlesspint8/5078720acd978067e7ddafc4e8e0fbd8#file-translate-py" target="_blank">to get an idea</a>. Let's just say it wasn't pretty and that maybe I need more tijd en werk.<sup id="a3">[3](#f3)</sup> 
+
+Below you can see the original content, my best approximation (I was lenient on the grammar aspect), and Google translate's take.
 
 [table of sentence with (partial) translations]
 
@@ -186,11 +188,15 @@ All of the above, and more, can be performed on any number of text-based data se
 
 **Notes**
 
-<b id="f1">1</b> Sources listed below with identified contacts:
+<b id="f1">1</b> Honestly, have a Dutch person speak to you in English; more than half the time it is adorable. [↩](#a1) <br>
+
+<b id="f2">2</b> Sources listed below with identified contacts:
 
 1. http://snowball.tartarus.org/algorithms/dutch/stop.txt; http://www.patrickmileswriter.co.uk/ \ mail@patrickmiles.co.uk
 2. http://www.ranks.nl/stopwords/dutch; damian@ranks.nl
-3. http://www.damienvanholten.com/blog/dutch-stop-words/; http://twitter.com/damienvanholten [↩](#a1) <br>
+3. http://www.damienvanholten.com/blog/dutch-stop-words/; http://twitter.com/damienvanholten [↩](#a2) <br>
+
+<b id="f3">3</b> time and work [↩](#a3) <br>
 
 Tools
 
@@ -207,4 +213,3 @@ Techniques
 
 Normal Text
 Source for centering: https://coderwall.com/p/iftc1q/centered-text-and-images-in-github-markdown; https://twitter.com/CleverWebStaff
-
