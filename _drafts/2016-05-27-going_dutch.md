@@ -29,7 +29,7 @@ I volunteered one of the above publications to be my vic-, source, and proceeded
 
 ## As Easy as 1-2-3 (Een-twee-drie)?
 
-Simple and <a href="https://www.youtube.com/watch?v=IIf9diK-6wk" target="_blank">too easy</a>? Not completely. There was a good amount of legwork needed. My three-pronged approach to this exercise: <a href="https://en.wikipedia.org/wiki/Bag-of-words_model" target="_blank">bag of words</a>, <a href="https://en.wikipedia.org/wiki/Bigram" target="_blank">bigrams</a>, and term frequency - inverse document frequency (<a href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf" target="_blank">tf-idf</a>). I thought each of these methods would be helpful in finding out more about Dutch and possibly where to start with the language. But before all that I would need to identify <a href="https://en.wikipedia.org/wiki/Stop_words" target="_blank">stop words</a>. 
+Simple and <a href="https://www.youtube.com/watch?v=IIf9diK-6wk" target="_blank">too easy</a>? Not completely. There was a good amount of legwork needed. My three-pronged approach to this exercise: <a href="https://en.wikipedia.org/wiki/Word_count" target="_blank">word count</a>, <a href="https://en.wikipedia.org/wiki/Bigram" target="_blank">bigrams</a>, and term frequency - inverse document frequency (<a href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf" target="_blank">tf-idf</a>). I thought each of these methods would be helpful in finding out more about Dutch and possibly where to start with the language. But before all that I would need to identify <a href="https://en.wikipedia.org/wiki/Stop_words" target="_blank">stop words</a>. 
 
 Stop words are typically the most common words in use over a collection of documents. They are neither surprising in their frequency nor very informative when it comes to recognizing subjects covered. They are of course critical to being understood in normal communication, being the glue that helps string words into sentences (conjunctions, prepositions, and pronouns). The purpose for my identifying Dutch stop words was thus two-fold: to use them as a screen to get to the more interesting words and to keep them around for my own elucidation. While not computationaly interesting they could still prove to be a meaningful resource to my learning ambitions.
 
@@ -178,7 +178,7 @@ Below you can see the original content, my best approximation (I was lenient on 
 - **Clustering** of news stories.
 - **Sentiment Analysis** - should be a bit odd for news articles, but potentially interesting.
 - **Comments/Tweets** - perhaps more appropriate for SA
-- **Classification** - based on the findings, some possible examples would have been for determining articles related to traffic (“bus”), crime (“politie”), or sports (“PSV” [link]).
+- **Classification** - based on the findings, some possible examples would have been for determining articles related to traffic (“bus”), crime (“politie”), or sports (“PSV” [link]); could have implemented <a href="https://en.wikipedia.org/wiki/Bag-of-words_model" target="_blank">bag of words</a>.
 
 All of the above, and more, can be performed on any number of text-based data sets. Look out for most of these to begin appearing in the posts to come.
 
