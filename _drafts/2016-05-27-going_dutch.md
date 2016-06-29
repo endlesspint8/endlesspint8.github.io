@@ -170,7 +170,7 @@ Below you can see the original content, my best approximation (I was lenient on 
 - **Clustering** of news stories.
 - **Sentiment Analysis** - should be a bit odd for news articles, but potentially interesting.
 - **Comments/Tweets** - perhaps more appropriate for SA
-- **Classification** - based on the findings, some possible examples would have been for determining articles related to traffic (“bus”), crime (“politie”), or sports (“PSV” [link]); could have implemented <a href="https://en.wikipedia.org/wiki/Bag-of-words_model" target="_blank">bag of words</a>.
+- **Classification** - based on the findings, some possible examples would have been for determining articles related to traffic (“bus”), crime (“politie”), or sports (“<a href="https://www.psv.nl/" target="_blank">PSV</a>”); could have implemented <a href="https://en.wikipedia.org/wiki/Bag-of-words_model" target="_blank">bag of words</a>.
 
 All of the above, and more, can be performed on any number of text-based data sets. Look out for most of these to begin appearing in the posts to come.
 
@@ -180,7 +180,7 @@ All of the above, and more, can be performed on any number of text-based data se
 
 **Notes**
 
-<b id="f1">1</b> Honestly, have a Dutch person speak to you in English; more than half the time it is adorable. [↩](#a1) <br>
+<b id="f1">1</b> Honestly, have a Dutch person speak to you in English; more than half the time _it is_ adorable. [↩](#a1) <br>
 
 <b id="f2">2</b> Sources listed below with identified contacts:
 
