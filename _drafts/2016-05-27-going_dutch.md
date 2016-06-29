@@ -155,6 +155,20 @@ How far along has this excercise gotten us to deciphering Dutch? I took some ran
 
 Below you can see the original content, my best approximation (I was lenient on the grammar aspect), and Google translate's take.
 
+Searched articles for highest word percentage match: 64%
+
+    HAAREN - In een woning aan de Blazeveldweg in het gebied de Noenes bij Haaren is maandag een overleden vrouw aangetroffen
+    HAAREN - in a house to the Blazeveldweg in the gebied the Noenes at Haaren is maandag a overleden woman aangetroffen
+    
+    Een ambulance ging rond 10.30 uur al op de melding af van de Blazeveldweg
+    according to the Police his there no aanwijzingen that the woman by a misdrijf to the leven is gekomen. because the police echter nevertheless a misdrijf not want uitsluiten, is uitgebreid research gedaan to the doodsoorzaak.Melding a ambulance went around 10.30 hour already on the melding down of the
+    
+    Destijds was het volgens de politie nog niet duidelijk wat er aan de hand was
+    Destijds was the according to the Police not yet duidelijk What there to the hand was
+    
+    Rond 12.30 uur meldt zij dat ze de vrouw hebben aangetroffen.
+    around 12.30 hour reports they it she the woman have aangetroffen.
+
 [table of sentence with (partial) translations]
 
 [concluding comments]
