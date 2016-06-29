@@ -151,7 +151,7 @@ Helpful in identifying key terms for each article, or day or whatever your choic
 
 
 
-How far along has this excercise gotten us to deciphering Dutch? I took some random sentences and ran them against our numerous word collections <a href="https://gist.github.com/endlesspint8/5078720acd978067e7ddafc4e8e0fbd8#file-translate-py" target="_blank">to get an idea</a>. Let's just say it wasn't pretty and that maybe I need more tijd en werk.<sup id="a3">[3](#f3)</sup> 
+How far along has this excercise gotten us to deciphering Dutch? I took some random sentences and ran them against our numerous word collections <a href="https://gist.github.com/endlesspint8/5078720acd978067e7ddafc4e8e0fbd8#file-translate-py" target="_blank">to get an idea</a>. Let's just say it wasn't pretty and that maybe I need more tijd en werk.<sup id="a3">[3](#f3)</sup> The next thought was to translate the respective article titles to see if there was any better luck. In een werd: <a href="https://gist.github.com/endlesspint8/5078720acd978067e7ddafc4e8e0fbd8#file-translate_titles-py" target="_blank">nee</a>.<sup id="a4">[4](#f4)</sup> 
 
 Below you can see the original content, my best approximation (I was lenient on the grammar aspect), and Google translate's take.
 
@@ -189,6 +189,9 @@ All of the above, and more, can be performed on any number of text-based data se
 3. http://www.damienvanholten.com/blog/dutch-stop-words/; http://twitter.com/damienvanholten [↩](#a2) <br>
 
 <b id="f3">3</b> time and work [↩](#a3) <br>
+
+<b id="f4">4</b> In a word: <a href="https://www.youtube.com/watch?v=9o19CaOSuD8" target="_blank">oh, hell no</a>!<sup id="a4a">[4a](#f4a)</sup>  [↩](#a4) <br>
+  <b id="f4a">4a</b> Just a little American exageration.  [↩](#a4a) <br>
 
 Tools
 
