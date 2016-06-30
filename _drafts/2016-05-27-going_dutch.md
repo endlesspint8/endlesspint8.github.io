@@ -177,9 +177,16 @@ Hopefully the above examples help to highlight how the process works in identify
 
 How far along has this excercise gotten us to deciphering Dutch? I took some random sentences and ran them against our numerous word collections <a href="https://gist.github.com/endlesspint8/5078720acd978067e7ddafc4e8e0fbd8#file-translate-py" target="_blank">to get an idea</a>. Let's just say it wasn't pretty and that maybe I need more tijd en werk.<sup id="a3">[3](#f3)</sup> The next thought was to translate the respective article titles to see if there was any better luck. In een werd: <a href="https://gist.github.com/endlesspint8/5078720acd978067e7ddafc4e8e0fbd8#file-translate_titles-py" target="_blank">nee</a>.<sup id="a4">[4](#f4)</sup> 
 
-Below you can see the original content, my best approximation (I was lenient on the grammar aspect), and Google translate's take.
+Being infinitely clever (if I do say so myself<sup id="a5">[5](#f5)</sup>) I looped through the articles and took a count of matched words in order to determine the article with the highest percentage rate of translate-able terms. The winner among my pretties had a word percentage match of 64%. Below is a line-by-line breakdown of the original text, my ham handed efforts, and Uncle Google's take, which isn't exactly fair cause he's had more practice. 
 
-Searched articles for highest word percentage match: 64%
+| text | one klutz's efforts | Mr. Show-Off's take |
+| --- | --- | --- |
+|In een woning aan de Blazeveldweg in het gebied de Noenes bij Haaren is maandag een overleden vrouw aangetroffen|in a house to the Blazeveldweg in the gebied the Noenes at Haaren is maandag a overleden woman aangetroffen||
+||||
+||||
+||||
+||||
+||||
 
     HAAREN - In een woning aan de Blazeveldweg in het gebied de Noenes bij Haaren is maandag een overleden vrouw aangetroffen
     HAAREN - in a house to the Blazeveldweg in the gebied the Noenes at Haaren is maandag a overleden woman aangetroffen
@@ -230,16 +237,18 @@ All of the above, and more, can be performed on any number of text-based data se
 <b id="f3">3</b> time and work [↩](#a3) <br>
 
 <b id="f4">4</b> In a word: <a href="https://www.youtube.com/watch?v=9o19CaOSuD8" target="_blank">oh, hell no</a>!<sup id="a4a">[4a](#f4a)</sup>  [↩](#a4) <br>
-  <b id="f4a">4a</b> Just a little American exageration.  [↩](#a4a) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<b id="f4a">4a</b> Just a little American exageration.  [↩](#a4a) <br>
+  
+<b id="f5">5</b> What? You weren't going to.  [↩](#a5) <br>
 
-Tools
+**Tools**
 
 1. PySpark via Vagrant from Berkely by way of edX; https://twitter.com/atalwalkar
 2. <a href="https://www.vagrantup.com/docs/synced-folders/basic_usage.html" target="_blank">Sync folders</a> in Vagrant; https://twitter.com/vagrantup
 3. Create <a href="http://gifmaker.me/" target="_blank">gif</a>; gifmaker.me
 4. Word cloud at http://www.wordle.net/advanced
 
-Techniques
+**Techniques**
 
 1. https://spark.apache.org/docs/1.2.0/programming-guide.html; https://twitter.com/ApacheSpark; #Spark
 2. http://www.mccarroll.net/blog/pyspark2/; esp for <a href="http://en.wikipedia.org/wiki/Bigram" target="_blank">bigram</a>
