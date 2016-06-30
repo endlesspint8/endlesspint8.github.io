@@ -27,7 +27,7 @@ The objective: to learn some of the language and a bit about contemporary Dutch 
 
 I volunteered one of the above publications to be my vic-, source, and proceeded to pull three front page stories each day, 2-3 times a day, for 4 weeks. The idea was to capture all article text plus some metadata characteristics: date, time, subject classification, and map coordinates where applicable. 
 
-## As Easy as 1-2-3 (Een-twee-drie)?
+## As Easy as 1-2-3 (een-twee-drie)?
 
 Simple and <a href="https://www.youtube.com/watch?v=IIf9diK-6wk" target="_blank">too easy</a>? Not completely. There was a good amount of legwork needed. My three-pronged approach to this exercise: <a href="https://en.wikipedia.org/wiki/Word_count" target="_blank">word count</a>, <a href="https://en.wikipedia.org/wiki/Bigram" target="_blank">bigrams</a>, and term frequency - inverse document frequency (<a href="https://en.wikipedia.org/wiki/Tf%E2%80%93idf" target="_blank">tf-idf</a>). I thought each of these methods would be helpful in finding out more about Dutch and possibly where to start with the language. But before all that I would need to identify <a href="https://en.wikipedia.org/wiki/Stop_words" target="_blank">stop words</a>. 
 
@@ -122,11 +122,37 @@ The final approach covered was yet one step of sophistication further but still 
 
 An example of how this works will go a long way to explaining its power. Suppose three articles with the following words:
 
-[table of three columns]
+| article | beer | hops | malt | ipa | stout |
+| ------- | ---- | ---- | ---- | --- | ----- |
+| 1 | 3 | 4 | 0 | 2 | 0 |
+| 2 | 5 | 2 | 1 | 3 | 0 |
+| 3 | 2 | 1 | 1 | 0 | 2 |
 
-[simple math w/resulting scores]
+To determine the importance of a term using tf-idf we will need to first count three things: the number of times a word appears in a document/article, the total of documents the term appears in, and the total number of documents. Lastly we will combine these counts so as to get a final score (the higher the more important the term). Let us take the term "beer" which you may intuitatively be able to see, forgive me for saying it,  is not important in this data set, since it appears in each document.
 
-Helpful in identifying key terms for each article, or day or whatever your choice of unit. Typically a good step towards getting a better representation of what the topic (of the article) is and prepares the way for future clustering possibilities, a topic for another day.
+> document: 2
+>
+> term: "beer"
+>
+> tf: 5
+>
+> idf: 3/3 = 1 (numerator: # of all docs, denominator: # of docs "beer" appears in, NOT using log for simplicity)
+>
+> tf-idf: 5 * 1 = 5
+
+Now let us look at "stout". It appears just twice and in only one article but perhaps you can see where this is going and also intuit that "stout" says more in this collection than the more common "beer".
+
+> document: 3
+>
+> term: "stout"
+>
+> tf: 2
+>
+> idf: 3/1 = 3 (numerator: # of all docs, denominator: # of docs "stout" appears in, NOT using log for simplicity)
+>
+> tf-idf: 5 * 3 = 15
+
+Hopefully the above examples help to highlight how the process works in identifying key terms for each article, or day, or whatever your choice of unit. 
 
 **Top-10 tf-idf**
 
@@ -149,8 +175,6 @@ Helpful in identifying key terms for each article, or day or whatever your choic
 
 ## Conclusion
 
-
-
 How far along has this excercise gotten us to deciphering Dutch? I took some random sentences and ran them against our numerous word collections <a href="https://gist.github.com/endlesspint8/5078720acd978067e7ddafc4e8e0fbd8#file-translate-py" target="_blank">to get an idea</a>. Let's just say it wasn't pretty and that maybe I need more tijd en werk.<sup id="a3">[3](#f3)</sup> The next thought was to translate the respective article titles to see if there was any better luck. In een werd: <a href="https://gist.github.com/endlesspint8/5078720acd978067e7ddafc4e8e0fbd8#file-translate_titles-py" target="_blank">nee</a>.<sup id="a4">[4](#f4)</sup> 
 
 Below you can see the original content, my best approximation (I was lenient on the grammar aspect), and Google translate's take.
@@ -171,7 +195,8 @@ Searched articles for highest word percentage match: 64%
 
 [table of sentence with (partial) translations]
 
-[concluding comments]
+I'm cleary not going to become fluent just yet with the work to date. I suppose the best I could hope for is some sort of beautiful Dutchlish monster. However, it is a start and that was my general intention. While my newly acquired vocabulary will get me into the pergatory of language understandability (https://www.youtube.com/watch?v=Vt4Dfa4fOEY), leaving me out of touch, as far as
+this excersise is concerned I'm also out of time (https://www.youtube.com/watch?v=s_8KR-n2fBQ).
 
 
 <br>
