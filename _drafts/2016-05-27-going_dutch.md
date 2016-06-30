@@ -169,7 +169,9 @@ Hopefully the above examples help to highlight how the process works in identify
 |hoorn|Horn|0.312658317|
 |volkel|volkel|0.312110305|
 
-**Top-10 tf-idf World Cloud** (with apologies to <a href="https://twitter.com/dataskeptic" target="_blank">Kyle</a> at <a href="http://dataskeptic.com/epnotes/kill-the-word-cloud.php" target="_blank">Data Skeptic</a>)
+<p align="center">
+<b>Top-10 tf-idf World Cloud</b> (with apologies to <a href="https://twitter.com/dataskeptic" target="_blank">Kyle</a> at <a href="http://dataskeptic.com/epnotes/kill-the-word-cloud.php" target="_blank">Data Skeptic</a>)
+</p>
 
 <img src="/gallery/2016/dutch/tf_idf9.png">
 
@@ -177,33 +179,24 @@ Hopefully the above examples help to highlight how the process works in identify
 
 How far along has this excercise gotten us to deciphering Dutch? I took some random sentences and ran them against our numerous word collections <a href="https://gist.github.com/endlesspint8/5078720acd978067e7ddafc4e8e0fbd8#file-translate-py" target="_blank">to get an idea</a>. Let's just say it wasn't pretty and that maybe I need more tijd en werk.<sup id="a3">[3](#f3)</sup> The next thought was to translate the respective article titles to see if there was any better luck. In een werd: <a href="https://gist.github.com/endlesspint8/5078720acd978067e7ddafc4e8e0fbd8#file-translate_titles-py" target="_blank">nee</a>.<sup id="a4">[4](#f4)</sup> 
 
-Being infinitely clever (if I do say so myself<sup id="a5">[5](#f5)</sup>) I looped through the articles and took a count of matched words in order to determine the article with the highest percentage rate of translate-able terms. The winner among my pretties had a word percentage match of 64%. Below is a line-by-line breakdown of the original text, my ham handed efforts, and Uncle Google's take, which isn't exactly fair cause he's had more practice. 
+Being infinitely clever (if I do say so myself<sup id="a5">[5](#f5)</sup>) I looped through the articles and took a count of matched words in order to determine the article with the highest percentage rate of translate-able terms. The winner among my pretties had a word percentage <a href="https://gist.github.com/endlesspint8/5078720acd978067e7ddafc4e8e0fbd8#file-word_match_percent-py" target="_blank">match of 64%</a>. Below is a line-by-line breakdown of the original text, my ham handed efforts, and Uncle Google's take, which isn't exactly fair since he's had more practice (or is it "she"; is Google a woman, <a href="https://youtu.be/tA3dzBrXYtc?t=45" target="_blank">just like G-d</a>?). 
 
 | text | one klutz's efforts | Mr. Show-Off's take |
 | --- | --- | --- |
-|In een woning aan de Blazeveldweg in het gebied de Noenes bij Haaren is maandag een overleden vrouw aangetroffen|in a house to the Blazeveldweg in the gebied the Noenes at Haaren is maandag a overleden woman aangetroffen||
+|In een woning aan de Blazeveldweg in het gebied de Noenes bij Haaren is maandag een overleden vrouw aangetroffen|in a house to the Blazeveldweg in the gebied the Noenes at Haaren is maandag a overleden woman aangetroffen|In a property to the Blaze Veldweg in the Noenes area at Haaren Monday found a deceased woman|
 ||||
 ||||
 ||||
-||||
-||||
+|Destijds was het volgens de politie nog niet duidelijk wat er aan de hand was|Destijds was the according to the Police not yet duidelijk What there to the hand was|At the time , according to the police yet clear what was going on|
+|Rond 12.30 uur meldt zij dat ze de vrouw hebben aangetroffen.|around 12.30 hour reports they it she the woman have aangetroffen.|Around 12:30 pm they reported that they found the woman.|
 
-    HAAREN - In een woning aan de Blazeveldweg in het gebied de Noenes bij Haaren is maandag een overleden vrouw aangetroffen
-    HAAREN - in a house to the Blazeveldweg in the gebied the Noenes at Haaren is maandag a overleden woman aangetroffen
-    
+
     Een ambulance ging rond 10.30 uur al op de melding af van de Blazeveldweg
     according to the Police his there no aanwijzingen that the woman by a misdrijf to the leven is gekomen. because the police echter nevertheless a misdrijf not want uitsluiten, is uitgebreid research gedaan to the doodsoorzaak.Melding a ambulance went around 10.30 hour already on the melding down of the
     
-    Destijds was het volgens de politie nog niet duidelijk wat er aan de hand was
-    Destijds was the according to the Police not yet duidelijk What there to the hand was
-    
-    Rond 12.30 uur meldt zij dat ze de vrouw hebben aangetroffen.
-    around 12.30 hour reports they it she the woman have aangetroffen.
 
-[table of sentence with (partial) translations]
 
-I'm cleary not going to become fluent just yet with the work to date. I suppose the best I could hope for is some sort of beautiful Dutchlish monster. However, it is a start and that was my general intention. While my newly acquired vocabulary will get me into the pergatory of language understandability (https://www.youtube.com/watch?v=Vt4Dfa4fOEY), leaving me out of touch, as far as
-this excersise is concerned I'm also out of time (https://www.youtube.com/watch?v=s_8KR-n2fBQ).
+I'm cleary not going to become fluent just yet with the work to date, though a bit more macabre. I suppose the best I could hope for is some sort of beautiful Dutchlish monster. However, it is a start and that was my general intention. My newly acquired vocabulary will get me into the pergatory of <a href="https://www.youtube.com/watch?v=Vt4Dfa4fOEY" target="_blank">language understandability, and some awkard conversations apparently, but being <a href="https://www.youtube.com/watch?v=s_8KR-n2fBQ" target="_blank">out of touch</a> will have to take a back seat to my also being out of time.
 
 
 <br>
@@ -241,6 +234,10 @@ All of the above, and more, can be performed on any number of text-based data se
   
 <b id="f5">5</b> What? You weren't going to.  [↩](#a5) <br>
 
+<br>
+
+---
+
 **Tools**
 
 1. PySpark via Vagrant from Berkely by way of edX; https://twitter.com/atalwalkar
@@ -248,11 +245,12 @@ All of the above, and more, can be performed on any number of text-based data se
 3. Create <a href="http://gifmaker.me/" target="_blank">gif</a>; gifmaker.me
 4. Word cloud at http://www.wordle.net/advanced
 
+<br>
+
+---
+
 **Techniques**
 
-1. https://spark.apache.org/docs/1.2.0/programming-guide.html; https://twitter.com/ApacheSpark; #Spark
+1. https://spark.apache.org/docs/1.2.0/programming-guide.html; https://twitter.com/ApacheSpark
 2. http://www.mccarroll.net/blog/pyspark2/; esp for <a href="http://en.wikipedia.org/wiki/Bigram" target="_blank">bigram</a>
-3. tf-idf w/sklearn; http://www.markhneedham.com/blog/2015/02/15/pythonscikit-learn-calculating-tfidf-on-how-i-met-your-mother-transcripts/; https://twitter.com/markhneedham; #sklearn
-
-Normal Text
-Source for centering: https://coderwall.com/p/iftc1q/centered-text-and-images-in-github-markdown; https://twitter.com/CleverWebStaff
+3. tf-idf w/sklearn; http://www.markhneedham.com/blog/2015/02/15/pythonscikit-learn-calculating-tfidf-on-how-i-met-your-mother-transcripts/; https://twitter.com/markhneedham
