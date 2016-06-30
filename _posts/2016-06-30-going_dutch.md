@@ -196,7 +196,7 @@ Being infinitely clever (if I do say so myself<sup id="a5">[5](#f5)</sup>) I loo
     
 
 
-I'm cleary not going to become fluent just yet with the work to date, though a bit more macabre. I suppose the best I could hope for is some sort of beautiful Dutchlish monster. However, it is a start and that was my general intention. My newly acquired vocabulary will get me into the pergatory of <a href="https://www.youtube.com/watch?v=Vt4Dfa4fOEY" target="_blank">language understandability, and some awkard conversations apparently, but being <a href="https://www.youtube.com/watch?v=s_8KR-n2fBQ" target="_blank">out of touch</a> will have to take a back seat to my also being out of time.
+I'm cleary not going to become fluent just yet with the work to date, though a bit more macabre. I suppose the best I could hope for is some sort of beautiful Dutchlish monster. However, it is a start and that was my general intention. My newly acquired vocabulary will get me into the pergatory of <a href="https://www.youtube.com/watch?v=Vt4Dfa4fOEY" target="_blank">language understandability</a>, and some awkard conversations apparently, but being <a href="https://www.youtube.com/watch?v=s_8KR-n2fBQ" target="_blank">out of touch</a> will have to take a back seat to my also being out of time.
 
 
 <br>
