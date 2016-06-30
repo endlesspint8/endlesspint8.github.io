@@ -182,17 +182,11 @@ Being infinitely clever (if I do say so myself<sup id="a5">[5](#f5)</sup>) I loo
 | text | one klutz's efforts | Mr. Show-Off's take |
 | --- | --- | --- |
 |In een woning aan de Blazeveldweg in het gebied de Noenes bij Haaren is maandag een overleden vrouw aangetroffen|in a house to the Blazeveldweg in the gebied the Noenes at Haaren is maandag a overleden woman aangetroffen|In a property to the Blaze Veldweg in the Noenes area at Haaren Monday found a deceased woman|
-||||
-||||
-||||
+|Volgens de politie zijn er geen aanwijzingen dat de vrouw door een misdrijf om het leven is gekomen|according to the Police his there no aanwijzingen that the woman by a misdrijf to the leven is gekomen|According to the police , there are no indications that the woman was killed by a crime|
+|Omdat de politie echter toch een misdrijf niet wil uitsluiten, wordt uitgebreid onderzoek gedaan naar de doodsoorzaak|because the police echter nevertheless a misdrijf not want uitsluiten, is uitgebreid research gedaan to the doodsoorzaak|However, because the police do not want to exclude a crime , extensive research into the cause of death|
+|Melding Een ambulance ging rond 10.30 uur al op de melding af van de Blazeveldweg|Melding a ambulance went around 10.30 hour already on the melding down of the Blazeveldweg|Notification An ambulance was already on the alert around 10:30 on the Blaze Veldweg|
 |Destijds was het volgens de politie nog niet duidelijk wat er aan de hand was|Destijds was the according to the Police not yet duidelijk What there to the hand was|At the time , according to the police yet clear what was going on|
 |Rond 12.30 uur meldt zij dat ze de vrouw hebben aangetroffen.|around 12.30 hour reports they it she the woman have aangetroffen.|Around 12:30 pm they reported that they found the woman.|
-
-
-    Een ambulance ging rond 10.30 uur al op de melding af van de Blazeveldweg
-    according to the Police his there no aanwijzingen that the woman by a misdrijf to the leven is gekomen. because the police echter nevertheless a misdrijf not want uitsluiten, is uitgebreid research gedaan to the doodsoorzaak.Melding a ambulance went around 10.30 hour already on the melding down of the
-    
-
 
 I'm cleary not going to become fluent just yet with the work to date, though a bit more macabre. I suppose the best I could hope for is some sort of beautiful Dutchlish monster. However, it is a start and that was my general intention. My newly acquired vocabulary will get me into the purgatory of <a href="https://www.youtube.com/watch?v=Vt4Dfa4fOEY" target="_blank">language understandability</a>, and some awkward conversations apparently, but being <a href="https://www.youtube.com/watch?v=s_8KR-n2fBQ" target="_blank">out of touch</a> will have to take a back seat to my also being out of time.
 
