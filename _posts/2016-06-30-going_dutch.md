@@ -4,6 +4,7 @@ title: Going Dutch ...but I digress
 subtitle: Learning a Language with Modern Tools
 ---
 
+<img src="/gallery/2016/dutch/tf_idf9.png">
 
 ## Are we really only going to talk about one issue? 
 
@@ -156,6 +157,9 @@ Hopefully the above examples help to highlight how the process works in identify
 
 **Top-10 tf-idf**
 
+World Cloud at Top of Post
+(with apologies to <a href="https://twitter.com/dataskeptic" target="_blank">Kyle</a> at <a href="http://dataskeptic.com/epnotes/kill-the-word-cloud.php" target="_blank">Data Skeptic</a>)
+
 |term|translation|score|
 |---|---|---|
 |weekmarkten|weekly markets|0.455494961|
@@ -168,12 +172,6 @@ Hopefully the above examples help to highlight how the process works in identify
 |psv|pSV|0.318184196|
 |hoorn|Horn|0.312658317|
 |volkel|volkel|0.312110305|
-
-<p align="center">
-<b>Top-10 tf-idf World Cloud</b> (with apologies to <a href="https://twitter.com/dataskeptic" target="_blank">Kyle</a> at <a href="http://dataskeptic.com/epnotes/kill-the-word-cloud.php" target="_blank">Data Skeptic</a>)
-</p>
-
-<img src="/gallery/2016/dutch/tf_idf9.png">
 
 ## Conclusion
 
@@ -211,7 +209,7 @@ I'm cleary not going to become fluent just yet with the work to date, though a b
 - **Comments/Tweets** - perhaps more appropriate for SA
 - **Classification** - based on the findings, some possible examples would have been for determining articles related to traffic (“bus”), crime (“politie”), or sports (“<a href="https://www.psv.nl/" target="_blank">PSV</a>”); could have implemented <a href="https://en.wikipedia.org/wiki/Bag-of-words_model" target="_blank">bag of words</a>.
 
-All of the above, and more, can be performed on any number of text-based data sets. Look out for most of these to begin appearing in the posts to come.
+All of the above, and more, can be performed on any number of text-based data sets. Look out for most of these to begin appearing in the _**beer**_ posts to come.
 
 <br>
 
