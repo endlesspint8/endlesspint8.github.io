@@ -7,7 +7,7 @@ subtitle: Failing Real Kwick
 
 <a href="/gallery/wbc_2016">
 <img src="/gallery/2016/wbc_country_win_per.png" alt="Smiley face" height="200" width="200"></a> <img src="/gallery/2016/wbc_heatmap_us_medals2_white.png" alt="Smiley face" height="200" width="200"> 
-
+<br />
 <table width="600" border="0" cellpadding="0">
 
 <tr>
