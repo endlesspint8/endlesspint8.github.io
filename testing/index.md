@@ -5,7 +5,7 @@ subtitle: Failing Real Kwick
 ---
 
 
-<img src="/gallery/image/wbc_country_win_per.png" alt="Smiley face" height="80" width="80"> 
+<img src="/gallery/2016/wbc_country_win_per.png" alt="Smiley face" height="80" width="80"> 
 
 ---
 
