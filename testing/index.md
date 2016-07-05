@@ -8,20 +8,30 @@ subtitle: Failing Real Kwick
 <a href="/gallery/wbc_2016">
 <img src="/gallery/2016/wbc_country_win_per.png" alt="Smiley face" height="200" width="200"></a> <img src="/gallery/2016/wbc_heatmap_us_medals2_white.png" alt="Smiley face" height="200" width="200"> 
 
-<table width="500" border="0" cellpadding="0">
+<table width="600" border="0" cellpadding="0">
 
 <tr>
 
 <td align="center" valign="center">
+<a href="/gallery/wbc_2016">
 <img src="/gallery/2016/wbc_country_win_per.png" alt="description here" height="200" width="200"/>
+</a>
 <br />
-Caption text centered under the image.
+Stacked area plot
 </td>
 
 <td align="center" valign="center">
+<a href="/gallery/2016/wbc_heatmap_us_medals2_white.png">
 <img src="/gallery/2016/wbc_heatmap_us_medals2_white.png" alt="description here" height="200" width="200"/>
+</a>
 <br />
-Caption text centered under the image.
+Heat map
+</td>
+
+<td align="center" valign="center">
+<img src="/gallery/2016/wbc_heatmap_entries.png" alt="description here" height="200" width="200"/>
+<br />
+Caption text.
 </td>
 
 </tr>
