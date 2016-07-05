@@ -4,10 +4,15 @@ title: Testing my Crap
 subtitle: Failing Real Kwick
 ---
 
+# free standing
 
 <a href="/gallery/wbc_2016">
 <img src="/gallery/2016/wbc_country_win_per.png" alt="Smiley face" height="200" width="200"></a> <img src="/gallery/2016/wbc_heatmap_us_medals2_white.png" alt="Smiley face" height="200" width="200"> 
 <br />
+<br />
+
+# table1
+
 <table width="600" border="0" cellpadding="0">
 
 <tr>
@@ -37,6 +42,91 @@ Caption text.
 </tr>
 
 </table>
+
+# table2
+
+<table width="600" border="0" cellpadding="0">
+  <col width="200">
+  <col width="400">
+
+<tr>
+
+<td align="center" valign="center">
+<a href="/gallery/wbc_2016">
+<img src="/gallery/2016/wbc_country_win_per.png" alt="description here" height="200" width="200"/>
+</a>
+<br />
+Stacked area plot
+</td>
+
+</tr>
+<tr>
+
+<td align="center" valign="center">
+<a href="/gallery/2016/wbc_heatmap_us_medals2_white.png">
+<img src="/gallery/2016/wbc_heatmap_us_medals2_white.png" alt="description here" height="200" width="200"/>
+</a>
+<br />
+Heat map
+</td>
+
+<td>
+<p> This is only a test to see what happens when I just type, type, away... This is only a test to see what happens when I just type, type, away... This is only a test to see what happens when I just type, type, away... This is only a test to see what happens when I just type, type, away... This is only a test to see what happens when I just type, type, away... 
+</p>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" valign="center">
+<img src="/gallery/2016/wbc_heatmap_entries.png" alt="description here" height="200" width="200"/>
+<br />
+Caption text.
+</td>
+
+</tr>
+
+</table>
+
+--- 
+
+**Notes**
+
+http://stackoverflow.com/questions/37393923/set-table-column-width-less-than-content
+
+<html>
+    <head>
+        <style type="text/css">
+            .col1 {width: 50px;max-width:50px;min-width: 50px;}
+            .col2 {width: 70px;max-width: 70px;min-width: 70px;}
+            .col3 {width: 120px;max-width: 120px;min-width: 120px;}
+            table{table-layout:fixed;}  
+            td, th {
+                border:1px solid red
+                overflow: hidden;
+                white-space: nowrap;
+            }
+    </style>
+    </head>
+    <body>
+      <table >
+        <thead>
+          <tr>
+            <td class="col1">Col1</td>
+            <td class="col2">Col2</td>
+            <td class="col3">Col3</td>
+          </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="col1">Lorem ipsum dolor sit amet, consectetur </td>
+                <td class="col2">la, molestie vel diam vitae, bibendum consequat enim. </td>
+                <td class="col3">s non metus. Donec auctor ipsum in quam bibendum, sit a</td>
+            </tr>
+        </tbody>
+      </table>
+    </body>
+</html>
 
 ---
 
