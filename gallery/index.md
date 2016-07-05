@@ -4,7 +4,7 @@ title: Vis Gallery
 subtitle: Visualizations at a Glance
 ---
 
-# Currently brewing...
+# Always brewing...
 
 <br>
 
