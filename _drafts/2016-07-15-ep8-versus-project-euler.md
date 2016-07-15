@@ -10,7 +10,7 @@ Every other week or so I like to grab a pint with a particular friend of mine an
 
 Depending on the choice of bar, and this is determined by a litany of considerations: convenience to work/home, newness of establishment, grub, and of course beer selection, there is then the logistical matter of getting your ass from the office chair to the bar stool. Subways usually (nearly always, really) play a role and then there is that other time tested New York means of travel, walking. Tourist or resident, you can't help notice the importance and etiquete of walking in the city. 
 
-I like to play a game called "Shark Walk" where if you stop moving you "die". The goal is to get from A to B without waiting at a light. Besides jaywalking, also a NYC tradition, and running to beat traffic your best bet is knowing your options, staying alert to traffic lights, and minding your pace. It's always preferable to "pick it up" a bit or lay back to standing at a corner waiting for the traffic to pass. And this is not jogging, so running in place does not count. 
+I like to play a game called "Shark Walk" where if you stop moving you "die". The goal is to get from A to B without waiting at a light. Besides jaywalking, also a NYC tradition, and running to beat traffic, preferably avoided, your best bet is knowing your options, staying alert to traffic lights, and minding your pace. It's always preferable to "pick it up" a bit or lay back to standing at a corner waiting for the traffic to pass. And this is not jogging, so running in place does not count. 
 
 
 <br />
