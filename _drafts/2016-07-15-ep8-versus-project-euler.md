@@ -27,6 +27,87 @@ Three blocks: straight line
 Four blocks: straight line
 Four blocks: 2x2
 
+Assume you're on the sixth Avenue line and get off at 34th and sixth
+for the purposes of getting a drink at Rattle and hum, the places you
+two blocks away (let's ignore the difference of avenues and streets,
+since it won't matter either way in our scenarios) which requires you
+to go east and south, in either order. Since both options are
+available you have two routes to getting there.
+
+Now if you're two blocks up the Avenue from your destination, the same
+distance (again nori actual measurement in feet) you only have one
+choice, walk downtown.
+
+Our first intuition says being off a straight line provides alternate
+ways of getting to the same place and this is especially clear in the
+city, or an area of the city, that is laid out like a Cartesian plane
+(I know the thing will be ignoring our bisecting streets or avenues,
+such as Broadway).
+
+Second intuition when it comes to a straight line, it doesn't matter
+how far out you extended, the clearest way of getting to the
+destination remains the same; Yolie have one best option actually you
+have a best option.
+
+Final intuition with more blocks between you and the boar in a grid
+layout the more options. For instants your four blocks away, in a 3 x
+1 fashion you're starting on 36th and Park and still aiming for Rattle
+and hum you know have no less than four ways of getting there: either
+taking park or fifth all the way down or walking west on either 35th
+or 34th and continuing down fifth. The options increase if you happen
+to be in a 2 x 2 grid; again still the same four blocks. Can you
+envision in your minds eye how many ways you can walk from 35th and
+7th to 33rd and fifth. I'll give you a second. It's six this time.
+This is where Mr. Euler comes into the picture. There are a set of
+canonical mathematical problems posted on project Euler that test you
+in applying math concepts and computer programming as needed to
+resolving them. This is one of those and is called Lattice Paths.
+Remembering nothing beyond my fourth-grade math but intuiting there's
+got to be a systematic way of solving this mystery I go first for a
+visual representation. I take the origin coordinates zero, zero and
+mixing my models branch out to see how the numbers expand and look for
+a pattern. This is easy enough to do with the one by one and even
+though 2 x 2 grid but begins to present problems at 3 x 3. I rush to
+develop the last of these trees, being sloppy without realizing it and
+then spend the next 30 minutes attempting to find a pattern to an
+incomplete have account. Only upon returning to my sketches, after
+deciding to revisit my steps, do I realize my error. I corrected path
+count and redo it from scratch on the other side of the page to
+confirm the same result. Convinced of the correct next path count I
+try again to find a mathematical pattern. Nothing doing, I figure more
+numbers or Pats would help but do not necessarily trust myself to come
+out with the correct path killed four of 4 x 4 grid. What's a fool to
+do? How about building an equally foolish function, but one that knows
+how to keep count? Done. Now armed with path counts for square grades
+from 1 to 4 blocks I sense that the mysteries of the solution are
+shortly to be revealed to me. After another half hour it's clear the
+revelation will be taking its time and may require another visual
+representation, this time listing out the number of palettes available
+at each corner of the grid. Once again I start simple and build up,
+taking my time and hoping that my deliberate attention will clue me
+into following the right direction. And what do you freaking know? By
+the time I expand from the 2 x 2 to the 3 x 3 I'm seeing a
+possibility. I know now that having the next path count, 4 x 4, allows
+me to know what to look for and does validate the pattern further. As
+soon as this next step returns the right number I expand my efforts
+from a sheet of paper, to an Excel sheet, and finally to a slightly
+smarter function.
+
+Initially I had focused on just have the paths in any given scenario,
+knowing the number could be doubled to reflect the Pats branching in
+the alternate direction. In creating my Excel grid the whole numbers
+jump out at me and I realize that closer look returns the number I
+require with no additional arithmetic, even one keepable by my fourth
+grade skills.
+
+We now have two simple and elegant ways of calculating the Pats. It's
+not likely you'll need all of these options but they're helpful in
+keeping you free and flexible in your walks to the bar. Just remember
+to be careful on your walk back. After a little alcohol these numerous
+options have a way of making themselves feel present, creating
+confusion for you and then we do have to worry about walking in any of
+the four directions.
+
 ## Mr. Euler, I Presume
 
 ## ...
