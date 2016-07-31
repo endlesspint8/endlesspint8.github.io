@@ -7,7 +7,8 @@ subtitle: A gentle reminder of sh-, <i>stuff</i>, that needs to get done
 
 |social/traffic|mobile|jekyll markdown|
 |----|-----|----------|
-|prep [WBC pred post]( /2016-05-01-wbc-omg) for [KDnuggets][KD] and [DataTau][DT] (add Bayesian code)|[x] get images to display on mobile|[x] homepage image banner|
+|||[ ] WBC heatmap code|
+|[x] prep [WBC pred post]( /2016-05-01-wbc-omg) for [KDnuggets][KD] and [DataTau][DT] (add Bayesian code)|[x] get images to display on mobile|[x] homepage image banner|
 |[x] twit link|iPhone home screen icon|[x] fix numbered list in post 1|
 |[x] bitly||[x] create <a href="http://stackoverflow.com/questions/29036378/jekyll-dealing-with-images-in-markdown" target="_blank">image gallery in markdown|
 |[x] experiment w/#'s||[x] correct links to code|
