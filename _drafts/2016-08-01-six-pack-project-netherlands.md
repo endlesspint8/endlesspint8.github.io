@@ -63,6 +63,8 @@ This is easily one of my favorite breweries from the Netherlands. For me it made
 
 There are many things I enjoy about this brewery: of course first and foremost is the quality of the beers they make, beyond that is also the presentation. I'm not quite sure where you stand on the spectrum of accepting or denying the influences of marketing and packaging but I will not pretend that I am not swayed by its influence. The type and colors of the labels, yes we're talking about labels again, are clean and easily recognizable on the shelf.
 
+# beer shed emelisse shelf
+
 I decided to pour this beer into a small thin glass, perhaps thinking it would look better, and of course, it being a saison with the requisite yeast, I naturally got a lot of foam. I was on the lookout for this and avoided wasting a drop. I simply waited patiently until the foam subsided enough for me to pour more into the glass. I waited some more as it rose and then poured in still more. It's been raining pretty heavily here for the last two weeks but as you can tell from the photo today is a sunny day, what better time to open up this beer. 
 
 # SUNLIGHT: NY & LA
