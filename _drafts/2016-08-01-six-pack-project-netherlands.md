@@ -44,6 +44,9 @@ de 3 Horne: https://de3horne.nl/
 
 Is it a stout, is it a BIPA? Certainly a bit of both. The photo shows the foam suggesting a Belgian-y yeast. The color and roast flavors say "stout". The nose and forward flavor say "hops". The label itself says a whole lot and nothing at all. Beside the cartoon we are provided a runon sentence that was written under some type of influence and Google translate [twitter link to #GoogleTranslate] mashup.
 
+<img src="/gallery/2016/sixpack/loc_naughty_boy2.jpg">
+
+
 "_This brew was never meant to be, the recipe was never written and the ABV and IBU was never calculated. But this naughty boy wouldn't listen, so from the second runnings of the LOC brewery Imperial Stout '84' he became... If he is any good, well we dare not to say as this naughty boy is not to be trusted. Slightly toasted, malty flavor with a hint of savory together with the characteristics from the cascade and centennial hops._
 
 _Well just drink with mate_!"
@@ -60,6 +63,8 @@ I’ve enjoyed this brew several times, both at home and at the bars, and I knew
 ## Emelisse Saison
 
 http://www.emelisse.nl/
+
+<img src="/gallery/2016/sixpack/emelisse_saison2.jpg">
 
 > Dutch point: Excellent bottle shops everywhere: across the border, next to supermarkets, in supermarkets. There’s a hazier line between craft and not here. Longer uninterrupted beer tradition. 
 
@@ -110,6 +115,8 @@ It's been raining again most of the week, most of the month, most of the summer.
 # WEATHER: LONDON
 
 True to its label the beer has the distinctive  oak-aged stout flavor. I prefer a Bourbon barrel aged stout but it's nice to change it up and so they'll be no objections from here. Unlike the other beers discussed in this post I have decided to pair this drink with some food. In case I end up not sharing the photo let me mention that it is cake. And I’m keeping it classy [Ron Burgundy] by not bothering with a plate, instead eating it directly from the tinfoil it was saved in.
+
+<img src="/gallery/2016/sixpack/het_uiltje_bosuil.jpg">
 
 One of the reasons I prefer bourbon barrel to oak when aging a stout is the resulting flavor in the latter. For me oak seems to give the beer a somewhat leathery or musky aroma. I'm not sure if that description of the smell is quite accurate. Though I can often recognize the flavors present in beers it is sometimes difficult to put the accurate labels on them. It is something akin to flavor dejavu. An occupational hazard I suppose. I'll have to look into how other people describe this perceived phenomenon so that I can make my slight objection (after all) a bit more refined and pointed. 
 
