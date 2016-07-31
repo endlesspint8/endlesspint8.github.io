@@ -4,6 +4,7 @@ title: Testing my Crap
 subtitle: Failing Real Kwick
 ---
 
+<p><font color="blue"> TESTING FONT COLOR </font></p>
 # free standing
 
 <a href="/gallery/wbc_2016">
