@@ -59,6 +59,8 @@ I’ve enjoyed this brew several times, both at home and at the bars, and I knew
 
 ## Emelisse Saison
 
+http://www.emelisse.nl/
+
 > Dutch point: Excellent bottle shops everywhere: across the border, next to supermarkets, in supermarkets. There’s a hazier line between craft and not here. Longer uninterrupted beer tradition. 
 
 This is easily one of my favorite breweries from the Netherlands. For me it made sense to use them for a style that is not one of my go-to’s. Based on past (good) experiences with their beers I figured they would make this an offering I would like and I could try another style. 
@@ -73,7 +75,11 @@ I decided to pour this beer into a small thin glass, perhaps thinking it would l
 
 This does not feel like a light beer. The label says 4.6% alcohol and it is certainly not something that's going to knock you on your ass, but there is a full mouth feel, a light toffee, certainly malty, backbone which would easily lead you to believe that this could stand its own against many dishes [the brewmasters table recommendation]. Again, it’s not necessarily my favorite style but I’ve had my fair share and can say this an enjoyable release. To recap: quick forming foam head, delicate nose, and light spices. Light orange body with many small bubbles on initial pour with a subsiding frenzy the longer it sits. 
 
-## De Molen Rook & Vuur
+## De Molen Rook & Vuur (Smoke & Fire)
+
+http://brouwerijdemolen.nl/
+
+
 
 > Dutch point: Urban renewal and repurpose. Eindhoven, Rotterdam
 
@@ -82,6 +88,10 @@ I am a big fan of stout beers (footnote:clearly, based on the choice of beers in
 This beer was bottled in January 2015 I am now enjoying it a year and half into its four year recommended window. The nose is what you would expect from a rauchbier. It pours enticingly dark with a thin head that does not build. There is still some carbonation within the bottle witnessed by bubbles casually drifting to the top. This beer is packing an expected punch in both alcohol and flavor. I definitely took the precaution of having a meal before, more for the flavor than the solid ABV (8.5%). It packs such a flavor punch that any food would have to accommodate itself to the beer, and not the other way around. Initially coming out of the bottle the smoke is most present in the nose and taste. However, as the beer warms and we continue to sip from it we begin to get the spicy tingle.
 
 Sticking with the theme we have here another gorgeous label. So far we've had goofy, elegant,  kitsch [http://faculty.georgetown.edu/irvinem/theory/Sontag-NotesOnCamp-1964.html], and now something that I would characterize as “the essentials”. All the information and only the information is presented on the label. It looks not unlike what I imagine olde medicine (apothecary) did before radio, television, and that crazy thing young people call the world wide web. 
+
+<img src="/gallery/2016/sixpack/Rook-Vuur-33cl.jpg">
+
+<sub>Label source: http://brouwerijdemolen.nl/dev/wp-content/uploads/2015/01/Rook-Vuur-33cl.jpg</sub>
 
 Aside from the meal ahead of time I also made sure to make my lunch before I sat down to enjoy this brew. That's another thing about the Dutch nearly all of them bring food to work and in an effort to fit in or at least not stick out too much I also do my best to brown bag it. I didn't know how seriously to take the description of whiskey on the label yet as the beer settles in the glass I see what was meant and I can only wonder the type of lunch I would've packed if I had waited until after I have enjoyed this drink. It would have been night guy pulling a fast one on day guy [Seinfeld link]. Alas I have decided to be responsibly irresponsible: my next day’s meal is prepared and I'm drinking on a school night.
 
