@@ -115,6 +115,13 @@ We are now at the end, the final beer, and it is bittersweet. Not only the selec
 
 What we have here, at least in my opinion, is a damn solid IPA. Light orange in color, light and fluffy  white foam, with inviting floral notes. When it comes to criticism I must admit that I have found this beer to be a tad inconsistent, perhaps something to do with the bottling and or distribution. This is unfortunate in such a crowded market where it is rare to get a  second chance to change someone's mind, especially if they do not often have an opportunity to come across your beer. This certainly makes quality job one.
 
+3,950 reviewers; 31,852 head-to-head matchups
+
+Users: 
+<img src="/gallery/2016/sixpack/tij_user_ratings.png">
+
+ML grid:
+<img src="/gallery/2016/sixpack/tij_max_like.png">
 
 
 
