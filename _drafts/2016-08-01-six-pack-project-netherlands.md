@@ -50,7 +50,9 @@ _Well just drink with mate_!"
 
 I’ve enjoyed this brew several times, both at home and at the bars, and I knew I’d include it among the selection. I was obviously disappointed to find out that it is not as well received by most reviewers. I believe this is a result of possibly misplaced expectations. When I first drank it I wasn’t aware of the style and considered it a BIPA. Only after more closely reviewing and attempting to decipher the label, as well as visiting the brewery and beer review sites, did I see it was meant as a stout. I am going to argue this should be amended. 
 
-<img src="/gallery/2016/sixpack/loc_knn.png">
+<img src="/gallery/2016/sixpack/loc_knn3.png">
+
+<img src="/gallery/2016/sixpack/loc_knn2.png">
 
 
 # DATA MODEL kNN
