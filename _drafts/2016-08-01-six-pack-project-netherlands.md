@@ -99,6 +99,10 @@ After the initial build in spice the heat has not continued to escalate and as a
 
 ## Het Uiltje - Ransuil, Long eared owl (Oak aged Imperial/double stout)
 
+https://www.uiltjecraftbeer.com/
+
+<sub>Image source: https://www.uiltjecraftbeer.com/wp-content/uploads/2015/08/bosuil.jpg </sub>
+
 Dutch point: you even get good beer in the department store! HEMA; he first time I was introduced to this brewery was actually in Hema. The idea of finding good beer in a department store is pretty alien to someone from the United States. But this is just one of the rough cultural differences I need to to get used to if I'm going to make it here and be happy. 
 
 It's been raining again most of the week, most of the month, most of the summer. Despite the long days much of it has been overcast and gray. It appears that my selection of beers fits right in to the weather theme of the summer, dark & stormy. 
@@ -119,7 +123,12 @@ So how did the purchase from HEMA go? Quite well, not only was I introduced to t
 
 ## ‘t IJ - IPA
 
-We are now at the end, the final beer, and it is bittersweet. Not only the selection (IPA) but also the way it's been received and rated by others. I wanted to say last but not least, unfortunately both last and least seems to be how many people have come to appreciate this selection. It's a shame for me personally since this is one of the first beers that made me realize that in a land  with so much traditional brewing there was definitely a craft beer scene, and a damn good one at that. As I have mentioned before,  perhaps I am too lenient and overly forgiving in my appreciation. I  would likely be the bizarro-Russian judge when it came to scoring  performances.
+http://www.brouwerijhetij.nl/?lang=en
+
+We are now at the end, the final beer, and it is bittersweet. Not only the selection (IPA) but also the way it's been received and rated by others. I wanted to say last but not least, unfortunately both last and least seems to be how many people have come to appreciate this selection. It's a shame for me personally since this is one of the first beers that made me realize that in a land  with so much traditional brewing there was definitely a craft beer scene, and a damn good one at that. As I have mentioned before,  perhaps I am too lenient and overly forgiving in my appreciation. I  would likely be the bizarro-Russian judge when it came to scoring performances.
+
+<img src="/gallery/2016/sixpack/label_tij.PNG">
+
 
 # DATA MODEL ML GRID
 
