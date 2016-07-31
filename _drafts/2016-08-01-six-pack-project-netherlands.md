@@ -12,7 +12,8 @@ The Netherlands has a long standing beer history [link] and the only non-Belgian
 
 It's the beginning of June and I'm drinking a <a href="http://www.reuzenbieren.com/" target="_blank">Reuz</a> Stout. A barrel appears on the label but this version of the beer is not aged. However it does come in at a respectable 9.5% ABV. Predictably black, this good looking stout give off hints of dark brown around the edges, and especially at the top of the glass. The smell is familiar to anyone who's had a respectable stout and explored beyond Guinness (footnote: no disrespect to Guinness. It’s just that there’s more to stout than Irish stouts, is all). It is definitely sweet but by no means cloying, has a nice mouthfeel, and a light roasted touch. Smooth is definitely a word that comes to mind. When I suggest that it has a caramel flavor I have the Belgian doubles in mind and if not caramel then perhaps toffee.
 
-Label source: http://www.reuzenbieren.com/download/ReuZ_Stout_33cl.pdf
+<img src="/gallery/2016/sixpack/label_reuz_stout.PNG">
+<sub>Label source: http://www.reuzenbieren.com/download/ReuZ_Stout_33cl.pdf </sub>
 
 Do not think that because I gravitate to the label so quickly I do not enjoy the beer but rather that I respect and appreciate the amount of information provided, as well as the detail and the display of the data. For instance, everything is clearly defined, from alcohol percentage, to storage temperature, as well as the glass and temperature it should be served in. Below that we have a different set of categories that provide us with diet details, number of calories, and IBU’s. One of my favorite things about European beer bottles are the prohibition symbols indicating who should not be drinking. For instance there is the silhouette of a pregnant lady in profile, an image of a car, and the number 18. Each of these are surrounded by a red circle with a slash across them, reminiscent of the Ghostbusters symbol, suggesting that we don't want these ghosts. 
 
@@ -43,11 +44,14 @@ de 3 Horne: https://de3horne.nl/
 
 Is it a stout, is it a BIPA? Certainly a bit of both. The photo shows the foam suggesting a Belgian-y yeast. The color and roast flavors say "stout". The nose and forward flavor say "hops". The label itself says a whole lot and nothing at all. Beside the cartoon we are provided a runon sentence that was written under some type of influence and Google translate [twitter link to #GoogleTranslate] mashup.
 
-“*This brew was never meant to be, the recipe was never written and the ABV and IBU was never calculated. But this naughty boy wouldn't listen, so from the second runnings of the LOC brewery Imperial Stout '84' he became... If he is any good, well we dare not to say as this naughty boy is not to be trusted. Slightly toasted, malty flavor with a hint of savory together with the characteristics from the cascade and centennial hops. 
+"_This brew was never meant to be, the recipe was never written and the ABV and IBU was never calculated. But this naughty boy wouldn't listen, so from the second runnings of the LOC brewery Imperial Stout '84' he became... If he is any good, well we dare not to say as this naughty boy is not to be trusted. Slightly toasted, malty flavor with a hint of savory together with the characteristics from the cascade and centennial hops._
 
-Well just drink with mate!*”
+_Well just drink with mate_!"
 
 I’ve enjoyed this brew several times, both at home and at the bars, and I knew I’d include it among the selection. I was obviously disappointed to find out that it is not as well received by most reviewers. I believe this is a result of possibly misplaced expectations. When I first drank it I wasn’t aware of the style and considered it a BIPA. Only after more closely reviewing and attempting to decipher the label, as well as visiting the brewery and beer review sites, did I see it was meant as a stout. I am going to argue this should be amended. 
+
+<img src="/gallery/2016/sixpack/loc_knn.png">
+
 
 # DATA MODEL kNN
 
