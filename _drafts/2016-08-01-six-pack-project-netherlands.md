@@ -6,7 +6,7 @@ subtitle: My Contribution to Bryan Roth's <a href="https://thisiswhyimdrunk.word
 
 ## The Dutch Know Beer
 
-The Netherlands has a long standing beer history [link] and the only non-Belgian Trappist brewery, La Trappe [link], to prove it. Beer culture in Holland manifests itself in many ways. From the beheometh Heineken [link], to the  aforementioned Trappist brewery, and the ever burgeoning microbrew scene [link] in between, beer is to be found at most getogethers, festivals, and celebrations, as well as fine and low restaurants alike. Below I present some of my findings and explorations in this beer haven of a nation. I hope this sample entices you to grab a Dutch brew the next time you're offered the chance.
+The Netherlands has a long standing beer history [http://www.europeanbeerguide.net/hollbrw1.htm & http://www.europeanbeerguide.net/hollbrw2.htm] and the only non-Belgian Trappist brewery, La Trappe [http://www.latrappetrappist.com/en/], to prove it. Beer culture in Holland manifests itself in many ways. From the beheometh Heineken [http://www.heineken.com/], to the  aforementioned Trappist brewery, and the ever burgeoning microbrew scene [http://www.iamsterdam.com/en/visiting/what-to-do/eating-and-drinking/bars-and-cafes/beer-sampling-in-amsterdam/best-craft-and-speciality-beer-bars] in between, beer is to be found at most getogethers, festivals, and celebrations, as well as fine and low restaurants alike. Below I present some of my findings and explorations in this beer haven of a nation. I hope this sample entices you to grab a Dutch brew the next time you're offered the chance.
 
 ## Reuz Stout
 
@@ -108,7 +108,7 @@ https://www.uiltjecraftbeer.com/
 
 <sub>Image source: https://www.uiltjecraftbeer.com/wp-content/uploads/2015/08/bosuil.jpg </sub>
 
-Dutch point: you even get good beer in the department store! HEMA; he first time I was introduced to this brewery was actually in Hema. The idea of finding good beer in a department store is pretty alien to someone from the United States. But this is just one of the rough cultural differences I need to to get used to if I'm going to make it here and be happy. 
+Dutch point: you even get good beer in the department store! HEMA [http://www.hema.nl/]; he first time I was introduced to this brewery was actually in Hema. The idea of finding good beer in a department store is pretty alien to someone from the United States. But this is just one of the rough cultural differences I need to to get used to if I'm going to make it here and be happy. 
 
 It's been raining again most of the week, most of the month, most of the summer. Despite the long days much of it has been overcast and gray. It appears that my selection of beers fits right in to the weather theme of the summer, dark & stormy. 
 
