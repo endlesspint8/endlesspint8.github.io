@@ -140,7 +140,9 @@ With my original sanguine ideas in mind I collected ratings for 't IJ and severa
 <img src="/gallery/2016/sixpack/tij_user_ratings.png"> </br>
 <sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
 
-I used the above numbers to run a maximum likelihood 
+The table indicates by what percentage users prefered the beers listed on the left (y-axis) over the beers along the bottom (x-axis). For example, users prefered 
+
+I next used the above numbers to run a maximum likelihood process that would determine the overall rating of each beer, based on these preferences/wins, and provide an expected win rate against all other beers listed. Once again, the table indicates the likelihood of preference by beers listed on the left (y-axis) over the beers along the bottom (x-axis). 
 
 <img src="/gallery/2016/sixpack/tij_max_like.png"> </br>
 <sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
