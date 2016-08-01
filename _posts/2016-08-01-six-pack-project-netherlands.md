@@ -148,7 +148,7 @@ I next used the above numbers to run a maximum likelihood process that would det
 <img src="/gallery/2016/sixpack/tij_max_like.png"> <br>
 <sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
 
-There's been some movement, but not much. Needless to say I was unpleasantly surprised to see BOTH Lagunitas and 't IJ rating so low. A further look at ABV and IBU do not hint at much, maybe showing a preference for higher IBU's but Bell's doesn't seem to summer from this.
+There's been some movement, but not much. Needless to say I was unpleasantly surprised to see BOTH Lagunitas and 't IJ rating so low. A further look at ABV and IBU do not hint at much, maybe showing a preference for higher IBU's but Bell's doesn't seem to suffer from this.
 
 |Beer|ABV|IBU|Rating|
 |---|---|---|---|
