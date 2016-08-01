@@ -6,7 +6,7 @@ subtitle: My Contribution to Bryan Roth's <a href="https://thisiswhyimdrunk.word
 
 ## The Dutch Know Beer
 
-The Netherlands has a long standing beer history [http://www.europeanbeerguide.net/hollbrw1.htm & http://www.europeanbeerguide.net/hollbrw2.htm] and the only non-Belgian Trappist brewery, La Trappe [http://www.latrappetrappist.com/en/], to prove it. Beer culture in Holland manifests itself in many ways. From the beheometh Heineken [http://www.heineken.com/], to the  aforementioned Trappist brewery, and the ever burgeoning microbrew scene [http://www.iamsterdam.com/en/visiting/what-to-do/eating-and-drinking/bars-and-cafes/beer-sampling-in-amsterdam/best-craft-and-speciality-beer-bars] in between, beer is to be found at most getogethers, festivals, and celebrations, as well as fine and low restaurants alike. Below I present some of my findings and explorations in this beer haven of a nation. I hope this sample entices you to grab a Dutch brew the next time you're offered the chance.
+The Netherlands has a <a href="http://www.europeanbeerguide.net/hollbrw1.htm" target="_blank">long standing beer history</a> and the only non-Belgian Trappist brewery, <a href="http://www.latrappetrappist.com/en/" target="_blank">La Trappe</a>, to prove it. Beer culture in Holland manifests itself in many ways. From the beheometh <a href="http://www.heineken.com/" target="_blank">Heineken</a>, to the  aforementioned Trappist brewery, and the ever <a href="http://www.iamsterdam.com/en/visiting/what-to-do/eating-and-drinking/bars-and-cafes/beer-sampling-in-amsterdam/best-craft-and-speciality-beer-bars" target="_blank">burgeoning microbrew scene</a> in between. Beer is to be found at most getogethers, festivals, and celebrations, as well as fine and low restaurants alike. Below I present some of my findings and explorations in this beer haven of a nation. I hope this sample entices you to grab a Dutch brew the next time you're offered the chance.
 
 ## Reuz Stout
 
@@ -39,7 +39,7 @@ I thought half of the six beers to profile would be dark and the other three of 
 
 > Dutch point: Bars will rotate their bottles as likely, sometimes more often, than their draft choices.
 
-Is it a stout, is it a BIPA? This collaboration from LOC: http://www.locbrewery.com/ and de 3 Horne: https://de3horne.nl/ is a bit of both. The photo shows the foam suggesting a Belgian-y yeast. The color and roast flavors say "stout". The nose and forward flavor say "hops". The label itself says a whole lot and nothing at all. Beside the cartoon we are provided a runon sentence that was written under some type of influence and Google translate [twitter link to #GoogleTranslate] mashup.
+Is it a stout, is it a BIPA? This collaboration from <a href="http://www.locbrewery.com/" target="_blank">LOC</a> and <a href="https://de3horne.nl/" target="_blank">de 3 Horne</a> is a bit of both. The photo shows the foam suggesting a Belgian-y yeast. The color and roast flavors say "stout". The nose and forward flavor say "hops". The label itself says a whole lot and nothing at all. Beside the cartoon we are provided a runon sentence that was written under some type of influence and Google translate [twitter link to #GoogleTranslate] mashup.
 
 "_This brew was never meant to be, the recipe was never written and the ABV and IBU was never calculated. But this naughty boy wouldn't listen, so from the second runnings of the LOC brewery Imperial Stout '84' he became... If he is any good, well we dare not to say as this naughty boy is not to be trusted. Slightly toasted, malty flavor with a hint of savory together with the characteristics from the cascade and centennial hops._
 
@@ -63,13 +63,11 @@ Quantitative analysis aside, of the fourteen top reviewers that rated this on Ra
 
 ## Emelisse Saison
 
-http://www.emelisse.nl/
-
 <img src="/gallery/2016/sixpack/emelisse_saison2.jpg">
 
 > Dutch point: Excellent bottle shops everywhere: across the border, next to supermarkets, in supermarkets. There’s a hazier line between craft and not here. Longer uninterrupted beer tradition. 
 
-This is easily one of my favorite breweries from the Netherlands. For me it made sense to use them for a style that is not one of my go-to’s. Based on past (good) experiences with their beers I figured they would make this an offering I would like and I could try another style. 
+<a href="http://www.emelisse.nl/" target="_blank">Emelisse</a> is easily one of my favorite breweries from the Netherlands. For me it made sense to use them for a style that is not one of my go-to’s. Based on past (good) experiences with their beers I figured they would make this an offering I would like and I could try another style. 
 
 There are many things I enjoy about this brewery: of course first and foremost is the quality of the beers they make, beyond that is also the presentation. I'm not quite sure where you stand on the spectrum of accepting or denying the influences of marketing and packaging but I will not pretend that I am not swayed by its influence. The type and colors of the labels, yes we're talking about labels again, are clean and easily recognizable on the shelf.
 
@@ -84,11 +82,9 @@ This does not feel like a light beer. The label says 4.6% alcohol and it is cert
 
 ## De Molen Rook & Vuur (Smoke & Fire)
 
-http://brouwerijdemolen.nl/
-
 > Dutch point: Urban renewal and repurpose. Eindhoven, Rotterdam
 
-I am a big fan of stout beers (footnote:clearly, based on the choice of beers in this piece) and definitely a fan of smoke beers, put them together for a winning combination. If done right. This last crucial detail turned out to be a point of contention on BeerAdvocate. A handful of people were definitely not impressed with the resulting combination. Thankfully I did not fall into this camp. I would anticipate at least benefitting from a short supply chain and lower risks of bottle shock [movie link]. For me the combination was a success, so the camp I fell into should be pretty clear. I wanted to know if my description would bear this out so I took my review, in blue below, and ran it through some text analysis to see what BA reviews I matched up closest to (notebook link).
+I am a big fan of stout beers (footnote:clearly, based on the choice of beers in this piece) and definitely a fan of smoke beers, put them together for a winning combination. If done right. This last crucial detail turned out to be a point of contention on BeerAdvocate. A handful of people were definitely not impressed with the resulting combination from <a href="http://brouwerijdemolen.nl/" target="_blank">De Molen</a>. Thankfully I did not fall into this camp. I would anticipate at least benefitting from a short supply chain and lower risks of bottle shock [movie link]. For me the combination was a success, so the camp I fell into should be pretty clear. I wanted to know if my description would bear this out so I took my review, in blue below, and ran it through some text analysis to see what BA reviews I matched up closest to (notebook link).
 
 This beer was bottled in January 2015 I am now enjoying it a year and half into its four year recommended window. The nose is what you would expect from a rauchbier. It pours enticingly dark with a thin head that does not build. There is still some carbonation within the bottle witnessed by bubbles casually drifting to the top. This beer is packing an expected punch in both alcohol and flavor. I definitely took the precaution of having a meal before, more for the flavor than the solid ABV (8.5%). It packs such a flavor punch that any food would have to accommodate itself to the beer, and not the other way around. Initially coming out of the bottle the smoke is most present in the nose and taste. However, as the beer warms and we continue to sip from it we begin to get the spicy tingle.
 
@@ -110,13 +106,11 @@ After the initial build in spice the heat has not continued to escalate and as a
 
 ## Het Uiltje - Ransuil, Long eared owl (Oak aged Imperial/double stout)
 
-https://www.uiltjecraftbeer.com/
-
 <sub>Image source: https://www.uiltjecraftbeer.com/wp-content/uploads/2015/08/bosuil.jpg </sub>
 
 Dutch point: you even get good beer in the department store! HEMA [http://www.hema.nl/]; he first time I was introduced to this brewery was actually in Hema. The idea of finding good beer in a department store is pretty alien to someone from the United States. But this is just one of the rough cultural differences I need to to get used to if I'm going to make it here and be happy. 
 
-It's been raining again most of the week, most of the month, most of the summer. Despite the long days much of it has been overcast and gray. It appears that my selection of beers fits right in to the weather theme of the summer, dark & stormy. 
+It's been raining again most of the week, most of the month, most of the summer. Despite the long days much of it has been overcast and gray. It appears that my selection of beers fits right in to the weather theme of the summer, dark & stormy. So how about another stout, this one from <a href="https://www.uiltjecraftbeer.com/" target="_blank">Het Uiltje</a>. 
 
 <img src="/gallery/2016/sixpack/weather_rain.png"> </br>
 <sub>Data source: <a href="http://www.climatemps.com/" target="_blank">ClimaTemps</a></sub>
@@ -137,15 +131,10 @@ So how did the purchase from HEMA go? Quite well, not only was I introduced to t
 
 ## ‘t IJ - IPA
 
-http://www.brouwerijhetij.nl/?lang=en
-
-We are now at the end, the final beer, and it is bittersweet. Not only the selection (IPA) but also the way it's been received and rated by others. I wanted to say last but not least, unfortunately both last and least seems to be how many people have come to appreciate this selection. It's a shame for me personally since this is one of the first beers that made me realize that in a land  with so much traditional brewing there was definitely a craft beer scene, and a damn good one at that. As I have mentioned before,  perhaps I am too lenient and overly forgiving in my appreciation. I  would likely be the bizarro-Russian judge when it came to scoring performances.
+We are now at the end, the final beer, and it is bittersweet. Not only the selection, IPA, but also the way it's been received and rated by others. I wanted to say last but not least, unfortunately both last and least seems to be how many people have come to appreciate the IPA from <a href="http://www.brouwerijhetij.nl/?lang=en" target="_blank">'t IJ</a>. It's a shame for me personally since this is one of the first beers that made me realize that in a land  with so much traditional brewing there was definitely a craft beer scene, and a damn good one at that. As I have mentioned before,  perhaps I am too lenient and overly forgiving in my appreciation. I  would likely be the bizarro-Russian judge when it came to scoring performances.
 
 <img src="/gallery/2016/sixpack/label_tij.PNG"> </br>
 <sub>Image source: http://www.brouwerijhetij.nl/?lang=en </sub>
-
-
-# DATA MODEL ML GRID
 
 What we have here, at least in my opinion, is a damn solid IPA. Light orange in color, light and fluffy  white foam, with inviting floral notes. When it comes to criticism I must admit that I have found this beer to be a tad inconsistent, perhaps something to do with the bottling and or distribution. This is unfortunate in such a crowded market where it is rare to get a  second chance to change someone's mind, especially if they do not often have an opportunity to come across your beer. This certainly makes quality job one.
 
