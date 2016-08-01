@@ -80,7 +80,7 @@ I decided to pour this beer into a small thin glass, perhaps thinking it would l
 <img src="/gallery/2016/sixpack/weather_daysun.png"> </br>
 <sub>Data source: <a href="http://www.climatemps.com/" target="_blank">ClimaTemps</a></sub>
 
-This does not feel like a light beer. The label says 4.6% alcohol and it is certainly not something that's going to knock you on your ass, but there is a full mouth feel, a light toffee, certainly malty, backbone which would easily lead you to believe that this could stand its own against many dishes [the brewmasters table recommendation]. Again, it’s not necessarily my favorite style but I’ve had my fair share and can say this an enjoyable release. To recap: quick forming foam head, delicate nose, and light spices. Light orange body with many small bubbles on initial pour with a subsiding frenzy the longer it sits. 
+This does not feel like a light beer. The label says 4.6% alcohol and it is certainly not something that's going to knock you on your ass, but there is a full mouth feel, a light toffee, certainly malty, backbone which would easily lead you to believe that this could stand its own against many dishes, as Garrett Oliver mentions repeatedly for the style in <a href="https://www.amazon.com/Brewmasters-Table-Discovering-Pleasures-Real/dp/0060005718" target="_blank">The Brewmaster's Table</a>. While this is not my top style I’ve had my fair share and can say this an enjoyable release. To recap: quick forming foam head, delicate nose, and light spices. Light orange body with many small bubbles on initial pour with a subsiding frenzy the longer it sits. 
 
 ## De Molen Rook & Vuur (Smoke & Fire)
 
@@ -106,14 +106,14 @@ After the initial build in spice the heat has not continued to escalate and as a
 
 ## Het Uiltje - Ransuil, Long eared owl (Oak aged Imperial/double stout)
 
-> Dutch commentary: You even get good beer in the department store! The first time I was introduced to this brewery was actually in <a href="http://www.hema.nl/" target="_blank">HEMA</a>. The idea of finding good beer in a department store is pretty alien to someone from the United States. But this is just one of the rough cultural differences I need to to get used to if I'm going to make it here and be happy. 
+> Dutch commentary: You even get good beer in the department store! The first time I was introduced to this brewery was actually in <a href="http://www.hema.nl/" target="_blank">HEMA</a>. The idea of finding good beer in a department store is pretty alien to someone from the United States. But this is just one of the rough cultural differences I need to get used to if I'm going to make it here and be happy. 
 
 It's been raining again most of the week, most of the month, most of the summer. Despite the long days much of it has been overcast and gray. It appears that my selection of beers fits right in to the weather theme of the summer, dark & stormy. So how about another stout, this one from <a href="https://www.uiltjecraftbeer.com/" target="_blank">Het Uiltje</a>. 
 
 <img src="/gallery/2016/sixpack/weather_rain.png"> </br>
 <sub>Data source: <a href="http://www.climatemps.com/" target="_blank">ClimaTemps</a></sub>
 
-True to its label the beer has the distinctive  oak-aged stout flavor. I prefer a Bourbon barrel aged stout but it's nice to change it up and so they'll be no objections from here. Unlike the other beers discussed in this post I have decided to pair this drink with some food. In case I end up not sharing the photo let me mention that it is cake. And I’m keeping it classy [Ron Burgundy] by not bothering with a plate, instead eating it directly from the tinfoil it was saved in.
+True to its label the beer has the distinctive  oak-aged stout flavor. I prefer a Bourbon barrel aged stout but it's nice to change it up and so they'll be no objections from here. Unlike the other beers discussed in this post I have decided to pair this drink with some food. In case I end up not sharing the photo let me mention that it is cake. And I’m keeping it <a href="https://www.youtube.com/watch?v=MgGCIZi1UjY" target="_blank">classy</a> by not bothering with a plate, instead eating it directly from the tinfoil it was saved in.
 
 <img src="/gallery/2016/sixpack/het_uiltje_bosuil.jpg">
 
