@@ -38,22 +38,21 @@ I thought half of the six beers to profile would be dark and the other three of 
 
 > Dutch point: Bars will rotate their bottles as likely, sometimes more often, than their draft choices.
 
-LOC: http://www.locbrewery.com/
-
-de 3 Horne: https://de3horne.nl/
-
-Is it a stout, is it a BIPA? Certainly a bit of both. The photo shows the foam suggesting a Belgian-y yeast. The color and roast flavors say "stout". The nose and forward flavor say "hops". The label itself says a whole lot and nothing at all. Beside the cartoon we are provided a runon sentence that was written under some type of influence and Google translate [twitter link to #GoogleTranslate] mashup.
-
-<img src="/gallery/2016/sixpack/loc_naughty_boy2.jpg">
-
+Is it a stout, is it a BIPA? This collaboration from LOC: http://www.locbrewery.com/ and de 3 Horne: https://de3horne.nl/ is a bit of both. The photo shows the foam suggesting a Belgian-y yeast. The color and roast flavors say "stout". The nose and forward flavor say "hops". The label itself says a whole lot and nothing at all. Beside the cartoon we are provided a runon sentence that was written under some type of influence and Google translate [twitter link to #GoogleTranslate] mashup.
 
 "_This brew was never meant to be, the recipe was never written and the ABV and IBU was never calculated. But this naughty boy wouldn't listen, so from the second runnings of the LOC brewery Imperial Stout '84' he became... If he is any good, well we dare not to say as this naughty boy is not to be trusted. Slightly toasted, malty flavor with a hint of savory together with the characteristics from the cascade and centennial hops._
 
 _Well just drink with mate_!"
 
-I’ve enjoyed this brew several times, both at home and at the bars, and I knew I’d include it among the selection. I was obviously disappointed to find out that it is not as well received by most reviewers. I believe this is a result of possibly misplaced expectations. When I first drank it I wasn’t aware of the style and considered it a BIPA. Only after more closely reviewing and attempting to decipher the label, as well as visiting the brewery and beer review sites, did I see it was meant as a stout. I am going to argue this should be amended. 
+<img src="/gallery/2016/sixpack/loc_naughty_boy2.jpg">
+
+I’ve enjoyed this brew several times, both at home and at the bars, and I knew I’d include it among the selection. I was obviously disappointed to find out that it is not as well received by most reviewers. I believe this is a result of possibly misplaced expectations. When I first drank it I wasn’t aware of the style and thought it a black IPA. Only after more closely reviewing and attempting to decipher the label, as well as visiting the brewery and beer review sites, did I see it was meant as a stout. I am going to argue this should be amended and I believe I have some data to back that up [link to notebook]. 
+
+I pulled down ABV & IBU information on approximately 50 Dutch beers for three styles: IPA, BIPA, and stouts. This data was placed on a standardized scatter plot, with each point colored by beer style, and the surrounding areas receiving the color of the closest style. True to several of the LOC collaborations, Naughty Boy has its IBU numbers obscured (link: to LOC collab page) so I created a vertical line of possible locations on which the beer would fall (see image below).
 
 <img src="/gallery/2016/sixpack/loc_knn3.png">
+
+Running a k-nearest neighbor anaylsis [link to notebook] I discovered that for this limited data set (footnote: yes, we should use more data). 
 
 <img src="/gallery/2016/sixpack/loc_knn2.png">
 
