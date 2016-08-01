@@ -48,16 +48,17 @@ _Well just drink with mate_!"
 
 I’ve enjoyed this brew several times, both at home and at the bars, and I knew I’d include it among the selection. I was obviously disappointed to find out that it is not as well received by most reviewers. I believe this is a result of possibly misplaced expectations. When I first drank it I wasn’t aware of the style and thought it a black IPA. Only after more closely reviewing and attempting to decipher the label, as well as visiting the brewery and beer review sites, did I see it was meant as a stout. I am going to argue this should be amended and I believe I have some data to back that up [link to notebook]. 
 
-I pulled down ABV & IBU information on approximately 50 Dutch beers for three styles: IPA, BIPA, and stouts. This data was placed on a standardized scatter plot, with each point colored by beer style, and the surrounding areas receiving the color of the closest style. True to several of the LOC collaborations, Naughty Boy has its IBU numbers obscured (link: to LOC collab page) so I created a vertical line of possible locations on which the beer would fall (see image below).
+I pulled down ABV & IBU information on approximately 70 Dutch beers for three styles: IPA, BIPA, and stouts. This data was placed on a standardized scatter plot, with each point colored by beer style, and the surrounding areas receiving the color of the closest style. True to several of the LOC collaborations, Naughty Boy has its IBU numbers obscured (link: to LOC collab page) so I created a vertical line of possible locations on which the beer would fall (see image below).
 
 <img src="/gallery/2016/sixpack/loc_knn3.png">
+<sub>Data source: <a href="https://untappd.com/" target="_blank">Untappd</a> </sub>
 
-Running a k-nearest neighbor anaylsis [link to notebook] I discovered that for this limited data set (footnote: yes, we should use more data). 
+Running a k-nearest neighbor anaylsis [link to notebook] I discovered that for this limited data set (footnote: yes, we should use more data) the best predictive returns would happen with two neighbors. Each of the candidate points above were  
 
 <img src="/gallery/2016/sixpack/loc_knn2.png">
+<sub>Data source: <a href="https://untappd.com/" target="_blank">Untappd</a> </sub>
 
-
-# DATA MODEL kNN
+Quantitative analysis aside, of the fourteen top reviewers that rated this on RateBeer [http://www.ratebeer.com/beer/loc-naughty-boy/397297/2/1/] (Accessed: 24 July 2016) eleven mentioned "bitter", and some more than once. Consumers naturally have predefined ideas about what they are getting into, including when they don't know what to expect (which was slightly my experience in drinking this without prior knowledge about the purported style). I believe the misplaced expectations of what a stout should taste like left reviewers surprised, and clearly not always in a pleasant way. 
 
 ## Emelisse Saison
 
