@@ -129,29 +129,25 @@ Enough with all that, how about the beer? Smooth of course, very clean, solid mo
 
 We are now at the end, the final beer, and it is bittersweet. Not only the selection, IPA, but also the way it's been received and rated by others. I wanted to say last but not least, unfortunately both last and least seems to be how many people have come to appreciate the IPA from <a href="http://www.brouwerijhetij.nl/?lang=en" target="_blank">'t IJ</a>. It's a shame for me personally since this is one of the first beers that made me realize that in a land  with so much traditional brewing there was definitely a craft beer scene, and a damn good one at that. 
 
-Perhaps I am too lenient and overly forgiving in my appreciation. I would likely be the bizarro-Russian judge when it came to scoring performances. Nevertheless, what we have here, at least in my opinion, is a damn solid IPA. Light orange in color, light and fluffy  white foam, with inviting floral notes. When it comes to criticism I must admit that I have found this beer to be a tad inconsistent, perhaps something to do with the bottling and or distribution. This is unfortunate in such a crowded market where it is rare to get a second chance to change someone's mind, especially if they do not often have an opportunity to come across your beer. This certainly makes quality job one.
+Perhaps I am too lenient and overly forgiving in my appreciation. I would likely be the bizarro-Russian judge when it came to scoring performances. Nevertheless, what we have here, at least in my opinion, is a damn solid IPA. Light orange in color, light and fluffy  white foam, with inviting floral notes. When it comes to criticism I must admit that I have found this beer to be a tad inconsistent, perhaps something to do with the bottling and or distribution. This is unfortunate in such a crowded market where it is rare to get a second chance to change someone's mind, especially if they do not often have an opportunity to come across your beer again. This certainly makes quality job one.
 
 > Dutch commentary: Price is one of the small beer adjustments I have had to make. Similar to back home, beers are cheaper at a store than at the bar but the price difference is not nearly as great as what I’m accustomed to and as a result I often feel I’m getting a better deal at a bar, even with the higher price because of the larger selection than what I tend to keep at home. Chalk it up to <a href="https://en.wikipedia.org/wiki/Predictably_Irrational" target="_blank">predictably irrational</a> human perception. All in all prices are cheaper here than back in New York, there are few places that would not be true, both at the bar and at the bottle shops. The difference is that the bars tend to charge quite a bit less than in the city but the bottle shops don't provide much of a discount at all (again to what I've become accustomed to). As a result, and since things are relative, I tend to appreciate the bar prices a bit more.
 
-<img src="/gallery/2016/sixpack/label_tij.PNG"> </br>
-<sub>Image source: http://www.brouwerijhetij.nl/?lang=en </sub>
+My original thoughts after the first time enjoying [footnote: yes, enjoying it picky beer snobs] 't IJ's IPA was that it was a solid beer that might be a fair substitute for my beloved Lagunitas IPA. I do not pretend to claim that Lagunitas makes _the greatest IPA_ in the world but I would be happy with it on almost all occassions. Simply put, Lagunitas IPA is a fantastic everyday beer. After my investigations I found out that I might not have been too far off in equating the two, as both beers were far less favored than I would have anticipated. 
 
-My original thoughts after the first time enjoying [footnote: yes, enjoying it picky beer snobs] 't IJ's IPA was that it was a solid beer that might be a fair substitute for my beloved Lagunitas IPA. I do not pretend to claim that Lagunitas makes _the greatest IPA_ in the world but I would be happy with it on almost all occassions. Simply put, Lagunitas IPA is a fantastic everyday beer. After my investigations I found out that I might not have been too far off in estimation, as both beers were far less favored than I would have anticipated. 
-
-
-
-3,950 reviewers; 31,852 head-to-head matchups
-
-Users: 
+With my original sanguine ideas in mind I collected ratings for 't IJ and several other American IPA's with the intent of comparing user ratings and getting an idea of head-to-head preferences. I found users who had rated 2 or more of the selected IPA's and used their ratings as voting proxies. Beers with the same score by user received half a vote a piece, otherwise the higher score would determine the winning/prefered beer. In total there were 3,950 reviewers that constituted 31,852 head-to-head matchups. By tallying the "votes" and splitting by total "ballots" cast in matchups I was able to generate a user ratings table: 
 
 <img src="/gallery/2016/sixpack/tij_user_ratings.png"> </br>
 <sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
 
-ML grid:
+I used the above numbers to run a maximum likelihood 
 
 <img src="/gallery/2016/sixpack/tij_max_like.png"> </br>
 <sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
 
 
 If you see someone playing with a piece of paper or tearing a label off of a jar, it is not uncommon in the US to joke that they are sexually frustrated. This may be a long shot but I'm assuming the label is bringing up other desires in drinkers that unfortunately cloud their reception of this brew. 
+
+<img src="/gallery/2016/sixpack/label_tij.PNG"> </br>
+<sub>Image source: http://www.brouwerijhetij.nl/?lang=en </sub>
 
