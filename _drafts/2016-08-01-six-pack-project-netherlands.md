@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cold, Dark, & Wet - Dutch Summers & Beers
+title: Cold, Dark, & Wet - Dutch Summers Pair with Most Beer Styles
 subtitle: My Contribution to Bryan Roth's <a href="https://thisiswhyimdrunk.wordpress.com/six-pack-project/" target="_blank">Six Pack Project</a>
 ---
 
@@ -26,7 +26,7 @@ Again it is June here, the beginning of June. This means that it is not quite su
 <img src="/gallery/2016/sixpack/weather_temp.png"> </br>
 <sub>Data source: <a href="http://www.climatemps.com/" target="_blank">ClimaTemps</a></sub>
 
-Punchline: for those of you who can't make Rio for the Olympic games, which by the way for them it's winter, come right over to Amsterdam where the weather is basically the same. Except more overcast, more rain, and less total sunlight.
+Punchline to above graphic of temperature comparison: for those of you who can't make it to Rio for the Olympic games, where it is incidentally now their winter, come right over to Amsterdam where the weather is basically the same. Except more overcast, more rain, and less total sunlight.
 
 The upside to Holland not getting too hot is that I can more easily disregard (traditional) seasonal drinking and suit myself to the beers I wish to have in the moment. 
 
@@ -47,7 +47,7 @@ _Well just drink with mate_!"
 
 I’ve enjoyed this brew several times, both at home and at the bars, and I knew I’d include it among the selection. 
 
-> Dutch commentary: Bars will rotate their bottles as likely, sometimes more often, than their draft choices.
+> Dutch commentary: Bars will rotate their bottles as likely, sometimes more often, than their draft choices. 
 
 I was obviously disappointed to find out that it is not as well received by most reviewers. I believe this is a result of possibly misplaced expectations. When I first drank it I wasn’t aware of the style and thought it a black IPA. Only after more closely reviewing and attempting to decipher the label, as well as visiting the brewery and beer review sites, did I see it was meant as a stout. I am going to argue this should be amended and I believe I have some data to back that up [link to notebook]. 
 
@@ -61,17 +61,17 @@ Running a k-nearest neighbor anaylsis [link to notebook] I discovered that for t
 <img src="/gallery/2016/sixpack/loc_knn2.png"> </br>
 <sub>Data source: <a href="https://untappd.com/" target="_blank">Untappd</a> </sub>
 
-Quantitative analysis aside, of the fourteen top reviewers that rated this on RateBeer [http://www.ratebeer.com/beer/loc-naughty-boy/397297/2/1/] (Accessed: 24 July 2016) eleven mentioned "bitter", and some more than once. Consumers naturally have predefined ideas about what they are getting into, including when they don't know what to expect (which was a bit like my experience in drinking this without prior knowledge about the purported style). I believe the misplaced expectations of what a stout should taste like left reviewers surprised, and clearly not always in a pleasant way. I would submit that if Naughty Boy has an IBU of 55 or higher it be rebranded and possibly receive better reviews as a result. 
+Quantitative analysis aside, of the fourteen top reviewers that rated this on <a href="http://www.ratebeer.com/beer/loc-naughty-boy/397297/2/1/" target="_blank">RateBeer</a> (Accessed: 24 July 2016) eleven mentioned "bitter", and some more than once. Consumers naturally have predefined ideas about what they are getting into, including when they don't know what to expect (which was a bit like my experience in drinking this without prior knowledge about the purported style). I believe the misplaced expectations of what a stout should taste like left reviewers surprised, and clearly not always in a pleasant way. I would submit that if Naughty Boy has an IBU of 55 or higher it be rebranded and possibly receive better reviews as a result. 
 
 ## Emelisse Saison
 
 <img src="/gallery/2016/sixpack/emelisse_saison2.jpg">
 
-<a href="http://www.emelisse.nl/" target="_blank">Emelisse</a> is easily one of my favorite breweries from the Netherlands. For me it made sense to use them for a style that is not one of my go-to’s. Based on past (good) experiences with their beers I figured they would make this an offering I would like and I could try another style. 
+<a href="http://www.emelisse.nl/" target="_blank">Emelisse</a> is easily one of my favorite breweries from the Netherlands. For me it made sense to use them for a style that is not one of my go-to’s. Based on past (good) experiences with their beers I figured they would make this an offering I would like and give me an excuse to have another one of their style. 
 
 There are many things I enjoy about this brewery: of course first and foremost is the quality of the beers they make, beyond that is also the presentation. I'm not quite sure where you stand on the spectrum of accepting or denying the influences of marketing and packaging but I will not pretend that I am not swayed by its influence. The type and colors of the labels, yes we're talking about labels again, are clean and easily recognizable on the shelf.
 
-> Dutch commentary: Excellent bottle shops are everywhere: across the border, next to supermarkets, in supermarkets. There’s a hazier line between craft and not here. Longer uninterrupted beer tradition. Half of the beers covered here were picked up at a "beer shed" that casually also carries crates of <a href="http://sintsixtus.be/" target="_blank">Westvleteren</a> 8, 10, & 12.
+> Dutch commentary: Excellent bottle shops are everywhere: across the border, next to supermarkets, in supermarkets. There’s a hazier line between craft and not here. Longer uninterrupted beer tradition, I suppose. Half of the beers covered here were picked up at a "beer shed" that casually also carries crates of <a href="http://sintsixtus.be/" target="_blank">Westvleteren</a> 8, 10, & 12.
 
 <img src="/gallery/2016/sixpack/emellisse_shelf.JPG">
 
@@ -83,8 +83,6 @@ I decided to pour this beer into a small thin glass, perhaps thinking it would l
 This does not feel like a light beer. The label says 4.6% alcohol and it is certainly not something that's going to knock you on your ass, but there is a full mouth feel, a light toffee, certainly malty, backbone which would easily lead you to believe that this could stand its own against many dishes [the brewmasters table recommendation]. Again, it’s not necessarily my favorite style but I’ve had my fair share and can say this an enjoyable release. To recap: quick forming foam head, delicate nose, and light spices. Light orange body with many small bubbles on initial pour with a subsiding frenzy the longer it sits. 
 
 ## De Molen Rook & Vuur (Smoke & Fire)
-
-> Dutch point: Urban renewal and repurpose. Eindhoven, Rotterdam
 
 I am a big fan of stout beers (footnote:clearly, based on the choice of beers in this piece) and definitely a fan of smoke beers, put them together for a winning combination. If done right. This last crucial detail turned out to be a point of contention on BeerAdvocate. A handful of people were definitely not impressed with the resulting combination from <a href="http://brouwerijdemolen.nl/" target="_blank">De Molen</a>. Thankfully I did not fall into this camp. I would anticipate at least benefitting from a short supply chain and lower risks of bottle shock [movie link]. For me the combination was a success, so the camp I fell into should be pretty clear. I wanted to know if my description would bear this out so I took my review, in blue below, and ran it through some text analysis to see what BA reviews I matched up closest to (notebook link).
 
@@ -110,7 +108,7 @@ After the initial build in spice the heat has not continued to escalate and as a
 
 <sub>Image source: https://www.uiltjecraftbeer.com/wp-content/uploads/2015/08/bosuil.jpg </sub>
 
-Dutch point: you even get good beer in the department store! HEMA [http://www.hema.nl/]; he first time I was introduced to this brewery was actually in Hema. The idea of finding good beer in a department store is pretty alien to someone from the United States. But this is just one of the rough cultural differences I need to to get used to if I'm going to make it here and be happy. 
+> Dutch commentary: You even get good beer in the department store! The first time I was introduced to this brewery was actually in <a href="http://www.hema.nl/" target="_blank">HEMA</a>. The idea of finding good beer in a department store is pretty alien to someone from the United States. But this is just one of the rough cultural differences I need to to get used to if I'm going to make it here and be happy. 
 
 It's been raining again most of the week, most of the month, most of the summer. Despite the long days much of it has been overcast and gray. It appears that my selection of beers fits right in to the weather theme of the summer, dark & stormy. So how about another stout, this one from <a href="https://www.uiltjecraftbeer.com/" target="_blank">Het Uiltje</a>. 
 
@@ -123,17 +121,17 @@ True to its label the beer has the distinctive  oak-aged stout flavor. I prefer 
 
 One of the reasons I prefer bourbon barrel to oak when aging a stout is the resulting flavor in the latter. For me oak seems to give the beer a somewhat leathery or musky aroma. I'm not sure if that description of the smell is quite accurate. Though I can often recognize the flavors present in beers it is sometimes difficult to put the accurate labels on them. It is something akin to flavor dejavu. An occupational hazard I suppose. I'll have to look into how other people describe this perceived phenomenon so that I can make my slight objection (after all) a bit more refined and pointed. 
 
-Back to the department store, I was understandably a bit resistant to the idea of purchasing beer when I saw it stacked alongside other knickknacks such as socks and stationary. However two things swayed me towards making the purchase. First was the style: black IPA. Second: the price. I mean who doesn't like a good deal and if the product turns out to be halfway decent even better, right? 
-
-Speaking of price it's one of the small beer adjustments I have had to make. Similar to back home, beers are cheaper at a store than at the bar but the price difference is not nearly as great as what I’m accustomed to and as a result I often feel I’m getting a better deal at a bar, even with the higher price because of the larger selection than what I tend to keep at home. Chalk it up to predictably irrational [link] human perception. All in all prices are cheaper here than back in New York, there are few places that would not be true, both at the bar and at the bottle shops. The difference is that the bars tend to charge quite a bit less than in the city but the bottle shops don't provide much of a discount at all (again to what I've become accustomed to). As a result, and since things are relative, I tend to appreciate the bar prices a bit more.
+> Dutch commentary (cont.): Back to the department store, I was understandably a bit resistant to the idea of purchasing beer when I saw it stacked alongside other knickknacks such as socks and stationary. However two things swayed me towards making the purchase. First was the style: black IPA. Second: the price. I mean who doesn't like a good deal and if the product turns out to be halfway decent even better, right? 
 
 Enough with all that, how about the beer? Smooth of course, very clean, solid mouth feel, and not at all watery. Has a serious 10.5 punch that is quite sneaky. You don't taste the strength but it is there lurking if you're not paying attention. The label, how long did you think I would go without mentioning that, refers to the hoppiness but I have to be honest I don't get too much of that yet it needs to be graded on a curve and for a double/Imperial Stout I can see that it does contain a nice hoppy-ness. 
 
-So how did the purchase from HEMA go? Quite well, not only was I introduced to the black IPA from Het Uiltje but also a Thai spice triple from another brewery (need to look up which one). Don’t hesitate to grab a beer with your next purchase of socks the next time you’re in a Dutch department store. 
+> Dutch commentary (cont., II): So how did the purchase from HEMA go? Quite well, not only was I introduced to the black IPA from Het Uiltje but also a Thai spice triple from <a href="http://oedipus.com/beers/" target="_blank">Oedipus</a>. Both delicious. Don’t hesitate to grab a beer with your next purchase of socks the next time you’re in a Dutch department store. 
 
 ## ‘t IJ - IPA
 
 We are now at the end, the final beer, and it is bittersweet. Not only the selection, IPA, but also the way it's been received and rated by others. I wanted to say last but not least, unfortunately both last and least seems to be how many people have come to appreciate the IPA from <a href="http://www.brouwerijhetij.nl/?lang=en" target="_blank">'t IJ</a>. It's a shame for me personally since this is one of the first beers that made me realize that in a land  with so much traditional brewing there was definitely a craft beer scene, and a damn good one at that. As I have mentioned before,  perhaps I am too lenient and overly forgiving in my appreciation. I  would likely be the bizarro-Russian judge when it came to scoring performances.
+
+> Dutch commentary: Speaking of price it's one of the small beer adjustments I have had to make. Similar to back home, beers are cheaper at a store than at the bar but the price difference is not nearly as great as what I’m accustomed to and as a result I often feel I’m getting a better deal at a bar, even with the higher price because of the larger selection than what I tend to keep at home. Chalk it up to predictably irrational [link] human perception. All in all prices are cheaper here than back in New York, there are few places that would not be true, both at the bar and at the bottle shops. The difference is that the bars tend to charge quite a bit less than in the city but the bottle shops don't provide much of a discount at all (again to what I've become accustomed to). As a result, and since things are relative, I tend to appreciate the bar prices a bit more.
 
 <img src="/gallery/2016/sixpack/label_tij.PNG"> </br>
 <sub>Image source: http://www.brouwerijhetij.nl/?lang=en </sub>
