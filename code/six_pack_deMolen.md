@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: endlesspint
+subtitle: Six Pack Project - Netherlands, De Molen
+---
 
 ```python
 import urllib2
@@ -538,7 +542,7 @@ plt.plot(df_reviews.datetime, df_reviews.BAscore_norm)
 
 
 
-![png](output_19_1.png)
+<img src = "/code/six_pack_deMolen/output_19_1.png">
 
 
 
@@ -559,7 +563,7 @@ df_reviews[categories].hist(figsize=(10,6))
 
 
 
-![png](output_20_1.png)
+<img src = "/code/six_pack_deMolen/output_20_1.png">
 
 
 
@@ -575,7 +579,7 @@ df_reviews[categories].plot.box(figsize=(10,6))
 
 
 
-![png](output_21_1.png)
+<img src = "/code/six_pack_deMolen/output_21_1.png">
 
 
 
@@ -620,7 +624,7 @@ scatter_matrix(df_reviews[categories], figsize=(12, 12), s=50, diagonal='kde')
 
 
 
-![png](output_23_1.png)
+<img src = "/code/six_pack_deMolen/output_23_1.png">
 
 
 
@@ -693,7 +697,7 @@ parallel_coordinates(df_reviews[['look', 'smell', \
 
 
 
-![png](output_28_1.png)
+<img src = "/code/six_pack_deMolen/output_28_1.png">
 
 
 ## now for some text analysis
