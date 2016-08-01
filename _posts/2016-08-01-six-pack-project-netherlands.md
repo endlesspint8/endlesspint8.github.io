@@ -136,7 +136,7 @@ Perhaps I am too lenient and overly forgiving in my appreciation. I would likely
 
 My original thoughts after the first time enjoying<sup id="a4">[4](#f4)</sup> 't IJ's IPA was that it was a solid beer that might be a fair substitute for my beloved Lagunitas IPA. I do not pretend to claim that Lagunitas makes _the greatest IPA_ in the world but I would be happy with it on almost all occasions. Simply put, Lagunitas IPA is a fantastic everyday beer. After my investigations I found out that I might not have been too far off in equating the two, as both beers were far less favored than I would have anticipated. 
 
-With my original sanguine ideas in mind I collected ratings for 't IJ and several other American IPA's with the intent of comparing user ratings and getting an idea of head-to-head preferences. I found users who had rated 2 or more of the selected IPA's and used their ratings as voting proxies. Beers with the same score by user received half a vote a piece, otherwise the higher score would determine the winning/preferred beer. In total there were 3,950 reviewers that constituted 31,852 head-to-head matchups. By tallying the "votes" and splitting by total "ballots" cast in matchups I was able to <a href="/code/six_pack_tIJ" target="_blank">generate a user ratings table</a>: 
+With my original sanguine ideas in mind I collected ratings for 't IJ and several other American IPA's with the intent of comparing user ratings and getting an idea of head-to-head preferences.<sup id="a5">[5](#f5)</sup> I found users who had rated 2 or more of the selected IPA's and used their ratings as voting proxies. Beers with the same score by user received half a vote a piece, otherwise the higher score would determine the winning/preferred beer. In total there were 3,950 reviewers that constituted 31,852 head-to-head matchups. By tallying the "votes" and splitting by total "ballots" cast in matchups I was able to <a href="/code/six_pack_tIJ" target="_blank">generate a user ratings table</a>: 
 
 <img src="/gallery/2016/sixpack/tij_user_ratings.png"> <br>
 <sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
@@ -168,6 +168,7 @@ This may be a long shot but I'm assuming the label is bringing up other desires 
 <sub>Image source: <a href="http://www.brouwerijhetij.nl/?lang=en" target="_blank">'t IJ</a> </sub>
 
 <br>
+<br>
 
 ---
 
@@ -175,5 +176,8 @@ This may be a long shot but I'm assuming the label is bringing up other desires 
 
 <b id="f1">1</b> No disrespect to Guinness. It’s just that there’s more to stouts than Irish stouts, is all. [↩](#a1) <br>
 <b id="f2">2</b> The latter two are not present on the label image off of the brewery website but do appear on my version. In real life. [↩](#a2) <br>
-<b id="f3">3</b> Clearly, based on the choice of beers in this piece. [↩](#a3)
-<b id="f4">4</b> Yes, enjoying it picky beer snobs. [↩](#a4)
+<b id="f3">3</b> Clearly, based on the choice of beers in this piece. [↩](#a3) <br>
+<b id="f4">4</b> Yes, enjoying it picky beer snobs. [↩](#a4) <br>
+<b id="f5">5</b> Original motivation/inspiration from <a href="http://fivethirtyeight.com/features/captain-america-civil-war-who-would-win/" target="_blank">this fivethirtyeight piece</a>;   
+step-by-step method at <a href="http://www.pro-football-reference.com/blog/?p=171" target="_blank">pro-football</a>. [↩](#a5) <br>
+
