@@ -84,18 +84,22 @@ This does not feel like a light beer. The label says 4.6% alcohol and it is cert
 
 http://brouwerijdemolen.nl/
 
-
-
 > Dutch point: Urban renewal and repurpose. Eindhoven, Rotterdam
 
-I am a big fan of stout beers (footnote:clearly, based on the choice of beers in this piece) and definitely a fan of smoke beers, put them together for a winning combination. If done right. This last crucial detail turned out to be a point of contention on BeerAdvocate. A handful of people were definitely not impressed with the resulting combination. Thankfully I did not fall into this camp. I would anticipate at least benefitting from a short supply chain and lower risks of bottle shock [movie link]. For me the combination was a success, so the camp I fell into should be pretty clear. I wanted to know if my description would bear this out so I took my review, in blue below, and ran it through some text analysis to see what BA reviews I matched up closest to.
+I am a big fan of stout beers (footnote:clearly, based on the choice of beers in this piece) and definitely a fan of smoke beers, put them together for a winning combination. If done right. This last crucial detail turned out to be a point of contention on BeerAdvocate. A handful of people were definitely not impressed with the resulting combination. Thankfully I did not fall into this camp. I would anticipate at least benefitting from a short supply chain and lower risks of bottle shock [movie link]. For me the combination was a success, so the camp I fell into should be pretty clear. I wanted to know if my description would bear this out so I took my review, in blue below, and ran it through some text analysis to see what BA reviews I matched up closest to (notebook link).
 
 This beer was bottled in January 2015 I am now enjoying it a year and half into its four year recommended window. The nose is what you would expect from a rauchbier. It pours enticingly dark with a thin head that does not build. There is still some carbonation within the bottle witnessed by bubbles casually drifting to the top. This beer is packing an expected punch in both alcohol and flavor. I definitely took the precaution of having a meal before, more for the flavor than the solid ABV (8.5%). It packs such a flavor punch that any food would have to accommodate itself to the beer, and not the other way around. Initially coming out of the bottle the smoke is most present in the nose and taste. However, as the beer warms and we continue to sip from it we begin to get the spicy tingle.
 
+As it turned out my input matched well with positive reviews and confirmed my happy experience. I was definitively in the "solid" group and likely to score the beer 4 or above on each of its characteristics.
+
+**Parallel Coordinates for De Molen's Rook & Vuur Characteristics** </br>
+** (grouped by IQR overall scores)**
+<img src="/gallery/2016/sixpack/demolen_pllcoord.png"> </br>
+<sub>Data source: <a href="https://www.beeradvocate.com/beer/profile/11031/57357/" target="_blank">BeerAdvocate</a> </sub>
+
 Sticking with the theme we have here another gorgeous label. So far we've had goofy, elegant,  kitsch [http://faculty.georgetown.edu/irvinem/theory/Sontag-NotesOnCamp-1964.html], and now something that I would characterize as “the essentials”. All the information and only the information is presented on the label. It looks not unlike what I imagine olde medicine (apothecary) did before radio, television, and that crazy thing young people call the world wide web. 
 
-<img src="/gallery/2016/sixpack/Rook-Vuur-33cl.jpg">
-
+<img src="/gallery/2016/sixpack/Rook-Vuur-33cl.jpg"> </br>
 <sub>Label source: http://brouwerijdemolen.nl/dev/wp-content/uploads/2015/01/Rook-Vuur-33cl.jpg</sub>
 
 Aside from the meal ahead of time I also made sure to make my lunch before I sat down to enjoy this brew. That's another thing about the Dutch nearly all of them bring food to work and in an effort to fit in or at least not stick out too much I also do my best to brown bag it. I didn't know how seriously to take the description of whiskey on the label yet as the beer settles in the glass I see what was meant and I can only wonder the type of lunch I would've packed if I had waited until after I have enjoyed this drink. It would have been night guy pulling a fast one on day guy [Seinfeld link]. Alas I have decided to be responsibly irresponsible: my next day’s meal is prepared and I'm drinking on a school night.
