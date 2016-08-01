@@ -95,18 +95,16 @@ As it turned out my input matched well with positive reviews and confirmed my ha
 <img src="/gallery/2016/sixpack/demolen_pllcoord.png"> </br>
 <sub>Data source: <a href="https://www.beeradvocate.com/beer/profile/11031/57357/" target="_blank">BeerAdvocate</a> </sub>
 
-Sticking with the label theme we have here another gorgeous one. So far we've had the goofy giant & dwarf of Reuz, Emelisse's elegant and simple style,  and the kitsch [http://faculty.georgetown.edu/irvinem/theory/Sontag-NotesOnCamp-1964.html] of LOC's Naughty Boy. I would characterize De Molen's labels as “the essentials”. All the information and only the information is presented on the label. It looks not unlike what I imagine olde medicine (apothecary) did before radio, television, and that crazy thing young people call the world wide web. 
+Sticking with the label theme we have here another gorgeous one. So far we've had the goofy giant & dwarf of Reuz, Emelisse's elegant and simple style, and the <a href="http://faculty.georgetown.edu/irvinem/theory/Sontag-NotesOnCamp-1964.html" target="_blank">camp</a>/kitsch of LOC's Naughty Boy. I would characterize De Molen's labels as “the essentials”. All the information and only the information is presented on the label. It looks not unlike what I imagine olde medicine did before radio, television, and that crazy thing young people call the world wide web. 
 
 <img src="/gallery/2016/sixpack/Rook-Vuur-33cl.jpg"> </br>
 <sub>Label source: http://brouwerijdemolen.nl/dev/wp-content/uploads/2015/01/Rook-Vuur-33cl.jpg</sub>
 
-Aside from the meal ahead of time I also made sure to make my lunch before I sat down to enjoy this brew. That's another thing about the Dutch nearly all of them bring food to work and in an effort to fit in or at least not stick out too much I also do my best to brown bag it. I didn't know how seriously to take the description of whiskey on the label yet as the beer settles in the glass I see what was meant and I can only wonder the type of lunch I would've packed if I had waited until after I have enjoyed this drink. It would have been night guy pulling a fast one on day guy [Seinfeld link]. Alas I have decided to be responsibly irresponsible: my next day’s meal is prepared and I'm drinking on a school night.
+Aside from the meal ahead of time I also made sure to make my lunch before I sat down to enjoy this brew. That's another thing about the Dutch nearly all of them bring food to work and in an effort to fit in or at least not stick out too much I also do my best to brown bag it. I didn't know how seriously to take the description of whiskey on the label yet as the beer settles in the glass I see what was meant and I can only wonder the type of lunch I would've packed if I had waited until after I have enjoyed this drink. It would have been <a href="https://www.youtube.com/watch?v=W-Cz-LK16g4" target="_blank">night guy pulling a fast one on day guy</a>. Alas I have decided to be responsibly irresponsible: my next day’s meal is prepared and I'm drinking on a school night.
 
 After the initial build in spice the heat has not continued to escalate and as a result the beer does not become intolerable far from it. So I would not classify this as a primarily spicy beer but I can definitely see how it would be too much for people Who do not appreciate a little kick. On second thought I may have to rescind that last comment I believe this does qualify as a spicy beer.
 
 ## Het Uiltje - Ransuil, Long eared owl (Oak aged Imperial/double stout)
-
-<sub>Image source: https://www.uiltjecraftbeer.com/wp-content/uploads/2015/08/bosuil.jpg </sub>
 
 > Dutch commentary: You even get good beer in the department store! The first time I was introduced to this brewery was actually in <a href="http://www.hema.nl/" target="_blank">HEMA</a>. The idea of finding good beer in a department store is pretty alien to someone from the United States. But this is just one of the rough cultural differences I need to to get used to if I'm going to make it here and be happy. 
 
@@ -131,7 +129,7 @@ Enough with all that, how about the beer? Smooth of course, very clean, solid mo
 
 We are now at the end, the final beer, and it is bittersweet. Not only the selection, IPA, but also the way it's been received and rated by others. I wanted to say last but not least, unfortunately both last and least seems to be how many people have come to appreciate the IPA from <a href="http://www.brouwerijhetij.nl/?lang=en" target="_blank">'t IJ</a>. It's a shame for me personally since this is one of the first beers that made me realize that in a land  with so much traditional brewing there was definitely a craft beer scene, and a damn good one at that. As I have mentioned before,  perhaps I am too lenient and overly forgiving in my appreciation. I  would likely be the bizarro-Russian judge when it came to scoring performances.
 
-> Dutch commentary: Speaking of price it's one of the small beer adjustments I have had to make. Similar to back home, beers are cheaper at a store than at the bar but the price difference is not nearly as great as what I’m accustomed to and as a result I often feel I’m getting a better deal at a bar, even with the higher price because of the larger selection than what I tend to keep at home. Chalk it up to predictably irrational [link] human perception. All in all prices are cheaper here than back in New York, there are few places that would not be true, both at the bar and at the bottle shops. The difference is that the bars tend to charge quite a bit less than in the city but the bottle shops don't provide much of a discount at all (again to what I've become accustomed to). As a result, and since things are relative, I tend to appreciate the bar prices a bit more.
+> Dutch commentary: Price is one of the small beer adjustments I have had to make. Similar to back home, beers are cheaper at a store than at the bar but the price difference is not nearly as great as what I’m accustomed to and as a result I often feel I’m getting a better deal at a bar, even with the higher price because of the larger selection than what I tend to keep at home. Chalk it up to <a href="https://en.wikipedia.org/wiki/Predictably_Irrational" target="_blank">predictably irrational</a> human perception. All in all prices are cheaper here than back in New York, there are few places that would not be true, both at the bar and at the bottle shops. The difference is that the bars tend to charge quite a bit less than in the city but the bottle shops don't provide much of a discount at all (again to what I've become accustomed to). As a result, and since things are relative, I tend to appreciate the bar prices a bit more.
 
 <img src="/gallery/2016/sixpack/label_tij.PNG"> </br>
 <sub>Image source: http://www.brouwerijhetij.nl/?lang=en </sub>
@@ -152,28 +150,4 @@ ML grid:
 
 
 If you see someone playing with a piece of paper or tearing a label off of a jar, it is not uncommon in the US to joke that they are sexually frustrated. This may be a long shot but I'm assuming the label is bringing up other desires in drinkers that unfortunately cloud their reception of this brew. 
-
-
-
-
-
-
-
-
-### 6-for-6
-
-	 
-	URBAN:
-	Rotterdam
-	http://revitalizationnews.com/article/revitalizing-europes-largest-port-to-its-city-while-reconnecting-rotterdam-to-its-water/
-	http://www.citylab.com/design/2012/05/rotterdam-promenade-built-people/2035/
-	http://markthalrotterdam.nl/
-	http://www.fenixfoodfactory.nl/; https://twitter.com/fenixfood
-	http://www.fenixfoodfactory.nl/kaapsebrouwers.html
-	
-	Urban Repurposing
-	http://www.strijp-s.nl/nl/home; https://twitter.com/StrijpS
-
-	Brews
-	http://www.europeanbeerguide.net/hollbrw1.htm
 
