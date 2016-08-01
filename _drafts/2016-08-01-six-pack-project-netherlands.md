@@ -67,11 +67,11 @@ Quantitative analysis aside, of the fourteen top reviewers that rated this on Ra
 
 <img src="/gallery/2016/sixpack/emelisse_saison2.jpg">
 
-> Dutch point: Excellent bottle shops everywhere: across the border, next to supermarkets, in supermarkets. There’s a hazier line between craft and not here. Longer uninterrupted beer tradition. 
-
 <a href="http://www.emelisse.nl/" target="_blank">Emelisse</a> is easily one of my favorite breweries from the Netherlands. For me it made sense to use them for a style that is not one of my go-to’s. Based on past (good) experiences with their beers I figured they would make this an offering I would like and I could try another style. 
 
 There are many things I enjoy about this brewery: of course first and foremost is the quality of the beers they make, beyond that is also the presentation. I'm not quite sure where you stand on the spectrum of accepting or denying the influences of marketing and packaging but I will not pretend that I am not swayed by its influence. The type and colors of the labels, yes we're talking about labels again, are clean and easily recognizable on the shelf.
+
+> Dutch commentary: Excellent bottle shops are everywhere: across the border, next to supermarkets, in supermarkets. There’s a hazier line between craft and not here. Longer uninterrupted beer tradition. Half of the beers covered here were picked up at a "beer shed" that casually also carries crates of <a href="http://sintsixtus.be/" target="_blank">Westvleteren</a> 8, 10, & 12.
 
 <img src="/gallery/2016/sixpack/emellisse_shelf.JPG">
 
