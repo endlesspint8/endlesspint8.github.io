@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: endlesspint
+subtitle: Six Pack Project - Netherlands, 't IJ
+---
 
 ```python
 import os, csv
@@ -155,7 +159,7 @@ df_ipa.plot.box()
 
 
 
-![png](output_7_1.png)
+<img src = "/code/six_pack_tIJ/output_7_1.png">
 
 
 
@@ -171,7 +175,7 @@ df_ipa.plot.hist(alpha=0.5)
 
 
 
-![png](output_8_1.png)
+<img src = "/code/six_pack_tIJ/output_8_1.png">
 
 
 # some investigation
@@ -1066,7 +1070,7 @@ sns.heatmap(ipa_perc_sorted_df, annot=True, cbar=False, cmap="YlGnBu")
 
 
 
-![png](output_47_1.png)
+<img src = "/code/six_pack_tIJ/output_47_1.png">
 
 
 
@@ -1085,7 +1089,7 @@ sns.heatmap(ipa_est_pref_df.replace(0, np.nan), annot=True, cbar=False)
 
 
 
-![png](output_48_1.png)
+<img src = "/code/six_pack_tIJ/output_48_1.png">
 
 
 
