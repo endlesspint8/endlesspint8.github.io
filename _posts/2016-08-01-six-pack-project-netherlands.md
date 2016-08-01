@@ -13,7 +13,7 @@ The Netherlands has a <a href="http://www.europeanbeerguide.net/hollbrw1.htm" ta
 It's the beginning of June and I'm drinking a <a href="http://www.reuzenbieren.com/" target="_blank">Reuz</a> Stout. A barrel appears on the label but this version of the beer is not aged. However it does come in at a respectable 9.5% ABV. Predictably black, this good looking stout give off hints of dark brown around the edges, and especially at the top of the glass. The smell is familiar to anyone who's had a respectable stout and explored beyond Guinness (footnote: no disrespect to Guinness. It’s just that there’s more to stout than Irish stouts, is all). It is definitely sweet but by no means cloying, has a nice mouthfeel, and a light roasted touch. Smooth is definitely a word that comes to mind. When I suggest that it has a caramel flavor I have the Belgian doubles in mind and if not caramel then perhaps toffee.
 
 <img src="/gallery/2016/sixpack/label_reuz_stout.PNG">
-<sub>Label source: http://www.reuzenbieren.com/download/ReuZ_Stout_33cl.pdf </sub>
+<sub>Label source: <a href="http://www.reuzenbieren.com/download/ReuZ_Stout_33cl.pdf" target="_blank">ReuZ</a> </sub>
 
 Do not think that because I gravitate to the label so quickly I do not enjoy the beer but rather that I respect and appreciate the amount of information provided, as well as the detail and the display of the data. For instance, everything is clearly defined, from alcohol percentage, to storage temperature, as well as the glass and temperature it should be served in. Below that we have a different set of categories that provide us with diet details, number of calories, and IBU’s. One of my favorite things about European beer bottles are the prohibition symbols indicating who should not be drinking. For instance there is the silhouette of a pregnant lady in profile, an image of a car, and the number 18 (footnote: the latter two are not present on the label image off of the brewery website but do appear on my version). Each of these are surrounded by a red circle with a slash across them, reminiscent of the Ghostbusters symbol, suggesting that we don't want these ghosts. 
 
@@ -53,12 +53,12 @@ I was obviously disappointed to find out that it is not as well received by most
 
 I pulled down ABV & IBU information on approximately 70 Dutch beers for three styles: IPA, BIPA, and stouts. This data was placed on a standardized scatter plot, with each point colored by beer style, and the surrounding areas receiving the color of the closest style. True to several of the LOC collaborations, Naughty Boy has its IBU numbers obscured (link: to LOC collab page) so I created a vertical line for the 4.9% ABV that would represent all possible IBU's on our current scale (see image below).
 
-<img src="/gallery/2016/sixpack/loc_knn3.png"> </br>
+<img src="/gallery/2016/sixpack/loc_knn3.png"> <br>
 <sub>Data source: <a href="https://untappd.com/" target="_blank">Untappd</a> </sub>
 
 Running a k-nearest neighbor anaylsis [link to notebook] I discovered that for this limited data set (footnote: yes, we should use more data) the best predictive returns would happen with two neighbors. Each of the candidate points above were then categorized by their two closest beer style neighbors and colored in based on scores. Naughty Boy occasionally receives a vote for "stout", but never without a matching IPA or BIPA vote. In fact, the IPA and BIPA votes occur most often and are the two styles that present unanimous categorizations. Above a certain IBU, fifty-five, there are no votes for stout as a style. 
 
-<img src="/gallery/2016/sixpack/loc_knn2.png"> </br>
+<img src="/gallery/2016/sixpack/loc_knn2.png"> <br>
 <sub>Data source: <a href="https://untappd.com/" target="_blank">Untappd</a> </sub>
 
 Quantitative analysis aside, of the fourteen top reviewers that rated this on <a href="http://www.ratebeer.com/beer/loc-naughty-boy/397297/2/1/" target="_blank">RateBeer</a> (Accessed: 24 July 2016) eleven mentioned "bitter", and some more than once. Consumers naturally have predefined ideas about what they are getting into, including when they don't know what to expect (which was a bit like my experience in drinking this without prior knowledge about the purported style). I believe the misplaced expectations of what a stout should taste like left reviewers surprised, and clearly not always in a pleasant way. I would submit that if Naughty Boy has an IBU of 55 or higher it be rebranded and possibly receive better reviews as a result. 
@@ -77,8 +77,8 @@ There are many things I enjoy about this brewery: of course first and foremost i
 
 I decided to pour this beer into a small thin glass, perhaps thinking it would look better, and of course, it being a saison with the requisite yeast, I naturally got a lot of foam. I was on the lookout for this and avoided wasting a drop. I simply waited patiently until the foam subsided enough for me to pour more into the glass. I waited some more as it rose and then poured in still more. It's been raining pretty heavily here for the last two weeks but as you can tell from the photo today is a sunny day, what better time to open up this beer. 
 
-<img src="/gallery/2016/sixpack/weather_daysun.png"> </br>
-<sub>Data source: <a href="http://www.climatemps.com/" target="_blank">ClimaTemps</a></sub> </br>
+<img src="/gallery/2016/sixpack/weather_daysun.png"> <br>
+<sub>Data source: <a href="http://www.climatemps.com/" target="_blank">ClimaTemps</a></sub> <br>
 <sub> While Amsterdam experiences 16+ hours of daylight during the summer, only about 7 of them are considered to be sunlight hours, the rest are obscured. New York and Los Angeles have fewer daylight summer hours, 15 & 14 respectively, but each get more sunlight: 10 & 11 hours. From left to right: more daylight but lower ratio & absolute hours of sunlight to less daylight and higher ratio & absolute hours of sunlight. Verdict: move to LA.</sub>
 
 This does not feel like a light beer. The label says 4.6% alcohol and it is certainly not something that's going to knock you on your ass, but there is a full mouth feel, a light toffee, certainly malty, backbone which would easily lead you to believe that this could stand its own against many dishes, as Garrett Oliver mentions repeatedly for the style in <a href="https://www.amazon.com/Brewmasters-Table-Discovering-Pleasures-Real/dp/0060005718" target="_blank">The Brewmaster's Table</a>. While this is not my top style I’ve had my fair share and can say this an enjoyable release. To recap: quick forming foam head, delicate nose, and light spices. Light orange body with many small bubbles on initial pour with a subsiding frenzy the longer it sits. 
@@ -98,8 +98,8 @@ As it turned out my input matched well with positive reviews and confirmed my ha
 
 Sticking with the label theme we have here another gorgeous one. So far we've had the goofy giant & dwarf of Reuz, Emelisse's elegant and simple style, and the <a href="http://faculty.georgetown.edu/irvinem/theory/Sontag-NotesOnCamp-1964.html" target="_blank">camp</a>/kitsch of LOC's Naughty Boy. I would characterize De Molen's labels as “the essentials”. All the information and only the information is presented on the label. It looks not unlike what I imagine olde medicine did before radio, television, and that crazy thing young people call the world wide web. 
 
-<img src="/gallery/2016/sixpack/Rook-Vuur-33cl.jpg"> </br>
-<sub>Label source: http://brouwerijdemolen.nl/dev/wp-content/uploads/2015/01/Rook-Vuur-33cl.jpg</sub>
+<img src="/gallery/2016/sixpack/Rook-Vuur-33cl.jpg"> <br>
+<sub>Label source: <a href="http://brouwerijdemolen.nl/dev/wp-content/uploads/2015/01/Rook-Vuur-33cl.jpg" target="_blank">De Molen</a> </sub>
 
 Aside from the meal ahead of time I also made sure to make my lunch before I sat down to enjoy this brew. That's another thing about the Dutch nearly all of them bring food to work and in an effort to fit in or at least not stick out too much I also do my best to brown bag it. I didn't know how seriously to take the description of whiskey on the label yet as the beer settles in the glass I see what was meant and I can only wonder the type of lunch I would've packed if I had waited until after I have enjoyed this drink. It would have been <a href="https://www.youtube.com/watch?v=W-Cz-LK16g4" target="_blank">night guy pulling a fast one on day guy</a>. Alas I have decided to be responsibly irresponsible: my next day’s meal is prepared and I'm drinking on a school night.
 
