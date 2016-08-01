@@ -93,7 +93,7 @@ This beer was bottled in January 2015 I am now enjoying it a year and half into 
 As it turned out my input matched well with positive reviews and confirmed my happy experience. I was definitively in the "solid" group and likely to score the beer 4 or above on each of its characteristics.
 
 **Parallel Coordinates for De Molen's Rook & Vuur Characteristics** </br>
-** (grouped by IQR overall scores)**
+**(grouped by IQR overall scores)** </br>
 <img src="/gallery/2016/sixpack/demolen_pllcoord.png"> </br>
 <sub>Data source: <a href="https://www.beeradvocate.com/beer/profile/11031/57357/" target="_blank">BeerAdvocate</a> </sub>
 
@@ -154,7 +154,7 @@ ML grid:
 <img src="/gallery/2016/sixpack/tij_max_like.png">
 
 
-
+If you see someone playing with a piece of paper or tearing a label off of a jar, it is not uncommon in the US to joke that they are sexually frustrated. This may be a long shot but I'm assuming the label is bringing up other desires in drinkers that unfortunately cloud their reception of this brew. 
 
 
 
