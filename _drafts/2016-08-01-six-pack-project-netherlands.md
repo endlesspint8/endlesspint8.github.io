@@ -72,7 +72,7 @@ This is easily one of my favorite breweries from the Netherlands. For me it made
 
 There are many things I enjoy about this brewery: of course first and foremost is the quality of the beers they make, beyond that is also the presentation. I'm not quite sure where you stand on the spectrum of accepting or denying the influences of marketing and packaging but I will not pretend that I am not swayed by its influence. The type and colors of the labels, yes we're talking about labels again, are clean and easily recognizable on the shelf.
 
-# beer shed emelisse shelf
+<img src="/gallery/2016/sixpack/emellisse_shelf.JPG">
 
 I decided to pour this beer into a small thin glass, perhaps thinking it would look better, and of course, it being a saison with the requisite yeast, I naturally got a lot of foam. I was on the lookout for this and avoided wasting a drop. I simply waited patiently until the foam subsided enough for me to pour more into the glass. I waited some more as it rose and then poured in still more. It's been raining pretty heavily here for the last two weeks but as you can tell from the photo today is a sunny day, what better time to open up this beer. 
 
@@ -97,7 +97,7 @@ As it turned out my input matched well with positive reviews and confirmed my ha
 <img src="/gallery/2016/sixpack/demolen_pllcoord.png"> </br>
 <sub>Data source: <a href="https://www.beeradvocate.com/beer/profile/11031/57357/" target="_blank">BeerAdvocate</a> </sub>
 
-Sticking with the theme we have here another gorgeous label. So far we've had goofy, elegant,  kitsch [http://faculty.georgetown.edu/irvinem/theory/Sontag-NotesOnCamp-1964.html], and now something that I would characterize as “the essentials”. All the information and only the information is presented on the label. It looks not unlike what I imagine olde medicine (apothecary) did before radio, television, and that crazy thing young people call the world wide web. 
+Sticking with the label theme we have here another gorgeous one. So far we've had the goofy giant & dwarf of Reuz, Emelisse's elegant and simple style,  and the kitsch [http://faculty.georgetown.edu/irvinem/theory/Sontag-NotesOnCamp-1964.html] of LOC's Naughty Boy. I would characterize De Molen's labels as “the essentials”. All the information and only the information is presented on the label. It looks not unlike what I imagine olde medicine (apothecary) did before radio, television, and that crazy thing young people call the world wide web. 
 
 <img src="/gallery/2016/sixpack/Rook-Vuur-33cl.jpg"> </br>
 <sub>Label source: http://brouwerijdemolen.nl/dev/wp-content/uploads/2015/01/Rook-Vuur-33cl.jpg</sub>
@@ -138,7 +138,8 @@ http://www.brouwerijhetij.nl/?lang=en
 
 We are now at the end, the final beer, and it is bittersweet. Not only the selection (IPA) but also the way it's been received and rated by others. I wanted to say last but not least, unfortunately both last and least seems to be how many people have come to appreciate this selection. It's a shame for me personally since this is one of the first beers that made me realize that in a land  with so much traditional brewing there was definitely a craft beer scene, and a damn good one at that. As I have mentioned before,  perhaps I am too lenient and overly forgiving in my appreciation. I  would likely be the bizarro-Russian judge when it came to scoring performances.
 
-<img src="/gallery/2016/sixpack/label_tij.PNG">
+<img src="/gallery/2016/sixpack/label_tij.PNG"> </br>
+<sub>Image source: http://www.brouwerijhetij.nl/?lang=en </sub>
 
 
 # DATA MODEL ML GRID
@@ -148,10 +149,14 @@ What we have here, at least in my opinion, is a damn solid IPA. Light orange in 
 3,950 reviewers; 31,852 head-to-head matchups
 
 Users: 
-<img src="/gallery/2016/sixpack/tij_user_ratings.png">
+
+<img src="/gallery/2016/sixpack/tij_user_ratings.png"> </br>
+<sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
 
 ML grid:
-<img src="/gallery/2016/sixpack/tij_max_like.png">
+
+<img src="/gallery/2016/sixpack/tij_max_like.png"> </br>
+<sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
 
 
 If you see someone playing with a piece of paper or tearing a label off of a jar, it is not uncommon in the US to joke that they are sexually frustrated. This may be a long shot but I'm assuming the label is bringing up other desires in drinkers that unfortunately cloud their reception of this brew. 
