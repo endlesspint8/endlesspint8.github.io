@@ -23,7 +23,8 @@ A third of the way through the beer and with its continued warming the flavors b
 
 Again it is June here, the beginning of June. This means that it is not quite summer though the weather is showing signs of warming and has occasionally broken into the 80’s. So why am I drinking such a dark beer, a strong beer? For one, I enjoy the style. For another, this is not always the warmest place to be – I'm referring to the Netherlands of course.
 
-# WEATHER INSERT
+<img src="/gallery/2016/sixpack/weather_temp.png"> </br>
+<sub>Data source: <a href="http://www.climatemps.com/" target="_blank">ClimaTemps</a></sub>
 
 Punchline: for those of you who can't make Rio for the Olympic games, which by the way for them it's winter, come right over to Amsterdam where the weather is basically the same. Except more overcast, more rain, and less total sunlight.
 
@@ -76,7 +77,8 @@ There are many things I enjoy about this brewery: of course first and foremost i
 
 I decided to pour this beer into a small thin glass, perhaps thinking it would look better, and of course, it being a saison with the requisite yeast, I naturally got a lot of foam. I was on the lookout for this and avoided wasting a drop. I simply waited patiently until the foam subsided enough for me to pour more into the glass. I waited some more as it rose and then poured in still more. It's been raining pretty heavily here for the last two weeks but as you can tell from the photo today is a sunny day, what better time to open up this beer. 
 
-# SUNLIGHT: NY & LA
+<img src="/gallery/2016/sixpack/weather_daysun.png"> </br>
+<sub>Data source: <a href="http://www.climatemps.com/" target="_blank">ClimaTemps</a></sub>
 
 This does not feel like a light beer. The label says 4.6% alcohol and it is certainly not something that's going to knock you on your ass, but there is a full mouth feel, a light toffee, certainly malty, backbone which would easily lead you to believe that this could stand its own against many dishes [the brewmasters table recommendation]. Again, it’s not necessarily my favorite style but I’ve had my fair share and can say this an enjoyable release. To recap: quick forming foam head, delicate nose, and light spices. Light orange body with many small bubbles on initial pour with a subsiding frenzy the longer it sits. 
 
@@ -116,7 +118,8 @@ Dutch point: you even get good beer in the department store! HEMA [http://www.he
 
 It's been raining again most of the week, most of the month, most of the summer. Despite the long days much of it has been overcast and gray. It appears that my selection of beers fits right in to the weather theme of the summer, dark & stormy. 
 
-# WEATHER: LONDON
+<img src="/gallery/2016/sixpack/weather_rain.png"> </br>
+<sub>Data source: <a href="http://www.climatemps.com/" target="_blank">ClimaTemps</a></sub>
 
 True to its label the beer has the distinctive  oak-aged stout flavor. I prefer a Bourbon barrel aged stout but it's nice to change it up and so they'll be no objections from here. Unlike the other beers discussed in this post I have decided to pair this drink with some food. In case I end up not sharing the photo let me mention that it is cake. And I’m keeping it classy [Ron Burgundy] by not bothering with a plate, instead eating it directly from the tinfoil it was saved in.
 
