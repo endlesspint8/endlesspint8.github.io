@@ -32,12 +32,10 @@ The upside to Holland not getting too hot is that I can more easily disregard (t
 
 I thought half of the six beers to profile would be dark and the other three of lighter styles. This would allow me to cover a wide range of styles in just one post. Whether that turns out to be the case may be determined by what state I’m in after drinking this 9.5% beer and my girlfriend finds me. It may very well turn out that I do a profile of one beer and five sparkling waters from the Netherlands. Damn giant and dwarf. 
 
-> Dutch point: My first introduction to this beer was at a local cafe where this stout was nonchalantly listed on their menu. While in the Netherlands you may be presented with less draft choices than you’re used to at your regular US craft bar the NL bars make up for it with a wide bottle selection and an equally dazzling collection of matching glassware. 
+> Dutch commentary: My first introduction to this beer was at a local cafe where this stout was nonchalantly listed on their menu. While in the Netherlands you may be presented with less draft choices than you’re used to at your regular US craft bar the NL bars make up for it with a wide bottle selection and an equally dazzling collection of matching glassware. 
 
 
 ## LOC & de 3 Horne’s Naughty Boy
-
-> Dutch point: Bars will rotate their bottles as likely, sometimes more often, than their draft choices.
 
 Is it a stout, is it a BIPA? This collaboration from <a href="http://www.locbrewery.com/" target="_blank">LOC</a> and <a href="https://de3horne.nl/" target="_blank">de 3 Horne</a> is a bit of both. The photo shows the foam suggesting a Belgian-y yeast. The color and roast flavors say "stout". The nose and forward flavor say "hops". The label itself says a whole lot and nothing at all. Beside the cartoon we are provided a runon sentence that was written under some type of influence and Google translate [twitter link to #GoogleTranslate] mashup.
 
@@ -47,7 +45,11 @@ _Well just drink with mate_!"
 
 <img src="/gallery/2016/sixpack/loc_naughty_boy2.jpg">
 
-I’ve enjoyed this brew several times, both at home and at the bars, and I knew I’d include it among the selection. I was obviously disappointed to find out that it is not as well received by most reviewers. I believe this is a result of possibly misplaced expectations. When I first drank it I wasn’t aware of the style and thought it a black IPA. Only after more closely reviewing and attempting to decipher the label, as well as visiting the brewery and beer review sites, did I see it was meant as a stout. I am going to argue this should be amended and I believe I have some data to back that up [link to notebook]. 
+I’ve enjoyed this brew several times, both at home and at the bars, and I knew I’d include it among the selection. 
+
+> Dutch commentary: Bars will rotate their bottles as likely, sometimes more often, than their draft choices.
+
+I was obviously disappointed to find out that it is not as well received by most reviewers. I believe this is a result of possibly misplaced expectations. When I first drank it I wasn’t aware of the style and thought it a black IPA. Only after more closely reviewing and attempting to decipher the label, as well as visiting the brewery and beer review sites, did I see it was meant as a stout. I am going to argue this should be amended and I believe I have some data to back that up [link to notebook]. 
 
 I pulled down ABV & IBU information on approximately 70 Dutch beers for three styles: IPA, BIPA, and stouts. This data was placed on a standardized scatter plot, with each point colored by beer style, and the surrounding areas receiving the color of the closest style. True to several of the LOC collaborations, Naughty Boy has its IBU numbers obscured (link: to LOC collab page) so I created a vertical line for the 4.9% ABV that would represent all possible IBU's on our current scale (see image below).
 
