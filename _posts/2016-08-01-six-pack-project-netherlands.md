@@ -91,9 +91,9 @@ This beer was bottled in January 2015 I am now enjoying it a year and half into 
 
 As it turned out my input matched well with positive reviews and confirmed my happy experience. I was definitively in the "solid" group and likely to score the beer 4 or above on each of its characteristics.
 
-**Parallel Coordinates for De Molen's Rook & Vuur Characteristics** </br>
-**(grouped by IQR overall scores)** </br>
-<img src="/gallery/2016/sixpack/demolen_pllcoord.png"> </br>
+**Parallel Coordinates for De Molen's Rook & Vuur Characteristics** <br>
+**(grouped by IQR overall scores)** <br>
+<img src="/gallery/2016/sixpack/demolen_pllcoord.png"> <br>
 <sub>Data source: <a href="https://www.beeradvocate.com/beer/profile/11031/57357/" target="_blank">BeerAdvocate</a> </sub>
 
 Sticking with the label theme we have here another gorgeous one. So far we've had the goofy giant & dwarf of Reuz, Emelisse's elegant and simple style, and the <a href="http://faculty.georgetown.edu/irvinem/theory/Sontag-NotesOnCamp-1964.html" target="_blank">camp</a>/kitsch of LOC's Naughty Boy. I would characterize De Molen's labels as “the essentials”. All the information and only the information is presented on the label. It looks not unlike what I imagine olde medicine did before radio, television, and that crazy thing young people call the world wide web. 
@@ -111,7 +111,7 @@ After the initial build in spice the heat has not continued to escalate and as a
 
 It's been raining again most of the week, most of the month, most of the summer. Despite the long days much of it has been overcast and gray. It appears that my selection of beers fits right in to the weather theme of the summer, dark & stormy. So how about another stout, this one from <a href="https://www.uiltjecraftbeer.com/" target="_blank">Het Uiltje</a>. 
 
-<img src="/gallery/2016/sixpack/weather_rain.png"> </br>
+<img src="/gallery/2016/sixpack/weather_rain.png"> <br>
 <sub>Data source: <a href="http://www.climatemps.com/" target="_blank">ClimaTemps</a></sub>
 
 True to its label the beer has the distinctive  oak-aged stout flavor. I prefer a Bourbon barrel aged stout but it's nice to change it up and so they'll be no objections from here. Unlike the other beers discussed in this post I have decided to pair this drink with some food. In case I end up not sharing the photo let me mention that it is cake. And I’m keeping it <a href="https://www.youtube.com/watch?v=MgGCIZi1UjY" target="_blank">classy</a> by not bothering with a plate, instead eating it directly from the tinfoil it was saved in.
@@ -138,19 +138,19 @@ My original thoughts after the first time enjoying [footnote: yes, enjoying it p
 
 With my original sanguine ideas in mind I collected ratings for 't IJ and several other American IPA's with the intent of comparing user ratings and getting an idea of head-to-head preferences. I found users who had rated 2 or more of the selected IPA's and used their ratings as voting proxies. Beers with the same score by user received half a vote a piece, otherwise the higher score would determine the winning/prefered beer. In total there were 3,950 reviewers that constituted 31,852 head-to-head matchups. By tallying the "votes" and splitting by total "ballots" cast in matchups I was able to <a href="/code/six_pack_tIJ" target="_blank">generate a user ratings table</a>: 
 
-<img src="/gallery/2016/sixpack/tij_user_ratings.png"> </br>
+<img src="/gallery/2016/sixpack/tij_user_ratings.png"> <br>
 <sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
 
 The table indicates by what percentage users prefered the beers listed on the left (y-axis) over the beers along the bottom (x-axis). For example, users prefered Bells to Stone 59% of the time. 
 
 I next used the above numbers to run a maximum likelihood process that would determine the overall rating of each beer, based on these preferences/wins, and provide an expected win rate against all other beers listed. Once again, the table indicates the likelihood of preference by beers listed on the left (y-axis) over the beers along the bottom (x-axis). 
 
-<img src="/gallery/2016/sixpack/tij_max_like.png"> </br>
+<img src="/gallery/2016/sixpack/tij_max_like.png"> <br>
 <sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
 
 
 If you see someone playing with a piece of paper or tearing a label off of a jar, it is not uncommon in the US to joke that they are sexually frustrated. This may be a long shot but I'm assuming the label is bringing up other desires in drinkers that unfortunately cloud their reception of this brew. 
 
-<img src="/gallery/2016/sixpack/label_tij.PNG"> </br>
-<sub>Image source: http://www.brouwerijhetij.nl/?lang=en </sub>
+<img src="/gallery/2016/sixpack/label_tij.PNG"> <br>
+<sub>Image source: <a href="http://www.brouwerijhetij.nl/?lang=en" target="_blank">'t IJ</a> </sub>
 
