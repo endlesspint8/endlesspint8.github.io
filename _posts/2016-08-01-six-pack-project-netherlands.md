@@ -148,8 +148,21 @@ I next used the above numbers to run a maximum likelihood process that would det
 <img src="/gallery/2016/sixpack/tij_max_like.png"> <br>
 <sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
 
+There's been some movement, but not much. Needless to say I was unpleasantly surprised to see BOTH Lagunitas and 't IJ rating so low. A further look at ABV and IBU do not hint at much, maybe showing a preference for higher IBU's but Bell's doesn't seem to summer from this.
 
-If you see someone playing with a piece of paper or tearing a label off of a jar, it is not uncommon in the US to joke that they are sexually frustrated. This may be a long shot but I'm assuming the label is bringing up other desires in drinkers that unfortunately cloud their reception of this brew. 
+|Beer|ABV|IBU|Rating|
+|---|---|---|---|
+|alesmith_ipa|7.25|73|1.61|
+|bells_twohearted|7|55|1.3|
+|ballastpoint_sculpin|7|70|1.3|
+|russianriver_blindpig|6.1|70|1.14|
+|surly_furious|6.6|100|0.96|
+|stone_ipa|6.9|77|0.88|
+|troegs_nuggetnectar|7.5|93|0.79|
+|lagunitas_ipa|6.2|46|0.2|
+|tij_ipa|7|60|0.17|
+
+This may be a long shot but I'm assuming the label is bringing up other desires in drinkers that unfortunately cloud their reception of this brew. If you see someone playing with a piece of paper or tearing a label off of a jar, it is not uncommon in the US to joke that they are sexually frustrated. Maybe a label change would refocus drinkers to what they have in hand and not what they're missing out on.
 
 <img src="/gallery/2016/sixpack/label_tij.PNG"> <br>
 <sub>Image source: <a href="http://www.brouwerijhetij.nl/?lang=en" target="_blank">'t IJ</a> </sub>
