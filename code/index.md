@@ -19,8 +19,8 @@ subtitle: For those who still can't get their fill.
 ### Going Dutch
 > Using PySpark technology and techniques to "learn" a language by identifying [stop words](dutch_stop_words) and other terms via <br>
 > <a href="/code/dutch_words/#all-without-stop-words">frequency</a>, <br>
-> bigrams, and <br>
-> tf-idf (dutch_words).
+> <a href="/code/dutch_words/#bigrams-baby">bigrams</a>, & <br>
+> <a href="/code/dutch_words/#top-wordarticle-by-tf-idf-subset">tf-idf</a>.
 <br>
 
 ### Exploring US Brewery Historical Data
