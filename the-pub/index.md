@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: The Pub
 subtitle: Public House & Publications
 ---
