@@ -10,9 +10,10 @@ subtitle: For those who still can't get their fill.
 
 ### Six-Pack Project: The Netherlands
 > Three sklearn python data models:
-> * [kNN analysis](six_pack_LOC_nb) to determine likely beer style; 
-> * [text analysis](six_pack_deMolen) of beer reviews; & 
-> * [MLE grid](six_pack_tIJ) of IPA's 
+> * [kNN analysis](six_pack_LOC_nb) to determine likely beer style; <br>
+> * [text analysis](six_pack_deMolen) of beer reviews; & <br>
+> * [MLE grid](six_pack_tIJ) of IPA's <br>
+
 
 ### Going Dutch
 > Using technology and techniques to "learn" a language by identifying [stop words](dutch_stop_words) and other terms via [frequency, bigrams, and tf-idf](dutch_words).
