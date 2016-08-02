@@ -645,7 +645,7 @@ print np.round_(ipa_perc, 3)
 original motivation: http://fivethirtyeight.com/features/captain-america-civil-war-who-would-win/ <br/>
 more step-by-step: http://www.pro-football-reference.com/blog/?p=171; screen shots below
 
-<img src="six_pack_tIJ/mle_profootball_001.PNG">
+<img src="/code/six_pack_tIJ/mle_profootball_001.PNG">
 
 
 ```python
@@ -662,7 +662,7 @@ toy_wins
 
 
 
-<img src="six_pack_tIJ/mle_profootball_002.PNG">
+<img src="/code/six_pack_tIJ/mle_profootball_002.PNG">
 
 
 ```python
@@ -700,7 +700,7 @@ np.sum(toy_wins[idx_a]) /\
 
 
 
-<img src="six_pack_tIJ/mle_profootball_003.PNG">
+<img src="/code/six_pack_tIJ/mle_profootball_003.PNG">
 
 
 ```python
@@ -734,7 +734,7 @@ np.sum(toy_wins[idx_c]) /\
 
 
 
-<img src="six_pack_tIJ/mle_profootball_004.PNG">
+<img src="/code/six_pack_tIJ/mle_profootball_004.PNG">
 
 
 ```python
@@ -810,7 +810,7 @@ print "Team A beats B: %f" % (rating_iter[-1][0]/(rating_iter[-1][0]+rating_iter
 
 ## the ratings are different, not important just ratios, but the winning probability matches example: 60.3%
 
-<img src="six_pack_tIJ/mle_profootball_005.PNG">
+<img src="/code/six_pack_tIJ/mle_profootball_005.PNG">
 
 # ready to apply to IPA's
 
