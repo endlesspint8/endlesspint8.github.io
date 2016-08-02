@@ -9,7 +9,7 @@ subtitle: For those who still can't get their fill.
 <br>
 
 ### Six-Pack Project: The Netherlands
-> Three sklearn python data models:
+> Three sklearn python data models: <br>
 > * [kNN analysis](six_pack_LOC_nb) to determine likely beer style; <br>
 > * [text analysis](six_pack_deMolen) of beer reviews; & <br>
 > * [MLE grid](six_pack_tIJ) of IPA's <br>
