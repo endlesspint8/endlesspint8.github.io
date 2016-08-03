@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Testing my Crap
 subtitle: Failing Real Kwick
 ---
@@ -8,10 +8,12 @@ subtitle: Failing Real Kwick
 
 # newsletter
 
-> giving you advance notice of posted content, added site features, and opportunities to ask questions and make suggestions for future data related beer pieces
-> Get Advance Notice of New Data Related Beer Posts & Other Free Stuff
-(twice per month max) Sign up for <a href="http://bit.ly/ep8nlw" target="_blank">newsletter</a> Drink well & stay curious,
-Reggie
+
+> Sign up for the <a href="http://bit.ly/ep8nlw" target="_blank">newsletter</a> and receive advance notice of posted content, added site features, and opportunities to ask questions & make suggestions for future data related beer pieces.
+>
+> Drink well & stay curious, Reggie
+
+  
 
 # free standing
 
