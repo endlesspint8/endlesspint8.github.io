@@ -70,6 +70,16 @@ This was meant as exploratory and to spur further consideration, it is not a ful
 
 ---
 
+**Newsletter**
+
+> Sign up for the <a href="http://bit.ly/ep8nlw" target="_blank">newsletter</a> and receive advance notice of posted content, added site features, and opportunities to ask questions & make suggestions for future data related beer pieces.
+>
+> Drink well & stay curious, Reggie
+
+<br>
+
+---
+
 **Notes**
 
 <b id="f1">1</b> There was an expected 288 medals, 3 each for the 96 categories, but no Gold was given out for _Fresh or Wet Hop Ale_. [↩](#a1) <br>
