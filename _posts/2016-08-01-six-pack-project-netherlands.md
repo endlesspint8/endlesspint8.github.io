@@ -168,7 +168,14 @@ This may be a long shot but I'm assuming the label is bringing up other desires 
 <sub>Image source: <a href="http://www.brouwerijhetij.nl/?lang=en" target="_blank">'t IJ</a> </sub>
 
 <br>
-<br>
+
+---
+
+**Newsletter**
+
+> Sign up for the <a href="http://bit.ly/ep8nlw" target="_blank">newsletter</a> and receive advance notice of posted content, added site features, and opportunities to ask questions & make suggestions for future data related beer pieces.
+>
+> Drink well & stay curious, Reggie
 
 ---
 
