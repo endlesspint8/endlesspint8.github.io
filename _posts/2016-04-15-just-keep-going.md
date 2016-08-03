@@ -279,7 +279,17 @@ Excuses aside, let's focus on the positives and take-aways:
 
 <br>
 
-___
+---
+
+**Newsletter**
+
+> Sign up for the <a href="http://bit.ly/ep8nlw" target="_blank">newsletter</a> and receive advance notice of posted content, added site features, and opportunities to ask questions & make suggestions for future data related beer pieces.
+>
+> Drink well & stay curious, Reggie
+
+<br>
+
+---
 
 **Notes**
 
