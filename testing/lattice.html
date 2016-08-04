@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Branching out
 subtitle: One Twig at a Time
 ---
@@ -28,7 +28,7 @@ for (var y = 0; y < n; ++y) {
 
 var simulation = d3.forceSimulation(nodes)
     .force("charge", d3.forceManyBody().strength(-30))
-    .force("link", d3.forceLink(links).strength(1).distance(10).iterations(10))
+    .force("link", d3.forceLink(links).strength(1).distance(20).iterations(10))
     .on("tick", ticked);
 
 var canvas = document.querySelector("canvas"),
