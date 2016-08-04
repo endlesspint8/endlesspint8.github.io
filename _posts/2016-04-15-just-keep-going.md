@@ -226,6 +226,8 @@ function type(d) {
 
 <div id="percdiff"></div>
 
+<iframe src="http://endlesspint.com/gallery/usb_d3_posneg.html" width="600" height="400" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
+
 <sub>Data Source: <a href="http://www.beerinstitute.org/" target="_blank">Beer Institute</a></sub>
 
 Shout out to the internets in general and to the coding resources specifically,<sup id="a3">[3](#f1)</sup> but I needed more time to get this in the shape I was hoping for. However, my new commitment to "ship" something keeps me from holding back.
