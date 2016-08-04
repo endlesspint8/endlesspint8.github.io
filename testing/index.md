@@ -4,6 +4,10 @@ title: Testing my Crap
 subtitle: Failing Real Kwick
 ---
 
+[D3 lattice](lattice.html)
+
+[US bokeh map](choropleth.html)
+
 <p><font color="blue"> TESTING FONT COLOR </font></p>
 
 # newsletter
