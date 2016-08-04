@@ -10,6 +10,12 @@ subtitle: Failing Real Kwick
 
 <p><font color="blue"> TESTING FONT COLOR </font></p>
 
+`iframe`
+
+
+<iframe src="http://endlesspint.com/testing/lattice.html" width="600" height="400" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+
 # newsletter
 
 
