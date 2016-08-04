@@ -13,7 +13,7 @@ subtitle: Failing Real Kwick
 `iframe`
 
 
-<iframe src="http://endlesspint.com/testing/lattice.html" width="600" height="400" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="http://endlesspint.com/testing/lattice.html" width="600" height="400" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
 
 
 # newsletter
