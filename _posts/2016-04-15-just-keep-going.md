@@ -209,7 +209,7 @@ var yAxis2 = d3.svg.axis()
     .orient("left")
     .tickSize(6, 0);
 
-var sumptinew = d3.select("#percdiff").append("svg")
+var sumptinew = d3.select("div#percdiff").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
