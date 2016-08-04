@@ -43,37 +43,6 @@ I am going to show several variations of the visualization below, both to fill u
   stroke-width: 2.5px;
 }
 
-<style>
-
-.bar {
-  fill: steelblue;
-}
-
-.bar:hover {
-  fill: brown;
-}
-
-.axis {
-  font: 10px sans-serif;
-}
-
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
-
-.x.axis path {
-  display: none;
-}
-
-.line {
-  fill: none;
-  stroke: orange;
-  stroke-width: 2.5px;
-}
-
 </style>
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
