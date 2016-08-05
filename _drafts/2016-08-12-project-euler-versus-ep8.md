@@ -63,11 +63,45 @@ Now armed with path counts for square grids from 1 to 4 blocks I sense that the 
 
 **insert function**
 
-Initially I had focused on just have the paths in any given scenario, knowing the number could be doubled to reflect the Pats branching in the alternate direction. In creating my Excel grid the whole numbers jump out at me and I realize that closer look returns the number I require with no additional arithmetic, even one keepable by my fourth grade skills.
+Initially I had focused on just one branch of paths, knowing the number could be doubled to reflect the paths branching in the alternate direction. In creating my Excel grid the whole numbers jump out at me and I realize that closer look returns the number I require with no additional arithmetic, even one keepable by my fourth grade skills.
 
 We now have two simple and elegant ways of calculating the paths. It's not likely you'll need all of these options but they're helpful in keeping you free and flexible in your walks to the bar. Just remember to be careful on your way back. After a little alcohol these numerous options have a way of making themselves feel present, creating confusion for you and then we do have to worry about walking in any of the four directions [provide foreshadow earlier].
 
 1st & 1st, <a href="https://www.youtube.com/watch?v=bb9IA-914Xw" target="_blank">nexus of the universe</a>
+
+## ...
+
+<br />
+
+--- 
+
+## Invisible Cities (<a href="https://www.goodreads.com/work/quotes/68476-le-citt-invisibili" target="_blank">quotes</a>)
+
+> “Futures not achieved are only branches of the past: dead branches.” 
+--- 
+> “Elsewhere is a negative mirror. The traveler recognizes the little that is his, discovering the much he has not had and will never have.”
+--- 
+> “You take delight not in a city's seven or seventy wonders, but in the answer it gives to a question of yours.” 
+> --- 
+> “Memory's images, once they are fixed in words, are erased," Polo said. "Perhaps I am afraid of losing Venice all at once, if I speak of it, or perhaps, speaking of other cities, I have already lost it, little by little.” 
+> “The city is redundant: it repeats itself so that something will stick in the mind.
+[…]
+Memory is redundant: it repeats signs so that the city can begin to exist.” 
+> “An invisible landscape conditions the visible one” 
+
+> “Thus the city repeats its life, identical, shifting up and down on its empty chessboard."
+
+> “The city does not consist of this, but of relationships between the measurements of its space and the events of its past:” 
+
+> “The traveler recognizes the little that is his, discovering the much he has not had and will never have.” 
+
+> "they must admit that all their calculations were wrong and their figures are unable to describe the heavens"
+
+> "he sees someone in a square living a life or an instant that could be his; he could now be in that man’s place, if he had stopped in time, long ago; or if, long ago, at a crossroads, instead of taking one road he had taken the opposite one"
+
+Doubt of ever reaching the bar.
+> “Desires are already memories.” 
+
 
 
 
