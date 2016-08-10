@@ -16,6 +16,9 @@ I like to play a game called "Shark Walk" where if you stop moving you "die". Th
 
 This game is applicable to lunch hour walks, taking a stroll (can you say _flaneur_?[4]), or making your way from the subway stop to the delicious pint waiting for you at your watering hole of choice. If you want to keep moving and give yourself the impression that you've got some little bit of control in this mad city[kendrick link] then know your options, which brings us back to the topic at hand. How many ways are there of getting from here, thirsty, to there, imbibing?
 
+> “You take delight not in a city's seven or seventy wonders, but in the answer it gives to a question of yours.” 
+> --- 
+
 ## A Simple Example (credit to the MTA)
 
 Two blocks away: straight line
@@ -41,6 +44,9 @@ Three blocks: straight line
 Four blocks: straight line
 Four blocks: 2x2
 
+> “An invisible landscape conditions the visible one” 
+---
+
 Final intuition, the more blocks between you and the bar in a grid layout, the more options. Four blocks away, in a 3x1 fashion starting on 36th and Park and still aiming for Rattle 'n Hum you have no less than four ways of getting there (either taking park or fifth all the way down or walking west on either 35th or 34th and continuing down fifth). The options increase if you happen to be in a 2 x 2 grid; again still the same four blocks. Can you envision in your minds eye how many ways you can walk from 35th and 7th to 33rd and fifth? I'll give you a second. It's six this time. 
 
 ## Mr. Euler, I Presume
@@ -50,6 +56,9 @@ This is where Mr. Euler comes into the picture. The canonical set of mathematica
 ## To the Bar!
 
 I take the origin coordinate (0,0) and branch out to see how the numbers expand looking for a pattern. This is easy enough to do with the 1x1 and 2x2 grid but begins to present problems at 3x3. I rush to develop the last of these trees, am sloppy without realizing it and then spend 30 minutes attempting to find a pattern to an incomplete "solution". Upon returning to my sketches, and revisiting my steps, I realize my error. 
+
+> "they must admit that all their calculations were wrong and their figures are unable to describe the heavens"
+--- 
 
 **insert photo**
 
@@ -62,6 +71,9 @@ How about building an equally foolish function, but one that knows how to keep c
 Now armed with path counts for square grids from 1 to 4 blocks I sense that the mysteries of the solution are shortly to be revealed. After another half hour it's clear the revelation will be taking its time and may require another visual representation, this time listing out the number of paths available at each corner of the grid. I start simply and build up, taking my time and hoping that my deliberate attention will clue me into following the right direction. And what do you freaking know? By the time I expand from the 2x2 to the 3x3 I'm seeing a possibility. Having the next path count, 4x4, allows me to know what to look for and does validate the pattern further. As soon as this next step returns the right number I expand my efforts from a sheet of paper, to an Excel sheet, and finally to a slightly smarter function.
 
 **insert function**
+
+> “Elsewhere is a negative mirror. The traveler recognizes the little that is his, discovering the much he has not had and will never have.”
+--- 
 
 Initially I had focused on just one branch of paths, knowing the number could be doubled to reflect the paths branching in the alternate direction. In creating my Excel grid the whole numbers jump out at me and I realize that closer look returns the number I require with no additional arithmetic, even one keepable by my fourth grade skills.
 
@@ -79,15 +91,14 @@ We now have two simple and elegant ways of calculating the paths. It's not likel
 
 > “Futures not achieved are only branches of the past: dead branches.” 
 --- 
-> “Elsewhere is a negative mirror. The traveler recognizes the little that is his, discovering the much he has not had and will never have.”
---- 
-> “You take delight not in a city's seven or seventy wonders, but in the answer it gives to a question of yours.” 
-> --- 
+
+
 > “Memory's images, once they are fixed in words, are erased," Polo said. "Perhaps I am afraid of losing Venice all at once, if I speak of it, or perhaps, speaking of other cities, I have already lost it, little by little.” 
+
 > “The city is redundant: it repeats itself so that something will stick in the mind.
 […]
 Memory is redundant: it repeats signs so that the city can begin to exist.” 
-> “An invisible landscape conditions the visible one” 
+---
 
 > “Thus the city repeats its life, identical, shifting up and down on its empty chessboard."
 
@@ -95,7 +106,7 @@ Memory is redundant: it repeats signs so that the city can begin to exist.”
 
 > “The traveler recognizes the little that is his, discovering the much he has not had and will never have.” 
 
-> "they must admit that all their calculations were wrong and their figures are unable to describe the heavens"
+
 
 > "he sees someone in a square living a life or an instant that could be his; he could now be in that man’s place, if he had stopped in time, long ago; or if, long ago, at a crossroads, instead of taking one road he had taken the opposite one"
 
