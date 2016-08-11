@@ -8,6 +8,10 @@ subtitle: Reflections on that Last Post & Other Lessons I'll Never Learn
 
 ---
 
+**That unfinished piece** is but one of many stifled potentialities. The real tragedy is in the blocking of the infinite additional options lying on the other side, left for dead while this dominates your attention. 
+
+---
+
 **Get started doing** your work immediately, but don't rush. There's a long way to go and you're not going to create something worthwhile each day. Or week. Or...  
 
 ---
