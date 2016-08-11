@@ -19,6 +19,11 @@ This game is applicable to lunch hour walks, taking a stroll (can you say _flane
 > “You take delight not in a city's seven or seventy wonders, but in the answer it gives to a question of yours.” 
 > --- 
 
+<i>The answer to life is 21 but that does you know good since you don't know the question. The city provides answers all around you but you don't know how to collect them and where they belong. Standing in time square can leave you paralyze with options but if I told you there was a good bar. Period. Space well now you have a motivation. Your focus highlights the obstacle time and distance I can help you begin forming and working on the question.
+There is an answer to the question but is this The right solution for you? There are many options that can suit you, perhaps one best, and one may even present your future lover, These need not be one and the same. The many wonders are what does will be Young, the tourists, the Romantics, and the imaginative. It is what the lights all of us from time to time but this is a passive wonder done to you. It asked nothing of you and is unaware of your presence, would happen without you, and probably wouldn't be influenced by your presence.
+A question provides purpose, perspective, a point of you. The rest may also apply, your non-relevance, but a narrative has been intentionally focused and now you choose to some extent the pictures that get framed.
+The bar, the beers, their temporary. The process is a tool. It's applicable to other solutions. Use it, or your decision muscles, and build some skills.</i>
+
 ## A Simple Example (credit to the MTA)
 
 Two blocks away: straight line
@@ -75,6 +80,9 @@ Now armed with path counts for square grids from 1 to 4 blocks I sense that the 
 > “Elsewhere is a negative mirror. The traveler recognizes the little that is his, discovering the much he has not had and will never have.”
 --- 
 
+<i>From the very beginning, with the simplest example of a one by one great, you're made aware of splits in the Journey, the need to choose in order to continue moving both to the world and through the problem at hand. Sticking primarily with square grid arrangements should be clear from the first fork in the road anything we do further down the road, all the other branches we've opened up torsos by going left instead of right from the very beginning have a twin should we have gone right instead of left to begin with. The route splits into and every branch afterwards has a double. This allows us to first split the problem into, get an answer, and afterwards confidently multiplied by two to arrive at a solution.
+When I'm in the process of developing a new routine related to a new location, weather for school, work, or doctors visit, I preferred to map it out in my mind ahead of time and choose among two options if possible. As I return to the location I remember previous paths taking consider if there is a more efficient one, but shorter one, a less noisy one, a way of getting there that incorporates awnings or atriums, beautiful options for rain or when it is too hot. The process repeats self for the journey back later in the day, but the result may not be identical in reverse. The day is difficult, it may be night depending on the time of the year, and my considerations may be different. Is there a park to walk through, somewhere you can see the riverfront, is there a favorite building in the area? Sometimes I take redundant turns to my destination in Orange at in order to introduce randomness.</i>
+
 Initially I had focused on just one branch of paths, knowing the number could be doubled to reflect the paths branching in the alternate direction. In creating my Excel grid the whole numbers jump out at me and I realize that closer look returns the number I require with no additional arithmetic, even one keepable by my fourth grade skills.
 
 We now have two simple and elegant ways of calculating the paths. It's not likely you'll need all of these options but they're helpful in keeping you free and flexible in your walks to the bar. Just remember to be careful on your way back. After a little alcohol these numerous options have a way of making themselves feel present, creating confusion for you and then we do have to worry about walking in any of the four directions [provide foreshadow earlier].
@@ -92,6 +100,8 @@ We now have two simple and elegant ways of calculating the paths. It's not likel
 > “Futures not achieved are only branches of the past: dead branches.” 
 --- 
 
+<i>As I said there are a ton of options in the city, with some neighborhoods more blessed than others. In this section of Midtown we can hit the YouTube or or the Irish novel bar, each of which have dozens of tabs and dozens more bottles available. Between the constant rotation and occasional brewery tap takeover's there's always something new to choose from, but this doesn't always mean there's something to you. Perhaps one of these places as just one new beer you care for maybe not even a new one but a particular flavor for the day (I don't believe in favorite beers what are we 12? That example, you shouldn't be drinking kids). The other bar has nothing you expect to blow you away but there's a new brewery you've never tried before perhaps it is just started distribution in your area. Of course, what's stopping you from going to both bars, or more, and drinking it all. Hmm, Time, money, kidney functionality, tomorrow's Andover, fear of losing your wallet, your balance, walking ability
+, bladder control, ability to get it up, the desire to hold onto conversation, hold down a job, pull down your dinner, getting home safe, not getting someone pregnant, not getting it up, avoiding a fight, avoiding the cops, avoiding a booty call, avoiding drunk idiots, your credit limit, your ability to remember your pin code, the expiring unlimited metro card, the dying cell phone battery in the shitty bar that doesn't have a spare power cord, outlet, adapter, whatever, your patience, your temper, The bringing down of the self opening up to the universe and realizing the meaninglessness of it all.</i>
 
 > “Memory's images, once they are fixed in words, are erased," Polo said. "Perhaps I am afraid of losing Venice all at once, if I speak of it, or perhaps, speaking of other cities, I have already lost it, little by little.” 
 
@@ -100,9 +110,15 @@ We now have two simple and elegant ways of calculating the paths. It's not likel
 Memory is redundant: it repeats signs so that the city can begin to exist.” 
 ---
 
+<i>Much of the city repeats itself, at least within small sections, these are what we end up clumping together in our minds and describing as neighborhoods. The buildings and blocks change, people leave, and established stores disappear. This is the life of a city, New York especially, where the parts change but the whole remains.
+Revisit the same places over and over. We approach these places in the same way over and over. Most times our minds are elsewhere while we walk to the familiar steps and we would be hard-pressed to describe the face we passed along the way. The things that change too frequently and quickly do not stick, The more stationery items remain and leave impression. This is similar to Computervision where the average of our image is taken in order to identify the underlying structure or form of an object interview. And so with our memories? Perhaps. We see something on remarkable a few dozen times and it begins to leave an imprint, pattern, and anchored from which to position and orient ourselves. In New York we have many artifacts to choose from: museums, restaurants, stages, famous buildings and streets, places where you met a friend, broke off the relationship.</i>
+
 > “Thus the city repeats its life, identical, shifting up and down on its empty chessboard."
 
 > “The city does not consist of this, but of relationships between the measurements of its space and the events of its past:” 
+
+<i>The city streets or the material, our lives are the paint, and the innumerable coats we apply help to layer environment so that what remains in our mind is more than just the physical, the visual. We see with our eyes the objects in front of us and these are imbued with meeting by the relationships we have cultivated with and around them.
+Our actions develop a spiderweb, the cities grid provides the joining places for these threads. The spiderweb is extended in multiple directions and dimensions. Seemingly unconnected events of time and space are still yet collected by the relationships created by the comings and going's of this city's denizens.</i>
 
 > “The traveler recognizes the little that is his, discovering the much he has not had and will never have.” 
 
@@ -113,7 +129,7 @@ Memory is redundant: it repeats signs so that the city can begin to exist.”
 Doubt of ever reaching the bar.
 > “Desires are already memories.” 
 
-
+<i>You have momentarily left your place of work and your day-to-day responsibilities behind and now are focused on the meeting with a friend. Even if not foremost in your mind, ideas that you have meant to share with the other now we get to bubble to the forefront. In anticipation of this meeting feelings of past meetings provide a setting for what do you want to separate to follow. The city is layered with many stories, yours included, the friendship is similarly interwoven and tonight a New thread will be added.</i>
 
 
 ## ...
