@@ -24,5 +24,9 @@ subtitle: For those who still can't get their fill.
 > * <a href="/code/dutch_words/#top-wordarticle-by-tf-idf-subset">tf-idf</a> <br>
 
 
+### WBC v. wBC
+> Barley, Hops, and Bayes: [Predicting The World Beer Cup](wbc_article_support.html) <br>
+
+
 ### Exploring US Brewery Historical Data
 > An Rmd file showing [some EDA and plots](us_breweries_bj) related to United States brewery counts, 1887 - 2012.
