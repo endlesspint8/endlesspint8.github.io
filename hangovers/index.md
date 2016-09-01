@@ -8,6 +8,10 @@ subtitle: Reflections on that Last Post & Other Lessons I'll Never Learn
 
 ---
 
+**The creation of** content is not the sole exercise I am involved in. There is also the constant practice of bringing myself back to the table after being distracted, losing interest, or lacking energy to continue. 
+
+---
+
 **That unfinished piece** is but one of many stifled potentialities. The real tragedy is in the blocking of the infinite additional options lying on the other side, left for dead while this dominates your attention. 
 
 ---
