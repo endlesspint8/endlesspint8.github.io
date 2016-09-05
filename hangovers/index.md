@@ -8,6 +8,10 @@ subtitle: Reflections on that Last Post & Other Lessons I'll Never Learn
 
 ---
 
+**Constantly beginning new** projects before putting others to bed is the surest way of getting nothing completed. "Oh, shiny new toy" syndrome not the best way of being productive in an output-oriented way. 
+
+---
+
 **The creation of** content is not the sole exercise I am involved in. There is also the constant practice of bringing myself back to the table after being distracted, losing interest, or lacking energy to continue. 
 
 ---
