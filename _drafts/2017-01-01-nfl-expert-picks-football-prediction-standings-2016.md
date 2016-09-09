@@ -11,6 +11,14 @@ What we hope to discover in this season-long investigation into _American_ footb
 
 ### Opening After Week 5 Games
 
+**"Nobody Believed in Us", Rightly**
+
+- most voted against loser
+
+**"Nobody Believed in Us", Wrongly**
+
+- most voted against loser
+
 **Expert Picks Standings - Straight Up**
 
 
