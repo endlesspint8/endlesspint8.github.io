@@ -39,12 +39,12 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 **"Nobody Believed in Us", Wrongly**
 
-- most voted against loser
+- most voted against winner
 
 **Expert Picks Standings - Straight Up**
 
 
-**Against Spread Standings**
+**Expert Picks Standings - Against the Spread**
 
 <br>
 
