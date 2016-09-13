@@ -17,3 +17,9 @@ subtitle: Public House & Publications
 <a href="http://www.kdnuggets.com/2016/07/world-beer-cup-predictions.html" target="_blank">
 <img src="/the-pub/img/kd_screenshot1_40per.png " alt="KD-001" />
 </a>
+
+<a href="https://thisiswhyimdrunk.wordpress.com" target="_blank">BryanDRoth's This Is Why I'm Drunk</a>
+
+<a href="https://thisiswhyimdrunk.wordpress.com/2016/09/13/the-six-pack-project-returns-sort-of/#more-5979" target="_blank">
+<img src="/the-pub/img/tiwid_post.PNG " alt="GP-001" />
+</a>
