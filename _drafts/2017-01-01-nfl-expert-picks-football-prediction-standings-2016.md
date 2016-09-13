@@ -23,15 +23,14 @@ Perhaps you're already seeing how much of this will play out based on what's bee
   7. FOX "in situ"
   8. Random probability prediction
   
-We are interested in a number of anticipated comparisons (expert panel v. expert panel, humans v. algorithms, algo v. algo, and of course all against the random predictor which we suspect coming in last but is presented here as a sort of baseline) and expect others to come to the fore as the season proceeds. Chart, tables, and occasional interactive visualizations will be made available on a weekly basis (Tuesdays/Wednesdays) for the duration of the season. Each week will provide an opportunity to look at the football season in a new light. 
+We are interested in a number of anticipated comparisons (expert panel v. expert panel, humans v. algorithms, algo v. algo, and of course all against the random predictor which we suspect coming in last but is presented here as a sort of baseline) and expect others to come to the fore as the season proceeds. Chart, tables, and occasional interactive visualizations will be made available on a weekly basis (Tuesdays/Wednesdays) for the duration of the season. Each week will provide an opportunity to look at the football season and predictions in a new light. 
 
 ---
 
 ## Week 1 - Humans Haven't Been Replaced, Yet
 
-Let's start slow, let's be basic for this first installment. We have all season to get to know each other and get fancy-shmancy with the analysis. 
+Let's start slow for this first installment. We have all season to get to know each other and get fancy-shmancy with the analysis. We will introduce our most basic metric, the Brier score, and layout predictive performance of the major outlets we're covering. As the section's heading above hints at the expert panels, the humans, did a solid job of demonstrating their worth. It cannot be any earlier in the season but I wish to congratulate the CBS panel especially for coming in first, in both wins and predictive accuracy. Time will tell if this was a happy fluke or a sign of things to come.
 
----
 
 
 
@@ -39,7 +38,7 @@ Let's start slow, let's be basic for this first installment. We have all season 
 
 **Newsletter**
 
-> Sign up for the <a href="http://bit.ly/ep8nlw" target="_blank">newsletter</a> and receive advance notice of posted content, added site features, and opportunities to ask questions & make suggestions for future data related beer pieces.
+> Sign up for the <a href="http://bit.ly/ep8nlw" target="_blank">newsletter</a> and receive advance notice of posted content, added site features and opportunities to ask questions & make suggestions for future data related beer pieces and miscellany.
 >
 > Drink well & stay curious, Reggie
 
