@@ -6,6 +6,8 @@ subtitle: How Many Different Routes to RnH?
 
 ## A common enough conversation: where do you wanna meet up?
 
+<iframe src="http://endlesspint.com/gallery/2016/projeul/lattice.html" width="900" height="600" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
+
 Every couple of weeks I grab a pint with a particular friend of mine and catch up. Hopefully you too have someone to share stupid and serious ideas with. Someone who appreciates your sensibility and opinion but does not take you too seriously and is not shy to call you out on your shit. Most importantly, someone who can hold an interesting conversation, be occasionally irreverent, and have a laugh over a good beer.
 
 In New York there are a ton of options for grabbing a good pint, especially with the rotating taps at most self-respecting places. If you work in the city odds are you're either in Midtown or the Financial District. If you enjoy good beer, and less of a bustling afterwork crowd, chances are you won't stick around long in these neighborhoods, unless you're with your work colleagues and kicking back a few, unwilling to be the douche that makes everyone else accommodate his beer snobbish palette by going to some less than office-convenient bar. Don't be that guy. At least have some finesse and teach people slowly about what good beer is and entice them that way over time. Make it seem like it's their decision to go to "that bar with the weird but delicious beers".[1]
