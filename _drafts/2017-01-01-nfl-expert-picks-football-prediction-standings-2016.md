@@ -43,7 +43,7 @@ Let's start slow for this first installment. We have all season to get to know e
 
 ### Week 1 Whiffs
 
- * **The CBS committee** had only of 3 of sixteen games wrong, picking CAR, ARI and LA. The ARI choice was the most damaging as it was an unanimous selection resulting in the largest penalty possible for a prediction, 1.0. This was off-set by solid and confident choices in other places, such as the 3 other unanimous picks that did work out: HOU, SEA and PIT. This right away brings to mind the thought that human panels, certainly ones as small as these, are prone to over estimating probability of wins (granted the way I am using their input is not the intended purpose, but that's what makes it so fun). It is doubtful that the data models we will be dealing with in this exercise will ever give a probability of 1.00. This means that the human panels leave themselves open to big wins and big loses, as far as the Brier score is concerned. This is something worth keeping an eye on. If it turns out that this becomes too much of a detriment I will consider regularizing unanimous selections (including a +1 to denomiators such that an 8/8 vote, 100%, becomes 8/9, 89%).<sup id="a3">[3](#f3)</sup>
+ * **The CBS committee** had only of 3 of sixteen games wrong, picking CAR, ARI and LA. The ARI choice was the most damaging as it was an unanimous selection resulting in the largest penalty possible for a prediction, 1.0. This was off-set by solid and confident choices in other places, such as the 3 other unanimous picks that did work out: HOU, SEA and PIT. This right away brings to mind the thought that human panels, certainly ones as small as these, are prone to over estimating probability of wins (granted the way I am using their input is not the intended purpose, but that's what makes it so fun). It is doubtful that the data models we will be dealing with in this exercise will ever give a probability of 1.00. This means that the human panels leave themselves open to big wins and big loses, as far as the Brier score is concerned (see table below showing average probabilities amongst the sources for the week, with the range of possible scores). This is something worth keeping an eye on. If it turns out that this becomes too much of a detriment I will consider regularizing unanimous selections (including a +1 to denominators such that an 8/8 vote [100%] becomes 8/9 [89%]).<sup id="a3">[3](#f3)</sup> 
 
 |Source|Avg Prob of Pick|Best Possible BS|Worst Possible BS|
 |---|---|---|---|
@@ -53,7 +53,16 @@ Let's start slow for this first installment. We have all season to get to know e
 |ESPN|0.813|0.035|0.660|
 |Random|0.789|0.045|0.623|
 
- * adsf
+ * **FiveThirtyEight had 2** fewer overall correct choices than CBS but, as the above table suggests, the probabilty of these choices were low enough to not penalize their BS rating too greatly (avg of 0.586). 
+
+|Source|Avg Prob of Correct Picks|Avg Prob of Wrong Picks||
+|---|---|---|---|
+|CBS|0.766|0.055|0.586|
+|FiveThirtyEight|0.633|0.135|0.401|
+|FOX|0.658|0.117|0.433|
+|ESPN|0.813|0.035|0.660|
+|Random|0.789|0.045|0.623|
+
  * adsf
  * 
 
