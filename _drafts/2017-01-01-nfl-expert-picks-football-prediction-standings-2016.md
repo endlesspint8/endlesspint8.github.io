@@ -39,6 +39,12 @@ Let's start slow for this first installment. We have all season to get to know e
 |FiveThirtyEight|0.210|10|
 |FOX|0.254|9|
 |ESPN|0.256|11|
+|Random|0.520|5|
+
+### Week 1 Whiffs
+
+ * The CBS committee had only of 3 of sixteen games wrong, picking CAR, ARI and LA. The ARI choice was the most damaging as it was an unanimous selection resulting in the largest penalty possible for a prediction, 1.0. This was off-set by solid and confident choices in other places, such as 2 other unanimous picks that did work out: HOU, SEA and PIT. This 
+ * adsf
 
 ---
 
