@@ -6,72 +6,58 @@ subtitle: How Many Different Routes to RnH?
 
 ## A common enough conversation: where do you wanna meet up?
 
-Every other week or so I like to grab a pint with a friend of mine and catch up. Hopefully you too have someone you can share stupid and serious ideas with. Someone who appreciates your sensibility and opinion. Most importantly, someone who can hold an interesting coversation, be occassionally irreverant, and have a laugh over a good beer. 
+Every couple of weeks I grab a pint with a particular friend of mine and catch up. Hopefully you too have someone to share stupid and serious ideas with. Someone who appreciates your sensibility and opinion but does not take you too seriously and is not shy to call you out on your shit. Most importantly, someone who can hold an interesting conversation, be occasionally irreverent, and have a laugh over a good beer.
 
-In New York there are a ton of options for grabbing a good pint, especially with the rotating taps at most self-respecting places. If you work in the city odds are you're either in Midtown or the Financial District. If you enjoy good beer, and less of a bustling afterwork crowd, chances are you won't stick around long in these neighborhoods, unless you're with your work collegues and kicking back a few, unwilling to be the douche that makes everyone else accomodate his beer snobbish palatte by going to some less than office-convenient bar. Don't be that guy. At least have some finesse and teach people slowly about what good beer is and entice them that way over time. Make it seem like it's their decision to go to "that bar with the weird but delicious beers".[1]
+In New York there are a ton of options for grabbing a good pint, especially with the rotating taps at most self-respecting places. If you work in the city odds are you're either in Midtown or the Financial District. If you enjoy good beer, and less of a bustling afterwork crowd, chances are you won't stick around long in these neighborhoods, unless you're with your work colleagues and kicking back a few, unwilling to be the douche that makes everyone else accommodate his beer snobbish palette by going to some less than office-convenient bar. Don't be that guy. At least have some finesse and teach people slowly about what good beer is and entice them that way over time. Make it seem like it's their decision to go to "that bar with the weird but delicious beers".[1]
 
-Depending on the choice of bar, and this is determined by a litany of considerations: convenience to work/home, newness of establishment, grub, and of course beer selection, there is then the logistical matter of getting your ass from the office chair to the bar stool. Subways usually (nearly always, really) play a role and then there is the most time honored New York means of travel, walking. Tourist or resident, you can't help notice the importance and etiquete of walking in the city[http://www.travelandleisure.com/slideshows/walking-in-new-york-city]. 
+Depending on the choice of bar, and this is determined by a litany of considerations: convenience to work/home, newness of establishment, available grub, and of course beer selection, there is then the logistical matter of getting your ass from the office chair to the bar stool. Subways usually (nearly always, really) play a role and then there is the most time honored New York means of travel, walking. Tourist or resident, you can't help but notice the importance and etiquete of walking in the city[http://www.travelandleisure.com/slideshows/walking-in-new-york-city].
 
-I like to play a game called "Shark Walk" where if you stop moving you "die". The goal is to get from A to B without waiting at a light. Besides jaywalking, also a NYC tradition, and running to beat traffic, preferably avoided,[2] your best bet is knowing your options, staying alert to traffic lights, and minding your pace. It's always preferable to "pick it up" a bit or lay back with the pace to standing at a corner waiting for car traffic to pass. And this is not jogging, so running in place does not count.[3]
+I like to play a game I call "Shark Walk" where if you stop moving you "die". The goal is to get from A to B without waiting at a light. Besides jaywalking, also a NYC tradition, and running to beat traffic, preferably avoided,[2] your best bet is knowing your options, staying alert to traffic lights, and minding your pace. It's always preferable to "pick it up" a bit or lay back with the pace to standing at a corner waiting for car traffic to pass. And this is not jogging, so running in place does not count.[3]
 
-This game is applicable to lunch hour walks, taking a stroll (can you say _flaneur_?[4]), or making your way from the subway stop to the delicious pint waiting for you at your watering hole of choice. If you want to keep moving and give yourself the impression that you've got some little bit of control in this mad city[kendrick link] then know your options, which brings us back to the topic at hand. How many ways are there of getting from here, thirsty, to there, imbibing?
+This game is applicable to lunch hour walks, taking a stroll (can you say _flaneur?_[4]), or making your way from the subway stop to the delicious pint waiting for you at your watering hole of choice. If you want to keep moving and give yourself the impression that you've got some little bit of control in this mad city[kendrick link] then know your options. Which brings us back to the topic at hand, how many ways are there of getting from here, thirsty, to there, imbibing?
 
 > “You take delight not in a city's seven or seventy wonders, but in the answer it gives to a question of yours.” 
 > --- 
 
-<i>The answer to life is 21 but that does you know good since you don't know the question. The city provides answers all around you but you don't know how to collect them and where they belong. Standing in time square can leave you paralyze with options but if I told you there was a good bar. Period. Space well now you have a motivation. Your focus highlights the obstacle time and distance I can help you begin forming and working on the question.
-There is an answer to the question but is this The right solution for you? There are many options that can suit you, perhaps one best, and one may even present your future lover, These need not be one and the same. The many wonders are what does will be Young, the tourists, the Romantics, and the imaginative. It is what the lights all of us from time to time but this is a passive wonder done to you. It asked nothing of you and is unaware of your presence, would happen without you, and probably wouldn't be influenced by your presence.
-A question provides purpose, perspective, a point of you. The rest may also apply, your non-relevance, but a narrative has been intentionally focused and now you choose to some extent the pictures that get framed.
-The bar, the beers, their temporary. The process is a tool. It's applicable to other solutions. Use it, or your decision muscles, and build some skills.</i>
+<i>I have heard it been said the answer to life is 42 [https://en.wikipedia.org/wiki/42_(number)] but that does you no good if you don't know the question. The city provides answers all around you but you don't know what to collect and where they belong. Standing in Time Square can leave you paralyzed with options but if I told you there was a good bar, well now you have a motivation. Your focus highlights the obstacles, most notably time and distance, and can help you begin forming and working on the question. There is an answer to the question but is this the right solution for you? 
+
+There are many options that can suit you, perhaps one best, one that may present you with a future lover, these need not be one and the same. The many wonders are what dazzle the young, the tourists, the romantics, and the imaginative. It is what delights all of us from time to time but this is a passive wonder done to you. It asked nothing of you and is unaware of your presence, would happen without you, and probably wouldn't be influenced by your presence. A question provides purpose, perspective, a point of you. The rest may still apply, especially your non-relevance, but a narrative has been intentionally focused and now you choose to some extent the pictures that get framed. The bar, the beers, they are temporary. The process is a tool. It's applicable to other solutions. Use it, work your decision muscles, and build your narrative skills.</i>
 
 ## A Simple Example (credit to the MTA)
 
-Two blocks away: straight line
+Despite <a href="http://www.citylab.com/commute/2016/07/a-new-map-of-new-yorks-subway-deserts/491156/" target="_blank">subway deserts</a>, that you can <a href="http://nymag.com/selectall/2016/08/this-subway-game-turned-me-into-a-tinpot-robert-moses.html" target="_blank">attempt to alleviate</a>, the MTA covers NYC reasonably well. In Manhattan at least it is difficult to be more than a 15 walk from subway station to destination (whether you’re willing to make the necessary connections to get to that most close station is another point entirely).
 
-Two blocks away: L-shape
+Assume you're on the Sixth Avenue line and get off at 34th for the purposes of getting a drink at Rattle and hum, that places you two blocks away (let's ignore the difference in avenues and streets, since it won't matter either way in our scenarios) which requires you to go east and south, in either order. Since both options are available you have two routes to getting there.
 
-Despite <a href="http://www.citylab.com/commute/2016/07/a-new-map-of-new-yorks-subway-deserts/491156/" target="_blank">subway deserts</a>, that you can <a href="http://nymag.com/selectall/2016/08/this-subway-game-turned-me-into-a-tinpot-robert-moses.html" target="_blank">attempt to alleviate</a>, the MTA covers NYC reasonably well. 
+Now if you're two blocks up the Avenue from your destination, 35th & 5th Ave, the same number of blocks (again not in actual distance), you only have one choice, walking downtown.
 
-Assume you're on the Sixth Avenue line and get off at 34th for the purposes of getting a drink at Rattle and hum, that places you
-two blocks away (let's ignore the difference in avenues and streets, since it won't matter either way in our scenarios) which requires you to go east and south, in either order. Since both options are available you have two routes to getting there.
+Intuitively, being off of a straight line provides alternate ways of getting to the same destination and this is especially clear in The City [FN: that’s right, I capitalized it], or an area of the city that is laid out like a Cartesian plane (we will be ignoring bisecting streets and avenues, such as Broadway).
 
-Now if you're two blocks up the Avenue (35th & 5th Ave) from your destination, the same number of blocks (again not in actual distance), you only have one choice, walk downtown.
-
-Inuitively being off of a straight line provides alternate ways of getting to the same destination and this is especially clear in the
-city, or an area of the city, that is laid out like a Cartesian plane (we will be ignoring bisecting streets and avenues, such as Broadway).
-
-Second intuition when it comes to a straight line, it doesn't matter how far out you extend it, the most direct way of getting to the
-destination remains the same; you have one best option,  you actually have a best option. Straight ahead.
-
-## More Options the Farther Away
-
-Three blocks: straight line
-Four blocks: straight line
-Four blocks: 2x2
+Second intuition, when it comes to a straight line it doesn't matter how far out you extend it, the most direct way of getting to the destination remains the same; you have one best option, you actually have a best option. Straight ahead.
 
 > “An invisible landscape conditions the visible one” 
 ---
 
-Final intuition, the more blocks between you and the bar in a grid layout, the more options. Four blocks away, in a 3x1 fashion starting on 36th and Park and still aiming for Rattle 'n Hum you have no less than four ways of getting there (either taking park or fifth all the way down or walking west on either 35th or 34th and continuing down fifth). The options increase if you happen to be in a 2 x 2 grid; again still the same four blocks. Can you envision in your minds eye how many ways you can walk from 35th and 7th to 33rd and fifth? I'll give you a second. It's six this time. 
+Final intuition, the more blocks off of a line between you and the bar in a grid layout, the more options. Four blocks away, in a 3x1 fashion starting on 36th and Park and still aiming for Rattle 'n Hum you have no less than four ways of getting there (either taking Park to 33rd and heading west or previously heading to Fifth at 3 of the earlier options: 36th, 35th or 34th, before continuing downtown). The options increase if you happen to be in a 2x2 grid, though still four blocks away in total. Can you envision in your mind the routes available to walk from 35th and 7th to 33rd and Fifth? I'll give you a second. [FN: It's six this time.]
 
 ## Mr. Euler, I Presume
 
-This is where Mr. Euler comes into the picture. The canonical set of mathematical problems posted on <a href="https://projecteuler.net/" target="_blank">Project Euler</a> challenging you to apply math concepts and computer programming is the spring board for this thought exercise. <a href="https://projecteuler.net/problem=15" target="_blank">One of these problems</a> deals with <a href="https://en.wikipedia.org/wiki/Lattice_path" target="_blank">Lattice paths</a>. Remembering nothing beyond my fourth-grade math but intuiting there's got to be a systematic way of solving this mystery I go first for a visual representation. 
+<a href="https://projecteuler.net/" target="_blank">Project Euler</a> offers a canonical set of mathematical problems to challenge math and computer programming concepts. <a href="https://projecteuler.net/problem=15" target="_blank">One of these problems</a> deals with <a href="https://en.wikipedia.org/wiki/Lattice_path" target="_blank">Lattice paths</a>and is the springboard for this thought exercise. Remembering nothing beyond my fourth-grade math but intuiting there's got to be [FN: and 4th grade grammar] a systematic way of solving this mystery (duh) I go first for a visual representation. 
 
 ## To the Bar!
 
-I take the origin coordinate (0,0) and branch out to see how the numbers expand looking for a pattern. This is easy enough to do with the 1x1 and 2x2 grid but begins to present problems at 3x3. I rush to develop the last of these trees, am sloppy without realizing it and then spend 30 minutes attempting to find a pattern to an incomplete "solution". Upon returning to my sketches, and revisiting my steps, I realize my error. 
+I take the origin coordinate (0,0) and branch out to see how the numbers expand looking for a pattern. This is easy enough to do with the 1x1 and 2x2 grid but begins to present problems at 3x3. I rush to develop the last of these trees, am sloppy without realizing it and then spend 30 minutes attempting to find a pattern to an incomplete "solution". Upon returning to my sketches, and revisiting my steps, I realize my error.
 
 > "they must admit that all their calculations were wrong and their figures are unable to describe the heavens"
 --- 
 
 **insert photo**
 
-I correct the path count and redo it from scratch on the other side of the page to confirm the result. Convinced of the correct next path count I try again to find a mathematical pattern. Nothing doing, I figure more numbers of paths would help but do not necessarily trust myself to come out with the correct path count for the 4x4 grid. Had I been at this corner before? Couldn't keep it straight in my head and it was like the scene from Inception where <a href="https://www.youtube.com/watch?v=x9hBWnh_O6A" target="_blank">the city folds in on itself</a> (or an <a href="http://www.mcescher.com/gallery/recognition-success/convex-and-concave/" target="_blank">Escher</a>). What's a fool to do? 
+I correct the path count and redo it from scratch on the other side of the page to confirm the result. Convinced of the correct next path count I try again to find a mathematical pattern. Nothing doing, I figure more numbers of paths would help but do not necessarily trust myself to come out with the correct path count for the 4x4 grid. Had I been at this corner before? Did I go right or down last time? Why can’t I remember, there are only two directions to keep track of? Sure to be unable of keeping it straight in my head I envision the scene from Inception where <a href="https://www.youtube.com/watch?v=x9hBWnh_O6A" target="_blank">the city folds in on itself</a> or an <a href="http://www.mcescher.com/gallery/recognition-success/convex-and-concave/" target="_blank">Escher</a> drawing. What's a fool to do? 
 
-How about building an equally foolish function, but one that knows how to keep count? Done. 
+How about building an equally foolish function, but one that knows how to keep count? That would help put off losing my mind a while longer. Done.
 
-**insert function**
+insert function -> create Gist
 
 Now armed with path counts for square grids from 1 to 4 blocks I sense that the mysteries of the solution are shortly to be revealed. After another half hour it's clear the revelation will be taking its time and may require another visual representation, this time listing out the number of paths available at each corner of the grid. I start simply and build up, taking my time and hoping that my deliberate attention will clue me into following the right direction. And what do you freaking know? By the time I expand from the 2x2 to the 3x3 I'm seeing a possibility. Having the next path count, 4x4, allows me to know what to look for and does validate the pattern further. As soon as this next step returns the right number I expand my efforts from a sheet of paper, to an Excel sheet, and finally to a slightly smarter function.
 
