@@ -23,13 +23,13 @@ Perhaps you're already seeing how much of this will play out based on what's bee
   7. FOX "in situ"
   8. Random probability prediction
   
-We are interested in a number of anticipated comparisons (expert panel v. expert panel, humans v. algorithms, algo v. algo, and of course all against the random predictor which we suspect coming in last but is presented here as a sort of baseline) and expect others to come to the fore as the season proceeds. Chart, tables, and occasional interactive visualizations will be made available on a weekly basis (Tuesdays/Wednesdays) for the duration of the season. Each week will provide an opportunity to look at the football season and predictions in a new light. 
+We are interested in a number of anticipated comparisons (expert panel v. expert panel, humans v. algorithms, algo v. algo, and of course all against the random predictor which we suspect coming in last but is presented here as a sort of baseline) and expect others to come to the fore as the season proceeds. Chart, tables, and occasional interactive visualizations will be made available on a weekly basis (Wednesdays) for the duration of the season. Each week will provide an opportunity to look at the football season and predictions in a new light. 
 
 ---
 
 ## Week 1 - Humans Haven't Been Replaced, Yet
 
-Let's start slow for this first installment. We have all season to get to know each other and get fancy-shmancy with the analysis. We will introduce our most basic metric, the Brier score, and layout predictive performance of the major outlets we're covering. As the section's heading above hints at the expert panels, the humans, did a solid job of demonstrating their worth. It cannot be any earlier in the season but I wish to congratulate the CBS panel especially for coming in first, in both wins and predictive accuracy. Time will tell if this was a happy fluke or a sign of things to come.
+Let's start slow for this first installment. We have all season to get to know each other and get fancy-shmancy with the analysis. We will introduce our most basic metric, the Brier score, and layout the predictive performance of the major outlets we're covering. As the section's heading above hints at the expert panels, the humans, did a solid job of demonstrating their worth. It cannot be any earlier in the season but I wish to congratulate the CBS panel especially for coming in first, in both wins and predictive accuracy. Time will tell if this was a happy fluke or a sign of things to come.
 
 **Predictive Standing, Straight Up**
 
@@ -43,8 +43,19 @@ Let's start slow for this first installment. We have all season to get to know e
 
 ### Week 1 Whiffs
 
- * The CBS committee had only of 3 of sixteen games wrong, picking CAR, ARI and LA. The ARI choice was the most damaging as it was an unanimous selection resulting in the largest penalty possible for a prediction, 1.0. This was off-set by solid and confident choices in other places, such as 2 other unanimous picks that did work out: HOU, SEA and PIT. This 
+ * **The CBS committee** had only of 3 of sixteen games wrong, picking CAR, ARI and LA. The ARI choice was the most damaging as it was an unanimous selection resulting in the largest penalty possible for a prediction, 1.0. This was off-set by solid and confident choices in other places, such as the 3 other unanimous picks that did work out: HOU, SEA and PIT. This right away brings to mind the thought that human panels, certainly ones as small as these, are prone to over estimating probability of wins (granted the way I am using their input is not the intended purpose, but that's what makes it so fun). It is doubtful that the data models we will be dealing with in this exercise will ever give a probability of 1.00. This means that the human panels leave themselves open to big wins and big loses, as far as the Brier score is concerned. This is something worth keeping an eye on. If it turns out that this becomes too much of a detriment I will consider regularizing unanimous selections (including a +1 to denomiators such that an 8/8 vote, 100%, becomes 8/9, 89%).<sup id="a3">[3](#f3)</sup>
+
+|Source|Avg Winning Prob |Wins|
+|---|---|---|
+|CBS|0.174|13|
+|FiveThirtyEight|0.210|10|
+|FOX|0.254|9|
+|ESPN|0.256|11|
+|Random|0.520|5|
+
  * adsf
+ * adsf
+ * 
 
 ---
 
@@ -62,7 +73,7 @@ Let's start slow for this first installment. We have all season to get to know e
 
 <b id="f1">1</b> Except for NBC, at this point (week 1). These punks have not made their experts' picks readily available, at least not in the panel-friendly way of CBS and ESPN. [↩](#a1) <br>
 <b id="f2">2</b> They are in fact all men. Sorry ladies. [↩](#a2) <br>
-<b id="f3">3</b>   [↩](#a3) <br>
+<b id="f3">3</b> Not a bad policy in dealing with prognostications in the real world either.  [↩](#a3) <br>
 <b id="f4">4</b>   [↩](#a4) <br>
 <b id="f5">5</b>   [↩](#a5) <br>
 <b id="f6">6</b>   [↩](#a6) <br>
