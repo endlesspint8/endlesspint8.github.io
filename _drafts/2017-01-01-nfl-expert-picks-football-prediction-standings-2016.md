@@ -31,8 +31,14 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 Let's start slow for this first installment. We have all season to get to know each other and get fancy-shmancy with the analysis. We will introduce our most basic metric, the Brier score, and layout predictive performance of the major outlets we're covering. As the section's heading above hints at the expert panels, the humans, did a solid job of demonstrating their worth. It cannot be any earlier in the season but I wish to congratulate the CBS panel especially for coming in first, in both wins and predictive accuracy. Time will tell if this was a happy fluke or a sign of things to come.
 
+**Predictive Standing, Straight Up**
 
-
+|Source|Week 1 Brier Score|Wins|
+|---|---|---|
+|CBS|0.174|13|
+|FiveThirtyEight|0.210|10|
+|FOX|0.254|9|
+|ESPN|0.256|11|
 
 ---
 
