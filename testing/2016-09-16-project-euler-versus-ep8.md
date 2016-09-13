@@ -7,6 +7,7 @@ subtitle: How Many Different Routes to RnH?
 ## A common enough conversation: where do you wanna meet up?
 
 <iframe src="http://endlesspint.com/gallery/2016/projeul/lattice.html" width="900" height="600" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
+<sub>Vis Source: <a href="https://bl.ocks.org/mbostock/1b64ec067fcfc51e7471d944f51f1611" target="_blank">Mike Bostock</a></sub>
 
 Every couple of weeks I grab a pint with a particular friend of mine and catch up. Hopefully you too have someone to share stupid and serious ideas with. Someone who appreciates your sensibility and opinion but does not take you too seriously and is not shy to call you out on your shit. Most importantly, someone who can hold an interesting conversation, be occasionally irreverent, and have a laugh over a good beer.
 
