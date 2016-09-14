@@ -131,12 +131,15 @@ It's the end of summer, a Weiss beer wouldn't be out of place. How about a sour?
 
 **Notes**
 
-see: binomials; pascal's triangle; ... <br />
+
 [0] That's right, I capitalized it. 
 [1] What's more important in the end: the credit or the beer? <br />
 [2] And never a good look. <br />
 [3] Ibid. <br />
 [4] It's six this time.
 [5] 1x1: 2 paths; 2x2: 6; 3x3: 20; & 4x4: 70
+
+see: binomials; pascal's triangle; ... <br />
+<img src="/gallery/2016/projeul/pe_congrats_015.PNG" alt="lattice notes" />
 
 https://bl.ocks.org/mbostock/1b64ec067fcfc51e7471d944f51f1611
