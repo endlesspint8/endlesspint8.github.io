@@ -116,6 +116,9 @@ Let's start slow for this first installment. We have all season to get to know e
 **week 1**
 
 <b id="f3">3</b> Not a bad policy in dealing with prognostications in the real world either.  [↩](#a3) <br>
+
+**week 2 & later**
+
 <b id="f4">4</b>   [↩](#a4) <br>
 <b id="f5">5</b>   [↩](#a5) <br>
 <b id="f6">6</b>   [↩](#a6) <br>
