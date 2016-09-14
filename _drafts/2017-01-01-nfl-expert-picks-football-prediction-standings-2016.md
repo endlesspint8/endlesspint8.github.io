@@ -57,11 +57,11 @@ Let's start slow for this first installment. We have all season to get to know e
 
 |CBS Panel Votes|CBS Panel Votes, Regularized|ESPN Panel Votes|ESPN Panel Votes, Regularized|
 |---|---|---|---|
-|4/8 (50%)|5/10, 50%|5/9 (55%)|6/11 (54%)|
-|5/8 (62.5%)|5/10, 50%|5/9 (55%)|6/11 (54%)|
-|6/8 (75%)|5/10, 50%|5/9 (55%)|6/11 (54%)|
-|7/8 (87.5%)|5/10, 50%|5/9 (55%)|6/11 (54%)|
-|8/8 (100%)|5/10, 50%|5/9 (55%)|6/11 (54%)|
+|4/8 (50%)|5/10, (50%)|5/9 (55.6%)|6/11 (54.5%)|
+|5/8 (62.5%)|6/10, (60%)|6/9 (66.7%)|7/11 (63.6%)|
+|6/8 (75%)|7/10, (70%)|7/9 (77.8%)|8/11 (72.7%)|
+|7/8 (87.5%)|8/10, (80%)|8/9 (88.9%)|9/11 (81.8%)|
+|8/8 (100%)|9/10, (90%)|9/9 (100%)|10/11 (90.9%)|
 
  * **FiveThirtyEight had 2** fewer overall correct choices than CBS but, as the above table suggests, the probabilty of these choices were low enough to not penalize their BS rating too greatly (avg of 0.586). 
 
