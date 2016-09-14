@@ -114,9 +114,7 @@ We now have a simple and elegant way of calculating the path counts. It's unlike
 
 <br />
 
-> “The city is redundant: it repeats itself so that something will stick in the mind.
-[…]
-Memory is redundant: it repeats signs so that the city can begin to exist.” 
+> “The city is redundant: it repeats itself so that something will stick in the mind. […] Memory is redundant: it repeats signs so that the city can begin to exist.” 
 ---
 
 Much of the city repeats itself, at least within small sections, these are what we end up clumping together in our minds and describing as neighborhoods. The buildings and blocks change, people leave, and established stores disappear. This is the life of a city, New York especially, where the parts change but the whole remains. Revisit the same places over and over. We approach these places in the same way over and over. Most times our minds are elsewhere while we walk the familiar steps and we would be hard-pressed to describe the faces we passed along the way. The things that change too frequently and quickly do not stick. The more stationery items remain and leave an impression. But this repeated impression is dulled by familiarity and over time is also lost from awareness. We notice these commonalities again once they’re gone. 
