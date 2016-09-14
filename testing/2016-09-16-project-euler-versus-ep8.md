@@ -88,14 +88,10 @@ Initially I had focused on just one branch of paths, knowing the number could be
 
 ## To the Bar!
 
-We now have a simple and elegant way of calculating the path counts. It's unlikely for all of these options to be needed in getting around but they're helpful in keeping you free and flexible in your walks, to the bar or somewhere else less appealing. Just remember to be careful on your way back. With a little alcohol these numerous options, and more depending on your augmented imagination, have a way of making their presence felt, creating confusion, and then we do have to worry about walking in any of four directions (N, S, E, & W). At point, though you’re within a grid you’ll be walking in circles.
-
-1st & 1st, <a href="https://www.youtube.com/watch?v=bb9IA-914Xw" target="_blank">nexus of the universe</a>
-
-
+We now have a simple and elegant way of calculating the path counts. It's unlikely for all of these options to be needed in getting around but they're helpful in keeping you free and flexible in your walks, to the bar or somewhere else less appealing. Just remember to be careful on your way back. With a little alcohol these numerous options, and more depending on your augmented imagination, have a way of making their presence felt, creating confusion, and then we do have to worry about walking in any of four directions (N, S, E, & W). At that point, though you’re within a grid you’ll be walking in circles, unable to escape the  <a href="https://www.youtube.com/watch?v=bb9IA-914Xw" target="_blank">nexus of the universe</a>.
 
 > “Futures not achieved are only branches of the past: dead branches.” 
-
+---
 
 <i>As I said there are a ton of options in the city, with some neighborhoods more blessed than others. In this section of Midtown we can hit the U2 album-named bar or the Irish novel pub, each of which have dozens of taps and dozens of more bottles available. Between the constant rotation and occasional brewery tap takeover there's always something new to choose from, but this doesn't always mean there's something new to you. Perhaps one of these places has just one new beer you care for, maybe not even a new one but a particular flavor for the day (I don't believe in favorite beers, what are we 12? Bad example, you shouldn't drink kids). The other bar has nothing you expect to blow you away but there's a new brewery you've never tried before, perhaps it just started distributing in your area. 
 
@@ -106,21 +102,12 @@ Of course, what's stopping you from going to both bars, or more, and drinking it
 Memory is redundant: it repeats signs so that the city can begin to exist.” 
 ---
 
-<i>Much of the city repeats itself, at least within small sections, these are what we end up clumping together in our minds and describing as neighborhoods. The buildings and blocks change, people leave, and established stores disappear. This is the life of a city, New York especially, where the parts change but the whole remains. Revisit the same places over and over. We approach these places in the same way over and over. Most times our minds are elsewhere while we walk the familiar steps and we would be hard-pressed to describe the faces we passed along the way. The things that change too frequently and quickly do not stick. The more stationery items remain and leave an impression. But this repeated impression is dulled by familiarity and over time is also lost from awareness. We notice these commonalities again once they’re gone. 
-
-This is similar to Computer Vision where the average of an image is taken in order to identify the underlying structure or form of an object in view. And so with our memories? Perhaps. We see something unremarkable a few dozen times and it begins to leave an imprint, pattern, and anchor from which to position and orient ourselves. In New York we have many artifacts to choose from: museums, restaurants, stages, famous buildings and streets, places where you met a friend, broke off a relationship.</i>
-
-> “Thus the city repeats its life, identical, shifting up and down on its empty chessboard."
+Much of the city repeats itself, at least within small sections, these are what we end up clumping together in our minds and describing as neighborhoods. The buildings and blocks change, people leave, and established stores disappear. This is the life of a city, New York especially, where the parts change but the whole remains. Revisit the same places over and over. We approach these places in the same way over and over. Most times our minds are elsewhere while we walk the familiar steps and we would be hard-pressed to describe the faces we passed along the way. The things that change too frequently and quickly do not stick. The more stationery items remain and leave an impression. But this repeated impression is dulled by familiarity and over time is also lost from awareness. We notice these commonalities again once they’re gone. 
 
 > “The city does not consist of this, but of relationships between the measurements of its space and the events of its past:” 
 
 <i>The city streets are the material, our lives the paint, and the innumerable coats we apply help to layer the environment so that what remains in our mind is more than just the physical, the visual. We see with our eyes the objects in front of us and these are imbued with meaning by the relationships we have cultivated with and around them. Our actions develop a spiderweb, the city’s grid provides the joining places for these threads. The spiderweb is extended in multiple directions and dimensions. Seemingly unconnected events of time and space are still yet intertwined by the relationships created through the comings and goings of this city's denizens.</i>
 
-> “The traveler recognizes the little that is his, discovering the much he has not had and will never have.” 
-
-> "he sees someone in a square living a life or an instant that could be his; he could now be in that man’s place, if he had stopped in time, long ago; or if, long ago, at a crossroads, instead of taking one road he had taken the opposite one"
-
-Doubt of ever reaching the bar.
 > “Desires are already memories.” 
 
 <i>You have momentarily left your place of work and your day-to-day responsibilities behind and now are focused on the meeting with a friend. Even if not foremost in your mind, ideas that you have meant to share with the other now we get to bubble to the forefront. In anticipation of this meeting feelings of past meetings provide a setting for what do you want to separate to follow. The city is layered with many stories, yours included, the friendship is similarly interwoven and tonight a New thread will be added.
