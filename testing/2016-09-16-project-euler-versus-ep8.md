@@ -52,7 +52,9 @@ Final intuition, the more blocks off of a line between you and the bar in a grid
 
 <a href="https://projecteuler.net/" target="_blank">Project Euler</a> offers a canonical set of mathematical problems to challenge both math and computer programming concepts. <a href="https://projecteuler.net/problem=15" target="_blank">One of these problems</a> deals with <a href="https://en.wikipedia.org/wiki/Lattice_path" target="_blank">Lattice paths</a> and is the springboard for this thought exercise. Remembering nothing beyond my fourth-grade math but intuiting there's got to be (and 4th grade grammar, apparently) a systematic way of solving this mystery (duh - 4th grade humor, too) I go first for a visual representation. 
 
-<img src="/gallery/2016/projeul/pe_015_notes.JPG" alt="lattice notes" />
+<p align="center">
+  <img src="/gallery/2016/projeul/pe_015_notes.JPG" alt="lattice notes" />
+</p>
 
 I take the origin coordinate (0,0) and branch out to see how the numbers expand looking for a pattern. This is easy enough to do with a 1x1 and 2x2 grid but begins to present problems at 3x3. I rush to develop the last of these trees, am sloppy without realizing it and then spend 30 minutes attempting to find a pattern to an incomplete "solution". Upon returning to my sketches, and revisiting my steps, I realize my error.
 
@@ -70,15 +72,19 @@ Now armed with path counts for square grids of 1 to 4 blocks[5] I sense that the
 > “Elsewhere is a negative mirror. The traveler recognizes the little that is his, discovering the much he has not had and will never have.”
 ---
 
-_From the very beginning, with the simplest example of a 1x1 grid, you're made aware of splits in the journey, the need to choose in order to continue moving both in the world and through the problem at hand. Sticking with square grid arrangements should make it clear from the first fork in the road that anything we do further down the road, all the other branches we've opened up by going left instead of right from the very beginning have a twin should we have gone right instead of left at the start. The route splits in two and every branch afterwards has a double. This allows us to first split the problem in half, get a partial answer, and afterward confidently multiply by two to arrive at a solution._
+From the very beginning, with the simplest example of a 1x1 grid, you're made aware of splits in the journey, the need to choose in order to continue moving both in the world and through the problem at hand. Sticking with square grid arrangements should make it clear from the first fork in the road that anything we do further down the road, all the other branches we've opened up by going left instead of right from the very beginning have a twin should we have gone right instead of left at the start. The route splits in two and every branch afterwards has a double. This allows us to first split the problem in half, get a partial answer, and afterward confidently multiply by two to arrive at a solution.
 
-<img src="/gallery/2016/projeul/pe_eg1_015.PNG" alt="pe_eg1_015" />
+<p align="center">
+  <img src="/gallery/2016/projeul/pe_eg1_015.PNG" alt="pe_eg1_015" />
+</p>
 
 When I'm in the process of developing a routine related to a new location, whether for school, work, or a doctor's visit, I prefer to map it out in my mind ahead of time and choose among two options if possible. As I return to the location I remember previous paths taken consider if there is a more efficient one, not just shorter, a less noisy one perhaps, a way of getting there that incorporates awnings or atriums, beautiful options for rain or when it is too hot. The process repeats itself later in the day for the journey home, but the result need not be a duplicate in reverse. The day is difficult, it may be night depending on the time of the year, and my considerations are usually different. Is there a park to walk through, somewhere to see the riverfront, is there a favorite building in the area? Sometimes I take redundant turns to my destination in order to introduce randomness.
 
 Initially I had focused on just one branch of paths, knowing the number could be doubled to reflect the paths branching in the alternate direction. In creating an Excel representation of my hand notes the whole numbers jump out at me and I realize on closer inspection the number I require can be had with no additional arithmetic, even one capable by my fourth grade talents.
 
-<img src="/gallery/2016/projeul/pe_eg2_015.PNG" alt="pe_eg2_015" />
+<p align="center">
+  <img src="/gallery/2016/projeul/pe_eg2_015.PNG" alt="pe_eg2_015" />
+</p>
 
 ## To the Bar!
 
@@ -124,16 +130,13 @@ I'm walking down the avenue, walking a bit slower than usual. Work is out and I'
 It's the end of summer, a Weiss beer wouldn't be out of place. How about a sour? Also a good style for the final warmth of the day and a fun way to wash away the final touches of humidity. Two months ago the heat could feel like a blanket now it's just a warm wind from time to time, the coolness on the skin taking over after it passes. Traffic is coming to a still and I wipe lightly my upper lip with the back of my hand. Though there is no sweat there it'll be another week before I disabuse myself of this summer habit. Suddenly I don't mind so much having a beer while awaiting my friend. I did get off a stop early in order to kill more time and get a little movement in before the sedentary activities of tonight. At least our minds and voices will be active, for a time anyway. After a couple of IPAs, perhaps a smoked beer, definitely an Imperial Stout, and maybe even a season-creeping offering our minds will also have a head start on sedentary activities. The anticipated brews fall into the pattern of past encounters, even the conversations while unpredictable in their detail will be familiar, like seeing a favorite athlete or sports team performing.</i>
 
 
-
-
-## Invisible Cities (<a href="https://www.goodreads.com/work/quotes/68476-le-citt-invisibili" target="_blank">quotes</a>)
-
 <br />
 
 --- 
 
 **Notes**
 
+All intended <a href="https://www.goodreads.com/work/quotes/68476-le-citt-invisibili" target="_blank">quotes</a> above come from Invisible Cities by Italo Calvino.
 
 [0] That's right, I capitalized it. 
 [1] What's more important in the end: the credit or the beer? <br />
