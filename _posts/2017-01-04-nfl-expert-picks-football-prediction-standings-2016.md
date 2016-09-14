@@ -54,6 +54,7 @@ Let's start slow for this first installment. We have all season to get to know e
 |Random|0.789|0.045|0.623|
 
 <br>
+
  * **This is something** worth keeping an eye on. If it turns out that this becomes too much of a detriment I will consider regularizing expert selections (numerators +1 & denominators +2).<sup id="a3">[3](#f3)</sup> In fact, I may just do this moving forward to have at my disposal. The choice of team will remain the same per panel but this step will help mitigate the exuberance of a unanimous decision. Again, time will tell which is the wiser approach. <br>
 
 |CBS Panel Votes|CBS Panel Votes, Regularized|ESPN Panel Votes|ESPN Panel Votes, Regularized|
@@ -65,6 +66,7 @@ Let's start slow for this first installment. We have all season to get to know e
 |8/8 (100%)|9/10, (90%)|9/9 (100%)|10/11 (90.9%)|
 
 <br>
+
  * **FiveThirtyEight had 2** fewer overall correct choices than CBS but, as the above table suggests, the probabilty of these choices were low enough to not penalize their BS rating too greatly (avg of 0.588). When we dig a little deeper we see that both data models had lower averages for their poor picks than the human votes. What can account for this human confidence? Group think, hubris, more information? It could be as simple as our not taking more expert inputs into consideration. A short term solution would be combining the two panels into one. Something else to keep track of moving forward. <br>
 
 |Source|Avg Prob of Correct Picks|Avg Prob of Wrong Picks|
@@ -76,6 +78,7 @@ Let's start slow for this first installment. We have all season to get to know e
 |Random|0.699|0.830|
 
 <br>
+
  * **Half of the** games were unanimously agreed on by the panels/models, 7 correct and 1 wrong. <br>
 
 |away|home|away_score|home_score|winner|unanimously|
@@ -90,6 +93,7 @@ Let's start slow for this first installment. We have all season to get to know e
 |PIT|WSH|38|16|PIT|correct|
 
 <br>
+
  * **There's currently no** difference between the "a priori" and "in situ" model simulations. Week 2 and beyond will introduce divergence between these two models and we will definitely be keeping an eye on how well the FiveThirtyEight and FOX models "learn" during the season. 
 
  * **Performace ATS will** be allowed to play out for another week or two in this space before being introduced. Part of the delay is considering how to include FiveThirtyEight and FOX models into the head-to-head match up with CBS. We have our ideas, are pretty confident of how to go about it, but want a little more time to get the wrinkles worked out and automated.
