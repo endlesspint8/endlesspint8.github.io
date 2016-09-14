@@ -4,10 +4,17 @@ title: When you come to a fork in the road, keep moving
 subtitle: How Many Different Routes to RnH?
 ---
 
-## A common enough conversation: where do you wanna meet up?
+## So, where do you wanna meet up?
 
 <iframe src="http://endlesspint.com/gallery/2016/projeul/lattice.html" width="900" height="600" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
 <sub>Vis Source: <a href="https://bl.ocks.org/mbostock/1b64ec067fcfc51e7471d944f51f1611" target="_blank">Mike Bostock</a></sub>
+
+I have heard it been said <a href="https://en.wikipedia.org/wiki/42_(number)" target="_blank">the answer to life is 42</a> but that does you no good if you don't know the question. The city provides answers all around you but you don't know what to collect and where they belong. Standing in Time Square can leave you paralyzed with options but if I told you there was a good bar, well now you have a motivation. Your focus highlights the obstacles, most notably time and distance, and can help you begin forming and working on the question. There is an answer to the question but is this the right solution for you? 
+
+There are many options that can suit you, perhaps one best, one that may present you with a future lover, these need not be one and the same. The many wonders are what dazzle the young, the tourists, the romantics, and the imaginative. It is what delights all of us from time to time but this is a passive wonder done to you. It asked nothing of you and is unaware of your presence, would happen without you, and probably wouldn't be influenced by your presence. A question provides purpose, perspective, a point of you. The rest may still apply, especially your non-relevance, but a narrative has been intentionally focused and now you choose to some extent the pictures that get framed. The bar, the beers, they are temporary. The process is a tool. It's applicable to other solutions. Use it, work your decision muscles, and build your narrative skills.
+
+> “You take delight not in a city's seven or seventy wonders, but in the answer it gives to a question of yours.” 
+> --- 
 
 Every couple of weeks I grab a pint with a particular friend of mine and catch up. Hopefully you too have someone to share stupid and serious ideas with. Someone who appreciates your sensibility and opinion but does not take you too seriously and is not shy to call you out on your shit. Most importantly, someone who can hold an interesting conversation, be occasionally irreverent, and have a laugh over a good beer.
 
@@ -19,16 +26,9 @@ I like to play a game I call "Shark Walk" where if you stop moving you "die". Th
 
 This game is applicable to lunch hour walks, taking a stroll (can you say <a href="https://en.wikipedia.org/wiki/Le_Spleen_de_Paris" target="_blank">_flaneur?_</a>), or making your way from the subway stop to the delicious pint waiting for you at your watering hole of choice. If you want to keep moving and give yourself the impression that you've got some little bit of control in this <a href="https://www.youtube.com/watch?v=10yrPDf92hY" target="_blank">maad city</a> then know your options. Which brings us back to the topic at hand, how many ways are there of getting from here, thirsty, to there, imbibing?
 
-> “You take delight not in a city's seven or seventy wonders, but in the answer it gives to a question of yours.” 
-> --- 
-
-<i>I have heard it been said <a href="https://en.wikipedia.org/wiki/42_(number)" target="_blank">the answer to life is 42</a> but that does you no good if you don't know the question. The city provides answers all around you but you don't know what to collect and where they belong. Standing in Time Square can leave you paralyzed with options but if I told you there was a good bar, well now you have a motivation. Your focus highlights the obstacles, most notably time and distance, and can help you begin forming and working on the question. There is an answer to the question but is this the right solution for you? 
-
-There are many options that can suit you, perhaps one best, one that may present you with a future lover, these need not be one and the same. The many wonders are what dazzle the young, the tourists, the romantics, and the imaginative. It is what delights all of us from time to time but this is a passive wonder done to you. It asked nothing of you and is unaware of your presence, would happen without you, and probably wouldn't be influenced by your presence. A question provides purpose, perspective, a point of you. The rest may still apply, especially your non-relevance, but a narrative has been intentionally focused and now you choose to some extent the pictures that get framed. The bar, the beers, they are temporary. The process is a tool. It's applicable to other solutions. Use it, work your decision muscles, and build your narrative skills.</i>
-
 ## A Simple Example (credit to the MTA)
 
-Despite <a href="http://www.citylab.com/commute/2016/07/a-new-map-of-new-yorks-subway-deserts/491156/" target="_blank">subway deserts</a>, that you can <a href="http://nymag.com/selectall/2016/08/this-subway-game-turned-me-into-a-tinpot-robert-moses.html" target="_blank">attempt to alleviate</a>, the MTA covers NYC reasonably well. In Manhattan at least it is difficult to be more than a 15 walk from subway station to destination (whether you’re willing to make the necessary connections to get to that most close station is another point entirely).
+Despite <a href="http://www.citylab.com/commute/2016/07/a-new-map-of-new-yorks-subway-deserts/491156/" target="_blank">subway deserts</a>, that you can <a href="http://nymag.com/selectall/2016/08/this-subway-game-turned-me-into-a-tinpot-robert-moses.html" target="_blank">attempt to alleviate</a>, the MTA covers NYC reasonably well. In Manhattan at least it is difficult to be more than a 15 minute walk from subway station to destination (whether you’re willing to make the necessary connections to get to that most close station is another point entirely).
 
 Assume you're on the Sixth Avenue line and get off at 34th for the purposes of getting a drink at a certain <a href="https://en.wikipedia.org/wiki/Rattle_and_Hum" target="_blank">U2-named bar</a>, that places you two blocks away from the corner of 33rd & 5th (let's ignore the difference in avenues and streets, since it won't matter either way in our scenarios) which requires you to go east and south, in either order. Since both options are available you have two routes to getting there.
 
