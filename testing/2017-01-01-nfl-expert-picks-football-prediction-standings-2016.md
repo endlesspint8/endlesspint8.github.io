@@ -92,7 +92,7 @@ Let's start slow for this first installment. We have all season to get to know e
 <br>
  * **There's currently no** difference between the "a priori" and "in situ" model simulations. Week 2 and beyond will introduce divergence between these two models and we will definitely be keeping an eye on how well the FiveThirtyEight and FOX models "learn" during the season. 
 
- * **Performace ATS will** be allowed to play out for another week or two in this space before being introduced. Part of the delay is considering how to include FiveThirtyEight and FOX models into the head-to-head match up with CBS. We have our ideas, are pretty confident of how to do it, but want a little more time to get the wrinkles worked out and automated.
+ * **Performace ATS will** be allowed to play out for another week or two in this space before being introduced. Part of the delay is considering how to include FiveThirtyEight and FOX models into the head-to-head match up with CBS. We have our ideas, are pretty confident of how to go about it, but want a little more time to get the wrinkles worked out and automated.
 
 ---
 
