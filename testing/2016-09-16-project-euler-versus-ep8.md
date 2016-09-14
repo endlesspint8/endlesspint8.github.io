@@ -30,9 +30,9 @@ There are many options that can suit you, perhaps one best, one that may present
 
 Despite <a href="http://www.citylab.com/commute/2016/07/a-new-map-of-new-yorks-subway-deserts/491156/" target="_blank">subway deserts</a>, that you can <a href="http://nymag.com/selectall/2016/08/this-subway-game-turned-me-into-a-tinpot-robert-moses.html" target="_blank">attempt to alleviate</a>, the MTA covers NYC reasonably well. In Manhattan at least it is difficult to be more than a 15 walk from subway station to destination (whether you’re willing to make the necessary connections to get to that most close station is another point entirely).
 
-Assume you're on the Sixth Avenue line and get off at 34th for the purposes of getting a drink at a certain <a href="https://en.wikipedia.org/wiki/Rattle_and_Hum" target="_blank">U2-named bar</a>, that places you two blocks away (let's ignore the difference in avenues and streets, since it won't matter either way in our scenarios) which requires you to go east and south, in either order. Since both options are available you have two routes to getting there.
+Assume you're on the Sixth Avenue line and get off at 34th for the purposes of getting a drink at a certain <a href="https://en.wikipedia.org/wiki/Rattle_and_Hum" target="_blank">U2-named bar</a>, that places you two blocks away from the corner of 33rd & 5th (let's ignore the difference in avenues and streets, since it won't matter either way in our scenarios) which requires you to go east and south, in either order. Since both options are available you have two routes to getting there.
 
-Now if you're two blocks up the Avenue from your destination, 35th & 5th Ave, the same number of blocks (again not in actual distance), you only have one choice, walking downtown.
+Now if you're two blocks up the Avenue from your destination, 35th & Fifth Ave, the same number of blocks (again not in actual distance), you only have one choice, walking downtown.
 
 <img src="/gallery/2016/projeul/rnh.PNG" alt="RnH" />
 <sub>Data Source: <a href="https://www.google.com/maps/place/34+St+-+Herald+Sq/@40.7482332,-73.987204,17z/data=!4m13!1m7!3m6!1s0x89c259a9b3117469:0xd134e199a405a163!2sEmpire+State+Building!3b1!8m2!3d40.7484405!4d-73.9856644!3m4!1s0x89c259a938897f87:0x77a53418bbd56c17!8m2!3d40.749644!4d-73.9876708" target="_blank">Google Maps</a></sub>
@@ -44,30 +44,26 @@ Second intuition, when it comes to a straight line it doesn't matter how far out
 > “An invisible landscape conditions the visible one” 
 ---
 
-Final intuition, the more blocks off of a line between you and the bar in a grid layout, the more options. Four blocks away, in a 3x1 fashion starting on 36th and Park and still aiming for Rattle 'n Hum you have no less than four ways of getting there (either taking Park to 33rd and heading west or previously heading to Fifth at 3 of the earlier options: 36th, 35th or 34th, before continuing downtown). The options increase if you happen to be in a 2x2 grid, though still four blocks away in total. Can you envision in your mind the routes available to walk from 35th and 7th to 33rd and Fifth? I'll give you a second. [FN: It's six this time.]
+Final intuition, the more blocks off of a line between you and the bar in a grid layout, the more options. Four blocks away, in a 3x1 fashion, say starting on 36th and Sixth and still aiming for <a href="http://www.rattlenhumbarnyc.com/" target="_blank">RnH East</a> you have no less than four ways of getting there (either taking Sixth to 33rd and heading east or heading to Fifth at 3 of the earlier options: 36th, 35th or 34th, and continuing downtown). The options increase if you happen to be in a 2x2 grid, though still four blocks away in total. Can you envision in your mind the routes available to walk from 35th and 7th to 33rd and Fifth? I'll give you a second.[4]
 
 ## Mr. Euler, I Presume
 
-<a href="https://projecteuler.net/" target="_blank">Project Euler</a> offers a canonical set of mathematical problems to challenge math and computer programming concepts. <a href="https://projecteuler.net/problem=15" target="_blank">One of these problems</a> deals with <a href="https://en.wikipedia.org/wiki/Lattice_path" target="_blank">Lattice paths</a>and is the springboard for this thought exercise. Remembering nothing beyond my fourth-grade math but intuiting there's got to be [FN: and 4th grade grammar] a systematic way of solving this mystery (duh) I go first for a visual representation. 
+<a href="https://projecteuler.net/" target="_blank">Project Euler</a> offers a canonical set of mathematical problems to challenge both math and computer programming concepts. <a href="https://projecteuler.net/problem=15" target="_blank">One of these problems</a> deals with <a href="https://en.wikipedia.org/wiki/Lattice_path" target="_blank">Lattice paths</a>and is the springboard for this thought exercise. Remembering nothing beyond my fourth-grade math but intuiting there's got to be (and 4th grade grammar, apparently) a systematic way of solving this mystery (duh) I go first for a visual representation. 
 
-## To the Bar!
+<img src="/gallery/2016/projeul/pe_015_notes.JPG" alt="lattice notes" />
 
-I take the origin coordinate (0,0) and branch out to see how the numbers expand looking for a pattern. This is easy enough to do with the 1x1 and 2x2 grid but begins to present problems at 3x3. I rush to develop the last of these trees, am sloppy without realizing it and then spend 30 minutes attempting to find a pattern to an incomplete "solution". Upon returning to my sketches, and revisiting my steps, I realize my error.
+I take the origin coordinate (0,0) and branch out to see how the numbers expand looking for a pattern. This is easy enough to do with a 1x1 and 2x2 grid but begins to present problems at 3x3. I rush to develop the last of these trees, am sloppy without realizing it and then spend 30 minutes attempting to find a pattern to an incomplete "solution". Upon returning to my sketches, and revisiting my steps, I realize my error.
 
 > "they must admit that all their calculations were wrong and their figures are unable to describe the heavens"
 --- 
 
-**insert photo**
+I correct the path count and redo it from scratch on the other side of the page to confirm the result. Convinced of the correct next path count I try again to find a mathematical pattern. Nothing doing, I figure more numbers of paths would help but do not necessarily trust myself to come out with the correct path count of the 4x4 grid. 
 
-I correct the path count and redo it from scratch on the other side of the page to confirm the result. Convinced of the correct next path count I try again to find a mathematical pattern. Nothing doing, I figure more numbers of paths would help but do not necessarily trust myself to come out with the correct path count for the 4x4 grid. Had I been at this corner before? Did I go right or down last time? Why can’t I remember, there are only two directions to keep track of? Sure to be unable of keeping it straight in my head I envision the scene from Inception where <a href="https://www.youtube.com/watch?v=x9hBWnh_O6A" target="_blank">the city folds in on itself</a> or an <a href="http://www.mcescher.com/gallery/recognition-success/convex-and-concave/" target="_blank">Escher</a> drawing. What's a fool to do? 
+Had I been at this corner before? Did I go right or down last time? Why can’t I remember, there are only two directions to keep track of? Sure to be incapable of keeping it straight in my head I envision the scene from Inception where <a href="https://www.youtube.com/watch?v=x9hBWnh_O6A" target="_blank">the city folds in on itself</a> or an <a href="http://www.mcescher.com/gallery/recognition-success/convex-and-concave/" target="_blank">Escher</a> drawing. What's a fool to do? 
 
-How about building an equally foolish function, but one that knows how to keep count? That would help put off losing my mind a while longer. Done.
+How about building an equally foolish function, but one that knows how to keep count? That would help put off losing my mind a while longer. <a href="https://gist.github.com/endlesspint8/676acf4c618ecbc8aac09f1e2a67fd2e#file-lattice_naive-py" target="_blank">Done</a>.
 
-insert function -> create Gist
-
-Now armed with path counts for square grids from 1 to 4 blocks I sense that the mysteries of the solution are shortly to be revealed. After another half hour it's clear the revelation will be taking its time and may require another visual representation, this time listing out the number of paths available at each corner of the grid. I start simply and build up, taking my time and hoping that my deliberate attention will clue me into following the right direction. And what do you freaking know? By the time I expand from the 2x2 to the 3x3 I'm seeing a possibility. Having the next path count [FN: presumably the correct one], 4x4, allows me to know what to look for and validate the pattern further. As soon as this next step returns the right number I expand my efforts from a sheet of paper, to an Excel sheet, and finally to a slightly smarter function.
-
-insert function -> create Gist
+Now armed with path counts for square grids of 1 to 4 blocks[5] I sense that the mysteries of the solution are shortly to be revealed. After another half hour it's clear the revelation will be taking its time and may require another visual representation, this time listing out the number of paths available at each corner of the grid. I start simply and build up, taking my time and hoping that my deliberate attention will clue me into following the right direction. And what do you freaking know? By the time I expand from the 2x2 to the 3x3 I'm seeing a possibility. Having the next path count at 4x4, presumably the correct one, allows me to know what to look for and validate the pattern further. As soon as this next step returns the right number I expand my efforts from a sheet of paper, to an Excel sheet, and finally to a slightly <a href="https://gist.github.com/endlesspint8/676acf4c618ecbc8aac09f1e2a67fd2e#file-lattice_less_naive-py" target="_blank">less foolish function</a>.
 
 > “Elsewhere is a negative mirror. The traveler recognizes the little that is his, discovering the much he has not had and will never have.”
 
@@ -76,6 +72,8 @@ insert function -> create Gist
 When I'm in the process of developing a routine related to a new location, whether for school, work, or a doctor's visit, I prefer to map it out in my mind ahead of time and choose among two options if possible. As I return to the location I remember previous paths taken consider if there is a more efficient one, not just shorter, a less noisy one perhaps, a way of getting there that incorporates awnings or atriums, beautiful options for rain or when it is too hot. The process repeats itself later in the day for the journey home, but the result need not be a duplicate in reverse. The day is difficult, it may be night depending on the time of the year, and my considerations are usually different. Is there a park to walk through, somewhere to see the riverfront, is there a favorite building in the area? Sometimes I take redundant turns to my destination in order to introduce randomness.
 
 Initially I had focused on just one branch of paths, knowing the number could be doubled to reflect the paths branching in the alternate direction. In creating an Excel representation of my hand notes the whole numbers jump out at me and I realize on closer inspection the number I require can be had with no additional arithmetic, even one capable by my fourth grade talents.
+
+## To the Bar!
 
 We now have a simple and elegant way of calculating the path counts. It's unlikely for all of these options to be needed in getting around but they're helpful in keeping you free and flexible in your walks, to the bar or somewhere else less appealing. Just remember to be careful on your way back. With a little alcohol these numerous options, and more depending on your augmented imagination, have a way of making their presence felt, creating confusion, and then we do have to worry about walking in any of four directions (N, S, E, & W). At point, though you’re within a grid you’ll be walking in circles.
 
@@ -134,7 +132,7 @@ see: binomials; pascal's triangle; ... <br />
 [1] What's more important in the end: the credit or the beer? <br />
 [2] And never a good look. <br />
 [3] Ibid. <br />
-[4] 
-[5]
+[4] It's six this time.
+[5] 1x1: 2 paths; 2x2: 6; 3x3: 20; & 4x4: 70
 
 https://bl.ocks.org/mbostock/1b64ec067fcfc51e7471d944f51f1611
