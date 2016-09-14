@@ -77,7 +77,6 @@ Let's start slow for this first installment. We have all season to get to know e
 |ESPN|0.808|0.822|
 |Random|0.699|0.830|
 
-<br>
 
  * **Half of the** games were unanimously agreed on by the panels/models, 7 correct and 1 wrong. <br>
 
