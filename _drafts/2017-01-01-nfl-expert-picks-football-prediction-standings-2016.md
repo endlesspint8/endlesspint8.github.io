@@ -73,7 +73,19 @@ Let's start slow for this first installment. We have all season to get to know e
 |ESPN|0.808|0.822|
 |Random|0.699|0.830|
 
- * FOX
+ * **Half of the** games were unanimously agreed on by the panels/models, 7 correct and 1 wrong.
+
+|week|away|home|away_score|home_score|winner|unanimously|
+|---|---|---|---|---|---|---|
+|Week 1|CHI|HOU|14|23|HOU|correct|
+|Week 1|CLE|PHI|10|29|PHI|correct|
+|Week 1|GB|JAX|27|23|GB|correct|
+|Week 1|MIN|TEN|25|16|MIN|correct|
+|Week 1|SD|KC|27|33|KC|correct|
+|Week 1|MIA|SEA|10|12|SEA|correct|
+|Week 1|NE|ARI|23|21|NE|"nobody believed in us!"|
+|Week 1|PIT|WSH|38|16|PIT|correct|
+
  * ESPN
  * Random
 
