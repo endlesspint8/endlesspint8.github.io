@@ -120,8 +120,17 @@ It's the end of summer, a Weiss beer wouldn't be out of place. How about a sour?
 
 <br />
 
+---
 
---- 
+**Newsletter**
+
+> Sign up for the <a href="http://bit.ly/ep8nlw" target="_blank">newsletter</a> and receive advance notice of posted content, added site features and opportunities to ask questions & make suggestions for future data related beer pieces and miscellany.
+>
+> Drink well & stay curious, Reggie
+
+<br>
+
+---
 
 **Notes**
 
