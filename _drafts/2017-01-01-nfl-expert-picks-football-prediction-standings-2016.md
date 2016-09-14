@@ -43,7 +43,7 @@ Let's start slow for this first installment. We have all season to get to know e
 
 ### Week 1 Notes
 
- * **The CBS committee** had only of 3 of sixteen games wrong, picking CAR, ARI and LA. The ARI choice was the most damaging as it was an unanimous selection resulting in the largest penalty possible for a prediction, 1.0. This was off-set by solid and confident choices in other places, such as the 3 other unanimous picks that did work out: HOU, SEA and PIT. This right away brings to mind the thought that human panels, certainly ones as small as these, are prone to over estimating probability of wins (granted the way I am using their input is not the intended purpose, but that's what makes it so fun). It is doubtful that the data models we will be dealing with in this exercise will ever give a probability of 1.00. This means that the human panels leave themselves open to big wins and big loses, as far as the Brier score is concerned (see table below showing average probabilities amongst the sources for the week, with the range of possible scores). 
+ * **The CBS committee** had only of 3 of sixteen games wrong, incorrectly picking CAR, ARI and LA. The ARI choice was the most damaging as it was an unanimous selection resulting in the largest penalty possible for a prediction, 1.0. This was off-set by solid and confident choices in other places, such as the 3 other unanimous picks that did work out: HOU, SEA and PIT. This right away brings to mind the thought that human panels, certainly ones as small as these, are prone to over estimating probability of wins (granted the way I am using their input is not the intended purpose, but that's what makes it so fun). It is doubtful that the data models we will be dealing with in this exercise will ever give a probability of 1.00. This means that the human panels leave themselves open to big wins and big loses, as far as the Brier score is concerned (see table below showing average probabilities amongst the sources for the week, with the range of possible scores). 
 
 |Source|Avg Prob of Pick|Best Possible BS|Worst Possible BS|
 |---|---|---|---|
@@ -53,7 +53,7 @@ Let's start slow for this first installment. We have all season to get to know e
 |ESPN|0.813|0.035|0.660|
 |Random|0.789|0.045|0.623|
 
- * **This is something** worth keeping an eye on. If it turns out that this becomes too much of a detriment I will consider regularizing expert selections (numerators +1 & denominators +2).<sup id="a3">[3](#f3)</sup> In fact, I may just do this moving forward to have at my disposal.
+ * **This is something** worth keeping an eye on. If it turns out that this becomes too much of a detriment I will consider regularizing expert selections (numerators +1 & denominators +2).<sup id="a3">[3](#f3)</sup> In fact, I may just do this moving forward to have at my disposal. The choice of team will remain the same per panel but this step will help mitigate the exuberance of a unanimous decision. Again, time will tell which is the wiser approach.
 
 |CBS Panel Votes|CBS Panel Votes, Regularized|ESPN Panel Votes|ESPN Panel Votes, Regularized|
 |---|---|---|---|
@@ -63,18 +63,19 @@ Let's start slow for this first installment. We have all season to get to know e
 |7/8 (87.5%)|8/10, (80%)|8/9 (88.9%)|9/11 (81.8%)|
 |8/8 (100%)|9/10, (90%)|9/9 (100%)|10/11 (90.9%)|
 
- * **FiveThirtyEight had 2** fewer overall correct choices than CBS but, as the above table suggests, the probabilty of these choices were low enough to not penalize their BS rating too greatly (avg of 0.586). 
+ * **FiveThirtyEight had 2** fewer overall correct choices than CBS but, as the above table suggests, the probabilty of these choices were low enough to not penalize their BS rating too greatly (avg of 0.588). When we dig a little deeper we see that both data models had lower averages for their poor picks than the human votes. What can account for this human confidence? Group think, hubris, more information? It could be as simple as our not taking more expert inputs into consideration. A short term solution would be combining the two panels into one. Something else to keep track of moving forward.  
 
-|Source|Avg Prob of Correct Picks|Avg Prob of Wrong Picks||
-|---|---|---|---|
-|CBS|0.766|0.055|0.586|
-|FiveThirtyEight|0.633|0.135|0.401|
-|FOX|0.658|0.117|0.433|
-|ESPN|0.813|0.035|0.660|
-|Random|0.789|0.045|0.623|
+|Source|Avg Prob of Correct Picks|Avg Prob of Wrong Picks|
+|---|---|---|
+|CBS|0.769|0.750|
+|FiveThirtyEight|0.660|0.588|
+|FOX|0.666|0.648|
+|ESPN|0.808|0.822|
+|Random|0.699|0.830|
 
- * adsf
- * 
+ * FOX
+ * ESPN
+ * Random
 
 ---
 
@@ -90,8 +91,13 @@ Let's start slow for this first installment. We have all season to get to know e
 
 **Notes**
 
+**intro**
+
 <b id="f1">1</b> Except for NBC, at this point (week 1). These punks have not made their experts' picks readily available, at least not in the panel-friendly way of CBS and ESPN. [↩](#a1) <br>
 <b id="f2">2</b> They are in fact all men. Sorry ladies. [↩](#a2) <br>
+
+**week 1**
+
 <b id="f3">3</b> Not a bad policy in dealing with prognostications in the real world either.  [↩](#a3) <br>
 <b id="f4">4</b>   [↩](#a4) <br>
 <b id="f5">5</b>   [↩](#a5) <br>
