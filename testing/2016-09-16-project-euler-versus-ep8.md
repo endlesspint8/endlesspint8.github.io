@@ -34,8 +34,10 @@ Assume you're on the Sixth Avenue line and get off at 34th for the purposes of g
 
 Now if you're two blocks up the Avenue from your destination, 35th & Fifth Ave, the same number of blocks (again not in actual distance), you only have one choice, walking downtown.
 
-<img src="/gallery/2016/projeul/rnh.PNG" alt="RnH" />
-<sub>Data Source: <a href="https://www.google.com/maps/place/34+St+-+Herald+Sq/@40.7482332,-73.987204,17z/data=!4m13!1m7!3m6!1s0x89c259a9b3117469:0xd134e199a405a163!2sEmpire+State+Building!3b1!8m2!3d40.7484405!4d-73.9856644!3m4!1s0x89c259a938897f87:0x77a53418bbd56c17!8m2!3d40.749644!4d-73.9876708" target="_blank">Google Maps</a></sub>
+<p align="center">
+  <img src="/gallery/2016/projeul/rnh.PNG" alt="RnH" /><br>
+  <sub>Data Source: <a href="https://www.google.com/maps/place/34+St+-+Herald+Sq/@40.7482332,-73.987204,17z/data=!4m13!1m7!3m6!1s0x89c259a9b3117469:0xd134e199a405a163!2sEmpire+State+Building!3b1!8m2!3d40.7484405!4d-73.9856644!3m4!1s0x89c259a938897f87:0x77a53418bbd56c17!8m2!3d40.749644!4d-73.9876708" target="_blank">Google Maps</a></sub>
+</p>
 
 Intuitively, being off of a straight line provides alternate ways of getting to the same destination and this is especially clear in The City, or an area of a city that is laid out like a Cartesian plane (we will be ignoring bisecting streets and avenues, such as Broadway).
 
@@ -140,6 +142,7 @@ It's the end of summer, a Weiss beer wouldn't be out of place. How about a sour?
 [5] 1x1: 2 paths; 2x2: 6; 3x3: 20; & 4x4: 70
 
 see: binomials; pascal's triangle; ... <br />
-<img src="/gallery/2016/projeul/pe_congrats_015.PNG" alt="lattice notes" />
+<img src="/gallery/2016/projeul/pe_congrats_015.PNG" alt="lattice notes" /><br />
+<sub>Data Source: <a href="https://projecteuler.net/" target="_blank">Project Euler</a>, if you're clever enough. Ha!</sub>
 
 https://bl.ocks.org/mbostock/1b64ec067fcfc51e7471d944f51f1611
