@@ -34,6 +34,9 @@ Assume you're on the Sixth Avenue line and get off at 34th for the purposes of g
 
 Now if you're two blocks up the Avenue from your destination, 35th & 5th Ave, the same number of blocks (again not in actual distance), you only have one choice, walking downtown.
 
+<img src="/gallery/2016/projeul/rnh.PNG" alt="RnH" />
+<sub>Data Source: <a href="https://www.google.com/maps/place/34+St+-+Herald+Sq/@40.7482332,-73.987204,17z/data=!4m13!1m7!3m6!1s0x89c259a9b3117469:0xd134e199a405a163!2sEmpire+State+Building!3b1!8m2!3d40.7484405!4d-73.9856644!3m4!1s0x89c259a938897f87:0x77a53418bbd56c17!8m2!3d40.749644!4d-73.9876708" target="_blank">Google Maps</a></sub>
+
 Intuitively, being off of a straight line provides alternate ways of getting to the same destination and this is especially clear in The City, or an area of a city that is laid out like a Cartesian plane (we will be ignoring bisecting streets and avenues, such as Broadway).
 
 Second intuition, when it comes to a straight line it doesn't matter how far out you extend it, the most direct way of getting to the destination remains the same; you have one best option, you actually have a best option. Straight ahead.
