@@ -125,7 +125,7 @@ It's the end of summer, a Weiss beer wouldn't be out of place. How about a sour?
 
 **Notes**
 
-All intended <a href="https://www.goodreads.com/work/quotes/68476-le-citt-invisibili" target="_blank">quotes</a> above come from Invisible Cities by Italo Calvino.
+All indented <a href="https://www.goodreads.com/work/quotes/68476-le-citt-invisibili" target="_blank">quotes</a> above come from _Invisible Cities_ by Italo Calvino.
 
 [0] That's right, I capitalized it. 
 [1] What's more important in the end: the credit or the beer? <br />
@@ -137,5 +137,3 @@ All intended <a href="https://www.goodreads.com/work/quotes/68476-le-citt-invisi
 see: binomials; pascal's triangle; ... <br />
 <img src="/gallery/2016/projeul/pe_congrats_015.PNG" alt="lattice notes" /><br />
 <sub>Data Source: <a href="https://projecteuler.net/" target="_blank">Project Euler</a>, if you're clever enough. Ha!</sub>
-
-https://bl.ocks.org/mbostock/1b64ec067fcfc51e7471d944f51f1611
