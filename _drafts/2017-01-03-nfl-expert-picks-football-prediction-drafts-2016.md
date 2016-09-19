@@ -18,3 +18,6 @@ Week to week we will be tracking game prediction accuracies but before we get to
  * http://bl.ocks.org/jfreels/6734025
  * http://bl.ocks.org/mbostock/4061502
  * https://gist.github.com/gka/17ee676dc59aa752b4e6
+ * https://derekswingley.com/2016/01/22/make-a-chart-from-a-table/
+    * http://bl.ocks.org/mbostock/3883245
+    * https://gist.github.com/swingley/b5fb2cdf5532581c26b0
