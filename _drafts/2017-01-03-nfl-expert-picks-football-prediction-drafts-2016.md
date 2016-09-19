@@ -11,3 +11,8 @@ subtitle: This Week's Draft
 Week to week we will be tracking game prediction accuracies but before we get too far along and caught up in the ... let us now take a moment to look forward and see what our two models predicted for the entire season... 
 
 **TODO**: create 1-season "refreshing" win standings, to show variation, using win prob
+ * http://bl.ocks.org/LeeMendelowitz/11383724
+ * http://www.d3noob.org/2013/02/add-html-table-to-your-d3js-graph.html
+ * http://www.d3noob.org/2013/02/update-d3js-data-dynamically-button.html
+ * http://bl.ocks.org/jfreels/6734025
+ * http://bl.ocks.org/mbostock/4061502
