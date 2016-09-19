@@ -8,7 +8,7 @@ subtitle: This Week's Draft
 
 ## Week 2 - Back to the Future Full Season Recap 
 
-Week to week we will be tracking game prediction accuracies but before we get too far along and caught up in the ... let us now take a moment to look forward and see what our two models predicted for the entire season... 
+As we plod along tracking game prediction accuracies week-to-week it may be tempting to get lost in the most current data and side tracked by the latest revisions. With that idea in mind let us now take a moment to look forward and document what the two quant models, by FiveThirtyEight and FOX, predicted for the season by using their respecitve game by game winning probabilities. 
 
 **TODO**: create 1-season "refreshing" win standings, to show variation, using win prob
  * http://bl.ocks.org/LeeMendelowitz/11383724
