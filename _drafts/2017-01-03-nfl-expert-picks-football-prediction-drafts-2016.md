@@ -12,7 +12,9 @@ Week to week we will be tracking game prediction accuracies but before we get to
 
 **TODO**: create 1-season "refreshing" win standings, to show variation, using win prob
  * http://bl.ocks.org/LeeMendelowitz/11383724
+ * http://bl.ocks.org/mmparker/3670696
  * http://www.d3noob.org/2013/02/add-html-table-to-your-d3js-graph.html
  * http://www.d3noob.org/2013/02/update-d3js-data-dynamically-button.html
  * http://bl.ocks.org/jfreels/6734025
  * http://bl.ocks.org/mbostock/4061502
+ * https://gist.github.com/gka/17ee676dc59aa752b4e6
