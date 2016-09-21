@@ -65,7 +65,8 @@ FiveThirtyEight's model improved against its preseason predictions in both wins,
 |FOX (in situ)|0.262|17|
 |Random|0.402|12|
 
-Things to be looking out for: 
+Things to look out for: 
+
 * quant model recalibrations and subsequent performance (FiveThirtyEight has a 1.00 win% on changes; FOX is at 0.50, granted on a _tiny_ sample set)
 * random predictive performance (improved from last week)
 * continue to monitor human/experts against regularized  panel probabilities, possibly drop outright votes based on future performance
