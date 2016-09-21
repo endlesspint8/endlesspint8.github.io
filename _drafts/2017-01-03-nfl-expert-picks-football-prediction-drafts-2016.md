@@ -68,6 +68,13 @@ Things to be looking out for:
 
 
 **TODO**: create 1-season "refreshing" win standings, to show variation, using win prob
+
+1. loop through games and pick winner based on prob & Math.random()
+2. winning team += 1
+3. pass team & wins, along with conf & div, to json (maybe?)
+4. create table from json
+5. sort table by conf, div, wins
+
  * http://bl.ocks.org/LeeMendelowitz/11383724
  * http://bl.ocks.org/jfreels/6734025
  * http://bl.ocks.org/gka/17ee676dc59aa752b4e6
