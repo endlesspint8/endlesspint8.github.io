@@ -49,8 +49,17 @@ As we plod along tracking game prediction accuracies week-to-week it may be temp
 
 FiveThirtyEight provides a team-by-team season win total, released preseason and updated weekly. No need to reinvent the wheel, however there is, to the best of my web surfing, no breakdown of how this looks by conference and/or division. That could be meaningful for playoff purposes. Below is table of the preseason expected wins for FiveThirtyEight. Teams are grouped first by conference, then by division, and sorted by overall wins, followed by division and conference wins. I have highlighted the division winners and the additional two wild card teams per conference.
 
+**FiveThirtyEight Game Probability Season Standings**
+
+<img src="/gallery/2016/football-picks/538_prob.PNG" alt="538 prob" /><br>
+<sub>Data Source: <a href="http://www.beerinstitute.org/" target="_blank">FiveThirtyEight</a></sub>
 
 FOX does not even provide an overall win total for the teams, again to the best of my web surfing, which made this excercise worthwhile just to see where they stand big picture. The table is similarily grouped and sorted.
+
+**FOX Game Probability Season Standings**
+
+<img src="/gallery/2016/football-picks/FOX_prob.PNG" alt="FOX prob" /><br>
+<sub>Data Source: <a href="http://www.beerinstitute.org/" target="_blank">FOX</a></sub>
 
 
 
