@@ -52,14 +52,14 @@ FiveThirtyEight provides a team-by-team season win total, released preseason and
 **FiveThirtyEight Game Probability Season Standings**
 
 <img src="/gallery/2016/football-picks/538_prob.PNG" alt="538 prob" /><br>
-<sub>Data Source: <a href="http://www.beerinstitute.org/" target="_blank">FiveThirtyEight</a></sub>
+<sub>Data Source: <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a></sub>
 
-FOX does not even provide an overall win total for the teams, again to the best of my web surfing, which made this excercise worthwhile just to see where they stand big picture. The table is similarily grouped and sorted.
+FOX does not even provide an overall win total for the teams, again to the best of my web surfing, which made this excercise worthwhile just to see where they stand big picture. The table is similarily grouped and sorted. By the way, the wins for both tables were calculated with the following <a href="https://gist.github.com/endlesspint8/2eaae1e452ce7d5a5edd46277c0459fb#file-nfl_season_standings_w_prob-py" target="_blank">code</a>.
 
 **FOX Game Probability Season Standings**
 
 <img src="/gallery/2016/football-picks/FOX_prob.PNG" alt="FOX prob" /><br>
-<sub>Data Source: <a href="http://www.beerinstitute.org/" target="_blank">FOX</a></sub>
+<sub>Data Source: <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
 
 
