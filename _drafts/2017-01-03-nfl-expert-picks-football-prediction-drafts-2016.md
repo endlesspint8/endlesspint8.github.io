@@ -28,16 +28,16 @@ Clearly a good amount of overlap but also some interesting differences in detail
 
 **Notes & Updates to Last Week**
 
-FiveThirtyEight's model improved against its preseason predictions in both wins, making one game prediction change (from CHI to PHI), and BS. FOX recalibrated from its preseason predictions with less success. FOX's model made two game prediction changes, but only one of them turned out to be correct (IND to DEN). Additionally, the probabilites for wins were further off post-recalibration. CBS continues to hold strong and while slightly edged out by FiveThirtyEight's model with respect to BS holds a three game lead when it comes to wins. 
+FiveThirtyEight's model improved against its preseason predictions in both wins, making one game prediction change (from CHI to PHI), and BS. FOX recalibrated from its preseason predictions with less success. FOX's model made two game prediction changes, but only one of them turned out to be correct (IND to DEN). Additionally, the probabilites for wins were further off post-recalibration. CBS continues to hold strong, slightly edging out FiveThirtyEight's model with respect to BS and predicting three more games correctly. 
 
 **Predictive Standing, Straight Up**
 
 |Source|Season Brier Score|Season Wins|
 |---|---|---|
+|CBS (regularized)|0.218|23|
 |FiveThirtyEight (in situ)|0.219|20|
-|CBS (regularized)|0.221|23|
 |FiveThirtyEight (a priori)|0.221|19|
-|CBS|0.235|23|
+|CBS|0.232|23|
 |ESPN (regularized)|0.236|20|
 |FOX (a priori)|0.255|17|
 |ESPN|0.256|20|
