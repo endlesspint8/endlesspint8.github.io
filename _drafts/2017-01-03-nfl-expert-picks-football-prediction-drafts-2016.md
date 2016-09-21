@@ -10,7 +10,23 @@ subtitle: This Week's Draft
 
 FiveThirtyEight's model improved against its preseason predictions in both wins, switching from xx to yy, and BS. FOX recalibrated from its preseason predictions with less success. FOX's model made two game prediction changes, but only one of them turned out to be correct. Additionally, the probabilites for wins was a bit more off post-recalibration. CBS continues to hold strong and while slightly edged out by FiveThirtyEight's model with respect to BS holds a three game lead when it comes to wins. 
 
-Things we will be looking out for: quant model recalibrations and subsequent performance (FiveThirtyEight has a 1.00 win% on changes; FOX is at 0.50) // random predictive performance (improved from last week) // continue to monitor human/experts against regularized  panel probabilities, possibly drop outright votes based on future performance // 
+Things we will be looking out for: quant model recalibrations and subsequent performance (FiveThirtyEight has a 1.00 win% on changes; FOX is at 0.50) // random predictive performance (improved from last week) // continue to monitor human/experts against regularized  panel probabilities, possibly drop outright votes based on future performance // suicide pool survival based on unanimous picks (& win% for same) // 
+
+Unanimous picks: Week 1, 7/8 correct (87.5%); Week 2, 7/11 correct (77.8%)
+
+|away|home|away_score|home_score|winner|unanimously|
+|---|---|---|---|---|---|
+|BAL|CLE|25|20|BAL|correct|
+|CIN|PIT|16|24|PIT|correct|
+|DAL|WSH|27|23|DAL|"nobody believed in us!"|
+|MIA|NE|24|31|NE|correct|
+|NO|NYG|13|16|NYG|correct|
+|SF|CAR|27|46|CAR|correct|
+|TEN|DET|16|15|TEN|"nobody believed in us!"|
+|SEA|LA|3|9|LA|"nobody believed in us!"|
+|TB|ARI|7|40|ARI|correct|
+|ATL|OAK|35|28|ATL|"nobody believed in us!"|
+|IND|DEN|20|34|DEN|correct|
 
 **Predictive Standing, Straight Up**
 
