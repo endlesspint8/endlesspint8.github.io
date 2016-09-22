@@ -8,7 +8,7 @@ subtitle: Visualizations at a Glance
 
 <br>
 
-### Six-Pack Project: The Netherlands
+### [Six-Pack Project: The Netherlands](/2016-08-01-six-pack-project-netherlands)
 > 
 > * [kNN analysis](/code/six_pack_LOC_nb) to determine likely beer style <br>
 
