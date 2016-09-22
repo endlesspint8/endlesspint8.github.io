@@ -4,6 +4,35 @@ title: Experts? Pfff, ... a season long digression
 subtitle: This Week's Draft
 ---
 
+**TODO**: create 1-season "refreshing" win standings, to show variation, using win prob
+
+1. loop through games and pick winner based on prob & Math.random()
+2. winning team += 1
+3. pass team & wins, along with conf & div, to json (maybe?)
+4. create table from json
+5. sort table by conf, div, wins
+6. apply color coding: font per conf; row per div winners
+<br>
+
+* http://bl.ocks.org/LeeMendelowitz/11383724
+* http://bl.ocks.org/jfreels/6734025
+* http://bl.ocks.org/gka/17ee676dc59aa752b4e6
+     * https://gist.github.com/gka/17ee676dc59aa752b4e6
+ 
+
+Misc
+
+ * http://bl.ocks.org/mmparker/3670696
+ * http://www.d3noob.org/2013/02/add-html-table-to-your-d3js-graph.html
+ * http://www.d3noob.org/2013/02/update-d3js-data-dynamically-button.html
+ * http://bl.ocks.org/mbostock/4061502
+ 
+Season line-chart
+
+ * https://derekswingley.com/2016/01/22/make-a-chart-from-a-table/
+    * http://bl.ocks.org/mbostock/3883245
+    * https://gist.github.com/swingley/b5fb2cdf5532581c26b0
+    * 
 ---
 
 ## Week 2 - Back to the Future Full Season Recap 
@@ -65,31 +94,3 @@ Things to be looking out for:
 |ATL|OAK|35|28|ATL|"nobody believed in us!"|
 |IND|DEN|20|34|DEN|correct|
 
-
-
-**TODO**: create 1-season "refreshing" win standings, to show variation, using win prob
-
-1. loop through games and pick winner based on prob & Math.random()
-2. winning team += 1
-3. pass team & wins, along with conf & div, to json (maybe?)
-4. create table from json
-5. sort table by conf, div, wins
-
- * http://bl.ocks.org/LeeMendelowitz/11383724
- * http://bl.ocks.org/jfreels/6734025
- * http://bl.ocks.org/gka/17ee676dc59aa752b4e6
-     * https://gist.github.com/gka/17ee676dc59aa752b4e6
- 
-
-Misc
-
- * http://bl.ocks.org/mmparker/3670696
- * http://www.d3noob.org/2013/02/add-html-table-to-your-d3js-graph.html
- * http://www.d3noob.org/2013/02/update-d3js-data-dynamically-button.html
- * http://bl.ocks.org/mbostock/4061502
- 
-Season line-chart
-
- * https://derekswingley.com/2016/01/22/make-a-chart-from-a-table/
-    * http://bl.ocks.org/mbostock/3883245
-    * https://gist.github.com/swingley/b5fb2cdf5532581c26b0
