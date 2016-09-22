@@ -8,7 +8,7 @@ subtitle: For those who still can't get their fill.
 
 <br>
 
-### Six-Pack Project: The Netherlands
+### [Six-Pack Project: The Netherlands](/2016-08-01-six-pack-project-netherlands)
 > Three sklearn python data models: <br>
 >
 > * [kNN analysis](six_pack_LOC_nb) to determine likely beer style; <br>
@@ -16,7 +16,7 @@ subtitle: For those who still can't get their fill.
 > * [MLE grid](six_pack_tIJ) of IPA's <br>
 
 
-### Going Dutch
+### [Going Dutch](/2016-06-30-going_dutch)
 > Using PySpark technology and techniques to "learn" a language by identifying [stop words](dutch_stop_words) and other terms via <br>
 >
 > * <a href="/code/dutch_words/#all-without-stop-words">frequency</a>, <br>
@@ -24,9 +24,9 @@ subtitle: For those who still can't get their fill.
 > * <a href="/code/dutch_words/#top-wordarticle-by-tf-idf-subset">tf-idf</a> <br>
 
 
-### WBC v. wBC
+### [WBC v. wBC](/2016-05-01-wbc-omg)
 > Barley, Hops, and Bayes: [Predicting The World Beer Cup](wbc_article_support.html) <br>
 
 
-### Exploring US Brewery Historical Data
+### [Exploring US Brewery Historical Data](/2016-04-01-continue)
 > An Rmd file showing [some EDA and plots](us_breweries_bj) related to United States brewery counts, 1887 - 2012.
