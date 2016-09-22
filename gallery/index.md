@@ -8,6 +8,28 @@ subtitle: Visualizations at a Glance
 
 <br>
 
+### Six-Pack Project: The Netherlands
+> 
+> * [kNN analysis](/code/six_pack_LOC_nb) to determine likely beer style <br>
+> <img src="/gallery/2016/sixpack/loc_knn3.png"> <br>
+> <sub>Data source: <a href="https://untappd.com/" target="_blank">Untappd</a> </sub>
+>
+> <img src="/gallery/2016/sixpack/loc_knn2.png"> <br>
+> <sub>Data source: <a href="https://untappd.com/" target="_blank">Untappd</a> </sub>
+>
+> * [text analysis](/code/six_pack_deMolen) of beer reviews <br>
+> **Parallel Coordinates for De Molen's Rook & Vuur Characteristics** <br>
+> **(grouped by IQR overall scores)** <br>
+> <img src="/gallery/2016/sixpack/demolen_pllcoord.png"> <br>
+> <sub>Data source: <a href="https://www.beeradvocate.com/beer/profile/11031/57357/" target="_blank">BeerAdvocate</a> </sub>
+>
+> * [MLE grid](/code/six_pack_tIJ) of IPA's <br>
+> <img src="/gallery/2016/sixpack/tij_user_ratings.png"> <br>
+> <sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
+> 
+> <img src="/gallery/2016/sixpack/tij_max_like.png"> <br>
+> <sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
+
 ### World Beer Cup
 > A look back at the competition through the years, such as top winning countries' [winning percentage](wbc_2016), ...
 >
