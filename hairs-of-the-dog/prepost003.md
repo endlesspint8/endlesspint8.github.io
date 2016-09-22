@@ -32,7 +32,7 @@ conclusion - I need to have physical demonstrable progress to show for
 each sitting. _**keywords**: progress; deliver; learn; defining success_
 
 ## 003: 04.04
-**deadlines: taxes & posting**. It's very likely [the piece](../2016-04-15-just-keep-going) I
+**deadlines: taxes & posting**. It's very likely [the piece](../../2016-04-15-just-keep-going) I
 publish will be incomplete with respect to what I had envisioned. Not
 different from what I was aiming for but actually incomplete. The
 challenges that came up were too frequent… Excuses, but lessons
