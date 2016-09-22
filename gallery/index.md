@@ -37,7 +37,7 @@ subtitle: Visualizations at a Glance
 > A look back at the competition through the years, such as top winning countries' [winning percentage](wbc_2016), ...
 >
 
-### Exploring US Brewery Historical Data
+### [Exploring US Brewery Historical Data](/2016-04-15-just-keep-going)
 > A couple of not overly sophisticated or impressive D3 plots for [Brewery Totals Over Time](usb_d3_barchart1) and [Brewery Count Percentage Change Year-Over-Year](usb_d3_posneg)
 
 ### CraftBeer
