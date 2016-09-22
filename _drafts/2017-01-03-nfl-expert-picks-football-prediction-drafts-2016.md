@@ -9,8 +9,8 @@ subtitle: This Week's Draft
 1. loop through games and pick winner based on prob & Math.random()
 2. winning team += 1
 3. pass team & wins, along with conf & div, to json (maybe?)
-4. create table from json
-5. sort table by conf, div, wins
+4. [create table](http://www.d3noob.org/2013/02/add-html-table-to-your-d3js-graph.html) from json
+5. [sort table](http://www.d3noob.org/2013/02/more-d3js-table-madness-sorting.html) by conf, div, wins
 6. apply color coding: font per conf; row per div winners
 <br>
 
