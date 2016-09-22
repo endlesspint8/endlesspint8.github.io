@@ -32,12 +32,12 @@ conclusion - I need to have physical demonstrable progress to show for
 each sitting. _**keywords**: progress; deliver; learn; defining success_
 
 ## 003: 04.04
-**deadlines: taxes & posting**. It's very likely the piece I
+**deadlines: taxes & posting**. It's very likely [the piece](../2016-04-15-just-keep-going) I
 publish will be incomplete with respect to what I had envisioned. Not
 different from what I was aiming for but actually incomplete. The
 challenges that came up were too frequent… Excuses, but lessons
-learned, as well. I could've course hold off, but that brings up the
+learned, as well. I could of course hold off, but that brings up the
 question of what it is I'm trying to accomplish, and putting out the
 best work is only part of actually putting out work. The piece runs, I
-reassess, and I move On. There's a whole lot going on here and I
+reassess, and I move on. There's a whole lot going on here and I
 believe the best way to learn how to do it is to actually do it. _**keywords**: deliver; lessons learned; incomplete; schedule_
