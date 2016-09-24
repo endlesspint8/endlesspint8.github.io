@@ -4,6 +4,11 @@ title: Experts? Pfff, ... a season long digression
 subtitle: This Week's Draft
 ---
 
+
+Upcoming graphs:
+1. Home Team W/L SUP & ATS: favored-by (x-axis); ptd (y-axis); home line (45• m==1 dashed line)
+2. Bubble matrix: sources (y-axis); weeks (x-axis); z-bubbles (size~wins, color~brier)
+
 **TODO**: create 1-season "refreshing" win standings, to show variation, using win prob
 
 1. loop through games and pick winner based on prob & Math.random()
