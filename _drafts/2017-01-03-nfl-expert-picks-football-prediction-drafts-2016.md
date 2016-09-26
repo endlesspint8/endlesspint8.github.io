@@ -19,6 +19,7 @@ Upcoming graphs:
 Rough week for the favorites, human prognasticators, and predictions in general. Where should we even start? Ten of 16 games were unanimously agreed upon (SUP) by the panels/models, but half of them proved incorrect. Of the 16 betting line favorites X lost outright, Y of these were the home favorite. The two data models, FiveThirtyEight & FOX, performed best, both for wins and Brier Score (BS). Meanwhile, the human panels proved easily swayed by favorites, in large consensus votes (example), picking X of Y to win. As we have noted in numerous places in this piece the experts are prone to unanimous votes of their own, something we have been smoothing () to help damper the impact of such situations. A correlary of this is the "overly confident" votes in general. We saw big penalties on the BS as a result... 
 
 Upcoming graph: Home Team W/L SUP & ATS: favored-by (x-axis); ptd (y-axis); home line (45• m==1 dashed line)
+ - two versions: AFC/NFC; week 3
 
 **TODO**: create 1-season "refreshing" win standings, to show variation, using win prob
 
