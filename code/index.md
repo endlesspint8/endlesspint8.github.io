@@ -15,6 +15,10 @@ subtitle: For those who still can't get their fill.
 > * [text analysis](six_pack_deMolen) of beer reviews; & <br>
 > * [MLE grid](six_pack_tIJ) of IPA's <br>
 
+**Parallel Coordinates for De Molen's Rook & Vuur Characteristics** <br>
+**(grouped by IQR overall scores)** <br>
+<img src="/gallery/2016/sixpack/demolen_pllcoord.png"> <br>
+<sub>Data source: <a href="https://www.beeradvocate.com/beer/profile/11031/57357/" target="_blank">BeerAdvocate</a> </sub>
 
 ### [Going Dutch](/2016-06-30-going_dutch)
 > Using PySpark technology and techniques to "learn" a language by identifying [stop words](dutch_stop_words) and other terms via <br>
