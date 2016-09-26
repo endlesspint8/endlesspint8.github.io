@@ -7,7 +7,11 @@ subtitle: This Week's Draft
 
 Upcoming graphs:
 
-2. Bubble matrix: sources (y-axis); weeks (x-axis); z-bubbles (size~wins, color~brier)
+1. Bubble matrix: sources (y-axis); weeks (x-axis); z-bubbles (size~wins, color~brier)
+2. Bullet graph: in situ change win% v. 
+3. ATS Arbitrage: 538 & FOX
+4. Heatmap: games won prob for 10k sims
+5. Treemap: conf/div sup & ats
 
 
 ## Week 3 - Well, That Escalated Quickly
