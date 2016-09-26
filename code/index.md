@@ -23,6 +23,13 @@ subtitle: For those who still can't get their fill.
 > * <a href="/code/dutch_words/#bigrams-baby">bigrams</a>, & <br>
 > * <a href="/code/dutch_words/#top-wordarticle-by-tf-idf-subset">tf-idf</a> <br>
 
+<p align="center">
+  <b>Top Words</b><br>
+  <a href="/code/dutch_words/#all-without-stop-words" target="_blank">Code</a> |
+  <a href="/datasets/dutch/top100_nonStopWords.csv" target="_blank">Data Set</a>
+  <br><br>
+  <img src="/gallery/2016/dutch/output_2top.gif">
+</p>
 
 ### [WBC v. wBC](/2016-05-01-wbc-omg)
 > Barley, Hops, and Bayes: [Predicting The World Beer Cup](wbc_article_support.html) <br>
