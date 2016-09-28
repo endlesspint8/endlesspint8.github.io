@@ -35,7 +35,18 @@ Plans are to update this graph weekly, leaving a static image in its place to ca
 <img src="/gallery/2016/football-picks/sup_ats_wk3.png" alt="sup_ats_wk3" /><br>
 <sub>Data Source: <a href="http://www.sportsline.com/nfl/odds/" target="_blank">SportsLine</a></sub>
 
-The two data models, FiveThirtyEight & FOX, performed best, both for wins and Brier Score (BS). Meanwhile, the humans of CBS and ESPN proved easily swayed by favorites, picking 14 of 16 to win (though there was a slight discprency on two of the choices). As we have noted in numerous places in this piece the experts are prone to unanimous votes of their own, something we have been smoothing to help damper the impact of such situations. A correlary of this is the "overly confident" votes in general (also worth tracking and plotting). We saw big penalties on the BS as a result:
+The two data models, FiveThirtyEight & FOX, performed best, both for wins and Brier Score (BS). Meanwhile, the humans of CBS and ESPN proved easily swayed by favorites, picking 14 of 16 to win (though there was a slight discprency on two of the choices). As we have noted in numerous places in this piece the experts are prone to unanimous votes of their own, something we have been smoothing to help damper the impact of such situations. Despite the "dampering" both data models leap frogged our previous front runner, CBS, putting themselves in the top too spots followed by the expert panels, with not much to differentiate this latter pair. The Random game picker incidentally made the greatest gains (keep in mind a low Brier Score, BS, is preferable) and following another similar week may be breathing down the necks of the "experts" (too soon for quotes? time will tell).
+
+**Predictive Standing, Straight Up
+(with Wk 3 change in parantheses)**
+
+|Source|Season Brier Score|Season Wins|
+|---|---|---|
+|FiveThirtyEight (in situ)|0.217 (-0.002)|30 (+10)|
+|FOX (in situ)|0.253 (-0.009)|27 (+10)|
+|CBS (regularized)|0.281 (+0.063)|28 (+5)|
+|ESPN (regularized)|0.282 (+0.046)|27 (+7)|
+|Random|0.353 (-0.049)|22 (+10)|
 
 Upcoming graph: Home Team W/L SUP & ATS: favored-by (x-axis); ptd (y-axis); home line (45• m==1 dashed line)
  - two versions: AFC/NFC; week 3
