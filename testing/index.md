@@ -8,6 +8,9 @@ subtitle: Failing Real Kwick
 
 [US bokeh map](choropleth.html)
 
+Bokeh Matrix
+<iframe src="http://endlesspint.com/gallery/2016/cb/cb_style_req.html" width="810" height="810" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
+
 Bokeh Scatter plot
 <iframe src="http://endlesspint.com/gallery/2016/football-picks/sup_ats_simple.html" width="500" height="500" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
 
