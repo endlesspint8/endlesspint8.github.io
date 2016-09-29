@@ -7,7 +7,7 @@ subtitle: A gentle reminder of sh-, <i>stuff</i>, that needs to get done
 
 |content|social/traffic|mobile|jekyll markdown|
 |----|----|-----|----------|
-|[ ] import GGG/Brook tweets|[ ] prep [kNN BIPA excerpt](/2016-08-01-six-pack-project-netherlands#loc--de-3-hornes-naughty-boy) for [Data Science Central][DSC]|[ ] iPhone home screen icon|[ ] Replace similar gallery images with gif's|
+|[ ] import GGG/Brook tweets|[x] prep [kNN BIPA excerpt](/2016-08-01-six-pack-project-netherlands#loc--de-3-hornes-naughty-boy) for [Data Science Central][DSC]|[ ] iPhone home screen icon|[ ] Replace similar gallery images with gif's|
 |[ ] WBC heatmap code|[x] prep [WBC pred post]( /2016-05-01-wbc-omg) for [KDnuggets][KD] and [DataTau][DT] (add [Bayesian code](/code/wbc_article_support.html))|[x] get images to display on mobile|[x] homepage image banner|
 |[x] fix numbered list in post 1|[x] twit link| |[x] investigate non-Chrome rendering|
 ||[x] bitly||[x] create <a href="http://stackoverflow.com/questions/29036378/jekyll-dealing-with-images-in-markdown" target="_blank">image gallery in markdown|
