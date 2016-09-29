@@ -32,4 +32,7 @@ subtitle: Visualizations at a Glance
 > A couple of not overly sophisticated or impressive D3 plots for [Brewery Totals Over Time](usb_d3_barchart1) and [Brewery Count Percentage Change Year-Over-Year](usb_d3_posneg)
 
 ### CraftBeer
-> Beer style comparison and feature exploration via <a href="https://endlesspint8.shinyapps.io/cb_sh_bxplt/">boxplots</a> and standardized <a href="https://endlesspint8.shinyapps.io/cb_sh_sct/">scatter plots</a>.
+> Beer style comparison and feature exploration via <a href="http://shiny.rstudio.com/" target="_blank">RStudio Shiny</a> using <a href="https://endlesspint8.shinyapps.io/cb_sh_bxplt/">boxplots</a> and standardized <a href="https://endlesspint8.shinyapps.io/cb_sh_sct/">scatter plots</a>.
+
+<img src="/gallery/2016/cb/cb_bxplt.PNG" hspace="50"> <img src="/gallery/2016/cb/cb_sct.PNG"><br>
+
