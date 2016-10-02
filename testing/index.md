@@ -8,6 +8,9 @@ subtitle: Failing Real Kwick
 
 [US bokeh map](choropleth.html)
 
+YouTube Embedding
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tzCO3Q5rZF4" frameborder="0" allowfullscreen></iframe>
+
 Bokeh Matrix
 <iframe src="http://endlesspint.com/gallery/2016/cb/cb_style_req.html" width="810" height="810" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
 
