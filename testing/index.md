@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Testing my Crap
 subtitle: Failing Real Kwick
 header-img: "img/start.jpg"
