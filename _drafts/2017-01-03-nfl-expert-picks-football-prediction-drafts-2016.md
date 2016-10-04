@@ -13,6 +13,14 @@ Upcoming graphs:
 4. wk07 - Stream graph of unanimous wins
 5. wk08 - Heatmap: games won prob for 10k sims
 6. wk09 - Treemap: conf/div sup & ats
+7. wk10 - small multiples of prob/source (x, top)/week (y, desc)/WL-split
+8. wk11 - 
+9. wk12 - 
+10. wk13 - 
+11. wk14 - 
+12. wk15 - 
+13. wk16 - 
+14. wk17 - 
 
 
 ## Week 3 - Well, That Escalated Quickly
