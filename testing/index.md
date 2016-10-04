@@ -6,6 +6,9 @@ header-img: "img/start.jpg"
 tags: test1, test2
 ---
 
+plotly embed
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~ep8/1.embed"></iframe>
+
 [D3 lattice](lattice.html)
 
 [US bokeh map](choropleth.html)
