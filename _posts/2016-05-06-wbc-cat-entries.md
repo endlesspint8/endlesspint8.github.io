@@ -103,16 +103,6 @@ We certainly see some common ground between WBC category entry counts and market
 
 ---
 
-**Newsletter**
-
-> Sign up for the <a href="http://bit.ly/ep8nlw" target="_blank">newsletter</a> and receive advance notice of posted content, added site features, and opportunities to ask questions & make suggestions for future data related beer pieces.
->
-> Drink well & stay curious, Reggie
-
-<br>
-
----
-
 **Notes**
 
 <b id="f1">1</b> <a href="https://www.youtube.com/watch?v=XF2ayWcJfxo" target="_blank">Things that make you go hmmmm</a>:
