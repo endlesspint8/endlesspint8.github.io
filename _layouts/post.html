@@ -11,7 +11,15 @@ layout: base
 	      {% include share_page.html %}
 	      
 	      {{ content }}
-	    </article>
+      </article>
+	    
+	   {% if page.tags %}
+		<div class="blog-tags">
+		  Tags: {{ page.tags | join: ", " }}
+		</div>
+	   {% endif %}
+
+	   {% include sign-off.html %}
 	  	  
       <ul class="pager blog-pager">
         {% if page.previous.url %}
