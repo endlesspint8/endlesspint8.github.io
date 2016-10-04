@@ -3,6 +3,7 @@ layout: page
 title: Testing my Crap
 subtitle: Failing Real Kwick
 header-img: "img/start.jpg"
+tags: test1, test2
 ---
 
 [D3 lattice](lattice.html)
