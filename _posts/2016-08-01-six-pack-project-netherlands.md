@@ -171,14 +171,6 @@ This may be a long shot but I'm assuming the label is bringing up other desires 
 
 ---
 
-**Newsletter**
-
-> Sign up for the <a href="http://bit.ly/ep8nlw" target="_blank">newsletter</a> and receive advance notice of posted content, added site features, and opportunities to ask questions & make suggestions for future data related beer pieces.
->
-> Drink well & stay curious, Reggie
-
----
-
 **Notes**
 
 <b id="f1">1</b> No disrespect to Guinness. It’s just that there’s more to stouts than Irish stouts, is all. [↩](#a1) <br>
