@@ -19,7 +19,8 @@ subtitle: A gentle reminder of sh-, <i>stuff</i>, that needs to get done
 
 ## Waiting on $ome Funds
 
-* tbd...
+* [Shinyapps.io](https://www.rstudio.com/pricing2/) Starter ($9/mo)
+* [plotly](https://plot.ly/products/cloud/) Professional ($33/mo)
 * tbd after above
 
 [KD]: http://www.kdnuggets.com/
