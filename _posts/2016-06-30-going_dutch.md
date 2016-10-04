@@ -209,16 +209,6 @@ All of the above, and more, can be performed on any number of text-based data se
 
 ---
 
-**Newsletter**
-
-> Sign up for the <a href="http://bit.ly/ep8nlw" target="_blank">newsletter</a> and receive advance notice of posted content, added site features, and opportunities to ask questions & make suggestions for future data related beer pieces.
->
-> Drink well & stay curious, Reggie
-
-<br>
-
----
-
 **Notes**
 
 <b id="f1">1</b> Honestly, have a Dutch person speak to you in English; more than half the time _it is_ adorable. [↩](#a1) <br>
