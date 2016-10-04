@@ -196,14 +196,6 @@ Let's start slow for this first installment. We have all season to get to know e
 
  * **Performace ATS will** be allowed to play out for another week or two in this space before being introduced. Part of the delay is considering how to include FiveThirtyEight and FOX models into the head-to-head match up with CBS. We have our ideas, are pretty confident of how to go about it, but want a little more time to get the wrinkles worked out and automated.
 
----
-
-**Newsletter**
-
-> Sign up for the <a href="http://bit.ly/ep8nlw" target="_blank">newsletter</a> and receive advance notice of posted content, added site features and opportunities to ask questions & make suggestions for future data related beer pieces and miscellany.
->
-> Drink well & stay curious, Reggie
-
 <br>
 
 ---
