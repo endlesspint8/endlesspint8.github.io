@@ -160,16 +160,6 @@ Excuses aside, let's focus on the positives and take-aways:
 
 ---
 
-**Newsletter**
-
-> Sign up for the <a href="http://bit.ly/ep8nlw" target="_blank">newsletter</a> and receive advance notice of posted content, added site features, and opportunities to ask questions & make suggestions for future data related beer pieces.
->
-> Drink well & stay curious, Reggie
-
-<br>
-
----
-
 **Notes**
 
 <b id="f1">1</b> ... Or whatever you'll be doing in the future; which, <a href="https://www.youtube.com/watch?v=7Pq-S557XQU" target="_blank">if things continue along certain trends</a>, may be whatever the robots leave for us; that may be <a href="https://en.wikiquote.org/wiki/Talk:John_Maynard_Keynes#.22The_government_should_pay_people_to_dig_holes_in_the_ground_and_then_fill_them_up..22" target="_blank">ditch digging</a>, in which case you won't be able to avoid being a bit sisyphean; the upside is you probably won't be a "sisyphean" word-using sissy. [↩](#a1) <br>
