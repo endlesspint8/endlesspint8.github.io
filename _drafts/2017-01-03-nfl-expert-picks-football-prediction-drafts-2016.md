@@ -23,6 +23,17 @@ Upcoming graphs:
 14. wk17 - 
 
 
+## Week 4 - I'm Just a Professional
+
+That's what everyone keeps saying and I'm getting sick and tired of hearing it. Now that I'm done channeling my inner <a href="https://youtu.be/DYa6FNKSgbk" target="_blank">John Creasy</a> let's get on with this and take a look at another tough week for the picks. 
+
+<img src="/gallery/2016/football-picks/bs_wins_wk04.png" alt="bs_wins_wk04" /><br>
+<img src="/gallery/2016/football-picks/bs_wins_key.png" alt="bs_wins_key" /><br>
+<img src="/gallery/2016/football-picks/bs_score_key.png" alt="bs_score_key" /><br>
+
+Rough week 
+
+
 ## Week 3 - Well, That Escalated Quickly
 
 Rough week for the favorites, human prognasticators, and predictions in general. Where should we even start? Ten of 16 games were unanimously agreed upon (SUP) by the panels/models, but half of them proved incorrect. Meaning if we were using the unanimous model selections there would be a just better than one-third chance (34%, 0.875x0.778x0.5) of making it to Week 4 in a suicide pool. This is definitely something that's made me repeatedly curious, you can expect a graphic of some sort in the coming weeks. 
