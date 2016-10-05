@@ -2,6 +2,7 @@
 layout: post
 title: Experts? Pfff, ... a season long digression
 subtitle: We'll Put Their Name to the <a href="https://www.youtube.com/watch?v=sByxTCQU8Rc" target="_blank">Test</a>
+tags: datavis, nfl, predictions
 ---
 
 ## Experts Know Things, Right?
