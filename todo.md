@@ -14,13 +14,14 @@ subtitle: A gentle reminder of sh-, <i>stuff</i>, that needs to get done
 ||[x] bitly||[x] create <a href="http://stackoverflow.com/questions/29036378/jekyll-dealing-with-images-in-markdown" target="_blank">image gallery in markdown|
 ||[x] experiment w/#'s||[x] correct links to code|
 ||||[x] new <a href="https://commons.m.wikimedia.org/w/index.php?search=Empty+beer#/media/File%3AONE_EXAMPLE_OF_WALL_CONSTRUCTION_IN_EXPERIMENTAL_HOUSING_USING_EMPTY_STEEL_BEER_AND_SOFT_DRINK_CANS_NEAR_TAOS%2C_NEW..._-_NARA_-_556630.tif" target="_blank">404 image</a>|
-|||||
+||||[ ] [mess about](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)|
 |||||
 
 ## Waiting on $ome Funds
 
 * [Shinyapps.io](https://www.rstudio.com/pricing2/) Starter ($9/mo)
 * [plotly](https://plot.ly/products/cloud/) Professional ($33/mo)
+* Sam Adams [Utopias](https://www.samueladams.com/craft-beers/utopias)
 * tbd after above
 
 [KD]: http://www.kdnuggets.com/
