@@ -5,6 +5,8 @@
   
   {% capture taggies %}{{ page.tags }}{% endcapture %}
   {{ taggies }}
+  {{ page.tags }}
+  {{ page.title }}
   
   {% if page.tags == null %}
     {% capture urltwitter %}{{ urltwitter }}&hashtags=beer,EP8{% endcapture %}
