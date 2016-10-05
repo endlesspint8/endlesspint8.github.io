@@ -27,6 +27,30 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 ---
 
+## Week 4 - I'm Just a Professional
+
+_That's what everyone keeps saying and I'm getting sick and tired of hearing it_. Now that I'm done channeling my inner <a href="https://youtu.be/DYa6FNKSgbk" target="_blank">John Creasy</a> let's get on with what is turning into a less than impressive showing for the game pickers. I guess there's a reason people get paid big bucks for calling it <a href="http://www.imdb.com/title/tt0417217/?ref_=nm_flmg_act_26" target="_blank">like it is</a>, while the rest of us make cute little visualizations about others' struggles. 
+
+Week 4, first week with a Bye so we had 15 games instead of the usual 16. Who broke even? Not CBS or FiveThirtyEight. Uh-uh, each of them had only 7 wins SUP. FOX did them one better and our big winner was ESPN with 9 wins for a weekly winning percentage of 60%. That wouldn't even get me a passing grade in Spanish class. Los siento, expertos!<sup id="a4">[4](#f4)</sup> 
+
+On the season the experts/models are not much more impressive. Each of them are lingering, like a stale fart, at 35-37 wins. <a href="https://www.youtube.com/watch?v=oOoqtsNReIU" target="_blank">Shiiit</a>, my random generator has 28 wins alone.<sup id="a5">[5](#f5)</sup> 
+
+<img src="/gallery/2016/football-picks/bs_wins_wk04b.png" alt="bs_wins_wk04" /><br>
+
+Above is a representation of the weekly (x-axis) performances by source (y-axis). The larger the cirlce the more wins for the given source/week.
+
+<img src="/gallery/2016/football-picks/bs_wins_key.png" alt="bs_wins_key" /><br>
+
+The lighter and more yellow the color the better performing on the Brier Score (BS), darker and green colors represent the opposite.
+
+<img src="/gallery/2016/football-picks/bs_score_key.png" alt="bs_score_key" /><br>
+
+On the right side of the main plot we have a second chart that summarizes the season to date. Each bar is in line with the sources on the original y-axis and their length represents total wins SUP. The color saturation follows the same meaning as for the circles. 
+
+Bear in mind however, that the colors are relative to the universe of inputs. For instance, in a world where G-d is making game predictions and is getting everything right, naturally, he/she would have a BS of 0, because again it's G-d, and the yellow would represent that low of a number. Meanwhile, someone who got every pick 100% wrong, <a href="https://youtu.be/8PLSyFzk-6g?t=1m7s" target="_blank">a mush</a>, would have a BS of 1 and a color of dark green, ironically the color of money. Those colors are represented above, but again they are relative to the universe of these 5 sources. This decision was made to make differentiation more easy.
+
+---
+
 ## Week 3 - Well, That Escalated Quickly
 
 Rough week for the favorites, human prognasticators, and predictions in general. Where should we even start? Ten of 16 games were unanimously agreed upon (SUP) by the panels/models, but half of them proved incorrect. Meaning if we were using the unanimous model selections there would be a just better than one-third chance (34%, 0.875x0.778x0.5) of making it to Week 4 in a suicide pool. This is definitely something that's made me repeatedly curious, you can expect a graphic of some sort in the coming weeks. 
@@ -211,10 +235,12 @@ Let's start slow for this first installment. We have all season to get to know e
 
 <b id="f3">3</b> Not a bad policy in dealing with prognostications in the real world either.  [↩](#a3) <br>
 
-**week 2 & later**
+**week 4**
+<b id="f4">4</b> Damn. I wish I could enter an upside down exclamation point for this sentence.  [↩](#a4) <br>
+<b id="f5">5</b> Two Matthew McConaughey references in the same week. Let's make that the record. [↩](#a5) <br>
 
-<b id="f4">4</b>   [↩](#a4) <br>
-<b id="f5">5</b>   [↩](#a5) <br>
+**week 5 & later**
+
 <b id="f6">6</b>   [↩](#a6) <br>
 <b id="f7">7</b>   [↩](#a7) <br>
 <b id="f8">8</b>   [↩](#a8) <br>
