@@ -1,6 +1,13 @@
 <div class="sign-off">
 
   {% capture urltwitter %}https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&via=endlesspint8{% endcapture %}
+  {% assign maxlength = 40 %}
+  {% if page.tags != '' %}
+    {% capture urltwitter %}{{ urltwitter }}&hashtags={page.tags[0]},EP8{% endcapture %}
+  {% else %}
+    {% capture urltwitter %}{{ urltwitter }}&hashtags=beer,EP8{% endcapture %}
+  {% endif %}
+  {% capture urltwitter %}{{ urltwitter }}&text={{ page.title | truncate: maxlength }}{% endcapture %}
   
   <h3>Not too shabby, right?</h3>
   
