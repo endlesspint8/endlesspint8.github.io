@@ -1,17 +1,8 @@
 <div class="sign-off">
 
   {% assign maxlength = 40 %}
-  {% capture urltwitter %}https://twitter.com/intent/tweet?text={{ page.title | truncate: maxlength | rstrip}}&url={{ site.url }}{{ page.url }}&via=endlesspint8{% endcapture %}
-  
-  {% capture taggies %}{{ page.tags }}{% endcapture %}
-  {{ taggies }}
-  {{ page.tags }}
-  
-  {% if page.tags.size == 0 %}
-    {% capture urltwitter %}{{ urltwitter }}&hashtags=beer,EP8{% endcapture %}
-  {% else %}
-    {% capture urltwitter %}{{ urltwitter }}&hashtags={page.tags[0]},EP8{% endcapture %}
-  {% endif %}
+  {% capture urltwitter %}https://twitter.com/intent/tweet?text={{ page.title | truncate: maxlength | rstrip}}&url={{ site.url }}{{ page.url }}&via=endlesspint8&hashtags=datavis{% endcapture %}
+
   
   <h3>Not too shabby, right?</h3>
   
