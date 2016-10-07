@@ -11,11 +11,11 @@ Shiny app embedding, attempt anyway
 
 **scatter** 
 
-<iframe src="https://endlesspint8.shinyapps.io/cb_sh_sct/" width="810" height="510" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://endlesspint8.shinyapps.io/cb_sh_sct/" width="810" height="510" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
 **boxplots**
 
-<iframe src="https://endlesspint8.shinyapps.io/cb_sh_bxplt/" style="border: none width: 1200 height: 800px"></iframe>
+<iframe src="https://endlesspint8.shinyapps.io/cb_sh_bxplt/" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
 D3 Link & Node
 cb_other_styles_rev.html
