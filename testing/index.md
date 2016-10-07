@@ -11,7 +11,7 @@ Shiny app embedding, attempt anyway
 
 **scatter** 
 
-<iframe src="https://endlesspint8.shinyapps.io/cb_sh_sct/" width="800" height="800" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://endlesspint8.shinyapps.io/cb_sh_sct/" width="800" height="700" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
 **boxplots**
 
