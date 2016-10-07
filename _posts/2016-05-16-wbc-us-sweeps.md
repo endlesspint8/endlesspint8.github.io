@@ -2,6 +2,8 @@
 layout: post
 title: Just when I thought I was out
 subtitle: US Medal Dominance - Some How's & Hints of Why's 
+tags: beer competition, heatmap, data vis
+shortlink: http://bit.ly/us_sweeps
 ---
 
 I told myself that I was done going over the disparity in numbers between the US and rest of the world with respect to the <a href="http://www.worldbeercup.org/" target="_blank">World Beer Cup</a>. While what I <a href="/2016-05-01-wbc-omg/#wbc-v-wbc" target="_blank">wrote earlier</a> was certainly not the definitive say on the matter, and nor was it meant to be, I thought I'd made my point. Until last week, when the WBC results made it for me by giving the US its largest metal haul ever, both in absolute and relative numbers. Based on previous entry and category counts I set the US medal count line at a _cute_ over/under of 201. Final results: US won 230 of 287 awards,<sup id="a1">[1](#f1)</sup> for a whopping 80% win rate. So just when I thought I was out they, <a href="https://www.youtube.com/watch?v=UPw-3e_pzqU" target="_blank">well you know</a>.
