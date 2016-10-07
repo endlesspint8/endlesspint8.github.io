@@ -1,5 +1,7 @@
 <div class="sign-off">
   
+  {{ page.tags }}
+  
   {% if page.shortlink contains 'http' %}
     {% capture quickie %}{{ page.shortlink }}{% endcapture %}
     {% assign maxlength = 60 %}
