@@ -7,7 +7,7 @@ subtitle: This Week's Draft
 
 Upcoming graphs:
 
-1. wk04 - Bubble matrix: sources (y-axis); weeks (x-axis); z-bubbles (size~wins, color~brier)
+1. <strike>wk04 - Bubble matrix: sources (y-axis); weeks (x-axis); z-bubbles (size~wins, color~brier)</strike>
 2. wk05 - Bullet graph: in situ change win% v. 
 3. wk06 - ATS Arbitrage: 538 & FOX
 4. wk07 - [Stream graph](https://plot.ly/~empet/13409/streamgraph-with-minimized-wiggle-1/#code) of unanimous wins
