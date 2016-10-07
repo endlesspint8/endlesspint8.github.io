@@ -8,7 +8,7 @@ shortlink: http://bit.ly/2dxLtd9
 ---
 
 {% if page.shortlink contains 'http' %}
-  {% capture quickie %}
+  {% capture quickie %}{{ page.shortlink }}
 {% endif %}
 
 Print 
