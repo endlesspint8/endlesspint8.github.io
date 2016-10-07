@@ -9,7 +9,11 @@ tags: test1, test2
 
 Shiny app embedding, attempt anyway
 
-<iframe src="https://endlesspint8.shinyapps.io/cb_sh_sct/" style="border: none width: 1200 height: 800px"></iframe>
+**scatter** 
+
+<iframe src="https://endlesspint8.shinyapps.io/cb_sh_sct/" width="810" height="510" marginwidth="0" marginheight="0"></iframe>
+
+**boxplots**
 
 <iframe src="https://endlesspint8.shinyapps.io/cb_sh_bxplt/" style="border: none width: 1200 height: 800px"></iframe>
 
