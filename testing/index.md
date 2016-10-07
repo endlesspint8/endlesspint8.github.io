@@ -9,7 +9,7 @@ tags: test1, test2
 
 Shiny app embedding, attempt anyway
 
-<iframe src="https://endlesspint8.shinyapps.io/cb_sh_bxplt/" style="border: none; width: 800; height: 800px"></iframe>
+<iframe src="https://endlesspint8.shinyapps.io/cb_sh_bxplt/" style="border: none; width: 1200; height: 800px"></iframe>
 
 D3 Link & Node
 cb_other_styles_rev.html
