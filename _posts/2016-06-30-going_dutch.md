@@ -2,6 +2,8 @@
 layout: post
 title: Going Dutch ...but I digress
 subtitle: Learning a Language with Modern Tools
+tags: [PySpark, n-grams, tf-idf, bag of words]
+shortlink: http://bit.ly/ep8GoingDutch
 ---
 
 <img src="/gallery/2016/dutch/tf_idf9.png">
