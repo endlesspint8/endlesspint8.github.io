@@ -2,16 +2,13 @@
   
   {% if page.shortlink contains 'http' %}
     {% capture quickie %}{{ page.shortlink }}{% endcapture %}
+    {% assign maxlength = 60 %}
+    {% capture urltwitter %}https://twitter.com/intent/tweet?text={{ page.title | truncate: maxlength | rstrip}}&url={{ page.shortlink }}&via=endlesspint8&hashtags=datavis{% endcapture %}
+  {% else %}
+    {% assign maxlength = 40 %}
+    {% capture urltwitter %}https://twitter.com/intent/tweet?text={{ page.title | truncate: maxlength | rstrip}}&url={{ site.url }}{{ page.url }}&via=endlesspint8&hashtags=datavis{% endcapture %}
   {% endif %}
 
-  Print 
-
-  {{ quickie }}
-
-  {% assign maxlength = 40 %}
-  {% capture urltwitter %}https://twitter.com/intent/tweet?text={{ page.title | truncate: maxlength | rstrip}}&url={{ site.url }}{{ page.url }}&via=endlesspint8&hashtags=datavis{% endcapture %}
-
-  
   <h3>Not too shabby, right?</h3>
   
   <p>
