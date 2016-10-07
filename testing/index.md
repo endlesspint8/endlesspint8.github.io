@@ -7,13 +7,6 @@ tags: [test1, test2]
 shortlink: http://bit.ly/2dxLtd9
 ---
 
-{% if page.shortlink contains 'http' %}
-  {% capture quickie %}{{ page.shortlink }}
-{% endif %}
-
-Print 
-
-{{ quickie }}
 
 Shiny app embedding, attempt anyway
 
