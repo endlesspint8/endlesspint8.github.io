@@ -28,7 +28,7 @@ subtitle: A gentle reminder of sh-, <i>stuff</i>, that needs to get done
 
 ## Notes
 
-```
+```html
 <!-- StumbleUpon (url, title) -->
 <a href="http://www.stumbleupon.com/submit?url=<URL>&title=<TITLE>">
     StumbleUpon
