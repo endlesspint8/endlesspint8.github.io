@@ -7,7 +7,7 @@ subtitle: A gentle reminder of sh-, <i>stuff</i>, that needs to get done
 
 |content|social/traffic|mobile|jekyll markdown|
 |----|----|-----|----------|
-||[ ] shortlinks for all posts||[ ] [mess about even more](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)|
+||[ ] shortlinks & tags for all posts||[ ]  [mess about even more](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)|
 |[ ] join [Flattr](https://flattr.com/)?|[x]  [StumbleUpon](http://www.stumbleupon.com/)?||[x]  [mess about](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
 |[ ] WBC heatmap code|[x] create sharing links [I](https://dev.twitter.com/web/tweet-button) &/or [II](http://www.sharelinkgenerator.com/)||[x] create footer w/NL, PP, & Contact|
 |[x] import GGG/Brook tweets|[x] prep [kNN BIPA excerpt](/2016-08-01-six-pack-project-netherlands#loc--de-3-hornes-naughty-boy) for [Data Science Central][DSC]|[ ] iPhone home screen icon|[x] Replace similar gallery images with gif's|
