@@ -2,6 +2,7 @@
 layout: post
 title: When you come to a fork in the road, keep moving
 subtitle: How Many Different Routes to RnH?
+shortlink: http://bit.ly/2dzWF7W
 ---
 
 ## So, where do you wanna meet up?
