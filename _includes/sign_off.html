@@ -4,8 +4,8 @@
     {{ item }}
   {% endfor %}
   
-  {% capture taggies %}{{ page.tags }}{% endcapture %}
-  {{ taggies }}
+  {% capture taggies %}{{ page.tags | split:}}{% endcapture %}
+  taggies[1]
    
   {% if page.shortlink contains 'http' %}
     {% capture quickie %}{{ page.shortlink }}{% endcapture %}
