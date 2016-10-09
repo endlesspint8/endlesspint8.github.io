@@ -1,6 +1,8 @@
 <div class="sign-off">
   
-  {{ page.tags | split:"," }}
+  {% for item in page.tags limit:2 %}
+    {{ item }}
+  {% endfor %}
   
   {% if page.shortlink contains 'http' %}
     {% capture quickie %}{{ page.shortlink }}{% endcapture %}
