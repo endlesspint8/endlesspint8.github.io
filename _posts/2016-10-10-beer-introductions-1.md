@@ -57,7 +57,7 @@ Vis Code: <a href="http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html" 
 
 The way to read this grid is at least twofold. First off, find a style you like along the left side, pan horizontally across the row of that style. Anywhere a darkened box appears is a suggestion for expanding your horizon. Alternatively, you can find a style you're interested in across the top and scan down its column to find yourself a gateway beer into appreciating this curiosity. The graph is at times difficult to read due to squeezing in so many styles into a limited space but this issue is partially mitigated by a hover tool that tells you directly the beers represented by each square, "like this" then "try that". This representation of the data allows the user to see groupings more clearly and see relationships at a glance, arguably more quickly than a hairball like the one above.
 
-## Conclusion, We're Just Getting Started
+## Conclusion: We're Just Getting Started
 
 This is just a taste for the ways in which we can leverage data to augment our beer explorations. In future installments of the Beer Perplexed we will look more closely at beer category features, links beyond just two beers, and approaching beers based on your descriptive preferences. Happy exploring. 
 
