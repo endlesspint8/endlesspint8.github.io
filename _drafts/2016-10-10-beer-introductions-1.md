@@ -14,6 +14,15 @@ Discovering that beer does not have to taste bad is something that happens on a 
 
 With innumerable options and not knowing where to begin it is forgivable to simply throw one’s hands up and  rush into any old style. This tactic, while commendable for its action and much better than doing nothing (including, heaven forbid, not drinking beer at all), has the unfortunate effect of being unfocused and leaving you to the whims of external vagaries. There is the added likelihood of running into a beer style that is not a particularly good match, resulting in disappointment and pushing you back, short term let’s hope, into the familiar but underwhelming arms of a light lager. One is made more painfully aware of all this with hindsight. To begin imbibing craft beer is to bring on short term pleasure, medium term disappointment in reflecting on all the lost opportunities, and, finally, gleeful acceptance of never going back.
 
+To the uninitiated the awareness of available styles may feel not unlike the way the following node and link visual looks. When things get as cluttered as this data vis people (not so) affectionately refer to it as a hairball and I believe it is clear why. You can see there are relationships and make out some if not all of the individual points but there is a lot going on. Now before we crap on this visual too hard let's play around a bit to get a better idea of what is available to us. This can be a metaphor for the real life journey many of us take trying one style after another.
+
+<iframe src="http://endlesspint.com/gallery/2016/cb/cb_other_styles_rev.html" width="810" height="510" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
+
+Hover your mouse over any one point to see the name of the beer style appear. If you click and drag you can pull the hairball around. Fun but the amusement won't be long lasting.<sup id="a2">[2](#f2)</sup> There are a few other features I wish to bring your attention to and we can do this best by using one of them now. Choose a point and double-click on it. What you should see is that point and it's related beer styles highlighted by way of unrelated styles being muted and fading into the background. Having a subset available allows me to bring your attention to additional visual cues. 
+
+The color of the dots/points are dependent on the group the beer style is a part of.<sup id="a3">[3](#f3)</sup> Additionally, the links between the points have an arrow indicating the direction that the beer recommendation runs in. We will argue later that the links are hardly one way but for the time being we are going to stick with the underlying data.
+
+Ultimately we have a visualization that carries information about style grouping (color), style name (hover), recommendation links (lines), and direction of the recommendation (arrows). Lastly, we may cut through the clutter by double clicking a specific style and investigating its immediate relations more fully.<sup id="a4">[4](#f4)</sup> 
 
 
 
@@ -24,7 +33,7 @@ With innumerable options and not knowing where to begin it is forgivable to simp
 **Notes**
 
 <b id="f1">1</b> I have used some version of this intro in submissions to other sites but never on my own so I feel no shame in self-plagiarising myself here. [↩](#a1) <br>
-<b id="f1">1</b> asdf  [↩](#a1) <br>
-<b id="f1">1</b> asdf  [↩](#a1) <br>
-<b id="f1">1</b> asdf  [↩](#a1) <br>
+<b id="f2">2</b> <i>That's what she…</i> ah, you know the rest.  [↩](#a2) <br>
+<b id="f3">3</b> Style groups per this data set: Belgian Styles, Bocks, Brown Ales, Dark Lagers, Hybrid Beers, India Pale Ales, Pale Ales, Pilsners and Pale Lagers, Porters, Scottish-Style Ales, Speciality Beers, Stouts, Strong Ales, Wheat Beers, & Wild/Sour Beers  [↩](#a3) <br>
+<b id="f4">4</b> Many of these added features come courtesy of @CoppeliaMLA. [↩](#a4) <br>
 <b id="f1">1</b> asdf  [↩](#a1) <br>
