@@ -1,12 +1,12 @@
 <div class="sign-off">
   
   {% if page.tags.size >= 2 %}
-    {% for item in page.tags limit:2 %}
-      {{ item }}
-    {% endfor %}
+    {% capture hashtags %}{{page.tags[0]}},{{page.tags[1]}}{% endcapture %}
+  {% else %}
+    {% capture hashtags %}dataviz,beer{% endcapture %}
   {% endif %}
   
-  {{page.tags[1]}},{{page.tags[0]}}
+  {{ hashtags }}
    
   {% if page.shortlink contains 'http' %}
     {% capture quickie %}{{ page.shortlink }}{% endcapture %}
