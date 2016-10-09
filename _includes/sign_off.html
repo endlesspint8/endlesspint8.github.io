@@ -1,8 +1,11 @@
 <div class="sign-off">
   
-  {% for item in page.tags limit:2 %}
-    {{ item }}
-  {% endfor %}
+  {% if page.tags.length >= 2 %}
+    {% for item in page.tags limit:2 %}
+      {{ item }}
+    {% endfor %}
+  {% endif %}
+  
   
   {{page.tags[1]}},{{page.tags[0]}}
    
