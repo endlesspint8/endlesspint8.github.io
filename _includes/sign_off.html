@@ -3,9 +3,7 @@
   {% for item in page.tags limit:2 %}
     {{ item }}
   {% endfor %}
-  
-  {{ page.tags limit:2 }}
-  
+   
   {% if page.shortlink contains 'http' %}
     {% capture quickie %}{{ page.shortlink }}{% endcapture %}
     {% assign maxlength = 60 %}
