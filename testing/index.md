@@ -3,7 +3,7 @@ layout: post
 title: Testing my Crap
 subtitle: Failing Real Kwick
 header-img: "img/start.jpg"
-tags: [test1, test2]
+tags: ["test1", "urple", "erhe", "test2"]
 shortlink: http://bit.ly/2dxLtd9
 ---
 
