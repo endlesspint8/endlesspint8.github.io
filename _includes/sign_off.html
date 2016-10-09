@@ -1,6 +1,6 @@
 <div class="sign-off">
   
-  {% if page.tags >= 2 %}
+  {% if page.tags.size >= 2 %}
     {% for item in page.tags limit:2 %}
       {{ item }}
     {% endfor %}
