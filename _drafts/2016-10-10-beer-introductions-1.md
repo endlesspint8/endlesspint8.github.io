@@ -17,6 +17,9 @@ With innumerable options and not knowing where to begin it is forgivable to simp
 To the uninitiated the awareness of available styles may feel not unlike the way the following node and link visual looks. When things get as cluttered as this data vis people (not so) affectionately refer to it as a hairball and I believe it is clear why. You can see there are relationships and make out some if not all of the individual points but there is a lot going on. Now before we crap on this visual too hard let's play around a bit to get a better idea of what is available to us. This can be a metaphor for the real life journey many of us take trying one style after another.
 
 <iframe src="http://endlesspint.com/gallery/2016/cb/cb_other_styles_rev.html" width="810" height="510" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
+<sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> / 
+Scraping Template: <a href="https://github.com/cs109/content/blob/master/labs/lab2/Lab_2_A_Live.ipynb" target="_blank">CS109</a> / 
+Vis Code: <a href="http://bl.ocks.org/mbostock/4062045" target="_blank">Force-Directed Graph</a> & <a href="http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/" target="_blank">Extra Features</a></sub>
 
 Hover your mouse over any one point to see the name of the beer style appear. If you click and drag you can pull the hairball around. Fun but the amusement won't be long lasting.<sup id="a2">[2](#f2)</sup> There are a few other features I wish to bring your attention to and we can do this best by using one of them now. Choose a point and double-click on it. What you should see is that point and it's related beer styles highlighted by way of unrelated styles being muted and fading into the background. Having a subset available allows me to bring your attention to additional visual cues. 
 
