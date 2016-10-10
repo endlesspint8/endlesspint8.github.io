@@ -25,7 +25,7 @@ subtitle: A gentle reminder of sh-, <i>stuff</i>, that needs to get done
 * [Shinyapps.io](https://www.rstudio.com/pricing2/) Starter ($9/mo)
 * [plotly](https://plot.ly/products/cloud/) Professional ($33/mo)
 * Sam Adams [Utopias](https://www.samueladams.com/craft-beers/utopias)
-* 
+* flight to [GABF](https://www.greatamericanbeerfestival.com/)
 * tbd after above
 
 ## Notes
