@@ -19,7 +19,7 @@ Upcoming graphs:
 10. wk13 - 
 11. wk14 - 
 12. wk15 - [pick source perform above .500](http://thedailyviz.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-25-at-2.21.48-PM-620x383.png)
-13. wk16 - [projected v actual](https://public.tableau.com/static/images/TH/THTProjectedStandingsChanges/2014-2015ProjectedStandingsChanges/1_rss.png)
+13. wk16 - [projected v actual](https://public.tableau.com/static/images/TH/THTProjectedStandingsChanges/2014-2015ProjectedStandingsChanges/1_rss.png); [arrow charts in Excel](http://peltiertech.com/arrow-charts-in-excel/)
 14. wk17 - [bump graph / position time plot](http://vizthinker.com/wp-content/uploads/2014/01/BCS-Top-25-College-Football-2013-01.png)
 
 
