@@ -6,6 +6,7 @@
     {% capture hashtags %}dataviz,beer{% endcapture %}
   {% endif %}
   
+  {{ twitimg | default:"pic.twitter.com/0TB3tAJOeV" }}
   
   {% if page.shortlink contains 'http' %}
     {% capture quickie %}{{ page.shortlink }}{% endcapture %}
