@@ -6,13 +6,15 @@
     {% capture hashtags %}dataviz,beer{% endcapture %}
   {% endif %}
   
+  {% capture twitimg %}{{ page.twitimg | default:"pic.twitter.com/0TB3tAJOeV" }}{% endcapture %}
+  
   {% if page.shortlink contains 'http' %}
     {% capture quickie %}{{ page.shortlink }}{% endcapture %}
     {% assign maxlength = 60 %}
-    {% capture urltwitter %}https://twitter.com/intent/tweet?text={{ page.twitimg | default:"pic.twitter.com/0TB3tAJOeV" }} {{ page.title | truncate: maxlength | rstrip}}&url={{ page.shortlink }}&via=endlesspint8&hashtags={{ hashtags }}{% endcapture %}
+    {% capture urltwitter %}https://twitter.com/intent/tweet?text={{ twitimg }} {{ page.title | truncate: maxlength | rstrip}}&url={{ page.shortlink }}&via=endlesspint8&hashtags={{ hashtags }}{% endcapture %}
   {% else %}
     {% assign maxlength = 40 %}
-    {% capture urltwitter %}https://twitter.com/intent/tweet?text={{ page.twitimg | default:"pic.twitter.com/0TB3tAJOeV" }} {{ page.title | truncate: maxlength | rstrip}}&url={{ site.url }}{{ page.url }}&via=endlesspint8&hashtags={{ hashtags }}{% endcapture %}
+    {% capture urltwitter %}https://twitter.com/intent/tweet?text={{ twitimg }} {{ page.title | truncate: maxlength | rstrip}}&url={{ site.url }}{{ page.url }}&via=endlesspint8&hashtags={{ hashtags }}{% endcapture %}
   {% endif %}
 
   <h3>Not too shabby, right?</h3>
