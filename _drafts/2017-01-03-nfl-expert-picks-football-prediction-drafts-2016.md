@@ -24,6 +24,7 @@ Upcoming graphs:
 
 
 ## Week 4 - I'm Just a Professional
+<sub><a href="http://bit.ly/2d3tw04">Tweet</a> Week 4</sub>
 
 _That's what everyone keeps saying and I'm getting sick and tired of hearing it_. Now that I'm done channeling my inner <a href="https://youtu.be/DYa6FNKSgbk" target="_blank">John Creasy</a> let's get on with what is turning into a less than impressive showing for the game pickers. I guess there's a reason people get paid big bucks for calling it <a href="http://www.imdb.com/title/tt0417217/?ref_=nm_flmg_act_26" target="_blank">like it is</a>, while the rest of us make cute little visualizations about others' struggles. 
 
