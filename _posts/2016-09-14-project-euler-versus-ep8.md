@@ -2,6 +2,7 @@
 layout: post
 title: When you come to a fork in the road, keep moving
 subtitle: How Many Different Routes to RnH?
+tags: ["projecteuler", "lattice", "D3"]
 shortlink: http://bit.ly/2dzWF7W
 ---
 
