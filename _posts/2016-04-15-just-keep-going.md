@@ -2,6 +2,7 @@
 layout: post
 title: Branching out
 subtitle: One Twig at a Time
+shortlink: http://bit.ly/ep8D3noob
 ---
 
 While it is not clear if anyone cares to go on looking at the percentage change of brewery counts over time (<a href="https://www.youtube.com/watch?v=8T2l15bKMZk" target="_blank">crickets!</a>) I am not ready to give it up. At least not yet, but this is likely the last word on the matter for a while. It is good to follow through on what you start and I certainly want to be a good influence on my future nephews/nieces. Additionally, there is the self-serving reason of being able to reuse this visualization work in future posts and that's some non-negligible motivation. That's right little nephews, be lazy-efficient. Create, refine, and reuse: don't be a sisyphean programmer.<sup id="a1">[1](#f1)</sup>
