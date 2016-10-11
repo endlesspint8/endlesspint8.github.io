@@ -4,6 +4,7 @@ title: Going Dutch ...but I digress
 subtitle: Learning a Language with Modern Tools
 tags: ["PySpark", "ngrams", "tf-idf", "bag of words"]
 shortlink: http://bit.ly/ep8GoingDutch
+twitimg: pic.twitter.com/p3ajkdNEnj
 ---
 
 <img src="/gallery/2016/dutch/tf_idf9.png">
