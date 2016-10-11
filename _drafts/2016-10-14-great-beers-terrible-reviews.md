@@ -42,7 +42,7 @@ Russian River Pliny the Younger	(Imperial IPA)
 > 
 > "Have had this two or three times and just don’t get the appeal of it...it’s got very little of interest in the aroma, and although is pretty well-balanced for the style, it’s nothing special for me overall." http://www.ratebeer.com/beer/beer_name/43181/1270/
 
-AleSmith Speedway Stout - Bourbon Barrel Aged	(Imperial Stout)
+**_AleSmith Brewing Company_, Speedway Stout - Bourbon Barrel Aged**	(Imperial Stout)
 
 > "I like the concept more than the product itself." http://www.ratebeer.com/beer/beer_name/28173/11966/
 > 
@@ -50,29 +50,43 @@ AleSmith Speedway Stout - Bourbon Barrel Aged	(Imperial Stout)
 >
 > "I ended up having to pour this down the drain." https://www.beeradvocate.com/beer/profile/396/31484/?ba=waltonc#review
 
-Bells Black Note Stout (Imperial Stout)
+**_Bell's Brewery_, Black Note Stout (Imperial Stout)**
 
 > "smells like soy sauce." http://www.ratebeer.com/beer/beer_name/71826/55018/
 >
 > "Despite me having this as one of my worst beers, everyone else enjoyed it." http://www.ratebeer.com/beer/beer_name/71826/7542/
+>
+> "This is an overrated beer if I've ever seen one. Did not live up to the hype. KBS is 100 times better. I cannot stress enough that this beer is no better than another bourbon barrel aged stout on the shelf at your liquor store. I was really struggling to get any complexity's from it and there was no coffee flavor what so ever. Don't get me wrong this is a good beer but It's definitely is nothing special and I still can't believe what people will trade for this. Do yourself a favor and mix expedition and double cream yourself and add a little bourbon. You'll have the same thing." https://www.beeradvocate.com/beer/profile/287/37265/?ba=chinchillin85#review
 
-Rochefort Trappistes 10	(Abt/Quadrupel)
+**_Brasserie de Rochefort_ Trappistes Rochefort 10	(Abt/Quadrupel)**
 
 > "nasty bubblegum aroma" http://www.ratebeer.com/beer/beer_name/2360/238185/
 >
 > "I can’t say I like the alcoholic - plum flavoring and it made be gag." http://www.ratebeer.com/beer/beer_name/2360/20349/
 >
 > " Seemed slightly dull/lifeless to me." http://www.ratebeer.com/beer/beer_name/2360/248167/
+>
+> "definitely an off flavor here as I am tasting dirty gym socks" https://www.beeradvocate.com/beer/profile/207/645/?ba=UCLABrewN84#review
+>
+> "It certainly does have lots of flavor. Horrible rotten flavor. Did they brew this beer using fruit harvested from the bottom of a pigs trough? I can't even finish the bottle." https://www.beeradvocate.com/beer/profile/207/645/?ba=Magister_Beav#review
+> 
+> "The smell was awful. It smelled like rotten fruit and upon drinking it did not get any better. Very bitter and sour tasting. Not pleasant at all. By far the most disappointing beer I have ever had." https://www.beeradvocate.com/beer/profile/207/645/?ba=ianranderson#review
 
-Hill Farmstead Ann (Saison)
+**_Hill Farmstead Brewery_ Ann (Saison)**
 
 > "I certainly wouldnt go through the lengths or trade what I did for this bottle again. From what I hear, it was much better fresh." http://www.ratebeer.com/beer/beer_name/175070/177946/
+>
+> "A good beer, not the be all end all beer that everyone has been making it out to be." https://www.beeradvocate.com/beer/profile/22511/81697/?ba=Samichlaus82#review
 
-**_Alchemist_ Heady Topper (Imperial IPA)**
+**_The Alchemist_ Heady Topper (Imperial IPA)**
 
 > "This beer is gross. Can’t drink more than a few sips. It’s cloying and sweet and not bitter enough for a dipa" http://www.ratebeer.com/beer/beer_name/32329/329387/
 >
 > "Their secret is horse urine. The secret behind the secret is that you have to feed the horses tangerines and lemons. So there you have it. True alchemy - gold from horse piss." http://www.ratebeer.com/beer/beer_name/32329/403052/
+>
+> "The absolute worst double IPA I have ever had, and this is my favorite style! ... Hops are barely existent, there is an inherent smoothness to the beer but it tastes of wet cigarettes." https://www.beeradvocate.com/beer/profile/27039/16814/?ba=DanielGJ0#review
+>
+> "Smells of a used dirty ashtray. Not pleasant." https://www.beeradvocate.com/beer/profile/27039/16814/?ba=HoppyBastard2#review
 >
 > "For centuries bloodletting was thought to be a good way to cure illness, folks in the 70’s thought it was a good idea to wear a lot of polyester, in 1990 millions of people thought Milli Vanilli produced good music. What’s my point? Humans are prone to mass delusion. The current wave in beer -- this "the more hops the better" kind of thinking that could lead thousands to claim Heady Topper as one of the world’s finest beers -- is just that. I really and truly do not believe that this beer actually tastes good to anyone. It is monolithic and plain gross - like drinking a can of pine-sol. May history be my witness: global warming is real and proclaiming to actually enjoy all these mega-hopped beers is nothing more than a fad -- one that’s been supercharged by dudes responding to some kind of intellectual insecurity. Heady Topper represents the apogee of the pendulum swing, it is time to return to the timeless qualities of reason, balance, and refinement." http://www.ratebeer.com/beer/beer_name/32329/361441/
 
