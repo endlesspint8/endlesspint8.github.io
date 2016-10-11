@@ -2,7 +2,9 @@
 layout: post
 title: Cold, Dark, & Wet - Dutch Summers Pair with Most Beer Styles
 subtitle: My Contribution to Bryan Roth's <a href="https://thisiswhyimdrunk.wordpress.com/six-pack-project/" target="_blank">Six Pack Project</a>
+tags: ["knn", "mle", "dutch beers", "kmeans"]
 shortlink: http://bit.ly/6ppEp8
+twitimg: pic.twitter.com/RITGEsVy35
 ---
 
 ## The Dutch Know Beer
