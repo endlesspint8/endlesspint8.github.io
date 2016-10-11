@@ -22,7 +22,13 @@ Toppling Goliath Mornin’ Delight	Imperial Stout
 
 Cigar City Hunahpu’s Imperial Stout - Double Barrel Aged	Imperial Stout
 
+> "Oh boy. Oh boy. Oh boy. What a failure. Cinnamon², cardemom², chili². Overspiced², hence flavour profile is completely out of balance. The average mean of this beer is ridicilously high. Wondering if all ratings of this beer are done by aliens. Or America = Aliens? The truth is out there. Go get them Mulder. X Thanks berntholer for this extraterrestrial." http://www.ratebeer.com/beer/beer_name/249005/235224/
+
 Three Floyds Dark Lord Russian Imperial Stout (Bourbon Barrel Aged)	Imperial Stout
+
+> "Tasted like generic cough syrup mixed with old coffee and a shot of whiskey - and not in a good way" http://www.ratebeer.com/beer/beer_name/58590/237963/
+>
+> "I was not impressed and actually gave the rest of my pour to my friend Kev." http://www.ratebeer.com/beer/beer_name/58590/45198/
 
 Russian River Pliny the Younger	Imperial IPA
 
