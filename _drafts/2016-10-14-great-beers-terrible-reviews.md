@@ -10,11 +10,13 @@ Inspired by BuzzFeed 2015 "_One-Star Amazon Reviews Of Classic Novels Are Hilari
 
 Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create our list below.
 
-Westvleteren 12 (XII)	(Abt/Quadrupel)
+**_Brouwerij Westvleteren_ Trappist Westvleteren 12 (XII)	(Abt/Quadrupel)**
 
 > "Pipi in a bottle" http://www.ratebeer.com/beer/beer_name/4934/291926/
 >
 > "shit beer dont know why its rated so good i guess im use to canadian beer cause canadian best drinkers in the world bitc hes" http://www.ratebeer.com/beer/beer_name/4934/89500/
+>
+> "Absolutely garbage if your a true beer nerd. Taste like a budweiser with some raisin and plum notes, on top of it being extremely difficult to get this beer does not live up to its hype at all, pure malty shit bomb." https://www.beeradvocate.com/beer/profile/313/1545/?ba=PintOh1759#review
 
 Toppling Goliath Mornin’ Delight	(Imperial Stout)
 
@@ -23,12 +25,16 @@ Toppling Goliath Mornin’ Delight	(Imperial Stout)
 Cigar City Hunahpu’s Imperial Stout - Double Barrel Aged
 
 > "Oh boy. Oh boy. Oh boy. What a failure. Cinnamon², cardemom², chili². Overspiced², hence flavour profile is completely out of balance. The average mean of this beer is ridicilously high. Wondering if all ratings of this beer are done by aliens. Or America = Aliens? The truth is out there. Go get them Mulder. X Thanks berntholer for this extraterrestrial." http://www.ratebeer.com/beer/beer_name/249005/235224/
+>
+> "Much like regular Hunahpu, I was not impressed by this beer. For all that goes into it, it just isn't executed well, and frankly just simply does not taste good. It was nice to try it, but I would never go out of my way to try it again." https://www.beeradvocate.com/beer/profile/17981/110635/?ba=Rifugium#review
 
 Three Floyds Dark Lord Russian Imperial Stout (Bourbon Barrel Aged)
 
 > "Tasted like generic cough syrup mixed with old coffee and a shot of whiskey - and not in a good way" http://www.ratebeer.com/beer/beer_name/58590/237963/
 >
 > "I was not impressed and actually gave the rest of my pour to my friend Kev." http://www.ratebeer.com/beer/beer_name/58590/45198/
+>
+> "The flavor is all booze and caramel. It's almost like the beer itself is completely gone. They could have just barrel aged miller light and with this level of alcohol it would taste the same. Not worth the wait or the price." https://www.beeradvocate.com/beer/profile/26/30184/?ba=drseamus#review
 
 Russian River Pliny the Younger	(Imperial IPA)
 
@@ -41,6 +47,8 @@ AleSmith Speedway Stout - Bourbon Barrel Aged	(Imperial Stout)
 > "I like the concept more than the product itself." http://www.ratebeer.com/beer/beer_name/28173/11966/
 > 
 > "Surely my palate is not up to the task of this complex roast bomb, it’s me not you." http://www.ratebeer.com/beer/beer_name/28173/8724/
+>
+> "I ended up having to pour this down the drain." https://www.beeradvocate.com/beer/profile/396/31484/?ba=waltonc#review
 
 Bells Black Note Stout (Imperial Stout)
 
