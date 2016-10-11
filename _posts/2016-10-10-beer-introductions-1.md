@@ -2,7 +2,7 @@
 layout: post
 title: Data Guide for the Beer Perplexed
 subtitle: Part I - Looking at Beer Style Connections 
-tags: ["dataviz", "D3", "Bokeh", "link & node"]
+tags: ["D3", "BokehPlots", "link & node"]
 shortlink: http://bit.ly/prplxd1
 ---
 
