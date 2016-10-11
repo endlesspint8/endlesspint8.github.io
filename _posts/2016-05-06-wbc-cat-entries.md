@@ -2,7 +2,9 @@
 layout: post
 title: It's pronounced thermometer
 subtitle: Using WBC Entry Counts as an Industry <a href="https://www.youtube.com/watch?v=dufWU0T0ovY" target="_blank">Barometer</a>
+tags: ["seaborn", "heatmap", "dataviz"] 
 shortlink: http://bit.ly/wbc_heatmap
+twitimg: pic.twitter.com/IsyxsetCQo
 ---
 
 Being ~~such a~~ <a href="http://www.worldbeercup.org/" target="_blank"><i>the most</i> prestigious beer competition</a>&trade; one could be forgiven for expecting breweries to want to gain a <a href="http://www.worldbeercup.org/" target="_blank">World Beer Cup</a> medal. As a light draws mosquitoes so would the <a href="/2016-05-01-wbc-omg/#wbc-v-wbc" target="_blank">wBC</a> draw beers, to <a href="https://www.youtube.com/watch?v=oRVgl7y8VX8" target="_blank">my thinking</a>. With that idea in mind I was inspired by various questions<sup id="a1">[1](#f1)</sup> to take a look at visualizing and summarizing the competitions through the years. 
