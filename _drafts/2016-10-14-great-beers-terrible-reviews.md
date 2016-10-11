@@ -32,9 +32,21 @@ Three Floyds Dark Lord Russian Imperial Stout (Bourbon Barrel Aged)	Imperial Sto
 
 Russian River Pliny the Younger	Imperial IPA
 
+> "Straight up sweet hoppy nose. Strong yellow body with a thin foamy head. Taste-not as hoppy as I was expecting. Basically a graoefruit/grass hop tea." http://www.ratebeer.com/beer/beer_name/43181/11207/
+> 
+> "Have had this two or three times and just don’t get the appeal of it...it’s got very little of interest in the aroma, and although is pretty well-balanced for the style, it’s nothing special for me overall." http://www.ratebeer.com/beer/beer_name/43181/1270/
+
 AleSmith Speedway Stout - Bourbon Barrel Aged	Imperial Stout
 
+> "I like the concept more than the product itself." http://www.ratebeer.com/beer/beer_name/28173/11966/
+> 
+> "Surely my palate is not up to the task of this complex roast bomb, it’s me not you." http://www.ratebeer.com/beer/beer_name/28173/8724/
+
 Bells Black Note Stout	Imperial Stout
+
+> "smells like soy sauce." http://www.ratebeer.com/beer/beer_name/71826/55018/
+>
+> "Despite me having this as one of my worst beers, everyone else enjoyed it." http://www.ratebeer.com/beer/beer_name/71826/7542/
 
 Rochefort Trappistes 10	Abt/Quadrupel
 
