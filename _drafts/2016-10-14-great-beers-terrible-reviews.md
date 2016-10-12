@@ -6,20 +6,6 @@ subtitle: Ten Great Beers get Trolled
 
 ### LIST
 
-![alt text](https://github.com/endlesspint8/endlesspint8.github.io/blob/master/gallery/2016/cb/cb_bxplt.PNG "test")
-
-/gallery/2016/poor-reviews/003_cigcty_hun3.png	
- 
-/gallery/2016/poor-reviews/004_3floyds_drklrd2.png	
- 
-/gallery/2016/poor-reviews/007_bells_blknote2.png	
- 
-/gallery/2016/poor-reviews/006_alesmith_spdway3.PNG
-
-/gallery/2016/poor-reviews/008_roch_trp10_2.jpg	
- 
-/gallery/2016/poor-reviews/010_alch_heady2.jpg	
-
 Inspired by BuzzFeed 2015 "_One-Star Amazon Reviews Of Classic Novels Are Hilarious_" [article](https://www.buzzfeed.com/margaretmaurer/one-star-amazon-reviews-of-classic-novels-18660?utm_term=.gnyqBma0vE#.psRMOdRGjr).
 
 [Bizzaro](https://youtu.be/IcjSDZNbOs0) beer appreciation. 
@@ -30,7 +16,7 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 **_Brouwerij Westvleteren_, Trappist Westvleteren 12 (XII)**	(Abt/Quadrupel)
 
-![alt text](/gallery/2016/poor-reviews/001_wstvlt_xii3.png	 "pipi")
+<img src="/gallery/2016/poor-reviews/001_wstvlt_xii3.png" width="800">
 
 <sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Pipi</a></b></sub>
 
@@ -49,7 +35,8 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 **_Cigar City Brewing_, Hunahpu’s Imperial Stout - Double Barrel Aged**
 
-![alt text]( "text") <br>
+<img src="/gallery/2016/poor-reviews/003_cigcty_hun3.png"	>
+
 <sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
 
 > "Oh boy. Oh boy. Oh boy. What a failure. Cinnamon², cardemom², chili². Overspiced², hence flavour profile is completely out of balance. The average mean of this beer is ridicilously high. Wondering if all ratings of this beer are done by aliens. <a href="http://www.ratebeer.com/beer/beer_name/249005/235224/" target="_blank">Or America = Aliens</a>? The truth is out there. Go get them Mulder. X Thanks berntholer for this extraterrestrial." 
@@ -58,7 +45,8 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 **_Three Floyds Brewing_, Bourbon Barrel Aged Dark Lord Russian Imperial Stout**
 
-![alt text]( "text") <br>
+<img src="/gallery/2016/poor-reviews/004_3floyds_drklrd2.png" width="800">	
+
 <sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
 
 > "Tasted like generic cough syrup mixed with old coffee and a shot of whiskey - <a href="http://www.ratebeer.com/beer/beer_name/58590/237963/" target="_blank">and not in a good way</a>" 
@@ -78,7 +66,8 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 **_AleSmith Brewing Company_, Speedway Stout - Bourbon Barrel Aged**	(Imperial Stout)
 
-![alt text]( "text") <br>
+<img src="/gallery/2016/poor-reviews/006_alesmith_spdway3.PNG" >
+
 <sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
 
 > "I <a href="http://www.ratebeer.com/beer/beer_name/28173/11966/" target="_blank">like the concept more than the product</a> itself." 
@@ -89,7 +78,8 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 **_Bell's Brewery_, Black Note Stout (Imperial Stout)**
 
-![alt text]( "text") <br>
+<img src="/gallery/2016/poor-reviews/007_bells_blknote2.png" >
+
 <sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/71826/55018/" target="_blank">smells like soy sauce</a>." 
@@ -100,7 +90,8 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 **_Brasserie de Rochefort_, Trappistes Rochefort 10**	(Abt/Quadrupel)
 
-![alt text]( "text") <br>
+<img src="/gallery/2016/poor-reviews/008_roch_trp10_2.jpg" width="800" >	
+
 <sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/2360/238185/" target="_blank">nasty bubblegum aroma</a>" 
@@ -126,7 +117,8 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 **_The Alchemist_, Heady Topper** (Imperial IPA)
 
-![alt text]( "text") <br>
+<img src="/gallery/2016/poor-reviews/010_alch_heady2.jpg" width="800">
+
 <sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/32329/329387/" target="_blank">This beer is gross</a>. Can’t drink more than a few sips. It’s cloying and sweet and not bitter enough for a dipa" 
