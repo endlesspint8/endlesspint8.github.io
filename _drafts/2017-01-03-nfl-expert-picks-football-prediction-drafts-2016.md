@@ -8,7 +8,7 @@ subtitle: This Week's Draft
 Upcoming graphs:
 
 1. <strike>wk04 - Bubble matrix: sources (y-axis); weeks (x-axis); z-bubbles (size~wins, color~brier)</strike>
-2. wk05 - Bullet graph: in situ change win% v. 
+2. <strike>wk05 - Bullet graph: in situ change win% v.</strike>
 3. wk06 - ATS Arbitrage: 538 & FOX
 4. wk07 - [Stream graph](https://plot.ly/~empet/13409/streamgraph-with-minimized-wiggle-1/#code) of unanimous wins
 5. wk08 - Heatmap: games won prob for 10k sims
@@ -30,9 +30,13 @@ A motivating drive of this on-going piece is to set up the premise using words, 
 
 Predictions are difficult (https://priceonomics.com/how-well-do-blindfolded-monkeys-play-the-stock/)
 
-Bullet graph, how to read it.
+Bullet graph (https://en.wikipedia.org/wiki/Bullet_graph), how to read it.
+
+<img src="/gallery/2016/football-picks/bullet_legend_wk05.PNG" alt="bullet_legend" /><br>
 
 BG, SUP results to date.
+
+<img src="/gallery/2016/football-picks/bullet_wk05b.PNG" alt="bullet_wk05b" /><br>
 
 BG, take aways.
 
