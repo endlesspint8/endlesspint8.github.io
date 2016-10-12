@@ -8,7 +8,7 @@ shortlink: http://bit.ly/2dxLtd9
 ---
 
 
-![alt text](https://github.com/endlesspint8/endlesspint8.github.io/blob/master/gallery/2016/cb/cb_bxplt.PNG "test")
+![alt text](/gallery/2016/cb/cb_bxplt.PNG "test")
 
 Shiny app embedding, attempt anyway
 
