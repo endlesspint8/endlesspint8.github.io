@@ -23,6 +23,21 @@ Upcoming graphs:
 14. wk17 - [bump graph / position time plot](http://vizthinker.com/wp-content/uploads/2014/01/BCS-Top-25-College-Football-2013-01.png)
 
 
+## Week 5 - Less Words
+<sub><a href="">Tweet</a> Week 5</sub>
+
+A motivating drive of this on-going piece is to set up the premise using words, tables, and simple graphs, especially in the beginning and then allow the visuals to speak for themselves and deliver the information. Thus the drop off in word count from week to week is intended both by design and disposition (lazy efficient, if you will). 
+
+Predictions are difficult (https://priceonomics.com/how-well-do-blindfolded-monkeys-play-the-stock/)
+
+Bullet graph, how to read it.
+
+BG, SUP results to date.
+
+BG, take aways.
+
+
+
 ## Week 4 - I'm Just a Professional
 <sub><a href="http://bit.ly/2d3tw04">Tweet</a> Week 4</sub>
 
