@@ -28,8 +28,9 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 **_Toppling Goliath Brewing Company_, Mornin’ Delight**	(Imperial Stout)
 
-![alt text]( "text") <br>
-<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
+<img src="/gallery/2016/poor-reviews/002_topp_morndel3.jpg" width="800">
+
+<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a>> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Don't Belong</a></b></sub>
 
 > "Just as the Americans like it, sweet as hell and <a href="http://www.ratebeer.com/beer/beer_name/151817/390708/" target="_blank">full of things that just don’t belong in a beer</a>, such as coffee flavor. It is very aromatic though, and if you like that a beer tastes like hot chocolate coffee with beer flavor, then this is the stuff for you. Soon to find in your next Sturbucks!" 
 
@@ -57,8 +58,9 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 **_Russian River Brewing Company_, Pliny the Younger** (Imperial IPA)
 
-![alt text]( "text") <br>
-<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Cough Syrup</a></b></sub>
+<img src="/gallery/2016/poor-reviews/005_rusriv_plyngr2.png" width="800">	
+
+<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Little of Interest</a></b></sub>
 
 > "Straight up sweet hoppy nose. Strong yellow body with a thin foamy head. Taste-not as hoppy as I was expecting. Basically <a href="http://www.ratebeer.com/beer/beer_name/43181/11207/" target="_blank">a grapefruit/grass hop tea</a>." 
 > 
@@ -108,8 +110,9 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 **_Hill Farmstead Brewery_, Ann** (Saison)
 
-![alt text]( "text") <br>
-<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Cough Syrup</a></b></sub>
+<img src="/gallery/2016/poor-reviews/009_hillfarm_ann2.jpg" width="800">
+
+<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Be All End All</a></b></sub>
 
 > "I certainly <a href="http://www.ratebeer.com/beer/beer_name/175070/177946/" target="_blank">wouldnt go through the lengths or trade what I did for this bottle again</a>. From what I hear, it was much better fresh." 
 >
