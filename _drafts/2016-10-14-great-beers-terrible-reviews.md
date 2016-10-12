@@ -10,7 +10,7 @@ Inspired by BuzzFeed 2015 "_One-Star Amazon Reviews Of Classic Novels Are Hilari
 
 [Bizzaro](https://youtu.be/IcjSDZNbOs0) beer appreciation. 
 
-<a href="" target="_blank"></a>
+Even a bizzaro version of the famous George Castanza "it's not you it's me" line.
 
 Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create our list below.
 
@@ -36,63 +36,63 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 > "Tasted like generic cough syrup mixed with old coffee and a shot of whiskey - <a href="http://www.ratebeer.com/beer/beer_name/58590/237963/" target="_blank">and not in a good way</a>" 
 >
-> "I was not impressed and actually gave the rest of my pour to my friend Kev." http://www.ratebeer.com/beer/beer_name/58590/45198/
+> "I was not impressed and actually gave the rest of my pour <a href="http://www.ratebeer.com/beer/beer_name/58590/45198/" target="_blank">to my friend Kev</a>." 
 >
-> "The flavor is all booze and caramel. It's almost like the beer itself is completely gone. They could have just barrel aged miller light and with this level of alcohol it would taste the same. Not worth the wait or the price." https://www.beeradvocate.com/beer/profile/26/30184/?ba=drseamus#review
+> "The flavor is all booze and caramel. It's almost like the beer itself is completely gone. They could have just barrel aged miller light and with this level of alcohol it would taste the same. <a href="https://www.beeradvocate.com/beer/profile/26/30184/?ba=drseamus#review" target="_blank">Not worth the wait or the price</a>." 
 
 **_Russian River Brewing Company_, Pliny the Younger** (Imperial IPA)
 
-> "Straight up sweet hoppy nose. Strong yellow body with a thin foamy head. Taste-not as hoppy as I was expecting. Basically a graoefruit/grass hop tea." http://www.ratebeer.com/beer/beer_name/43181/11207/
+> "Straight up sweet hoppy nose. Strong yellow body with a thin foamy head. Taste-not as hoppy as I was expecting. Basically <a href="http://www.ratebeer.com/beer/beer_name/43181/11207/" target="_blank">a grapefruit/grass hop tea</a>." 
 > 
-> "Have had this two or three times and just don’t get the appeal of it...it’s got very little of interest in the aroma, and although is pretty well-balanced for the style, it’s nothing special for me overall." http://www.ratebeer.com/beer/beer_name/43181/1270/
+> "Have had this two or three times and just don’t get the appeal of it...it’s got very little of interest in the aroma, and although is pretty well-balanced for the style, <a href="http://www.ratebeer.com/beer/beer_name/43181/1270/" target="_blank">it’s nothing special</a> for me overall." 
 
 **_AleSmith Brewing Company_, Speedway Stout - Bourbon Barrel Aged**	(Imperial Stout)
 
-> "I like the concept more than the product itself." http://www.ratebeer.com/beer/beer_name/28173/11966/
+> "I <a href="http://www.ratebeer.com/beer/beer_name/28173/11966/" target="_blank">like the concept more than the product</a> itself." 
 > 
-> "Surely my palate is not up to the task of this complex roast bomb, it’s me not you." http://www.ratebeer.com/beer/beer_name/28173/8724/
+> "Surely my palate is not up to the task of this complex roast bomb, <a href="http://www.ratebeer.com/beer/beer_name/28173/8724/" target="_blank">it’s me not you</a>." 
 >
-> "I ended up having to pour this down the drain." https://www.beeradvocate.com/beer/profile/396/31484/?ba=waltonc#review
+> "I ended up having to <a href="https://www.beeradvocate.com/beer/profile/396/31484/?ba=waltonc#review" target="_blank">pour this down the drain</a>." 
 
 **_Bell's Brewery_, Black Note Stout (Imperial Stout)**
 
-> "smells like soy sauce." http://www.ratebeer.com/beer/beer_name/71826/55018/
+> "<a href="http://www.ratebeer.com/beer/beer_name/71826/55018/" target="_blank">smells like soy sauce</a>." 
 >
-> "Despite me having this as one of my worst beers, everyone else enjoyed it." http://www.ratebeer.com/beer/beer_name/71826/7542/
+> "Despite me having this as one of my worst beers, <a href="http://www.ratebeer.com/beer/beer_name/71826/7542/" target="_blank">everyone else enjoyed it</a>." 
 >
-> "This is an overrated beer if I've ever seen one. Did not live up to the hype. KBS is 100 times better. I cannot stress enough that this beer is no better than another bourbon barrel aged stout on the shelf at your liquor store. I was really struggling to get any complexity's from it and there was no coffee flavor what so ever. Don't get me wrong this is a good beer but It's definitely is nothing special and I still can't believe what people will trade for this. Do yourself a favor and mix expedition and double cream yourself and add a little bourbon. You'll have the same thing." https://www.beeradvocate.com/beer/profile/287/37265/?ba=chinchillin85#review
+> "This is an overrated beer if I've ever seen one. Did not live up to the hype. KBS is 100 times better. I cannot stress enough that this beer is no better than another bourbon barrel aged stout on the shelf at your liquor store. I was really struggling to get any complexity's from it and there was no coffee flavor what so ever. Don't get me wrong this is a good beer but It's definitely is nothing special and I still can't believe what people will trade for this. Do yourself a favor and <a href="https://www.beeradvocate.com/beer/profile/287/37265/?ba=chinchillin85#review" target="_blank">mix expedition and double cream yourself</a> and add a little bourbon. You'll have the same thing." 
 
 **_Brasserie de Rochefort_, Trappistes Rochefort 10**	(Abt/Quadrupel)
 
-> "nasty bubblegum aroma" http://www.ratebeer.com/beer/beer_name/2360/238185/
+> "<a href="http://www.ratebeer.com/beer/beer_name/2360/238185/" target="_blank">nasty bubblegum aroma</a>" 
 >
-> "I can’t say I like the alcoholic - plum flavoring and it made be gag." http://www.ratebeer.com/beer/beer_name/2360/20349/
+> "I can’t say I like the alcoholic - plum flavoring and <a href="http://www.ratebeer.com/beer/beer_name/2360/20349/" target="_blank">it made be gag</a>." 
 >
-> " Seemed slightly dull/lifeless to me." http://www.ratebeer.com/beer/beer_name/2360/248167/
+> "Seemed <a href="http://www.ratebeer.com/beer/beer_name/2360/248167/" target="_blank">slightly dull/lifeless</a> to me." 
 >
-> "definitely an off flavor here as I am tasting dirty gym socks" https://www.beeradvocate.com/beer/profile/207/645/?ba=UCLABrewN84#review
+> "definitely an off flavor here as I am <a href="https://www.beeradvocate.com/beer/profile/207/645/?ba=UCLABrewN84#review" target="_blank">tasting dirty gym socks</a>" 
 >
-> "It certainly does have lots of flavor. Horrible rotten flavor. Did they brew this beer using fruit harvested from the bottom of a pigs trough? I can't even finish the bottle." https://www.beeradvocate.com/beer/profile/207/645/?ba=Magister_Beav#review
+> "It certainly does have lots of flavor. Horrible rotten flavor. Did they brew this beer using fruit harvested from the bottom of a pigs trough? <a href="https://www.beeradvocate.com/beer/profile/207/645/?ba=Magister_Beav#review" target="_blank">I can't even finish the bottle</a>." 
 > 
-> "The smell was awful. It smelled like rotten fruit and upon drinking it did not get any better. Very bitter and sour tasting. Not pleasant at all. By far the most disappointing beer I have ever had." https://www.beeradvocate.com/beer/profile/207/645/?ba=ianranderson#review
+> "The smell was awful. It smelled like rotten fruit and <a href="https://www.beeradvocate.com/beer/profile/207/645/?ba=ianranderson#review" target="_blank">upon drinking it did not get any better</a>. Very bitter and sour tasting. Not pleasant at all. By far the most disappointing beer I have ever had." 
 
 **_Hill Farmstead Brewery_, Ann** (Saison)
 
-> "I certainly wouldnt go through the lengths or trade what I did for this bottle again. From what I hear, it was much better fresh." http://www.ratebeer.com/beer/beer_name/175070/177946/
+> "I certainly <a href="http://www.ratebeer.com/beer/beer_name/175070/177946/" target="_blank">wouldnt go through the lengths or trade what I did for this bottle again</a>. From what I hear, it was much better fresh." 
 >
-> "A good beer, not the be all end all beer that everyone has been making it out to be." https://www.beeradvocate.com/beer/profile/22511/81697/?ba=Samichlaus82#review
+> "A good beer, <a href="https://www.beeradvocate.com/beer/profile/22511/81697/?ba=Samichlaus82#review" target="_blank">not the be all end all</a> beer that everyone has been making it out to be." 
 
 **_The Alchemist_, Heady Topper** (Imperial IPA)
 
-> "This beer is gross. Can’t drink more than a few sips. It’s cloying and sweet and not bitter enough for a dipa" http://www.ratebeer.com/beer/beer_name/32329/329387/
+> "<a href="http://www.ratebeer.com/beer/beer_name/32329/329387/" target="_blank">This beer is gross</a>. Can’t drink more than a few sips. It’s cloying and sweet and not bitter enough for a dipa" 
 >
-> "Their secret is horse urine. The secret behind the secret is that you have to feed the horses tangerines and lemons. So there you have it. True alchemy - gold from horse piss." http://www.ratebeer.com/beer/beer_name/32329/403052/
+> "Their secret is horse urine. The secret behind the secret is that you have to feed the horses tangerines and lemons. So there you have it. True alchemy - <a href="http://www.ratebeer.com/beer/beer_name/32329/403052/" target="_blank">gold from horse piss</a>." 
 >
-> "The absolute worst double IPA I have ever had, and this is my favorite style! ... Hops are barely existent, there is an inherent smoothness to the beer but it tastes of wet cigarettes." https://www.beeradvocate.com/beer/profile/27039/16814/?ba=DanielGJ0#review
+> "The absolute worst double IPA I have ever had, and this is my favorite style! ... Hops are barely existent, there is an inherent smoothness to the beer but it <a href="https://www.beeradvocate.com/beer/profile/27039/16814/?ba=DanielGJ0#review" target="_blank">tastes of wet cigarettes</a>." 
 >
-> "Smells of a used dirty ashtray. Not pleasant." https://www.beeradvocate.com/beer/profile/27039/16814/?ba=HoppyBastard2#review
+> "Smells of a used dirty ashtray. <a href="https://www.beeradvocate.com/beer/profile/27039/16814/?ba=HoppyBastard2#review" target="_blank">Not pleasant</a>." 
 >
-> "For centuries bloodletting was thought to be a good way to cure illness, folks in the 70’s thought it was a good idea to wear a lot of polyester, in 1990 millions of people thought Milli Vanilli produced good music. What’s my point? Humans are prone to mass delusion. The current wave in beer -- this "the more hops the better" kind of thinking that could lead thousands to claim Heady Topper as one of the world’s finest beers -- is just that. I really and truly do not believe that this beer actually tastes good to anyone. It is monolithic and plain gross - like drinking a can of pine-sol. May history be my witness: global warming is real and proclaiming to actually enjoy all these mega-hopped beers is nothing more than a fad -- one that’s been supercharged by dudes responding to some kind of intellectual insecurity. Heady Topper represents the apogee of the pendulum swing, it is time to return to the timeless qualities of reason, balance, and refinement." http://www.ratebeer.com/beer/beer_name/32329/361441/
+> "For centuries bloodletting was thought to be a good way to cure illness, folks in the 70’s thought it was a good idea to wear a lot of polyester, in 1990 millions of people thought Milli Vanilli produced good music. What’s my point? Humans are prone to mass delusion. The current wave in beer -- this "the more hops the better" kind of thinking that could lead thousands to claim Heady Topper as one of the world’s finest beers -- is just that. I really and truly do not believe that this beer actually tastes good to anyone. It is monolithic and plain gross - like drinking a can of pine-sol. May history be my witness: global warming is real and proclaiming to actually enjoy all these mega-hopped beers is nothing more than a fad -- one that’s been supercharged by dudes responding to some kind of intellectual insecurity. <a href="http://www.ratebeer.com/beer/beer_name/32329/361441/" target="_blank">Heady Topper represents the apogee of the pendulum swing</a>, it is time to return to the timeless qualities of reason, balance, and refinement." 
 
 <sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
 
