@@ -29,7 +29,57 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 ---
 
+## Week 5 - Less Words, More Empathy
+
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 5</a></b></sub></p>
+
+One motivating drive of this ongoing piece is to set up the premise using words, tables, and simple graphs, especially in the beginning, and then allow subsequent visuals to speak for themselves and deliver the information. Thus the drop off in word count from week to week is intended both by design and disposition (lazy efficient, if you will). 
+
+A recurring and expected theme is that football game predictions are difficult, not quite stock picking difficult where a <a href="https://priceonomics.com/how-well-do-blindfolded-monkeys-play-the-stock/" target="_blank">blindfolded monkey</a> is likely to outperform you in the market, but difficult. For that reason I try to keep my derision to a minimum, especially when it comes to the data models. I don't want to be a on the machines' (s)hit list when they <a href="https://youtu.be/JJ1yS9JIJKs" target="_blank">take over</a>. 
+
+This week the game prediction results SUP aligned perfectly for my implementing a <a href="https://en.wikipedia.org/wiki/Bullet_graph" target="_blank">bullet graph</a> to show where we stand to this point in the season. Specifically, through week five the human expert panels, both CBS and ESPN, accumulated an identical number of SUP wins, 43. This coincidence allows for the traditional three category background of the bullet graph (and the added benefit of more easily appropriating  <a href="http://www.d3noob.org/2013/07/introduction-to-bullet-charts-in-d3js.html" target="_blank">available code</a>; lazy efficient), but I am getting ahead of myself. 
+
+Below is an example graph with labels for clarification. It is fairly self-explanatory and we will be going over the parts a second time when we breakdown the game prediction results further below. There is really no need then to continue reading this paragraph. I will assume you will take that not so subtle hint to skip ahead. Now that you're gone I'll just ramble a bit... about... puppies? Sure, they're adorable. I don't care if you're not a dog person you have to admit they are the cutest things around. Better than babies. Okay, I'm done now.  
+
+<img src="/gallery/2016/football-picks/bullet_legend_wk05.PNG" alt="bullet_legend" /><br>
+
+Using the above image as a guide we can confidently make sense of the visual below. I am going to spell it out so if you already understand how to read these graphs jump ahead and/or see you next week. 
+
+First, the grey backgrounds from left to right: 32 random correct picks, 43 expert panel correct picks, of 77 total games.
+
+Second, the color bars: 45 in season/situ FiveThirtyEight correct picks shown by the orange line & 42 in season/situ FOX correct picks shown by the dark blue line.
+
+Third, the floating black marks or "comparative measures": 46 and 45 preseason/a priori correct picks by FiveThirtyEight and FOX, respectively.
+
+**Bullet Graph of SUP Wins thru Week 5**
+
+<img src="/gallery/2016/football-picks/bullet_wk05b.PNG" alt="bullet_wk05b" /><br>
+
+Bullet graph take aways:
+
+* Preseason data models have been the top performers with respect to correct picks SUP.
+* Both of the in-season data models, FiveThirtyEight & FOX, have under performed their preseason win totals to date.
+* FiveThirtyEight has been the best in-season game predictor so far, followed by both expert panels (CBS & ESPN), and the data model used by FOX.
+* Our random picker is performing at less than 50% correct picks. Perhaps those blindfolded monkeys aren't such hot stuff afterall (so far!).
+
+Something the graph does not show are the number of changed picks per model. It may be tempting to make the incorrect leap, using just the above graph, into thinking there has been a change of only a game or two so far. Not so. FiveThirtyEight has made 5 in-season pick changes (2 wins/3 loses) and FOX 13 (5 wins/8 loses). 
+
+Of course the other element the graph does not cover is BS score (nor is it intended to). This will be a focus in the next week or so but I will provide the following probability table as a wrap up. Make of it what you will.
+
+**Average Model-Projected Win Probability for Changed Picks**
+
+||Wins|Loses|
+|---|---|---|
+|538|0.51|0.55|
+|FOX|0.55|0.60|
+
+<sub>I couldn't resist my 2¢: the modles don't give you much to choose between; when they're confident they're wrong, when they're less confident they may win. Make of it what you will, after all.</sub>
+
+---
+
 ## Week 4 - I'm Just a Professional
+
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/tTcfVbitnx I’m Just a Professional... maybe...&url=http://bit.ly/2d3tw04&via=endlesspint8&hashtags=nflpicks,BubbleGraph" target="_blank" title="Share on Twitter">Week 4</a></b></sub></p>
 
 _That's what everyone keeps saying and I'm getting sick and tired of hearing it_. Now that I'm done channeling my inner <a href="https://youtu.be/DYa6FNKSgbk" target="_blank">John Creasy</a> let's get on with what is turning into a less than impressive showing for the game pickers. I guess there's a reason people get paid big bucks for calling it <a href="http://www.imdb.com/title/tt0417217/?ref_=nm_flmg_act_26" target="_blank">like it is</a>, while the rest of us make cute little visualizations about others' struggles. 
 
@@ -54,6 +104,8 @@ Bear in mind however, that the colors are relative to the universe of inputs. Fo
 ---
 
 ## Week 3 - Well, That Escalated Quickly
+
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/ZE4xXndLgy Well, That Escalated Quickly, Yet&url=http://bit.ly/2drfw03&via=endlesspint8&hashtags=nflpicks,BokehPlots" target="_blank" title="Share on Twitter">Week 3</a></b></sub></p>
 
 Rough week for the favorites, human prognasticators, and predictions in general. Where should we even start? Ten of 16 games were unanimously agreed upon (SUP) by the panels/models, but half of them proved incorrect. Meaning if we were using the unanimous model selections there would be a just better than one-third chance (34%, 0.875x0.778x0.5) of making it to Week 4 in a suicide pool. This is definitely something that's made me repeatedly curious, you can expect a graphic of some sort in the coming weeks. 
 
@@ -91,6 +143,9 @@ The two data models, FiveThirtyEight & FOX, performed best, both for wins and Br
 ---
 
 ## Week 2 - Back to the Future Full Season Recap 
+
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/fgKENjlKMg Back to the Future Full Season Recap&url=http://bit.ly/2cS4w02&via=endlesspint8&hashtags=nflpicks,dataviz
+" target="_blank" title="Share on Twitter">Week 2</a></b></sub></p>
 
 As we plod along tracking game prediction accuracies week-to-week it may be tempting to get lost in the most current data and side tracked by the latest revisions. With that idea in mind let us now take a moment to look forward and document what the two quant models, by FiveThirtyEight and FOX, predicted for the season by using their respecitve game-by-game winning probabilities.
 
@@ -153,6 +208,8 @@ Things to look out for:
 ---
 
 ## Week 1 - Humans Haven't Been Replaced, Yet
+
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/DYSMzOa6UH Humans Haven't Been Replaced, Yet&url=bit.ly/fpixw01&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 1</a></b></sub></p>
 
 Let's start slow for this first installment. We have all season to get to know each other and get fancy-shmancy with the analysis. We will introduce our most basic metric, the Brier score (BS), and layout the predictive performance of the major outlets we're covering. As the section's heading above hints at the expert panels, the humans, did a solid job of demonstrating their worth. It cannot be any earlier in the season but I wish to congratulate the CBS panel especially for coming in first, in both wins and predictive accuracy. Time will tell if this was a happy fluke or a sign of things to come.
 
