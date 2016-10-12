@@ -36,12 +36,24 @@ Below is an example graph with labels for clarification. It is fairly self-expla
 
 <img src="/gallery/2016/football-picks/bullet_legend_wk05.PNG" alt="bullet_legend" /><br>
 
-BG, SUP results to date.
+Using the above image as a guide we can confidently make sense of the visual below. I am going to spell it out so if you already understand how to read these graphs jump ahead and/or see you next week. 
+
+First, the grey backgrounds from left to right: 32 random correct picks, 43 expert panel correct picks, of 77 total games.
+
+Second, the color bars: 45 in season/situ FiveThirtyEight correct picks shown by the orange line & 42 in season/situ FOX correct picks shown by the dark blue line.
+
+Third, the floating black marks or "comparative measures": 46 and 45 preseason/a priori correct picks by FiveThirtyEight and FOX, respectively.
 
 <img src="/gallery/2016/football-picks/bullet_wk05b.PNG" alt="bullet_wk05b" /><br>
 
-BG, take aways.
+Bullet graph take aways:
 
+* Preseason data models have been the top performers with respect to correct picks SUP.
+* Both of the in-season data models, FiveThirtyEight & FOX, have under performed their preseason win totals to date.
+* FiveThirtyEight has been the best in-season game predictor so far, followed by both expert panels (CBS & ESPN), and the data model used by FOX.
+* Our random picker is performing at less than 50% correct picks. Perhaps those blindfolded monkeys aren't such hot stuff afterall (so far!).
+
+Something the graph does not show are the number of changed picks per model. It may be tempting to make the incorrect leap, using just the above graph, into thinking there has been a change of only a game or two so far. Not so. FiveThirtyEight has made 5 in-season pick changes (2 wins/3 loses) and FOX 13 (5 wins/8 loses). 
 
 
 ## Week 4 - I'm Just a Professional
