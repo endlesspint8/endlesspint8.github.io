@@ -8,19 +8,17 @@ subtitle: Ten Great Beers get Trolled
 
 ![alt text](https://github.com/endlesspint8/endlesspint8.github.io/blob/master/gallery/2016/cb/cb_bxplt.PNG "test")
 
-001_wstvlt_xii3.png	
+/gallery/2016/poor-reviews/003_cigcty_hun3.png	
  
-003_cigcty_hun3.png	
+/gallery/2016/poor-reviews/004_3floyds_drklrd2.png	
  
-004_3floyds_drklrd2.png	
+/gallery/2016/poor-reviews/007_bells_blknote2.png	
  
-007_bells_blknote2.png	
- 
-006_alesmith_spdway3.PNG
+/gallery/2016/poor-reviews/006_alesmith_spdway3.PNG
 
-008_roch_trp10_2.jpg	
+/gallery/2016/poor-reviews/008_roch_trp10_2.jpg	
  
-010_alch_heady2.jpg	
+/gallery/2016/poor-reviews/010_alch_heady2.jpg	
 
 Inspired by BuzzFeed 2015 "_One-Star Amazon Reviews Of Classic Novels Are Hilarious_" [article](https://www.buzzfeed.com/margaretmaurer/one-star-amazon-reviews-of-classic-novels-18660?utm_term=.gnyqBma0vE#.psRMOdRGjr).
 
@@ -32,8 +30,9 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 **_Brouwerij Westvleteren_, Trappist Westvleteren 12 (XII)**	(Abt/Quadrupel)
 
-![alt text]( "text") <br>
-<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Pipi image</a></b></sub>
+![alt text](/gallery/2016/poor-reviews/001_wstvlt_xii3.png	 "pipi")
+
+<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Pipi</a></b></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/4934/291926/" target="_blank">Pipi in a bottle</a>"
 >
