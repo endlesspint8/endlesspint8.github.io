@@ -8,6 +8,20 @@ subtitle: Ten Great Beers get Trolled
 
 ![alt text](https://github.com/endlesspint8/endlesspint8.github.io/blob/master/gallery/2016/cb/cb_bxplt.PNG "test")
 
+001_wstvlt_xii3.png	
+ 
+003_cigcty_hun3.png	
+ 
+004_3floyds_drklrd2.png	
+ 
+007_bells_blknote2.png	
+ 
+006_alesmith_spdway3.PNG
+
+008_roch_trp10_2.jpg	
+ 
+010_alch_heady2.jpg	
+
 Inspired by BuzzFeed 2015 "_One-Star Amazon Reviews Of Classic Novels Are Hilarious_" [article](https://www.buzzfeed.com/margaretmaurer/one-star-amazon-reviews-of-classic-novels-18660?utm_term=.gnyqBma0vE#.psRMOdRGjr).
 
 [Bizzaro](https://youtu.be/IcjSDZNbOs0) beer appreciation. 
