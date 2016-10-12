@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Then there is no pleasing you
-subtitle: Ten Great Beers get Trolled
+subtitle: Ten Great Beers get <a href="https://youtu.be/IcjSDZNbOs0" target="_blank">Bizzaro</a> Appreciation
 ---
 
 ### LIST
 
 Inspired by BuzzFeed 2015 "_One-Star Amazon Reviews Of Classic Novels Are Hilarious_" [article](https://www.buzzfeed.com/margaretmaurer/one-star-amazon-reviews-of-classic-novels-18660?utm_term=.gnyqBma0vE#.psRMOdRGjr).
 
-[Bizzaro](https://youtu.be/IcjSDZNbOs0) beer appreciation. 
+
 
 Even a bizzaro version of the famous George Castanza "it's not you it's me" line.
 
