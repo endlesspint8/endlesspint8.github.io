@@ -37,7 +37,7 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 <img src="/gallery/2016/poor-reviews/003_cigcty_hun3.png"	>
 
-<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
+<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Not Good</a></b></sub>
 
 > "Oh boy. Oh boy. Oh boy. What a failure. Cinnamon², cardemom², chili². Overspiced², hence flavour profile is completely out of balance. The average mean of this beer is ridicilously high. Wondering if all ratings of this beer are done by aliens. <a href="http://www.ratebeer.com/beer/beer_name/249005/235224/" target="_blank">Or America = Aliens</a>? The truth is out there. Go get them Mulder. X Thanks berntholer for this extraterrestrial." 
 >
@@ -47,7 +47,7 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 <img src="/gallery/2016/poor-reviews/004_3floyds_drklrd2.png" width="800">	
 
-<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
+<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Cough Syrup</a></b></sub>
 
 > "Tasted like generic cough syrup mixed with old coffee and a shot of whiskey - <a href="http://www.ratebeer.com/beer/beer_name/58590/237963/" target="_blank">and not in a good way</a>" 
 >
@@ -58,7 +58,7 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 **_Russian River Brewing Company_, Pliny the Younger** (Imperial IPA)
 
 ![alt text]( "text") <br>
-<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
+<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Cough Syrup</a></b></sub>
 
 > "Straight up sweet hoppy nose. Strong yellow body with a thin foamy head. Taste-not as hoppy as I was expecting. Basically <a href="http://www.ratebeer.com/beer/beer_name/43181/11207/" target="_blank">a grapefruit/grass hop tea</a>." 
 > 
@@ -68,7 +68,7 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 <img src="/gallery/2016/poor-reviews/006_alesmith_spdway3.PNG" >
 
-<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
+<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Drain Pour</a></b></sub>
 
 > "I <a href="http://www.ratebeer.com/beer/beer_name/28173/11966/" target="_blank">like the concept more than the product</a> itself." 
 > 
@@ -80,7 +80,7 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 <img src="/gallery/2016/poor-reviews/007_bells_blknote2.png" >
 
-<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
+<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Soy Sauce</a></b></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/71826/55018/" target="_blank">smells like soy sauce</a>." 
 >
@@ -92,7 +92,7 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 <img src="/gallery/2016/poor-reviews/008_roch_trp10_2.jpg" width="800" >	
 
-<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
+<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Gym Socks</a></b></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/2360/238185/" target="_blank">nasty bubblegum aroma</a>" 
 >
@@ -109,7 +109,7 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 **_Hill Farmstead Brewery_, Ann** (Saison)
 
 ![alt text]( "text") <br>
-<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
+<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Cough Syrup</a></b></sub>
 
 > "I certainly <a href="http://www.ratebeer.com/beer/beer_name/175070/177946/" target="_blank">wouldnt go through the lengths or trade what I did for this bottle again</a>. From what I hear, it was much better fresh." 
 >
@@ -119,7 +119,7 @@ Took 10 overlapping top beers from BeerAdvocate (BA) and RateBeer (RB) to create
 
 <img src="/gallery/2016/poor-reviews/010_alch_heady2.jpg" width="800">
 
-<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a></sub>
+<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Horse Urine</a></b></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/32329/329387/" target="_blank">This beer is gross</a>. Can’t drink more than a few sips. It’s cloying and sweet and not bitter enough for a dipa" 
 >
