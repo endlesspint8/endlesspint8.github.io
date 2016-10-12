@@ -44,6 +44,8 @@ Second, the color bars: 45 in season/situ FiveThirtyEight correct picks shown by
 
 Third, the floating black marks or "comparative measures": 46 and 45 preseason/a priori correct picks by FiveThirtyEight and FOX, respectively.
 
+**Bullet Graph of SUP Wins thru Week 5**
+
 <img src="/gallery/2016/football-picks/bullet_wk05b.PNG" alt="bullet_wk05b" /><br>
 
 Bullet graph take aways:
@@ -54,6 +56,15 @@ Bullet graph take aways:
 * Our random picker is performing at less than 50% correct picks. Perhaps those blindfolded monkeys aren't such hot stuff afterall (so far!).
 
 Something the graph does not show are the number of changed picks per model. It may be tempting to make the incorrect leap, using just the above graph, into thinking there has been a change of only a game or two so far. Not so. FiveThirtyEight has made 5 in-season pick changes (2 wins/3 loses) and FOX 13 (5 wins/8 loses). 
+
+Of course the other element the graph does not cover is BS score (nor is it intended to). This will be a focus in the next week or so but I will provide the following probability table as a wrap up. Make of it what you will.
+
+**Average Model Projected Probability for Changed Picks**
+
+||Wins|Loses|
+|---|---|---|
+|538|0.51|0.55|
+|FOX|0.55|0.60|
 
 
 ## Week 4 - I'm Just a Professional
