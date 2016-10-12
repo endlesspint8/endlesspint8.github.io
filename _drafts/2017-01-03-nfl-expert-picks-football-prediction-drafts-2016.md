@@ -24,7 +24,7 @@ Upcoming graphs:
 
 
 ## Week 5 - Less Words
-<p align="right"><sub>Share <a href="" target="_blank" title="Share on Twitter">Week 5</a></sub></p>
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 5</a></b></sub></p>
 
 A motivating drive of this on-going piece is to set up the premise using words, tables, and simple graphs, especially in the beginning and then allow the visuals to speak for themselves and deliver the information. Thus the drop off in word count from week to week is intended both by design and disposition (lazy efficient, if you will). 
 
