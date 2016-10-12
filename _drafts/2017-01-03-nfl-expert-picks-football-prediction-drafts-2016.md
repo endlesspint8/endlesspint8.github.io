@@ -26,9 +26,9 @@ Upcoming graphs:
 ## Week 5 - Less Words
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 5</a></b></sub></p>
 
-A motivating drive of this on-going piece is to set up the premise using words, tables, and simple graphs, especially in the beginning and then allow the visuals to speak for themselves and deliver the information. Thus the drop off in word count from week to week is intended both by design and disposition (lazy efficient, if you will). 
+One motivating drive of this ongoing piece is to set up the premise using words, tables, and simple graphs, especially in the beginning, and then allow the visuals to speak for themselves and deliver the information. Thus the drop off in word count from week to week is intended both by design and disposition (lazy efficient, if you will). 
 
-Predictions are difficult (https://priceonomics.com/how-well-do-blindfolded-monkeys-play-the-stock/)
+A recurring and expected theme is that football game predictions are difficult, not quite stock picking difficult where a <a href="https://priceonomics.com/how-well-do-blindfolded-monkeys-play-the-stock/" target="_blank">blindfolded monkey</a> is likely to outperform you in the market, but difficult. For that reason I try to keep my derision to a minimum, especially when it comes to the data models. I don't want to be a on the machines' shit list when they <a href="https://youtu.be/JJ1yS9JIJKs" target="_blank">take over</a>. 
 
 Bullet graph (https://en.wikipedia.org/wiki/Bullet_graph), how to read it.
 
