@@ -2,13 +2,16 @@
 layout: post
 title: Then there is no pleasing you
 subtitle: Ten Great Beers get <a href="https://youtu.be/IcjSDZNbOs0" target="_blank">Bizzaro</a> Appreciation
+tags: ["", ""]
+shortlink: 
+twitimg: 
 ---
 
 ### LIST
 
-Inspired by BuzzFeed 2015 "_One-Star Amazon Reviews Of Classic Novels Are Hilarious_" [article](https://www.buzzfeed.com/margaretmaurer/one-star-amazon-reviews-of-classic-novels-18660?utm_term=.gnyqBma0vE#.psRMOdRGjr).
+Inspired by BuzzFeed's 2015 "_One-Star Amazon Reviews Of Classic Novels Are Hilarious_" <a href="https://www.buzzfeed.com/margaretmaurer/one-star-amazon-reviews-of-classic-novels-18660?utm_term=.gnyqBma0vE#.psRMOdRGjr" target="_blank">article</a>. Could not help myself from tracking down some iconic and highly rated beers to see what an equivalent level of dissatisfaction would look like. When you're high up people will take shots at you for a number of different reasons: high hopes, attention exhaustion, too much hype, plain old hating, and sometimes simple misalignment of expectations. Additionally, unlike books in our modern world, certain beers are not universally available so on top of everything else people will take upon themselves travel, trade, and standing in line to get at some sought after suds. In the moment you have a less than satisfying beer in your gut it is difficult to keep in mind that the journey was as much the point as the destination. 
 
-
+Let us sto
 
 Even a bizzaro version of the famous George Castanza "it's not you it's me" line.
 
