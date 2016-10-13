@@ -2,7 +2,7 @@
 layout: post
 title: Then there is no pleasing you
 subtitle: Ten Great Beers get <a href="https://youtu.be/IcjSDZNbOs0" target="_blank">Bizzaro</a> Appreciation
-tags: ["", ""]
+tags: ["BeerReviews", "hating"]
 shortlink: 
 twitimg: 
 ---
@@ -19,7 +19,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/001_wstvlt_xii3.png" width="800">
 
-<sub><font color="lightgrey">Image source: <a href="https://twitter.com/BeerAlien/status/784909372614774784" target="_blank">Twitter (@BeerAlien)</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/4934/291926/" target="_blank">RateBeer</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Pipi</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://twitter.com/BeerAlien/status/784909372614774784" target="_blank" style="color:grey">Twitter (@BeerAlien)</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/4934/291926/" target="_blank" style="color:darkgrey">RateBeer</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Pipi</a></b></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/4934/291926/" target="_blank">Pipi in a bottle</a>"
 >
