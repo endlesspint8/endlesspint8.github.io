@@ -2,7 +2,7 @@
 layout: post
 title: Then there is no pleasing you
 subtitle: Ten Great Beers get <a href="https://youtu.be/IcjSDZNbOs0" target="_blank">Bizzaro</a> Appreciation
-tags: ["BeerReviews", "hating"]
+tags: ["BeerReviews", "NotImpressed"]
 shortlink: 
 twitimg: 
 ---
@@ -31,7 +31,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/002_topp_morndel3.jpg" width="800">
 
-<sub>Image source: <a href="https://untappd.com/user/danielvillanueva18/checkin/370257472" target="_blank" style="color:darkgrey">Untappd (@danielvillanueva18)</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/151817/390708/" target="_blank" style="color:darkgrey">RateBeer</a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Don't Belong</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://untappd.com/user/danielvillanueva18/checkin/370257472" target="_blank" style="color:darkgrey">Untappd (@danielvillanueva18)</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/151817/390708/" target="_blank" style="color:darkgrey">RateBeer</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Don't Belong</a></b></sub>
 
 > "Just as the Americans like it, sweet as hell and <a href="http://www.ratebeer.com/beer/beer_name/151817/390708/" target="_blank">full of things that just don’t belong in a beer</a>, such as coffee flavor. It is very aromatic though, and if you like that a beer tastes like hot chocolate coffee with beer flavor, then this is the stuff for you. Soon to find in your next Sturbucks!" 
 
@@ -39,7 +39,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/003_cigcty_hun3.png"	>
 
-<sub>Image source: <a href="" target="_blank" style="color:darkgrey"></a> | Text source: <a href="" target="_blank" style="color:darkgrey"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Not Good</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://cigarcitybrewing.com/beer/double-barrel-aged-hunahpus/?age-verified=7e3b40f3f6" target="_blank" style="color:darkgrey">Cigar City Brewing</a> | Text source: <a href="https://www.beeradvocate.com/beer/profile/17981/110635/?ba=Rifugium#review" target="_blank" style="color:darkgrey"></a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Not Good</a></b></sub>
 
 > "Oh boy. Oh boy. Oh boy. What a failure. Cinnamon², cardemom², chili². Overspiced², hence flavour profile is completely out of balance. The average mean of this beer is ridicilously high. Wondering if all ratings of this beer are done by aliens. <a href="http://www.ratebeer.com/beer/beer_name/249005/235224/" target="_blank">Or America = Aliens</a>? The truth is out there. Go get them Mulder. X Thanks berntholer for this extraterrestrial." 
 >
@@ -49,7 +49,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/004_3floyds_drklrd2.png" width="800">	
 
-<sub>Image source: <a href="" target="_blank" style="color:darkgrey"></a> | Text source: <a href="" target="_blank" style="color:darkgrey"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Cough Syrup</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://twitter.com/CrainsChicago/status/571376590183112705" target="_blank" style="color:darkgrey">Twitter (@CrainsChicago)</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/58590/237963/" target="_blank" style="color:darkgrey">RateBeer</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Cough Syrup</a></b></sub>
 
 > "Tasted like generic cough syrup mixed with old coffee and a shot of whiskey - <a href="http://www.ratebeer.com/beer/beer_name/58590/237963/" target="_blank">and not in a good way</a>" 
 >
@@ -61,7 +61,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/005_rusriv_plyngr2.png" width="800">	
 
-<sub>Image source: <a href="" target="_blank" style="color:darkgrey"></a> | Text source: <a href="" target="_blank" style="color:darkgrey"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Little of Interest</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://www.google.com/search?q=advertising+fatigue&source=lnms&tbm=isch&sa=X&ved=0ahUKEwikhMePuNfPAhUIGj4KHZZeCOgQ_AUICSgC&biw=1148&bih=649#tbm=isch&q=pliny+the+younger+beer" target="_blank" style="color:darkgrey">Google Images</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/43181/1270/" target="_blank" style="color:darkgrey">RateBeer</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Little of Interest</a></b></sub>
 
 > "Straight up sweet hoppy nose. Strong yellow body with a thin foamy head. Taste-not as hoppy as I was expecting. Basically <a href="http://www.ratebeer.com/beer/beer_name/43181/11207/" target="_blank">a grapefruit/grass hop tea</a>." 
 > 
@@ -71,7 +71,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/006_alesmith_spdway3.PNG" >
 
-<sub>Image source: <a href="" target="_blank" style="color:darkgrey"></a> | Text source: <a href="" target="_blank" style="color:darkgrey"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Drain Pour</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://untappd.com/user/adrez86/checkin/370139350" target="_blank" style="color:darkgrey">Untappd (@adrez86)</a> | Text source: <a href="https://www.beeradvocate.com/beer/profile/396/31484/?ba=waltonc#review" target="_blank" style="color:darkgrey">BeerAdvocate (@waltonc)</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Drain Pour</a></b></sub>
 
 > "I <a href="http://www.ratebeer.com/beer/beer_name/28173/11966/" target="_blank">like the concept more than the product</a> itself." 
 > 
@@ -83,7 +83,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/007_bells_blknote2.png" >
 
-<sub>Image source: <a href="" target="_blank" style="color:darkgrey"></a> | Text source: <a href="" target="_blank" style="color:darkgrey"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Soy Sauce</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://www.bellsbeer.com/beer/specialty/black-note" target="_blank" style="color:darkgrey">Bell's Beer</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/71826/55018/" target="_blank" style="color:darkgrey">RateBeer</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Soy Sauce</a></b></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/71826/55018/" target="_blank">smells like soy sauce</a>." 
 >
@@ -95,7 +95,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/008_roch_trp10_2.jpg" width="800" >	
 
-<sub>Image source: <a href="" target="_blank" style="color:darkgrey"></a> | Text source: <a href="" target="_blank" style="color:darkgrey"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Gym Socks</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://upload.wikimedia.org/wikipedia/commons/6/66/Rochefort-beers.jpg" target="_blank" style="color:darkgrey">Wikipedia Commons</a> | Text source: <a href="https://www.beeradvocate.com/beer/profile/207/645/?ba=UCLABrewN84#review" target="_blank" style="color:darkgrey">BeerAdvocate (@UCLABrewN84)</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Gym Socks</a></b></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/2360/238185/" target="_blank">nasty bubblegum aroma</a>" 
 >
@@ -113,7 +113,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/009_hillfarm_ann2.jpg" width="800">
 
-<sub>Image source: <a href="" target="_blank" style="color:darkgrey"></a> | Text source: <a href="" target="_blank" style="color:darkgrey"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Be All End All</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://untappd.com/user/ngaihungming/checkin/351128260" target="_blank" style="color:darkgrey">Untappd (@ngaihungming)</a> | Text source: <a href="https://www.beeradvocate.com/beer/profile/22511/81697/?ba=Samichlaus82#review" target="_blank" style="color:darkgrey">BeerAdvocate (@Samichlaus82)</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Be All End All</a></b></sub>
 
 > "I certainly <a href="http://www.ratebeer.com/beer/beer_name/175070/177946/" target="_blank">wouldnt go through the lengths or trade what I did for this bottle again</a>. From what I hear, it was much better fresh." 
 >
@@ -123,7 +123,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/010_alch_heady2.jpg" width="800">
 
-<sub>Image source: <a href="" target="_blank" style="color:darkgrey"></a> | Text source: <a href="" target="_blank" style="color:darkgrey"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Horse Urine</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://untappd.com/user/jtillman76/checkin/370447332" target="_blank" style="color:darkgrey">Untappd (@jtillman76)</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/32329/403052/" target="_blank" style="color:darkgrey">RateBeer</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Horse Urine</a></b></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/32329/329387/" target="_blank">This beer is gross</a>. Can’t drink more than a few sips. It’s cloying and sweet and not bitter enough for a dipa" 
 >
