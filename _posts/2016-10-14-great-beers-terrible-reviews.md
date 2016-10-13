@@ -39,7 +39,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/003_cigcty_hun3.png"	>
 
-<sub><font color="lightgrey">Image source: <a href="https://cigarcitybrewing.com/beer/double-barrel-aged-hunahpus/?age-verified=7e3b40f3f6" target="_blank" style="color:darkgrey">Cigar City Brewing</a> | Text source: <a href="https://www.beeradvocate.com/beer/profile/17981/110635/?ba=Rifugium#review" target="_blank" style="color:darkgrey"></a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/0TB3tAJOeV When Great Beers get Scorned&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=Hunahpu" target="_blank" title="Share on Twitter">Not Good</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://cigarcitybrewing.com/beer/double-barrel-aged-hunahpus/?age-verified=7e3b40f3f6" target="_blank" style="color:darkgrey">Cigar City Brewing</a> | Text source: <a href="https://www.beeradvocate.com/beer/profile/17981/110635/?ba=Rifugium#review" target="_blank" style="color:darkgrey"></a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/0TB3tAJOeV When Great Beers get Scorned&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=CigarCityBeer,Hunahpu" target="_blank" title="Share on Twitter">Not Good</a></b></sub>
 
 > "Oh boy. Oh boy. Oh boy. What a failure. Cinnamon², cardemom², chili². Overspiced², hence flavour profile is completely out of balance. The average mean of this beer is ridicilously high. Wondering if all ratings of this beer are done by aliens. <a href="http://www.ratebeer.com/beer/beer_name/249005/235224/" target="_blank">Or America = Aliens</a>? The truth is out there. Go get them Mulder. X Thanks berntholer for this extraterrestrial." 
 >
