@@ -7,6 +7,9 @@ tags: ["test1", "urple", "erhe", "test2"]
 shortlink: http://bit.ly/2dxLtd9
 ---
 
+<p><font size="1" color="blue">This is some text!</font></p>
+
+<font color="red"><sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Pipi</a></b></sub></font>
 
 ![alt text](/gallery/2016/cb/cb_bxplt.PNG "test")
 
