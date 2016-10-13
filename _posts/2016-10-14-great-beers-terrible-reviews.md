@@ -31,7 +31,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/002_topp_morndel3.jpg" width="800">
 
-<sub><font color="lightgrey">Image source: <a href="https://untappd.com/user/danielvillanueva18/checkin/370257472" target="_blank" style="color:darkgrey">Untappd (@danielvillanueva18)</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/151817/390708/" target="_blank" style="color:darkgrey">RateBeer</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/0TB3tAJOeV When Great Beers get Scorned&url=http://bit.ly/2ecdAgk&via=endlesspint8&hashtags=TheTGBNews" target="_blank" title="Share on Twitter">Don't Belong</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://untappd.com/user/danielvillanueva18/checkin/370257472" target="_blank" style="color:darkgrey">Untappd (@danielvillanueva18)</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/151817/390708/" target="_blank" style="color:darkgrey">RateBeer</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/eBmO2dhdxZ When Great Beers get Scorned&url=http://bit.ly/2ecdAgk&via=endlesspint8&hashtags=TheTGBNews" target="_blank" title="Share on Twitter">Don't Belong</a></b></sub>
 
 > "Just as the Americans like it, sweet as hell and <a href="http://www.ratebeer.com/beer/beer_name/151817/390708/" target="_blank">full of things that just don’t belong in a beer</a>, such as coffee flavor. It is very aromatic though, and if you like that a beer tastes like hot chocolate coffee with beer flavor, then this is the stuff for you. Soon to find in your next Sturbucks!" 
 
