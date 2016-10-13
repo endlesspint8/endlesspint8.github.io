@@ -19,7 +19,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/001_wstvlt_xii3.png" width="800">
 
-<sub><font color="lightgrey">Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Pipi</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://twitter.com/BeerAlien/status/784909372614774784" target="_blank">Twitter (@BeerAlien)</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/4934/291926/" target="_blank">RateBeer</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Pipi</a></b></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/4934/291926/" target="_blank">Pipi in a bottle</a>"
 >
@@ -31,7 +31,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/002_topp_morndel3.jpg" width="800">
 
-<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a>> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Don't Belong</a></b></sub>
+<sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Don't Belong</a></b></sub>
 
 > "Just as the Americans like it, sweet as hell and <a href="http://www.ratebeer.com/beer/beer_name/151817/390708/" target="_blank">full of things that just don’t belong in a beer</a>, such as coffee flavor. It is very aromatic though, and if you like that a beer tastes like hot chocolate coffee with beer flavor, then this is the stuff for you. Soon to find in your next Sturbucks!" 
 
