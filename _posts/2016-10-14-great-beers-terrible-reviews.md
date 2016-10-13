@@ -3,7 +3,7 @@ layout: post
 title: Then there is no pleasing you
 subtitle: Ten Great Beers get <a href="https://youtu.be/IcjSDZNbOs0" target="_blank">Bizzaro</a> Appreciation
 tags: ["BeerReviews", "NotImpressed"]
-shortlink: 
+shortlink: http://bit.ly/2ecdAgk
 twitimg: 
 ---
 
