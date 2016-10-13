@@ -9,7 +9,7 @@ shortlink: http://bit.ly/2dxLtd9
 
 <p><font size="1" color="blue">This is some text!</font></p>
 
-<font color="red"><sub>Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Pipi</a></b></sub></font>
+<sub><font color="lightgrey">Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Pipi</a></b></sub>
 
 ![alt text](/gallery/2016/cb/cb_bxplt.PNG "test")
 
@@ -23,9 +23,6 @@ Shiny app embedding, attempt anyway
 
 <iframe src="https://endlesspint8.shinyapps.io/cb_sh_bxplt/" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
-D3 Link & Node
-cb_other_styles_rev.html
-<iframe src="http://endlesspint.com/gallery/2016/cb/cb_other_styles_rev.html" width="810" height="510" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
 
 plotly embed
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~ep8/1.embed"></iframe>
@@ -37,8 +34,6 @@ plotly embed
 YouTube Embedding
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzCO3Q5rZF4" frameborder="0" allowfullscreen></iframe>
 
-Bokeh Matrix
-<iframe src="http://endlesspint.com/gallery/2016/cb/cb_style_req.html" width="810" height="810" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
 
 Bokeh Scatter plot
 <iframe src="http://endlesspint.com/gallery/2016/football-picks/sup_ats_simple.html" width="500" height="500" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
