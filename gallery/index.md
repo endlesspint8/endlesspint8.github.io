@@ -24,7 +24,7 @@ subtitle: Visualizations at a Glance
 <img src="/gallery/2016/sixpack/tij_matrix.gif"> <br>
 <sub>Data source: <a href="http://www.ratebeer.com/" target="_blank">RateBeer</a></sub>
 
-### World Beer Cup
+### World Beer Cup ([I](/2016-05-01-wbc-omg), [II](/2016-05-06-wbc-cat-entries), & [III](/2016-05-16-wbc-us-sweeps))
 > A look back at the competition through the years, such as top winning countries' [winning percentage](wbc_2016), ...
 >
 
