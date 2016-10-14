@@ -26,6 +26,7 @@ subtitle: A gentle reminder of sh-, <i>stuff</i>, that needs to get done
 * [plotly](https://plot.ly/products/cloud/) Professional ($33/mo)
 * Sam Adams [Utopias](https://www.samueladams.com/craft-beers/utopias)
 * flight to [GABF](https://www.greatamericanbeerfestival.com/)
+* domain specific email (this is becoming less ambitious)
 * tbd after above
 
 ## Notes
