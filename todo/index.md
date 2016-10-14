@@ -27,7 +27,7 @@ subtitle: A gentle reminder of sh-, <i>stuff</i>, that needs to get done
 * Sam Adams [Utopias](https://www.samueladams.com/craft-beers/utopias)
 * flight to [GABF](https://www.greatamericanbeerfestival.com/)
 * domain specific email (this is becoming less ambitious)
-* [GumRoad](https://gumroad.com)
+* [GumRoad](https://gumroad.com) account ($10/mo)
 * tbd after above
 
 ## Notes
