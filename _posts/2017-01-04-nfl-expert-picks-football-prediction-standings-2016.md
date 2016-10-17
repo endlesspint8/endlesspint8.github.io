@@ -83,9 +83,9 @@ Of course the other element the graph does not cover is BS score (nor is it inte
 
 _That's what everyone keeps saying and I'm getting sick and tired of hearing it_. Now that I'm done channeling my inner <a href="https://youtu.be/DYa6FNKSgbk" target="_blank">John Creasy</a> let's get on with what is turning into a less than impressive showing for the game pickers. I guess there's a reason people get paid big bucks for calling it <a href="http://www.imdb.com/title/tt0417217/?ref_=nm_flmg_act_26" target="_blank">like it is</a>, while the rest of us make cute little visualizations about others' struggles. 
 
-Week 4, first week with a Bye so we had 15 games instead of the usual 16. Who broke even? Not CBS or FiveThirtyEight. Uh-uh, each of them had only 7 wins SUP. FOX did them one better and our big winner was ESPN with 9 wins for a weekly winning percentage of 60%. That wouldn't even get me a passing grade in Spanish class. Los siento, expertos!<sup id="a4">[4](#f4)</sup> 
+Week 4, first week with a Bye so we had 15 games instead of the usual 16. Who broke even? Not CBS or FiveThirtyEight. Uh-uh, each of them had only 7 wins SUP. FOX did them one better and our big winner was ESPN with 9 wins for a weekly winning percentage of 60%. That wouldn't even get me a passing grade in Spanish class. Los siento, expertos!<sup id="a5">[5](#f5)</sup> 
 
-On the season the experts/models are not much more impressive. Each of them are lingering, like a stale fart, at 35-37 wins. <a href="https://www.youtube.com/watch?v=oOoqtsNReIU" target="_blank">Shiiit</a>, my random generator has 28 wins alone.<sup id="a5">[5](#f5)</sup> 
+On the season the experts/models are not much more impressive. Each of them are lingering, like a stale fart, at 35-37 wins. <a href="https://www.youtube.com/watch?v=oOoqtsNReIU" target="_blank">Shiiit</a>, my random generator has 28 wins alone.<sup id="a6">[6](#f6)</sup> 
 
 <img src="/gallery/2016/football-picks/bs_wins_wk04b.png" alt="bs_wins_wk04" /><br>
 
@@ -122,7 +122,7 @@ Below is an interactive graph showing game outcomes by home teams through week 3
 <iframe src="http://endlesspint.com/gallery/2016/football-picks/sup_ats.html" width="640" height="640" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe><br>
 <sub>Data Source: <a href="http://www.sportsline.com/nfl/odds/" target="_blank">SportsLine</a> and <a href="https://gist.github.com/endlesspint8/2eaae1e452ce7d5a5edd46277c0459fb#file-nfl_sup_ats_bokeh-py" target="_blank">Code</a></sub>
 
-Plans are to update this graph weekly, leaving a static image in its place to capture the week 3 snapshot:
+Plans are to update this graph weekly,<sup id="a4">[4](#f4)</sup> leaving a static image in its place to capture the week 3 snapshot:
 
 <img src="/gallery/2016/football-picks/sup_ats_wk3.png" alt="sup_ats_wk3" /><br>
 <sub>Data Source: <a href="http://www.sportsline.com/nfl/odds/" target="_blank">SportsLine</a> and <a href="https://gist.github.com/endlesspint8/2eaae1e452ce7d5a5edd46277c0459fb#file-nfl_sup_ats_mpl-py" target="_blank">Code</a></sub>
@@ -294,14 +294,17 @@ Let's start slow for this first installment. We have all season to get to know e
 
 <b id="f3">3</b> Not a bad policy in dealing with prognostications in the real world either.  [↩](#a3) <br>
 
+**week 3**
+
+<b id="f4">4</b>  **next week update**: Um, yeah-no. I'm not going to do that. Assuming each week has an update-able graph that would result in 130+ updates over a season (week1, 16 updates; week2, 15 updates... 16 + 15 + .... + 3 + 2 + 1). Instead we'll let each graphic run for that week and _maybe_ we'll update them all at the end of the season. Once.  [↩](#a4) <br>
+
 **week 4**
 
-<b id="f4">4</b> Damn. I wish I could enter an upside down exclamation point for this sentence.  [↩](#a4) <br>
-<b id="f5">5</b> Two Matthew McConaughey references in the same week. Let's make that the record. [↩](#a5) <br>
+<b id="f5">5</b> Damn. I wish I could enter an upside down exclamation point for this sentence. [↩](#a5) <br>
+<b id="f6">6</b> Two Matthew McConaughey references in the same week. Let's make that the record. [↩](#a6) <br>
 
 **week 5 & later**
 
-<b id="f6">6</b>   [↩](#a6) <br>
 <b id="f7">7</b>   [↩](#a7) <br>
 <b id="f8">8</b>   [↩](#a8) <br>
 <b id="f9">9</b>   [↩](#a9) <br>
