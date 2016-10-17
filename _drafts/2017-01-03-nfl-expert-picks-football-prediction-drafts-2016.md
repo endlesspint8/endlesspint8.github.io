@@ -9,7 +9,8 @@ Upcoming graphs:
 
 1. <strike>wk04 - Bubble matrix: sources (y-axis); weeks (x-axis); z-bubbles (size~wins, color~brier)</strike>
 2. <strike>wk05 - Bullet graph: in situ change win% v.</strike>
-3. wk06 - ATS Arbitrage: 538 & FOX
+3. wk06 - Diverging Stacked Bar Chart ([Excel](http://www.slideshare.net/annkemery/diverging-stackedbarcharts)): 
+ * ATS Arbitrage: 538 & FOX
  * home line: DMP > SPR == away; DMP < SPR == home; DMP = SPR == 'no pick' 
 4. wk07 - [Stream graph](https://plot.ly/~empet/13409/streamgraph-with-minimized-wiggle-1/#code) of unanimous wins
 5. wk08 - Heatmap: games won prob for 10k sims
