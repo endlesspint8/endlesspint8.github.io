@@ -7,7 +7,7 @@ subtitle: A gentle reminder of sh-, <i>stuff</i>, that needs to get done
 
 |content|social/traffic|mobile|jekyll markdown|
 |----|----|-----|----------|
-|[~] ESP intake|[x]  [twit img links](https://onlinejournalismblog.com/2015/02/11/how-to-make-a-tweetable-image-in-your-blog-post/) for sharing|[ ] iPhone home screen icon|[~]  [mess about even more](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)|
+|[~]  [ESP](http://eepurl.com/cj8urH) intake|[x]  [twit img links](https://onlinejournalismblog.com/2015/02/11/how-to-make-a-tweetable-image-in-your-blog-post/) for sharing|[ ] iPhone home screen icon|[~]  [mess about even more](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)|
 ||||[ ] change next buttons to blog titles|
 ||[x] tags to hashtags|[x] get images to display on mobile|[~] shortlinks, tags, & twit img's for all posts|
 |[ ] join [Flattr](https://flattr.com/)?|[x]  [StumbleUpon](http://www.stumbleupon.com/)?||[x]  [mess about](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
