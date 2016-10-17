@@ -25,6 +25,12 @@ Upcoming graphs:
 14. wk17 - [bump graph / position time plot](http://vizthinker.com/wp-content/uploads/2014/01/BCS-Top-25-College-Football-2013-01.png); ([Excel](http://best-excel-tutorial.com/56-charts/306-bump-chart))
 
 
+## Week 6 - Arbitrage
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 6</a></b></sub></p>
+
+Smart money? Anywhere? 
+
+
 ## Week 5 - Less Words, More Empathy
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 5</a></b></sub></p>
 
