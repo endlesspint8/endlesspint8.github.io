@@ -54,6 +54,7 @@ Third, the floating black marks or "comparative measures": 46 and 45 preseason/a
 **Bullet Graph of SUP Wins thru Week 5**
 
 <img src="/gallery/2016/football-picks/bullet_wk05b.PNG" alt="bullet_wk05b" /><br>
+<sub>Data Source: <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
 Bullet graph take aways:
 
@@ -88,6 +89,7 @@ Week 4, first week with a Bye so we had 15 games instead of the usual 16. Who br
 On the season the experts/models are not much more impressive. Each of them are lingering, like a stale fart, at 35-37 wins. <a href="https://www.youtube.com/watch?v=oOoqtsNReIU" target="_blank">Shiiit</a>, my random generator has 28 wins alone.<sup id="a6">[6](#f6)</sup> 
 
 <img src="/gallery/2016/football-picks/bs_wins_wk04b.png" alt="bs_wins_wk04" /><br>
+<sub>Data Source: CBS, ESPN, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
 Above is a representation of the weekly (x-axis) performances by source (y-axis). The larger the cirlce the more wins for the given source/week.
 
