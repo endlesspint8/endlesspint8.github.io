@@ -31,9 +31,9 @@ Upcoming graphs:
 Smart money? Anywhere? 
 
 
-<img src="/gallery/2016/football-picks/wk06_538_ats.PNG" alt="wk06_538_ats" /><br>	
+<img src="/gallery/2016/football-picks/wk06_538_ats.png" alt="wk06_538_ats" /><br>	
  
-<img src="/gallery/2016/football-picks/wk06_FOX_ats.PNG" alt="wk06_FOX_ats" /><br>
+<img src="/gallery/2016/football-picks/wk06_FOX_ats.png" alt="wk06_FOX_ats" /><br>
 
 
 ## Week 5 - Less Words, More Empathy
