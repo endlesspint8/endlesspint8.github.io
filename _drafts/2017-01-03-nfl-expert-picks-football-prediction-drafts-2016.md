@@ -32,8 +32,10 @@ Smart money? Anywhere?
 
 
 <img src="/gallery/2016/football-picks/wk06_538_ats.png" alt="wk06_538_ats" /><br>	
- 
+<sub>Data Source: <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a></sub>
+
 <img src="/gallery/2016/football-picks/wk06_FOX_ats.png" alt="wk06_FOX_ats" /><br>
+<sub>Data Source: <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
 
 ## Week 5 - Less Words, More Empathy
