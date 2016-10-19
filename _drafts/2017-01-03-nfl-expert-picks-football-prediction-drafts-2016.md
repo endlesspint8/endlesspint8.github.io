@@ -25,7 +25,7 @@ Upcoming graphs:
 14. wk17 - [bump graph / position time plot](http://vizthinker.com/wp-content/uploads/2014/01/BCS-Top-25-College-Football-2013-01.png); ([Excel](http://best-excel-tutorial.com/56-charts/306-bump-chart))
 
 
-## Week 6 - Arbitrage
+## Week 6 - Arbitrage (maybe)
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 6</a></b></sub></p>
 
 Most of the previous posts have had to do with wins and loses straight up (SUP). There was a brief dipping of the toes into performance against the spread (ATS) back in week 3 but that had more to do with home team performances by conference and did not look at predictions. Today we take more of a dip into predictions ATS and evaluate performances to date. 
@@ -55,7 +55,7 @@ Though by some fluke coincidence the number of correct picks by the **Random** "
 |CBS|0.329|38|
 |CBS (regularized)|0.305|38|
 
-In fact, the random ATS picks come close to matching the data model choices but I'm getting ahead of myself. Let's introduce those models and how we calculated their correct picks ATS. 
+In fact, the random ATS picks come close to matching the data model choices but I'm getting ahead of myself. Let's introduce those models and how we calculated their picks ATS. 
 
 The data models of FiveThirtyEight and FOX do not make outright predictions against the spread. This is not technically true for FOX but due to the nature of ever changing lines and the need to standardize a source (Sportsline in this article) to measure against I am treating the two models in a similar way. 
 
@@ -89,17 +89,21 @@ There is an invisible line down the middle of each graph that demarcates the bou
 
 I find these representations to be very helpful in identifying:
 
-* adf
-* adf
+* **General skew** - FOX clearly prefers the road teams; FiveThirtyEight is more balanced in its choices
+* **Pick breakdown week to week** - FiveThirtyEight was road heavy in week 3, home heavy in week 5
+* **Zero categories** - zero home loses FiveThirtyEight/week3; zero home wins FOX/week 6; zero away picks FiveThirtyEight/week 5
+* **Total weekly selections** - when bars line up, or are close to lining up (FOX: weeks 1,3,4,&5), you can quickly see a difference in length providing a visual distinction total games.  
 
-**Predictive Standing, Against the Spread**
+While helpful in giving an overview of comparative performance I will spare you the work of summing the numbers to determine the final breakdown of the above. The pick count breakdown of above:
 
-|Source|Season Brier Score|Season Wins|
-|---|---|---|
-|CBS (regularized)|0.218|23|
-|CBS (regularized)|0.218|23|
-|CBS (regularized)|0.218|23|
-|CBS (regularized)|0.218|23|
+**Predictive Results, Against the Spread** (three games tied ATS)
+
+|Model|ATS Away W's|ATS Away L's|ATS Home L's|ATS Home W's|
+|---|---|---|---|---|
+|FiveThirtyEight|21|15|21|25|
+|FOX|33|34|11|10|
+
+If you're going to use a model, go with FiveThirtyEight's ATS.
 
 ## Week 5 - Less Words, More Empathy
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 5</a></b></sub></p>
