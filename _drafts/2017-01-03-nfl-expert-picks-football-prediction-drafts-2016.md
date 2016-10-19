@@ -39,21 +39,21 @@ There are four sources of ATS predictions:
 
 I will take these four and deal with them in pairs first, for reasons that will become clear, CBS v. random & FiveThirtyEight v. FOX.
 
-CBS panel predictions for ATS are devised similarly to SUP: each expert gets a vote; majority determines pick; in case of tie, dog gets the pick (as opposed to road team for SUP); and the votes are regularized to avoid harsh Brier score (BS) penalties for unanimous choices. 
+CBS panel predictions for ATS are devised similarly to SUP: each expert gets a vote; majority determines pick; in case of tie, dog gets the pick (as compared to road team for SUP); and the votes are regularized to avoid harsh Brier score (BS) penalties for unanimous choices. 
 
 The random number generator simply takes the dog if it returns 0.500 or larger. That's it. No regularization beyond that. The pick is made and we move on. 
 
 Given the nature of picking ATS, where favorites have to win by a certain amount of points, it stands to my expectations that the random generator would fare better here than in SUP, where no knowledge is leveraged. This expectation has so far turned out to be validated. 
 
-Though by some fluke coincidence the number of correct picks by the **Random** "models"[fn: two separate number generators were implemented, one for SUP and one for ATS] have an equal number, 41, for both SUP and ATS through week 6, this number carries different significance in each context. Forty-one correct picks for SUP places it last in the standings against the other sources while beating out the CBS experts in ATS: 41 correct picks versus 38 for the human panel. 
+Though by some fluke coincidence the number of correct picks by the **Random** "models"[fn: two separate number generators were implemented, one for SUP and one for ATS] is identical, 41, for both SUP and ATS through week 6, this number carries different significance in each context. Forty-one correct picks for SUP places it last in the standings against the other sources while beating out the CBS experts in ATS: 41 correct picks versus 38 for the human panel. 
 
-**Predictive Results, Against the Spread**
+**Predictive Results, Against the Spread** (three games tied ATS)
 
 |Source|Season Brier Score|Season Wins|
 |---|---|---|
 |Random|0.356|41|
-|CBS|0.334|38|
-|CBS (regularized)|0.309|38|
+|CBS|0.329|38|
+|CBS (regularized)|0.305|38|
 
 In fact, the random ATS picks come close to matching the data model choices but I'm getting ahead of myself. Let's introduce those models and how we calculated their correct picks ATS. 
 
@@ -61,12 +61,21 @@ The data models of FiveThirtyEight and FOX do not make outright predictions agai
 
 For both data models we use the in week most up-to-date projections ("in situ"). FiveThirtyEight provides an ELO-based spread for each game while FOX provides average final scores based on 10k game simulations. I used the FiveThirtyEight lines and FOX score differentials to determine who the models favored and by how much. I compared the data models' lines against the current week's line and used the discrepencies as proxies for picks ATS. 
 
-As an example, 
+Examples of what I mean can be outlined in the table below.
 
- - based on differing expectations bt models and line I determine ATS pick
- - above is the arbitrage
- - below vis representation
+|Week|Game|Home Line|538 Home Line/Pick|FOX Home Line/Pick|
+|---|---|---|---|---|
+|week 1|LA @ SF|2.5|-1 (SF)|6.1 (LA)|
+|week 3|SF @ SEA|-9.5|-8.5 (SF)|-10.3 (SEA)|
+|week 6|NYJ @ ARI|-7.5|-6 (NYJ)|-4.2 (NYJ)|
 
+Now a quick rundown through the rows to explain what is listed.
+
+* Week 1 - SF is a 2.5 point dog; FiveThirtyEight views SF as a one point favorite; FOX thinks of SF as an even bigger dog.
+* Week 3 - SEA is favored by 9.5; FiveThirtyEight sees SEA as less of a favorite; FOX likes SEA even more.
+* Week 6 - ARI is favored by 7.5; both FiveThirtyEight & FOX consider ARI less of a sure thing, they pick NYJ.
+
+The above comparisons were done on a game by game basis
 
 <img src="/gallery/2016/football-picks/wk06_538_ats.png" alt="wk06_538_ats" /><br>	
 <sub>Data Source: <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a></sub>
