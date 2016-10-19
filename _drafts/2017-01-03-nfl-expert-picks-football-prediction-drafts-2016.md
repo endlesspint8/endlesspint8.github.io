@@ -45,7 +45,7 @@ The random number generator simply takes the dog if it returns 0.500 or larger. 
 
 Given the nature of picking ATS, where favorites have to win by a certain amount of points, it stands to my expectations that the random generator would fare better here than in SUP, where no knowledge is leveraged. This expectation has so far turned out to be validated. 
 
-Though by some fluke coincidence the number of correct picks by the **Random** "model" has an equal number, 41, for both SUP and ATS  through week 6 this number carries different significance in each area. Forty-one correct picks for SUP places it last in the standings against the other sources while beating out the CBS experts in ATS: 41 correct picks versus 38 for the human panel. 
+Though by some fluke coincidence the number of correct picks by the **Random** "models"[fn: two separate number generators were implemented, one for SUP and one for ATS] have an equal number, 41, for both SUP and ATS through week 6, this number carries different significance in each context. Forty-one correct picks for SUP places it last in the standings against the other sources while beating out the CBS experts in ATS: 41 correct picks versus 38 for the human panel. 
 
 **Predictive Results, Against the Spread**
 
@@ -57,11 +57,12 @@ Though by some fluke coincidence the number of correct picks by the **Random** "
 
 In fact, the random ATS picks come close to matching the data model choices but I'm getting ahead of myself. Let's introduce those models and how we calculated their correct picks ATS. 
 
-The data models of FiveThirtyEight and FOX do not make outright predictions against the spread. This is not technically true for FOX but due to the nature of ever changing lines and the need to standardize a source (Sportsline in this article) I am treating the two models in a similar way. 
- - in situ
- - 538 lines
- - FOX simulations
- - compare point spreads of 538/FOX against Sportsline
+The data models of FiveThirtyEight and FOX do not make outright predictions against the spread. This is not technically true for FOX but due to the nature of ever changing lines and the need to standardize a source (Sportsline in this article) to measure against I am treating the two models in a similar way. 
+
+For both data models we use the in week most up-to-date projections ("in situ"). FiveThirtyEight provides an ELO-based spread for each game while FOX provides average final scores based on 10k game simulations. I used the FiveThirtyEight lines and FOX score differentials to determine who the models favored and by how much. I compared the data models' lines against the current week's line and used the discrepencies as proxies for picks ATS. 
+
+As an example, 
+
  - based on differing expectations bt models and line I determine ATS pick
  - above is the arbitrage
  - below vis representation
