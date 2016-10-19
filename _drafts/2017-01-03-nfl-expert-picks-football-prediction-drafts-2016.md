@@ -51,7 +51,7 @@ Though by some fluke coincidence the number of correct picks by the **Random** "
 
 |Source|Season Brier Score|Season Wins|
 |---|---|---|
-|Random|0.356|41|
+|Random|0.351|41|
 |CBS|0.329|38|
 |CBS (regularized)|0.305|38|
 
@@ -75,14 +75,16 @@ Now a quick rundown through the rows to explain what is listed.
 * Week 3 - SEA is favored by 9.5; FiveThirtyEight sees SEA as less of a favorite; FOX likes SEA even more.
 * Week 6 - ARI is favored by 7.5; both FiveThirtyEight & FOX consider ARI less of a sure thing, they pick NYJ.
 
-The above comparisons were done on a game by game basis
+The above comparisons were done on a game by game basis. Where games ended in a tie ATS (3 times) results were not calculated. In the unlikely event that lines matched (FiveThirtyEight == SporstLine OR FOX == SporstLine) game picks were not made for that model on that game (there was no advantage in using that specific model, no arbitrage).
 
-<img src="/gallery/2016/football-picks/wk06_538_ats.png" alt="wk06_538_ats" /><br>	
+<img src="/gallery/2016/football-picks/wk06_538_ats2.png" alt="wk06_538_ats" /><br>	
 <sub>Data Source: <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a></sub>
 
-<img src="/gallery/2016/football-picks/wk06_FOX_ats.png" alt="wk06_FOX_ats" /><br>
+<img src="/gallery/2016/football-picks/wk06_FOX_ats2.png" alt="wk06_FOX_ats" /><br>
 <sub>Data Source: <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
+538 picks on both sides / FOX favored road teams
+results... 
 
 **Predictive Standing, Against the Spread**
 
