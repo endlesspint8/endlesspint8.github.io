@@ -28,7 +28,11 @@ Upcoming graphs:
 ## Week 6 - Arbitrage
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 6</a></b></sub></p>
 
-Smart money? Anywhere? 
+Most of the previous posts have had to do with wins and loses straight up (SUP). There was a brief dipping of the toes into performance against the spread (ATS) back in week 3 but that had more to do with home team performances by conference and did not look at predictions. Today we take a dive into the deep end of predictions ATS and evaluate performances to date. 
+
+There are four sources of ATS predictions: CBS expert panel, random predictor, and the data models of FiveThirtyEight and FOX. I will take these four and deal with them in pairs, for reasons that will become clear: CBS v. random, & FiveThirtyEight v. FOX.
+
+
 
 
 <img src="/gallery/2016/football-picks/wk06_538_ats.png" alt="wk06_538_ats" /><br>	
