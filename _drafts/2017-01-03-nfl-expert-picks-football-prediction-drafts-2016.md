@@ -28,9 +28,10 @@ Upcoming graphs:
 ## Week 6 - Arbitrage
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 6</a></b></sub></p>
 
-Most of the previous posts have had to do with wins and loses straight up (SUP). There was a brief dipping of the toes into performance against the spread (ATS) back in week 3 but that had more to do with home team performances by conference and did not look at predictions. Today we take a dive into the deep end of predictions ATS and evaluate performances to date. 
+Most of the previous posts have had to do with wins and loses straight up (SUP). There was a brief dipping of the toes into performance against the spread (ATS) back in week 3 but that had more to do with home team performances by conference and did not look at predictions. Today we take more of a dip into predictions ATS and evaluate performances to date. 
 
 There are four sources of ATS predictions: 
+
 * CBS expert panel 
 * Random predictor
 * FiveThirtyEight data model
@@ -40,7 +41,13 @@ I will take these four and deal with them in pairs first, for reasons that will 
 
 CBS panel predictions for ATS are devised similarly to SUP: each expert gets a vote; majority determines pick; in case of tie, dog gets the pick (as opposed to road team for SUP); and the votes are regularized to avoid harsh Brier score (BS) penalties for unanimous choices. 
 
-The random number generator has a ....
+The random number generator simply takes the dog if it returns 0.500 or larger. That's it. No regularization beyond that. The pick is made and we move on. 
+
+Given the nature of picking ATS, where favorites have to win by a certain amount of points, it stands to my expectations that the random generator would fare better here than in SUP, where no knowledge is leveraged. This expectation has so far turned out to be validated. 
+
+Though by some fluke coincidence the number of correct picks by the **Random** "model" has an equal number, 41, for both SUP and ATS  through week 6 this number carries different significance in each area. Forty-one correct picks for SUP places it last in the standings against the other sources while beating out the CBS experts in ATS: 41 correct picks versus 38 for the human panel. 
+
+In fact, the random ATS picks come close to matching the data model choices but I'm getting ahead of myself. Let's introduce those models and how we calculated their correct picks ATS. 
 
 The data models of FiveThirtyEight and FOX do not make outright predictions against the spread. This is not technically true for FOX but due to the nature of ever changing lines and the need to standardize a source (Sportsline in this article) I am treating the two models in a similar way. 
  - in situ
