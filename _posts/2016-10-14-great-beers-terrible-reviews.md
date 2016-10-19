@@ -41,7 +41,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/003_cigcty_hun3.png"	>
 
-<sub><font color="lightgrey">Image source: <a href="https://cigarcitybrewing.com/beer/double-barrel-aged-hunahpus/?age-verified=7e3b40f3f6" target="_blank" style="color:darkgrey">Cigar City Brewing</a> | Text source: <a href="https://www.beeradvocate.com/beer/profile/17981/110635/?ba=Rifugium#review" target="_blank" style="color:darkgrey">BeerAdvocate (@Rifugium)</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/0TB3tAJOeV When Great Beers get Scorned&url=http://bit.ly/2ecdAgk&via=endlesspint8&hashtags=CigarCityBeer,Hunahpu" target="_blank" title="Share on Twitter">Not Good</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://cigarcitybrewing.com/beer/double-barrel-aged-hunahpus/?age-verified=7e3b40f3f6" target="_blank" style="color:darkgrey">Cigar City Brewing</a> | Text source: <a href="https://www.beeradvocate.com/beer/profile/17981/110635/?ba=Rifugium#review" target="_blank" style="color:darkgrey">BeerAdvocate (@Rifugium)</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/XdEb5j9aR8 When Great Beers get Scorned&url=http://bit.ly/2ecdAgk&via=endlesspint8&hashtags=CigarCityBeer,Hunahpu" target="_blank" title="Share on Twitter">Not Good</a></b></sub>
 
 > "Oh boy. Oh boy. Oh boy. What a failure. Cinnamon², cardemom², chili². Overspiced², hence flavour profile is completely out of balance. The average mean of this beer is ridicilously high. Wondering if all ratings of this beer are done by aliens. <a href="http://www.ratebeer.com/beer/beer_name/249005/235224/" target="_blank">Or America = Aliens</a>? The truth is out there. Go get them Mulder. X Thanks berntholer for this extraterrestrial." 
 >
@@ -51,7 +51,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/004_3floyds_drklrd2.png" width="800">	
 
-<sub><font color="lightgrey">Image source: <a href="https://twitter.com/CrainsChicago/status/571376590183112705" target="_blank" style="color:darkgrey">Twitter (@CrainsChicago)</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/58590/237963/" target="_blank" style="color:darkgrey">RateBeer (@diefledermaus)</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/0TB3tAJOeV When Great Beers get Scorned&url=http://bit.ly/2ecdAgk&via=endlesspint8&hashtags=3floyds" target="_blank" title="Share on Twitter">Cough Syrup</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://twitter.com/CrainsChicago/status/571376590183112705" target="_blank" style="color:darkgrey">Twitter (@CrainsChicago)</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/58590/237963/" target="_blank" style="color:darkgrey">RateBeer (@diefledermaus)</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/zzWoK3q13I When Great Beers get Scorned&url=http://bit.ly/2ecdAgk&via=endlesspint8&hashtags=3floyds" target="_blank" title="Share on Twitter">Cough Syrup</a></b></sub>
 
 > "Tasted like generic cough syrup mixed with old coffee and a shot of whiskey - <a href="http://www.ratebeer.com/beer/beer_name/58590/237963/" target="_blank">and not in a good way</a>" 
 >
