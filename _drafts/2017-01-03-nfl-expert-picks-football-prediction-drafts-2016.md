@@ -30,9 +30,26 @@ Upcoming graphs:
 
 Most of the previous posts have had to do with wins and loses straight up (SUP). There was a brief dipping of the toes into performance against the spread (ATS) back in week 3 but that had more to do with home team performances by conference and did not look at predictions. Today we take a dive into the deep end of predictions ATS and evaluate performances to date. 
 
-There are four sources of ATS predictions: CBS expert panel, random predictor, and the data models of FiveThirtyEight and FOX. I will take these four and deal with them in pairs, for reasons that will become clear: CBS v. random, & FiveThirtyEight v. FOX.
+There are four sources of ATS predictions: 
+* CBS expert panel 
+* Random predictor
+* FiveThirtyEight data model
+* FOX data model
 
+I will take these four and deal with them in pairs first, for reasons that will become clear, CBS v. random & FiveThirtyEight v. FOX.
 
+CBS panel predictions for ATS are devised similarly to SUP: each expert gets a vote; majority determines pick; in case of tie, dog gets the pick (as opposed to road team for SUP); and the votes are regularized to avoid harsh Brier score (BS) penalties for unanimous choices. 
+
+The random number generator has a ....
+
+The data models of FiveThirtyEight and FOX do not make outright predictions against the spread. This is not technically true for FOX but due to the nature of ever changing lines and the need to standardize a source (Sportsline in this article) I am treating the two models in a similar way. 
+ - in situ
+ - 538 lines
+ - FOX simulations
+ - compare point spreads of 538/FOX against Sportsline
+ - based on differing expectations bt models and line I determine ATS pick
+ - above is the arbitrage
+ - below vis representation
 
 
 <img src="/gallery/2016/football-picks/wk06_538_ats.png" alt="wk06_538_ats" /><br>	
@@ -41,6 +58,15 @@ There are four sources of ATS predictions: CBS expert panel, random predictor, a
 <img src="/gallery/2016/football-picks/wk06_FOX_ats.png" alt="wk06_FOX_ats" /><br>
 <sub>Data Source: <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
+
+**Predictive Standing, Against the Spread**
+
+|Source|Season Brier Score|Season Wins|
+|---|---|---|
+|CBS (regularized)|0.218|23|
+|CBS (regularized)|0.218|23|
+|CBS (regularized)|0.218|23|
+|CBS (regularized)|0.218|23|
 
 ## Week 5 - Less Words, More Empathy
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 5</a></b></sub></p>
