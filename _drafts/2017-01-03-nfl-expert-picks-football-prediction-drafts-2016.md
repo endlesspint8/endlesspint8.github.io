@@ -47,6 +47,13 @@ Given the nature of picking ATS, where favorites have to win by a certain amount
 
 Though by some fluke coincidence the number of correct picks by the **Random** "model" has an equal number, 41, for both SUP and ATS  through week 6 this number carries different significance in each area. Forty-one correct picks for SUP places it last in the standings against the other sources while beating out the CBS experts in ATS: 41 correct picks versus 38 for the human panel. 
 
+**Predictive Results, Against the Spread**
+
+|Source|Season Brier Score|Season Wins|
+|---|---|---|
+|Random|0.356|41|
+|CBS (regularized)|0.309|38|
+
 In fact, the random ATS picks come close to matching the data model choices but I'm getting ahead of myself. Let's introduce those models and how we calculated their correct picks ATS. 
 
 The data models of FiveThirtyEight and FOX do not make outright predictions against the spread. This is not technically true for FOX but due to the nature of ever changing lines and the need to standardize a source (Sportsline in this article) I am treating the two models in a similar way. 
