@@ -52,6 +52,7 @@ Though by some fluke coincidence the number of correct picks by the **Random** "
 |Source|Season Brier Score|Season Wins|
 |---|---|---|
 |Random|0.356|41|
+|CBS|0.334|38|
 |CBS (regularized)|0.309|38|
 
 In fact, the random ATS picks come close to matching the data model choices but I'm getting ahead of myself. Let's introduce those models and how we calculated their correct picks ATS. 
