@@ -29,6 +29,88 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 ---
 
+## Week 6 - Arbitrage (maybe)
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 6</a></b></sub></p>
+
+Most of the previous posts have had to do with wins and loses straight up (SUP). There was a brief dipping of the toes into performance against the spread (ATS) back in week 3 but that had more to do with home team performances by conference and did not look at predictions. Today we take more of a dip into predictions ATS and evaluate performances to date. 
+
+There are four sources of ATS predictions: 
+
+* CBS expert panel 
+* Random predictor
+* FiveThirtyEight data model
+* FOX data model
+
+I will take these four and deal with them in pairs first, for reasons that will become clear, CBS v. random & FiveThirtyEight v. FOX.
+
+CBS panel predictions for ATS are devised similarly to SUP: each expert gets a vote; majority determines pick; in case of tie, dog gets the pick (as compared to road team for SUP); and the votes are regularized to avoid harsh Brier score (BS) penalties for unanimous choices. 
+
+The random number generator simply takes the dog if it returns 0.500 or larger. That's it. No regularization beyond that. The pick is made and we move on. 
+
+Given the nature of picking ATS, where favorites have to win by a certain amount of points, it stands to my expectations that the random generator would fare better here than in SUP, where no knowledge is leveraged. This expectation has so far turned out to be validated. 
+
+Though by some fluke coincidence the number of correct picks by the **Random** "models"[fn: two separate number generators were implemented, one for SUP and one for ATS] is identical, 41, for both SUP and ATS through week 6, this number carries different significance in each context. Forty-one correct picks for SUP places it last in the standings against the other sources while beating out the CBS experts in ATS: 41 correct picks versus 38 for the human panel. 
+
+**Predictive Results, Against the Spread** (three games tied ATS)
+
+|Source|Season Brier Score|Season Wins|
+|---|---|---|
+|Random|0.351|41|
+|CBS|0.329|38|
+|CBS (regularized)|0.305|38|
+
+In fact, the random ATS picks come close to matching the data model choices but I'm getting ahead of myself. Let's introduce those models and how we calculated their picks ATS. 
+
+The data models of FiveThirtyEight and FOX do not make outright predictions against the spread. This is not technically true for FOX but due to the nature of ever changing lines and the need to standardize a source (Sportsline in this article) to measure against I am treating the two models in a similar way. 
+
+For both data models we use the in week most up-to-date projections ("in situ"). FiveThirtyEight provides an ELO-based spread for each game while FOX provides average final scores based on 10k game simulations. I used the FiveThirtyEight lines and FOX score differentials to determine who the models favored and by how much. I compared the data models' lines against the current week's line and used the discrepencies as proxies for picks ATS. 
+
+Examples of what I mean can be outlined in the table below.
+
+|Week|Game|Home Line|538 Home Line/Pick|FOX Home Line/Pick|
+|---|---|---|---|---|
+|week 1|LA @ SF|2.5|-1 (SF)|6.1 (LA)|
+|week 3|SF @ SEA|-9.5|-8.5 (SF)|-10.3 (SEA)|
+|week 6|NYJ @ ARI|-7.5|-6 (NYJ)|-4.2 (NYJ)|
+
+Now a quick rundown through the rows to explain what is listed.
+
+* Week 1 - SF is a 2.5 point dog; FiveThirtyEight views SF as a one point favorite; FOX thinks of SF as an even bigger dog.
+* Week 3 - SEA is favored by 9.5; FiveThirtyEight sees SEA as less of a favorite; FOX likes SEA even more.
+* Week 6 - ARI is favored by 7.5; both FiveThirtyEight & FOX consider ARI less of a sure thing, they pick NYJ.
+
+The above comparisons were done on a game by game basis. Where games ended in a tie ATS (3 times) results were not calculated. In the unlikely event that lines matched (FiveThirtyEight == SporstLine OR FOX == SporstLine) game picks were not made for that model on that game (there was no advantage in using that specific model, no arbitrage).
+
+Okay, enough with the foreplay. Let's get to this week's visualization. Below are a pair of diverging stacked bar charts, one a piece for FiveThirtyEight and Fox related to their ATS picks performance. Each horizontal bar represents a week of games to date with week 1 at the top going down in chronological order to week 6. 
+
+<img src="/gallery/2016/football-picks/wk06_538_ats3.png" alt="wk06_538_ats" /><br>	
+<sub>Data Source: <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a></sub>
+
+There is an invisible line down the middle of each graph that demarcates the boundary between away picks (left) and home picks (right). The sections on either side of this boundary have two different hues. The lighter hues, the ones grouped around the middle, represent the number of incorrect picks (home or away). The darker hues on the end represent the correct picks or the "wins".
+
+<img src="/gallery/2016/football-picks/wk06_FOX_ats3.png" alt="wk06_FOX_ats" /><br>
+<sub>Data Source: <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
+
+I find these representations to be very helpful in identifying:
+
+* **General skew** - FOX clearly prefers the road teams; FiveThirtyEight is more balanced in its choices
+* **Pick breakdown week to week** - FiveThirtyEight was road heavy in week 3, home heavy in week 5
+* **Zero categories** - zero home loses FiveThirtyEight/week3; zero home wins FOX/week 6; zero away picks FiveThirtyEight/week 5
+* **Total weekly selections** - when bars line up, or are close to lining up (FOX: weeks 1,3,4,&5), you can quickly see a difference in length providing a visual distinction total games.  
+
+While helpful in giving an overview of comparative performance I will spare you the work of summing the numbers to determine the final breakdown of the above. The pick count breakdown of above:
+
+**Predictive Results, Against the Spread** (three games tied ATS)
+
+|Model|ATS Away W's|ATS Away L's|ATS Home L's|ATS Home W's|
+|---|---|---|---|---|
+|FiveThirtyEight|21|15|21|25|
+|FOX|33|34|11|10|
+
+If you're going to use a model, go with FiveThirtyEight's ATS.
+
+---
+
 ## Week 5 - Less Words, More Empathy
 
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Week 5</a></b></sub></p>
