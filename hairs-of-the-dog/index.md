@@ -2,6 +2,8 @@
 layout: page
 title: Morning Sips
 subtitle: Intermittent Introspective Intermezzos
+bigimg:
+  - "/img/big-imgs/wbc_heatmap_us_medals.png " : "wbc Plot1"
 ---
 
 # The Fumbling Thoughts of a Guileless Oaf
