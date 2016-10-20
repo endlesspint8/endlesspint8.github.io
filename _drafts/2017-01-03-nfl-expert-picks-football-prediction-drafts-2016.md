@@ -24,6 +24,11 @@ Upcoming graphs:
 13. wk16 - [projected v actual arrow charts](https://public.tableau.com/static/images/TH/THTProjectedStandingsChanges/2014-2015ProjectedStandingsChanges/1_rss.png) ([Excel](http://peltiertech.com/arrow-charts-in-excel/))
 14. wk17 - [bump graph / position time plot](http://vizthinker.com/wp-content/uploads/2014/01/BCS-Top-25-College-Football-2013-01.png); ([Excel](http://best-excel-tutorial.com/56-charts/306-bump-chart))
 
+After Season
+
+1. Expert panels: chalk and avg win shares
+2. 
+
 
 ## Week 6 - Arbitrage (maybe)
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 6</a></b></sub></p>
