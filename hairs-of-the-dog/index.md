@@ -3,7 +3,7 @@ layout: page
 title: Morning Sips
 subtitle: Intermittent Introspective Intermezzos
 bigimg:
-  - "/img/big-imgs/wbc_heatmap_us_medals.png " : "wbc Plot1"
+  - "/hairs-of-the-dog/img/FullSizeRender25.jpg" : "prepost004"
 ---
 
 # The Fumbling Thoughts of a Guileless Oaf
