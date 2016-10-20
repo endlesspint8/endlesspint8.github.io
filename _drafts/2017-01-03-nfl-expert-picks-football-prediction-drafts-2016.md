@@ -13,7 +13,7 @@ Upcoming graphs:
  * ATS Arbitrage: 538 & FOX
  * home line: DMP > SPR == away; DMP < SPR == home; DMP = SPR == 'no pick' </strike>
 4. wk07 - tree branch of unanimous wins / suicide paths
-5. wk08 - Heatmap: games won prob for 10k sims
+5. wk08 - Heatmap: games won prob for 10k sims (Bokeh v Plotly)
 6. wk09 - Treemap: conf/div sup & ats
 7. wk10 - small multiples of prob/source (x, top)/week (y, desc)/WL-split
 8. wk11 - [Stream graph](https://plot.ly/~empet/13409/streamgraph-with-minimized-wiggle-1/#code) ... of something
