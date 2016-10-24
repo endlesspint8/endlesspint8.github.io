@@ -30,6 +30,12 @@ After Season
 2. 
 
 
+## Week 7 - Waves Crashing Down
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 7</a></b></sub></p>
+
+Where would we be if we followed the crowd (of experts and models), especially when they're all pointing in the same direction? Most likely for a wipe out.
+
+
 ## Week 6 - Arbitrage (maybe)
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 6</a></b></sub></p>
 
