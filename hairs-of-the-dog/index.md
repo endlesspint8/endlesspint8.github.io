@@ -4,6 +4,7 @@ title: Morning Sips
 subtitle: Intermittent Introspective Intermezzos
 bigimg:
   - "/hairs-of-the-dog/img/FullSizeRender25.jpg" : "prepost004"
+  - "/hairs-of-the-dog/img/SUPATS Axis_sm.jpg" : "sup_ats"
 ---
 
 # The Fumbling Thoughts of a Guileless Oaf
