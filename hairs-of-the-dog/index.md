@@ -8,6 +8,7 @@ bigimg:
   - "/hairs-of-the-dog/img/6for6_notes.JPG" : "6for6_notes"
   - "/hairs-of-the-dog/img/log_log.JPG" : "log_log"
   - "/hairs-of-the-dog/img/loc_notes.jpg" : "loc_notes"
+  - "/hairs-of-the-dog/img/graph_listing.PNG" : "graph_listing"
 ---
 
 # The Fumbling Thoughts of a Guileless Oaf
