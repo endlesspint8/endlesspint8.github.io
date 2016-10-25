@@ -63,7 +63,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/005_rusriv_plyngr2.png" width="800">	
 
-<sub><font color="lightgrey">Image source: <a href="https://www.google.com/search?q=advertising+fatigue&source=lnms&tbm=isch&sa=X&ved=0ahUKEwikhMePuNfPAhUIGj4KHZZeCOgQ_AUICSgC&biw=1148&bih=649#tbm=isch&q=pliny+the+younger+beer" target="_blank" style="color:darkgrey">Google Images</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/43181/1270/" target="_blank" style="color:darkgrey">RateBeer (@Ernest)</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/0TB3tAJOeV When Great Beers get Scorned&url=http://bit.ly/2ecdAgk&via=endlesspint8&hashtags=pliny,RussianRiver" target="_blank" title="Share on Twitter">Little of Interest</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://www.google.com/search?q=advertising+fatigue&source=lnms&tbm=isch&sa=X&ved=0ahUKEwikhMePuNfPAhUIGj4KHZZeCOgQ_AUICSgC&biw=1148&bih=649#tbm=isch&q=pliny+the+younger+beer" target="_blank" style="color:darkgrey">Google Images</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/43181/1270/" target="_blank" style="color:darkgrey">RateBeer (@Ernest)</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/5eYXHU2f2n When Great Beers get Scorned&url=http://bit.ly/2ecdAgk&via=endlesspint8&hashtags=pliny,RussianRiver" target="_blank" title="Share on Twitter">Little of Interest</a></b></sub>
 
 > "Straight up sweet hoppy nose. Strong yellow body with a thin foamy head. Taste-not as hoppy as I was expecting. Basically <a href="http://www.ratebeer.com/beer/beer_name/43181/11207/" target="_blank">a grapefruit/grass hop tea</a>." 
 > 
