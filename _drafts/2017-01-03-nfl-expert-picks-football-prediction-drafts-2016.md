@@ -12,12 +12,12 @@ Upcoming graphs:
 3. <strike>wk06 - Diverging Stacked Bar Chart ([Excel](http://www.slideshare.net/annkemery/diverging-stackedbarcharts)): 
  * ATS Arbitrage: 538 & FOX
  * home line: DMP > SPR == away; DMP < SPR == home; DMP = SPR == 'no pick' </strike>
-4. wk07 - tree branch of unanimous wins / suicide paths
+4. wk07 - pie chart (what?! wtf) unanimous wins / suicide paths
 5. wk08 - Heatmap: games won prob for 10k sims (Bokeh v Plotly)
 6. wk09 - Treemap: conf/div sup & ats
 7. wk10 - small multiples of prob/source (x, top)/week (y, desc)/WL-split
 8. wk11 - [Stream graph](https://plot.ly/~empet/13409/streamgraph-with-minimized-wiggle-1/#code) ... of something
-9. wk12 - 
+9. wk12 - tree branch of... something
 10. wk13 - 
 11. wk14 - a priori wins/week [slopegraph](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003nk)
 12. wk15 - [pick source perform above .500](http://thedailyviz.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-25-at-2.21.48-PM-620x383.png)
