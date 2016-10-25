@@ -30,10 +30,12 @@ After Season
 2. 
 
 
-## Week 7 - Waves Crashing Down
+## Week 7 - Waves Crashing Down // Suicide Squad
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 7</a></b></sub></p>
 
 Where would we be if we followed the crowd (of experts and models), especially when they're all pointing in the same direction? Most likely for a wipe out.
+
+Originally thought of generating a tree branch visual of suicide paths but the itertions were at 27k through week 6, alone, for the still surviving paths, alone... 
 
 More input is not always a good thing apparently. I would have hoped that the common votes, by necessity requiring an overlap of perspecitve and thus more restrictive would result in a better percentage than just the overall performance of one.. or two unanimous picks... Aside from week 5 this has not been the case. 
 
