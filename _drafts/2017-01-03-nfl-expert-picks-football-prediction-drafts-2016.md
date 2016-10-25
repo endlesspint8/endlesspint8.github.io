@@ -18,7 +18,7 @@ Upcoming graphs:
 7. wk10 - small multiples of prob/source (x, top)/week (y, desc)/WL-split
 8. wk11 - [Stream graph](https://plot.ly/~empet/13409/streamgraph-with-minimized-wiggle-1/#code) ... of something
 9. wk12 - tree branch of... something
-10. wk13 - [donut chart](http://bokeh.pydata.org/en/latest/docs/gallery/donut_chart.html) of... yeah, you got it
+10. wk13 - [donut chart](http://bokeh.pydata.org/en/latest/docs/gallery/donut_chart.html): sources in middle; "medals" replaced by home/road or fav/dog
 11. wk14 - a priori wins/week [slopegraph](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003nk)
 12. wk15 - [pick source perform above .500](http://thedailyviz.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-25-at-2.21.48-PM-620x383.png)
 13. wk16 - [projected v actual arrow charts](https://public.tableau.com/static/images/TH/THTProjectedStandingsChanges/2014-2015ProjectedStandingsChanges/1_rss.png) ([Excel](http://peltiertech.com/arrow-charts-in-excel/))
