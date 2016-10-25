@@ -39,7 +39,7 @@ Originally thought of generating a tree branch visual of suicide paths but the i
 
 More input is not always a good thing apparently. I would have hoped that the common votes, by necessity requiring an overlap of perspecitve and thus more restrictive would result in a better percentage than just the overall performance of one.. or two unanimous picks... Aside from week 5 this has not been the case. 
 
-Consensus appears to be compromise, with poor results to show for it. 
+Consensus appears to be compromise, with poor results to show for it. "Too Many Cooks"
 
 
 ## Week 6 - Arbitrage (maybe)
