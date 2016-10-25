@@ -43,6 +43,8 @@ Consensus appears to be compromise, with poor results to show for it. "Too Many 
 
 [surfer terms](http://www.surfing-waves.com/surf_talk.htm)
 
+The wave is naive and overly optimistic due to not taking previous choices into consideration. Typically in a suicide pool a team may only be used once for the entire season. 
+
 
 ## Week 6 - Arbitrage (maybe)
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 6</a></b></sub></p>
