@@ -42,31 +42,18 @@ Mixing picks between expert panels and data models usually resulted in a middlin
 
 At the very least, in most cases the consensus model picks were better than just going with the favorite. So there's that.
 
-An additional thinking beyond the unanimous picks being a safe way to choose winners (SUP) was that <a href="https://www.youtube.com/watch?v=KM2K7sV-K74" target="_blank">surely</a> it would provide valuable input for a suicide pool [fn: For those who are not familiar with this term/league, generally speaking each contestant must select one team per week to win; lose and you're out; pick correctly and you move on to the next week; continue until there is only one person remaining; you may NOT pick a team more than once in a season]. Where would we be if we followed the crowd (of experts and models), especially when they're all pointing in the same direction? Most likely for a wipe out. Below is a pie chart (<a href="https://www.quora.com/How-and-why-are-pie-charts-considered-evil-by-data-visualization-experts" target="_blank">wtf</a>?!) representing the random surfing of going with the unanimous picks
+An additional thinking beyond the unanimous picks being a safe way to choose winners (SUP) was that <a href="https://www.youtube.com/watch?v=KM2K7sV-K74" target="_blank">surely</a> it would provide valuable input for a suicide pool [fn: For those who are not familiar with this term/league, generally speaking each contestant must select one team per week to win; lose and you're out; pick correctly and you move on to the next week; continue until there is only one person remaining; you may NOT pick a team more than once in a season]. Where would we be if we followed the crowd (of experts and models), especially when they're all pointing in the same direction? Most likely for a <a href="http://www.surfing-waves.com/surf_talk.htm" target="_blank">wipe out</a>. Below is a pie chart (<a href="https://www.quora.com/How-and-why-are-pie-charts-considered-evil-by-data-visualization-experts" target="_blank">wtf</a>?!) [FN: Originally I thought of generating a tree branch visual of suicide paths but the itertions are at 95k+ through week 7 alone, for the still surviving paths, alone... ] representing the random surfing of going with the unanimous picks.
 
 **Suicide Squad Wipe-Out**
 
 <img src="/gallery/2016/football-picks/wk07_suicide_wave.png" alt="wk07_suicide_wave" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
 
 Week 1 is in the center with each successive week occupying the next concentric circle outward, ending with the most recent week, week 7. Light blue represents the proportion of correct picks, dark blue the proportion of incorrect picks. Starting with week 2, the second circle out from the center, the graph introduces black as the color that represents the lost opportunities of previously incorrect choices. This is a fanciful illustration of, to mix metaphors, how difficult it would be to thread the needle and survive into week 8, just under 3%.
 
-That low chance of survival is slightly overly optimistic due to the naive representation above which simply calculated percentages and did not take into consideration previous picks (see footnote re suicide pools and picking teams to see how this matters).
+That low chance of survival is slightly overly optimistic due to the naive representation above which <a href="https://gist.github.com/endlesspint8/2eaae1e452ce7d5a5edd46277c0459fb#file-nfl_suicide_wave-py" target="_blank">simply calculated percentages</a> and did not take into consideration previous picks (see footnote re suicide pools and picking teams to see how this matters).
 
-Originally I thought of generating a tree branch visual of suicide paths but the itertions are at 95k+ through week 7, alone, for the still surviving paths, alone... 
-
-[Any port in a storm](https://www.youtube.com/watch?v=HSfxl1KI6y8) Maybe you're in the middle of a storm, the sky is falling in on your head, the waves are crashing over your little boat, the oars are about to snap... 
-
-
-
-
-
-
-
-
-
-[surfer terms](http://www.surfing-waves.com/surf_talk.htm)
-
-The wave is naive and overly optimistic due to not taking previous choices into consideration. Typically in a suicide pool a team may only be used once for the entire season. 
+_Maybe you're in the <a href="https://www.youtube.com/watch?v=HSfxl1KI6y8" target="_blank">middle of a storm</a>, the sky is falling in on your head, the waves are crashing over your little boat, the oars are about to snap..._
 
 
 ## Week 6 - Arbitrage (maybe)
