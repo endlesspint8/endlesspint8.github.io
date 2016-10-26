@@ -42,19 +42,23 @@ Mixing picks between expert panels and data models usually resulted in a middlin
 
 At the very least, in most cases the consensus model picks were better than just going with the favorite. So there's that.
 
-An additional thinking beyond the unanimous picks being a safe way to choose winners (SUP) was that <a href="https://www.youtube.com/watch?v=KM2K7sV-K74" target="_blank">surely</a> it would provide valuable input for a suicide pool [fn: For those who are not familiar with this term/league, generally speaking each contestant must select one team per week to win; lose and you're out; pick correctly and you move on to the next week; continue until there is only one person remaining; you may NOT pick a team more than once in a league]. Where would we be if we followed the crowd (of experts and models), especially when they're all pointing in the same direction? Most likely for a wipe out. Below is a pie chart (<a href="https://www.quora.com/How-and-why-are-pie-charts-considered-evil-by-data-visualization-experts" target="_blank">wtf</a>?!) representing the random surfing of going with the unanimous picks
+An additional thinking beyond the unanimous picks being a safe way to choose winners (SUP) was that <a href="https://www.youtube.com/watch?v=KM2K7sV-K74" target="_blank">surely</a> it would provide valuable input for a suicide pool [fn: For those who are not familiar with this term/league, generally speaking each contestant must select one team per week to win; lose and you're out; pick correctly and you move on to the next week; continue until there is only one person remaining; you may NOT pick a team more than once in a season]. Where would we be if we followed the crowd (of experts and models), especially when they're all pointing in the same direction? Most likely for a wipe out. Below is a pie chart (<a href="https://www.quora.com/How-and-why-are-pie-charts-considered-evil-by-data-visualization-experts" target="_blank">wtf</a>?!) representing the random surfing of going with the unanimous picks
 
 **Suicide Squad Wipe-Out**
 
 <img src="/gallery/2016/football-picks/wk07_suicide_wave.png" alt="wk07_suicide_wave" align="middle"/><br>
 
-Week 1 is in the center with each successive week occupying the next concentric circle outward, ending with the most recent week, week 7. Light blue represents the proportion of correct picks, dark blue the proportion of incorrect picks. Starting with week 2, the second circle out from the center, the graph introduces black as the color that represents the lost opportunities of previously incorrect choices. This is a fanciful illustration of, to mix metaphors, 
+Week 1 is in the center with each successive week occupying the next concentric circle outward, ending with the most recent week, week 7. Light blue represents the proportion of correct picks, dark blue the proportion of incorrect picks. Starting with week 2, the second circle out from the center, the graph introduces black as the color that represents the lost opportunities of previously incorrect choices. This is a fanciful illustration of, to mix metaphors, how difficult it would be to thread the needle and survive into week 8, just under 3%.
+
+That low chance of survival is slightly overly optimistic due to the naive representation above which simply calculated percentages and did not take into consideration previous picks (see footnote re suicide pools and picking teams to see how this matters).
+
+Originally I thought of generating a tree branch visual of suicide paths but the itertions are at 95k+ through week 7, alone, for the still surviving paths, alone... 
 
 [Any port in a storm](https://www.youtube.com/watch?v=HSfxl1KI6y8) Maybe you're in the middle of a storm, the sky is falling in on your head, the waves are crashing over your little boat, the oars are about to snap... 
 
 
 
-Originally thought of generating a tree branch visual of suicide paths but the itertions were at 95k+ through week 7, alone, for the still surviving paths, alone... 
+
 
 
 
