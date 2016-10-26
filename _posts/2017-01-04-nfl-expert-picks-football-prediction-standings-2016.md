@@ -30,7 +30,7 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 ---
 
 ## Week 7 - Any Port in a Storm
-<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/UnRTnWObmv dataviz of diverging stacked bar charts&url=http://bit.ly/2ekkw06&via=endlesspint8&hashtags=nflpicks,piechart" target="_blank" title="Share on Twitter">Week 7</a></b></sub></p>
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/s4XRLKMsrk dataviz of consensus picks equals wipe out&url=http://bit.ly/2eFYw07&via=endlesspint8&hashtags=nflpicks,piechart" target="_blank" title="Share on Twitter">Week 7</a></b></sub></p>
 
 More input is not always a good thing apparently. I would have hoped that the common and unanimous votes among the game picking sources, by necessity requiring an overlap of weights and perspecitve and thus being more restrictive, would result in a better correct pick percentage than relying on fewer sources. In five out of seven weeks this did not prove to be the case. 
 
