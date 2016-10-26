@@ -44,7 +44,11 @@ More input is not always a good thing apparently. I would have hoped that the co
 Consensus appears to be compromise, with poor results to show for it. "Too Many Cooks"
 
 **Suicide Squad Wipe-Out**
-(pie graph)
+
+<img src="/gallery/2016/football-picks/wk07_suicide_wave.png" alt="wk07_suicide_wave" align="middle"/><br>	
+
+<img src="/gallery/2016/football-picks/wk07_consensus2.png" alt="consensus_picks" /><br>	
+	
 
 [surfer terms](http://www.surfing-waves.com/surf_talk.htm)
 
