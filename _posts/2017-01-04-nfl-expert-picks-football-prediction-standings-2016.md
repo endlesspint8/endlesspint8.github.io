@@ -29,6 +29,33 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 ---
 
+## Week 7 - Any Port in a Storm
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/UnRTnWObmv dataviz of diverging stacked bar charts&url=http://bit.ly/2ekkw06&via=endlesspint8&hashtags=nflpicks,piechart" target="_blank" title="Share on Twitter">Week 7</a></b></sub></p>
+
+More input is not always a good thing apparently. I would have hoped that the common and unanimous votes among the game picking sources, by necessity requiring an overlap of weights and perspecitve and thus being more restrictive, would result in a better correct pick percentage than relying on fewer sources. In five out of seven weeks this did not prove to be the case. 
+
+Mixing picks between expert panels and data models usually resulted in a middling win percentage between the two and in one instance, week 6, even provided a percentage worse than either. The thinking was that there would be a majority of weeks like weeks 5 & 7 where the combination of inputs were greater than their parts. Consensus so far appears to compromise results, akin to "<a href="https://www.youtube.com/watch?v=QrGrOK8oZG8" target="_blank">Too Many Cooks</a>". We have yet to pass the halfway part of the season so I hold out hope that results will improve.
+
+<img src="/gallery/2016/football-picks/wk07_consensus2.png" alt="consensus_picks" /><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+
+At the very least, in most cases the consensus model picks were better than just going with the favorite. So there's that.
+
+An additional thinking beyond the unanimous picks being a safe way to choose winners (SUP) was that <a href="https://www.youtube.com/watch?v=KM2K7sV-K74" target="_blank">surely</a> it would provide valuable input for a suicide pool.<sup id="a7">[7](#f7)</sup> Where would we be if we followed the crowd (of experts and models), especially when they're all pointing in the same direction? Most likely for a <a href="http://www.surfing-waves.com/surf_talk.htm" target="_blank">wipe out</a>. Below is a pie chart<sup id="a8">[8](#f8)</sup> (<a href="https://www.quora.com/How-and-why-are-pie-charts-considered-evil-by-data-visualization-experts" target="_blank">wtf</a>?!) representing the random surfing of going with the unanimous picks.
+
+**Suicide Squad Wipe-Out**
+
+<img src="/gallery/2016/football-picks/wk07_suicide_wave.png" alt="wk07_suicide_wave" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+
+Week 1 is in the center with each successive week occupying the next concentric circle outward, ending with the most recent week, week 7. Light blue represents the proportion of correct picks, dark blue the proportion of incorrect picks. Starting with week 2, the second circle out from the center, the graph introduces black as the color that represents the lost opportunities of previously incorrect choices. This is a fanciful illustration of, to mix metaphors, how difficult it would be to thread the needle and survive into week 8, just under 3%.
+
+That low chance of survival is slightly overly optimistic due to the naive representation above which <a href="https://gist.github.com/endlesspint8/2eaae1e452ce7d5a5edd46277c0459fb#file-nfl_suicide_wave-py" target="_blank">simply calculated percentages</a> and did not take into consideration previous picks (see footnote re suicide pools and picking teams to see how this matters).
+
+_Maybe you're in the <a href="https://www.youtube.com/watch?v=HSfxl1KI6y8" target="_blank">middle of a storm</a>, the sky is falling in on your head, the waves are crashing over your little boat, the oars are about to snap..._
+
+---
+
 ## Week 6 - Arbitrage (maybe)
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/UnRTnWObmv dataviz of diverging stacked bar charts&url=http://bit.ly/2ekkw06&via=endlesspint8&hashtags=nflpicks,barchart" target="_blank" title="Share on Twitter">Week 6</a></b></sub></p>
 
@@ -136,7 +163,7 @@ Third, the floating black marks or "comparative measures": 46 and 45 preseason/a
 **Bullet Graph of SUP Wins thru Week 5**
 
 <img src="/gallery/2016/football-picks/bullet_wk05b.PNG" alt="bullet_wk05b" /><br>
-<sub>Data Source: <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
 
 Bullet graph take aways:
 
@@ -171,7 +198,7 @@ Week 4, first week with a Bye so we had 15 games instead of the usual 16. Who br
 On the season the experts/models are not much more impressive. Each of them are lingering, like a stale fart, at 35-37 wins. <a href="https://www.youtube.com/watch?v=oOoqtsNReIU" target="_blank">Shiiit</a>, my random generator has 28 wins alone.<sup id="a6">[6](#f6)</sup> 
 
 <img src="/gallery/2016/football-picks/bs_wins_wk04b.png" alt="bs_wins_wk04" /><br>
-<sub>Data Source: CBS, ESPN, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
 
 Above is a representation of the weekly (x-axis) performances by source (y-axis). The larger the cirlce the more wins for the given source/week.
 
@@ -387,8 +414,13 @@ Let's start slow for this first installment. We have all season to get to know e
 <b id="f5">5</b> Damn. I wish I could enter an upside down exclamation point for this sentence. [↩](#a5) <br>
 <b id="f6">6</b> Two Matthew McConaughey references in the same week. Let's make that the record. [↩](#a6) <br>
 
-**week 5 & later**
+**week 7**
 
-<b id="f7">7</b>   [↩](#a7) <br>
-<b id="f8">8</b>   [↩](#a8) <br>
+<b id="f7">7</b> For those who are not familiar with this term/league, generally speaking each contestant must select one team per week to win; lose and you're out; pick correctly and you move on to the next week; continue until there is only one person remaining; you may NOT pick a team more than once in a season. [↩](#a7) <br>
+<b id="f8">8</b> Originally I thought of generating a tree branch visual of suicide paths but the itertions are at 95k+ through week 7 alone, for the still surviving paths, alone... So no to the tree branch vis, for now. [↩](#a8) <br>
+
+**week 8 & later**
+<b id="f9">9</b>   [↩](#a9) <br>
+<b id="f9">9</b>   [↩](#a9) <br>
+<b id="f9">9</b>   [↩](#a9) <br>
 <b id="f9">9</b>   [↩](#a9) <br>
