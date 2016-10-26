@@ -33,13 +33,24 @@ After Season
 ## Week 7 - Any Port in a Storm
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 7</a></b></sub></p>
 
+More input is not always a good thing apparently. I would have hoped that the common and unanimous votes among the game picking sources, by necessity requiring an overlap of weights and perspecitve and thus being more restrictive criteria, would result in a better correct pick percentage than relying on fewer sources. In five out of seven weeks this did not prove to be the case. 
+
+Mixing picks between expert panels and data models usually resulted in a middling win percentage between the two and in one instance, week 6, even provided a percentage worse than either. The hope was that there would be a majority of weeks like week 5 & 7 where the combination of inputs were greater than their parts.
+
+<img src="/gallery/2016/football-picks/wk07_consensus2.png" alt="consensus_picks" /><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+
+worse performance than going with either 
+
+Surely the unanimous picks would be a safe way to choose winners (SUP) and provide valuable input for a suicide pool [fn: For those who are not familiar with this term/league, generally speaking each contestant must select one team per week to win; lose and you're out; pick correctly and you move on to the next week; continue until there is only one person remaining; you may NOT pick a team more than once in a league].  than just the overall performance of one.. or two unanimous picks...   
+
 [Any port in a storm](https://www.youtube.com/watch?v=HSfxl1KI6y8) Maybe you're in the middle of a storm, the sky is falling in on your head, the waves are crashing over your little boat, the oars are about to snap... 
 
 Where would we be if we followed the crowd (of experts and models), especially when they're all pointing in the same direction? Most likely for a wipe out.
 
 Originally thought of generating a tree branch visual of suicide paths but the itertions were at 27k through week 6, alone, for the still surviving paths, alone... 
 
-More input is not always a good thing apparently. I would have hoped that the common votes, by necessity requiring an overlap of perspecitve and thus more restrictive would result in a better percentage than just the overall performance of one.. or two unanimous picks... Aside from week 5 this has not been the case. 
+
 
 Consensus appears to be compromise, with poor results to show for it. "Too Many Cooks"
 
@@ -47,7 +58,7 @@ Consensus appears to be compromise, with poor results to show for it. "Too Many 
 
 <img src="/gallery/2016/football-picks/wk07_suicide_wave.png" alt="wk07_suicide_wave" align="middle"/><br>	
 
-<img src="/gallery/2016/football-picks/wk07_consensus2.png" alt="consensus_picks" /><br>	
+
 	
 
 [surfer terms](http://www.surfing-waves.com/surf_talk.htm)
