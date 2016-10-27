@@ -11,8 +11,8 @@ Upcoming graphs:
 2. <strike>wk05 - Bullet graph: in situ change win% v.</strike>
 3. <strike>wk06 - Diverging Stacked Bar Chart ([Excel](http://www.slideshare.net/annkemery/diverging-stackedbarcharts)): 
  * ATS Arbitrage: 538 & FOX
- * home line: DMP > SPR == away; DMP < SPR == home; DMP = SPR == 'no pick' </strike>
-4. wk07 - pie chart (what?! wtf) unanimous wins / suicide paths
+ * home line: DMP > SPR == away; DMP < SPR == home; DMP = SPR == 'no pick' 
+4. wk07 - pie chart (what?! wtf) unanimous wins / suicide paths</strike>
 5. wk08 - Heatmap: a) games won prob for 10k sims (Bokeh v Plotly); b) 4x4 SUP heatmap for favorites (both axes: AFC home/road & NFC home/road)
 6. wk09 - Treemap: conf/div sup & ats
 7. wk10 - small multiples of prob/source (x, top)/week (y, desc)/WL-split
