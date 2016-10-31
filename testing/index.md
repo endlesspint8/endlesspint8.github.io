@@ -9,6 +9,8 @@ shortlink: http://bit.ly/2dxLtd9
 
 <p><font size="1" color="blue">This is some text!</font></p>
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1RTa4IKNyHEcfF2PCA1J3vbRPUjY" width="640" height="480"></iframe>
+
 <iframe width="100%" height="520" frameborder="0" src="https://endlesspint8.carto.com/viz/9bb87bba-9c19-11e6-b223-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <sub><font color="lightgrey">Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Pipi</a></b></sub>
