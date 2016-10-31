@@ -8,6 +8,15 @@ subtitle: Visualizations at a Glance
 
 <br>
 
+### [Data Guide for the Beer Perplexed, Part I](/2016-10-10-beer-introductions-1)
+> 
+> * [D3 link-node](/code/six_pack_LOC_nb) of beer style recommendations <br>
+
+<img src="/gallery/2016/beer-prplxd/link_node.gif"> <br>
+<sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> / 
+Scraping Template: <a href="https://github.com/cs109/content/blob/master/labs/lab2/Lab_2_A_Live.ipynb" target="_blank">CS109</a> / 
+Vis Code: <a href="http://bl.ocks.org/mbostock/4062045" target="_blank">Force-Directed Graph</a> & <a href="http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/" target="_blank">Extra Features</a> / <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/mT5QiQ9Ncz Data Guide for the Beer Perplexed, Part 1&url=http://bit.ly/prplxd1&via=endlesspint8&hashtags=D3,beer,dataviz" target="_blank" title="Share on Twitter">Hairball</a></b></sub>
+
 ### [Six-Pack Project: The Netherlands](/2016-08-01-six-pack-project-netherlands)
 > 
 > * [kNN analysis](/code/six_pack_LOC_nb) to determine likely beer style <br>
