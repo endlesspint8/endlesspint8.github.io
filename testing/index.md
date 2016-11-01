@@ -9,6 +9,10 @@ shortlink: http://bit.ly/2dxLtd9
 
 <p><font size="1" color="blue">This is some text!</font></p>
 
+## Plotly Heatmap
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~ep8/6.embed"></iframe>
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1RTa4IKNyHEcfF2PCA1J3vbRPUjY" width="640" height="480"></iframe>
 
 <iframe width="100%" height="520" frameborder="0" src="https://endlesspint8.carto.com/viz/9bb87bba-9c19-11e6-b223-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
