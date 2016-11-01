@@ -11,7 +11,13 @@ shortlink: http://bit.ly/2dxLtd9
 
 ## Plotly Heatmap
 
+**538**
+
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~ep8/6.embed"></iframe>
+
+**FOX**
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~ep8/8.embed"></iframe>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1RTa4IKNyHEcfF2PCA1J3vbRPUjY" width="640" height="480"></iframe>
 
