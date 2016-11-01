@@ -48,6 +48,8 @@ An expansion of probabalistic outcomes based on 10,000 simulations (Gist).
 
 Chances of CLE going winless? x or y% based on FiveThirtyEight and FOX preseason projections, respectively.
 
+On the flip side they beated the spread four of eight times, so there's that. Next week we'll present a visual that will allow for the toggling between SUP and ATS wins. 
+
 
 ## Week 7 - Any Port in a Storm
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 7</a></b></sub></p>
