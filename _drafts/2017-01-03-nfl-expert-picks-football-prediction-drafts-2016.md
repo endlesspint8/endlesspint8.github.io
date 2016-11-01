@@ -36,7 +36,17 @@ After Season
 ## Week 8 - Here's to Cleveland
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 8</a></b></sub></p>
 
-Not a great year for the Browns this season. Through the most recent week they have a big fat doughnut in the win column. 
+Not a great year for the Browns so far. Through the first two months of the season they have a big fat doughnut in the win column, their loss total inching inexorably to double digits. 
+
+* Loss margin avg, compared to other teams.
+* Wins ATS, compared to other teams.
+* Home/road points, compared to other teams.
+
+This is to point out in a roundabout way that football gods are fickle. There are many possibilities before the beginning of the season, some more likely than others (see week 3 below), a few quite obvious in retrospect (never a remarkable talent). 
+
+An expansion of probabalistic outcomes based on 10,000 simulations (Gist).
+
+Chances of CLE going winless? x or y% based on FiveThirtyEight and FOX preseason projections, respectively.
 
 
 ## Week 7 - Any Port in a Storm
