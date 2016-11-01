@@ -13,7 +13,7 @@ shortlink: http://bit.ly/2dxLtd9
 
 **538**
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~ep8/6.embed"></iframe>
+<iframe width="730" height="650" frameborder="0" scrolling="no" src="//plot.ly/~ep8/6.embed"></iframe>
 
 **FOX**
 
