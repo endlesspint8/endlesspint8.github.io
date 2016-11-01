@@ -33,6 +33,12 @@ After Season
 2. 
 
 
+## Week 8 - Here's to Cleveland
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 8</a></b></sub></p>
+
+Not a great year for the Browns this season. Through the most recent week they have a big fat doughnut in the win column. 
+
+
 ## Week 7 - Any Port in a Storm
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 7</a></b></sub></p>
 
