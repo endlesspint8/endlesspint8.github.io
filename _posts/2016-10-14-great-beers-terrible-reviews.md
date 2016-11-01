@@ -85,7 +85,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/007_bells_blknote2.png" >
 
-<sub><font color="lightgrey">Image source: <a href="https://www.bellsbeer.com/beer/specialty/black-note" target="_blank" style="color:darkgrey">Bell's Beer</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/71826/55018/" target="_blank" style="color:darkgrey">RateBeer (@lb4lb)</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/0TB3tAJOeV When Great Beers get Scorned&url=http://bit.ly/2ecdAgk&via=endlesspint8&hashtags=BellsBrewery" target="_blank" title="Share on Twitter">Soy Sauce</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://www.bellsbeer.com/beer/specialty/black-note" target="_blank" style="color:darkgrey">Bell's Beer</a> | Text source: <a href="http://www.ratebeer.com/beer/beer_name/71826/55018/" target="_blank" style="color:darkgrey">RateBeer (@lb4lb)</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/TZBtLzXVcS When Great Beers get Scorned&url=http://bit.ly/2ecdAgk&via=endlesspint8&hashtags=BellsBrewery" target="_blank" title="Share on Twitter">Soy Sauce</a></b></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/71826/55018/" target="_blank">smells like soy sauce</a>." 
 >
@@ -97,7 +97,7 @@ As if anyone was listening. Well, I was.
 
 <img src="/gallery/2016/poor-reviews/008_roch_trp10_2.jpg" width="800" >	
 
-<sub><font color="lightgrey">Image source: <a href="https://upload.wikimedia.org/wikipedia/commons/6/66/Rochefort-beers.jpg" target="_blank" style="color:darkgrey">Wikipedia Commons</a> | Text source: <a href="https://www.beeradvocate.com/beer/profile/207/645/?ba=UCLABrewN84#review" target="_blank" style="color:darkgrey">BeerAdvocate (@UCLABrewN84)</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/0TB3tAJOeV When Great Beers get Scorned&url=http://bit.ly/2ecdAgk&via=endlesspint8&hashtags=Rochefort,trappist" target="_blank" title="Share on Twitter">Gym Socks</a></b></sub>
+<sub><font color="lightgrey">Image source: <a href="https://upload.wikimedia.org/wikipedia/commons/6/66/Rochefort-beers.jpg" target="_blank" style="color:darkgrey">Wikipedia Commons</a> | Text source: <a href="https://www.beeradvocate.com/beer/profile/207/645/?ba=UCLABrewN84#review" target="_blank" style="color:darkgrey">BeerAdvocate (@UCLABrewN84)</a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/CJrvca4jev When Great Beers get Scorned&url=http://bit.ly/2ecdAgk&via=endlesspint8&hashtags=Rochefort,trappist" target="_blank" title="Share on Twitter">Gym Socks</a></b></sub>
 
 > "<a href="http://www.ratebeer.com/beer/beer_name/2360/238185/" target="_blank">nasty bubblegum aroma</a>" 
 >
