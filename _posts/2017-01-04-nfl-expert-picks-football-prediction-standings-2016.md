@@ -29,6 +29,33 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 ---
 
+## Week 8 - Here's to Cleveland
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 8</a></b></sub></p>
+
+Not a great year for the Browns to date. Through the first two months of the season they have a big fat doughnut in the win column, their loss total inching inexorably toward double digits. That's pretty rough but how likely is this? Let's look at some data to get an idea and get a grasp on the bigger picture as well.
+
+In <a href="#week2">week 2</a> we took the pre-season game-to-game probabilities of FiveThirtyEight and FOX to determine the average expected wins for each team and thus create a projected final standings. We used these same game-to-game probabilities and ran the seasons over and over again, <a href="https://gist.github.com/endlesspint8/2eaae1e452ce7d5a5edd46277c0459fb#file-nfl_10k_season_sim-py" target="_blank">ten thousand times</a>. The purpose was to identify the probabalistic outcomes for each team. If you can write a for-loop, you can do statistics, <a href="https://www.youtube.com/watch?v=Iq9DzN6mvYA" target="_blank">right</a>? 
+
+Chance of Seattle going undefeated: 0.12% according to FOX; the Jets going winless: 0% chance according to FiveThirtyEight and simulated seasons (phew!); Cleveland winning 8 games: 9.6% and 5.7% according to FiveThirtyEight and FOX, respectively. Those last odds look equal parts welcoming and wishful thinking at this point. 
+
+Below is the full chart with hover tool to allow for reviewing the chances for each team (y axis) reaching specific win totals (x axis). The first is from FiveThirtyEight the latter from FOX.
+
+<iframe width="810" height="720" frameborder="0" scrolling="no" src="//plot.ly/~ep8/6.embed"></iframe><br>
+<sub>Data Source: <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a></sub>
+
+The zero wins for Cleveland seem a bit "unfair" when both FiveThirtyEight and FOX gave them about a 60% chance of winning between 4-7 games. The lower end of that projection may still be in play but the higher almost certainly not.<sup id="a9">[9](#f9)</sup> So what happened, has the team been unlucky? I cannot say from watching the games (who watches Browns games?) but we can get an idea from looking at some game specifics and cumulative numbers to date. 
+
+For one, the Browns have never been favorites in a game to date, despite five of their eight games being at home. On the flip side they have beated the spread four of eight times, so there's that (next week we'll present a visual that will allow for the toggling between SUP and ATS wins to see how they compare to other teams). Nor has Cleveland fooled any of the models but once. Through eight weeks and across four models/panels (CBS, ESPN, 538, & FOX) they have been picked against 31 of 32 times (talk about no one believing in them). Only in the most recent week were the Browns able to <strike>fool</strike> sway the FOX data model<sup id="a10">[10](#f10)</sup> into picking them over the Jets. 
+
+Aside from some close games (a 2 point loss at TEN and half of the loses coming by 5 or fewer points) when we take a big picture view the Browns have the worst point differential overall (TB is worse at home; NYJ & SF are worse on the road). 
+
+There are many possibilities before the beginning of the season, some more likely than others (see <a href="#week2">week 2</a> below), a few quite obvious in retrospect (never a remarkable talent). But the football gods can be a fickle bunch and it appears that Cleveland is taking the brunt of that so far. Perhaps a World Series win will make it all worth it. 
+
+<iframe width="810" height="720" frameborder="0" scrolling="no" src="//plot.ly/~ep8/8.embed"></iframe><br>
+<sub>Data Source: <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
+
+---
+
 ## Week 7 - Any Port in a Storm
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/s4XRLKMsrk dataviz of consensus picks equals wipe out&url=http://bit.ly/2eFYw07&via=endlesspint8&hashtags=nflpicks,piechart" target="_blank" title="Share on Twitter">Week 7</a></b></sub></p>
 
@@ -419,8 +446,11 @@ Let's start slow for this first installment. We have all season to get to know e
 <b id="f7">7</b> For those who are not familiar with this term/league, generally speaking each contestant must select one team per week to win; lose and you're out; pick correctly and you move on to the next week; continue until there is only one person remaining; you may NOT pick a team more than once in a season. [↩](#a7) <br>
 <b id="f8">8</b> Originally I thought of generating a tree branch visual of suicide paths but the itertions are at 95k+ through week 7 alone, for the still surviving paths, alone... So no to the tree branch vis, for now. [↩](#a8) <br>
 
-**week 8 & later**
-<b id="f9">9</b>   [↩](#a9) <br>
-<b id="f9">9</b>   [↩](#a9) <br>
-<b id="f9">9</b>   [↩](#a9) <br>
-<b id="f9">9</b>   [↩](#a9) <br>
+**week 8**
+<b id="f9">9</b> This is based on intuition. I did not break out win probabilities for first and second half of the season. Get your nerdy cousin to do the math, we're keeping it high level here. [↩](#a9) <br>
+<b id="f10">10</b> This is an in-season pick change and is indicative of the poor performance FOX has had on their revised picks to this point in the season (so far the in situ FOX model has done worse on both overall picks and Brier Score than the pre-season release). [↩](#a10) <br>
+
+**week 9 & later**
+<b id="f11">11</b>   [↩](#a11) <br>
+<b id="f12">12</b>   [↩](#a12) <br>
+<b id="f13">13</b>   [↩](#a13) <br>
