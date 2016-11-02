@@ -1,26 +1,42 @@
 ---
 layout: post
 title: Suds in The City
-subtitle: Closest Yuppie Big Box Stores in Manhattan
+subtitle: Closest Big Box Yuppie Stores in Manhattan
+tags: ["Voronoi", "map"]
+shortlink: 
+twitimg: 
 ---
 
-NOT WRONG TO FOCUS ON MANHATTAN
+## NOT WRONG TO FOCUS ON MANHATTAN
 
 
 THE PEOPLE ARE THERE: Even if you don’t live in Manhattan you’re very likely to work there (http://cityroom.blogs.nytimes.com/2013/06/03/commuters-nearly-double-manhattans-daytime-population-census-says/?_r=0). The borough population doubles every workday (1.6 to 3.1 million). Besides MH only trendy bubble Brooklyn has more than half its workers living in the same borough. 
 
 
-WF beer dept (http://www.wholefoodsmarket.com/department/beer)
+<img src="/gallery/2016/suds-city/timeanddate_nyc.PNG" alt="timeanddate_nyc" /><br>
+<sub>Image Source: <a href="https://www.timeanddate.com/sun/usa/new-york" target="_blank">timeanddate</a></sub>
 
-TJ beers (https://www.thrillist.com/drink/nation/trader-joes-beer-every-beer-at-trader-joes-ranked), with decent BA ratings (https://www.beeradvocate.com/beer/profile/10707/)
+ 
+<img src="/gallery/2016/suds-city/nyc_pop_uscensus.png" alt="nyc_pop_uscensus" /><br>
+<sub>Image Source: <a href="http://www.census.gov/newsroom/releases/pdf/cb13-tps.53_chart2.pdf" target="_blank">Census Bureau</a></sub>
+
+	
+<img src="/gallery/2016/suds-city/man_pop_uscensus.png" alt="man_pop_uscensus" /><br>
+<sub>Image Source: <a href="https://wagner.nyu.edu/files/rudincenter/dynamic_pop_manhattan.pdf" target="_blank">NYU Wagner</a></sub>
+
+
 
 On-premise sales down (http://beverage-handbook-store.myshopify.com/blogs/news/on-premise-beverage-alcohol-consumption-continues-to-decline-according-to-cheers-barometer-report)
 
-ALSO, THAT IS WHERE THE STORES ARE: 
+## ALSO, THAT IS WHERE THE STORES ARE: 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1RTa4IKNyHEcfF2PCA1J3vbRPUjY" width="640" height="480"></iframe>
 
-WHAT DO THE RESPECTIVE STORES CARRY? TAPS? GROWLERS?
+## WHAT DO THE RESPECTIVE STORES CARRY? TAPS? GROWLERS?
+
+WF beer dept (http://www.wholefoodsmarket.com/department/beer)
+
+TJ beers (https://www.thrillist.com/drink/nation/trader-joes-beer-every-beer-at-trader-joes-ranked), with decent BA ratings (https://www.beeradvocate.com/beer/profile/10707/)
 
 Craft beer is here, hooray. There are more breweries and styles than ever before. Taste has won over mass produced piss and we may all rest easy now. Not so fast. While we may be experiencing a Golden Age in beer consumer opportunity there is no guarantee these days are here to last. With more options come more challenges, opportunities, and developments. 
 
