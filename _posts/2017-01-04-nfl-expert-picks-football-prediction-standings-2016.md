@@ -253,7 +253,7 @@ The two data models, FiveThirtyEight & FOX, performed best, both for wins and Br
 
 ---
 
-## Week 2 - Back to the Future Full Season Recap 
+<h2 id="week2">Week 2 - Back to the Future Full Season Recap</h2>
 
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/fgKENjlKMg Back to the Future Full Season Recap&url=http://bit.ly/2cS4w02&via=endlesspint8&hashtags=nflpicks,dataviz
 " target="_blank" title="Share on Twitter">Week 2</a></b></sub></p>
