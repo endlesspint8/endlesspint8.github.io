@@ -21,9 +21,7 @@ Draft [1](2016-10-28-whole-foods-trader-joes-beer), 2, 3
 
 <iframe width="810" height="720" frameborder="0" scrolling="no" src="//plot.ly/~ep8/8.embed"></iframe>
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1RTa4IKNyHEcfF2PCA1J3vbRPUjY" width="640" height="480"></iframe>
 
-<iframe width="100%" height="520" frameborder="0" src="https://endlesspint8.carto.com/viz/9bb87bba-9c19-11e6-b223-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <sub><font color="lightgrey">Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Pipi</a></b></sub>
 
@@ -40,8 +38,6 @@ Shiny app embedding, attempt anyway
 <iframe src="https://endlesspint8.shinyapps.io/cb_sh_bxplt/" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
 
-plotly embed
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~ep8/1.embed"></iframe>
 
 [D3 lattice](lattice.html)
 
@@ -58,10 +54,6 @@ Bokeh Scatter plot
 <p><font color="blue"> TESTING FONT COLOR </font></p>
 
 `iframe`
-
-
-<iframe src="http://endlesspint.com/gallery/2016/projeul/lattice.html" width="600" height="400" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
-
 
 # newsletter
 
