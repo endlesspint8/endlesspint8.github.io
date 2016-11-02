@@ -38,9 +38,14 @@ After Season
 
 Not a great year for the Browns to date. Through the first two months of the season they have a big fat doughnut in the win column, their loss total inching inexorably toward double digits. That's pretty rough but how likely is this? Let's look at some data to get an idea and get a grasp on the bigger picture as well.
 
-In week 2 (link) we took the pre-season game-to-game probabilities of FiveThirtyEight and FOX to determine the average expected wins for each team and thus create a projected final standings. We used these same game-to-game probabilities and ran the seasons over and over again, ten thousand times (Gist). The purpose was to identify the likelihood of any total win counts of each team. Chance of Seattle going undefeated: 0.12% according to FOX. The Jets going winless: 0% chance according to FiveThirtyEight and simulated seasons. Cleveland winning 8 games: 9.6% and 5.7% according to FiveThirtyEight and FOX, respectively. 
+In <a href="#week2">week 2</a> we took the pre-season game-to-game probabilities of FiveThirtyEight and FOX to determine the average expected wins for each team and thus create a projected final standings. We used these same game-to-game probabilities and ran the seasons over and over again, ten thousand times (https://gist.github.com/endlesspint8/2eaae1e452ce7d5a5edd46277c0459fb#file-nfl_10k_season_sim-py). The purpose was to identify the probabalistic outcomes for each team. If you can write a for-loop, you can do statistics, <a href="https://www.youtube.com/watch?v=Iq9DzN6mvYA" target="_blank">right</a>? 
 
+Chance of Seattle going undefeated: 0.12% according to FOX; the Jets going winless: 0% chance according to FiveThirtyEight and simulated seasons; Cleveland winning 8 games: 9.6% and 5.7% according to FiveThirtyEight and FOX, respectively. Those last odds look equal parts welcoming and wishful thinking at this point. 
 
+Below is the full chart with hover tool to allow for reviewing the chances for each team (y axis) reaching specific win totals (x axis). The first one is from FiveThirtyEight. 
+
+<iframe width="810" height="720" frameborder="0" scrolling="no" src="//plot.ly/~ep8/6.embed"></iframe><br>
+<sub>Data Source: <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a></sub>
 
 * Loss margin avg, compared to other teams.
 * Wins ATS, compared to other teams.
@@ -50,17 +55,13 @@ This is to point out in a roundabout way that football gods are fickle. There ar
 
 An expansion of probabalistic outcomes based on 10,000 simulations (Gist).
 
-**538**
 
-<iframe width="810" height="720" frameborder="0" scrolling="no" src="//plot.ly/~ep8/6.embed"></iframe><br>
-<sub>Data Source: <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a></sub>
 
 **FOX**
 
 <iframe width="810" height="720" frameborder="0" scrolling="no" src="//plot.ly/~ep8/8.embed"></iframe><br>
 <sub>Data Source: <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
-Chances of CLE going winless? x or y% based on FiveThirtyEight and FOX preseason projections, respectively.
 
 On the flip side they beated the spread four of eight times, so there's that. Next week we'll present a visual that will allow for the toggling between SUP and ATS wins. 
 
@@ -309,7 +310,7 @@ Season line-chart
     * 
 ---
 
-## Week 2 - Back to the Future Full Season Recap 
+<h2 id="week2">Week 2 - Back to the Future Full Season Recap</h2> 
 
 As we plod along tracking game prediction accuracies week-to-week it may be tempting to get lost in the most current data and side tracked by the latest revisions. With that idea in mind let us now take a moment to look forward and document what the two quant models, by FiveThirtyEight and FOX, predicted for the season by using their respecitve game-by-game winning probabilities.
 
