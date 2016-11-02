@@ -36,7 +36,7 @@ After Season
 ## Week 8 - Here's to Cleveland
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 8</a></b></sub></p>
 
-Not a great year for the Browns so far. Through the first two months of the season they have a big fat doughnut in the win column, their loss total inching inexorably to double digits. 
+Not a great year for the Browns to date. Through the first two months of the season they have a big fat doughnut in the win column, their loss total inching inexorably toward double digits. That's pretty rough but how likely is this? Let's look at some data to get an idea and get a grasp on the bigger picture as well.
 
 * Loss margin avg, compared to other teams.
 * Wins ATS, compared to other teams.
@@ -45,6 +45,16 @@ Not a great year for the Browns so far. Through the first two months of the seas
 This is to point out in a roundabout way that football gods are fickle. There are many possibilities before the beginning of the season, some more likely than others (see week 3 below), a few quite obvious in retrospect (never a remarkable talent). 
 
 An expansion of probabalistic outcomes based on 10,000 simulations (Gist).
+
+**538**
+
+<iframe width="810" height="720" frameborder="0" scrolling="no" src="//plot.ly/~ep8/6.embed"></iframe><br>
+<sub>Data Source: <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a></sub>
+
+**FOX**
+
+<iframe width="810" height="720" frameborder="0" scrolling="no" src="//plot.ly/~ep8/8.embed"></iframe><br>
+<sub>Data Source: <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
 Chances of CLE going winless? x or y% based on FiveThirtyEight and FOX preseason projections, respectively.
 
