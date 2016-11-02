@@ -42,16 +42,17 @@ In <a href="#week2">week 2</a> we took the pre-season game-to-game probabilities
 
 Chance of Seattle going undefeated: 0.12% according to FOX; the Jets going winless: 0% chance according to FiveThirtyEight and simulated seasons; Cleveland winning 8 games: 9.6% and 5.7% according to FiveThirtyEight and FOX, respectively. Those last odds look equal parts welcoming and wishful thinking at this point. 
 
-Below is the full chart with hover tool to allow for reviewing the chances for each team (y axis) reaching specific win totals (x axis). The first one is from FiveThirtyEight. 
+Below is the full chart with hover tool to allow for reviewing the chances for each team (y axis) reaching specific win totals (x axis). The first is from FiveThirtyEight the latter from FOX.
 
 <iframe width="810" height="720" frameborder="0" scrolling="no" src="//plot.ly/~ep8/6.embed"></iframe><br>
 <sub>Data Source: <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a></sub>
 
-The zero wins for Cleveland seem a bit "unfair" when both FiveThirtyEight and FOX gave them about a 60% cummulative chance of winning between 4-7 games. The lower end of that projection may still be in play but the higher almost certainly not. So what happened? Has the team been unlucky? I cannot say from watching the games (who watches Browns games?) but we can get an idea
+The zero wins for Cleveland seem a bit "unfair" when both FiveThirtyEight and FOX gave them about a 60% chance of winning between 4-7 games. The lower end of that projection may still be in play but the higher almost certainly not.[FN: This is based on intuition. I did not break out win probabilities for first and second half of the season. Get your nerdy cousin to do the math, we're keeping it high level here.] So what happened, has the team been unlucky? I cannot say from watching the games (who watches Browns games?) but we can get an idea from looking at some game specifics and cumulative numbers to date. 
 
 * Loss margin avg, compared to other teams.
-* Wins ATS, compared to other teams.
 * Home/road points, compared to other teams.
+* Wins ATS, compared to other teams.
+* How many times favored?
 
 This is to point out in a roundabout way that football gods are fickle. There are many possibilities before the beginning of the season, some more likely than others (see week 3 below), a few quite obvious in retrospect (never a remarkable talent). 
 
