@@ -447,6 +447,7 @@ Let's start slow for this first installment. We have all season to get to know e
 <b id="f8">8</b> Originally I thought of generating a tree branch visual of suicide paths but the itertions are at 95k+ through week 7 alone, for the still surviving paths, alone... So no to the tree branch vis, for now. [↩](#a8) <br>
 
 **week 8**
+
 <b id="f9">9</b> This is based on intuition. I did not break out win probabilities for first and second half of the season. Get your nerdy cousin to do the math, we're keeping it high level here. [↩](#a9) <br>
 <b id="f10">10</b> This is an in-season pick change and is indicative of the poor performance FOX has had on their revised picks to this point in the season (so far the in situ FOX model has done worse on both overall picks and Brier Score than the pre-season release). [↩](#a10) <br>
 
