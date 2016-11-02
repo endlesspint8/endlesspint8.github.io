@@ -38,6 +38,10 @@ After Season
 
 Not a great year for the Browns to date. Through the first two months of the season they have a big fat doughnut in the win column, their loss total inching inexorably toward double digits. That's pretty rough but how likely is this? Let's look at some data to get an idea and get a grasp on the bigger picture as well.
 
+In week 2 (link) we took the pre-season game-to-game probabilities of FiveThirtyEight and FOX to determine the average expected wins for each team and thus create a projected final standings. We used these same game-to-game probabilities and ran the seasons over and over again, ten thousand times (Gist). The purpose was to identify the likelihood of any total win counts of each team. Chance of Seattle going undefeated: 0.12% according to FOX. The Jets going winless: 0% chance according to FiveThirtyEight and simulated seasons. Cleveland winning 8 games: 9.6% and 5.7% according to FiveThirtyEight and FOX, respectively. 
+
+
+
 * Loss margin avg, compared to other teams.
 * Wins ATS, compared to other teams.
 * Home/road points, compared to other teams.
