@@ -70,6 +70,6 @@ Whole Foods Market (store specific)
 * [Bowery](http://www.wholefoodsmarket.com/service/beer-menu-bowery)
 * [Chelsea](http://www.wholefoodsmarket.com/service/beer-menu-chelsea)
 * [Tribeca](http://www.wholefoodsmarket.com/service/beer-menu-tribeca)
-* 
+* Even have a [BeerMenus](https://www.beermenus.com/search?q=whole+foods+market) presence
 
 TJ beers (https://www.thrillist.com/drink/nation/trader-joes-beer-every-beer-at-trader-joes-ranked), with decent BA ratings (https://www.beeradvocate.com/beer/profile/10707/)
