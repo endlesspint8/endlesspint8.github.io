@@ -45,10 +45,10 @@ The analysis is restricted to one borough, Manhattan, for reasons that what will
 
 Even if you don’t live in Manhattan, or New York City for that matter, if home is nearby you or someone you know is very likely to work there (http://cityroom.blogs.nytimes.com/2013/06/03/commuters-nearly-double-manhattans-daytime-population-census-says/). 
 
-The borough population doubles every workday (1.6 to 3.1 million). Besides MH only trendy bubble Brooklyn has more than half its workers living in the same borough. 
-
 <img src="/gallery/2016/suds-city/nyc_pop_uscensus.png" alt="nyc_pop_uscensus" /><br>
 <sub>Image Source: <a href="http://www.census.gov/newsroom/releases/pdf/cb13-tps.53_chart2.pdf" target="_blank">Census Bureau</a></sub>
+
+The borough population doubles every workday (1.6 to 3.1 million). Besides MH only trendy bubble Brooklyn has more than half its workers living in the same borough. 
 
 <img src="/gallery/2016/suds-city/man_pop_uscensus.png" alt="man_pop_uscensus" /><br>
 <sub>Image Source: <a href="https://wagner.nyu.edu/files/rudincenter/dynamic_pop_manhattan.pdf" target="_blank">NYU Wagner</a></sub>
@@ -57,13 +57,13 @@ The population of the island doubles on working weekdays taking in commuters and
 
 **And so are The Stores**
 
+The other main reason to focus on Manhattan is that is where most of the stores are located and it makes for a more interesting piece to isolate our attention. The fact that there is a lone shop in Queens doesn't make for very compelling analysis. 
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1RTa4IKNyHEcfF2PCA1J3vbRPUjY" width="640" height="480"></iframe>
 
-The other main reason to focus on Manhattan is that is where most of the stores are located and it makes for a more interesting piece to isolate our attention. The fact that there is a lone 
+A few things stand out immediately. Whole Foods has more stores and covers more territory across Manhattan than does Trader Joe’s, stretching further uptown and down. While Trader Joe's position at first glance appears to have relinquished the ground in Manhattan a second look provides appreciation for their coverage of an outsized area for their numbers. 
 
-A few things stand out immediately. Whole Foods has more stores and covers more territory across Manhattan than does Trader Joe’s, stretching further uptown and down. While Trader Joe's position appears to have handed over much of the area they also appear to cover an outsized area for their numbers. 
-
-This can only happen by placing stores teaching spaces in between the Whole Foods currently built. This is especially the case in the downtown area on the Eastside. Additionally, while the whole foods territory is quite expensive in at least two instances the positioning of the competitors doors are so close to deciding between one or another based on location is a tossup, further strengthening Trader Joe's positioning in relation to what the map would have you believe from only taking a quick glance.
+In fact, Trader Joe's placement of stores, both inbetween Whole Foods Markets and right next door to them appears to be a very clever strategy. TJ has the Midtown and Downtown areas of the Eastside to themselves, the Upper West is mostly their's as well, and the Bowery and Chelsea areas are a tossup due to proximity. While the Whole Foods territory is quite expansive the subtle moves of Trader Joe's places them in stronger positioning than a quick glance at the map would have you believe.
 
 ## Beyond Proximity
 
