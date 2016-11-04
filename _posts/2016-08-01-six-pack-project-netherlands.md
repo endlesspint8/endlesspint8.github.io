@@ -40,6 +40,8 @@ I thought half of the six beers to profile would be dark and the other three of 
 
 ## LOC & de 3 Horne’s Naughty Boy
 
+**[see update at end of this section]**
+
 Is it a stout, is it a BIPA? This collaboration from <a href="http://www.locbrewery.com/" target="_blank">LOC</a> and <a href="https://de3horne.nl/" target="_blank">de 3 Horne</a> is a bit of both. The photo shows the foam suggesting a Belgian-y yeast. The color and roast flavors say "stout". The nose and forward flavor say "hops". The label itself says a whole lot and nothing at all. Beside the cartoon we are provided a run-on sentence that was written under some type of influence and <a href="https://twitter.com/hashtag/googletranslate" target="_blank">Google translate</a> mashup.
 
 "_This brew was never meant to be, the recipe was never written and the ABV and IBU was never calculated. But this naughty boy wouldn't listen, so from the second runnings of the LOC brewery Imperial Stout '84' he became... If he is any good, well we dare not to say as this naughty boy is not to be trusted. Slightly toasted, malty flavor with a hint of savory together with the characteristics from the cascade and centennial hops._
@@ -64,7 +66,7 @@ Running a <a href="/code/six_pack_LOC_nb" target="_blank">k-nearest neighbor ana
 <img src="/gallery/2016/sixpack/loc_knn2.png"> <br>
 <sub>Data source: <a href="https://untappd.com/" target="_blank">Untappd</a> </sub>
 
-Quantitative analysis aside, of the fourteen top reviewers that rated this on <a href="http://www.ratebeer.com/beer/loc-naughty-boy/397297/2/1/" target="_blank">RateBeer</a> (Accessed: 24 July 2016) eleven mentioned "bitter", and some more than once. Consumers naturally have predefined ideas about what they are getting into, including when they don't know what to expect (which was a bit like my experience in drinking this without prior knowledge about the purported style). I believe the misplaced expectations of what a stout should taste like left reviewers surprised, and clearly not always in a pleasant way. I would submit that if Naughty Boy has an IBU of 55 or higher it be rebranded and possibly receive better reviews as a result. 
+Quantitative analysis aside, of the fourteen top reviewers that rated this on <a href="http://www.ratebeer.com/beer/loc-naughty-boy/397297/2/1/" target="_blank">RateBeer</a> (Accessed: 24 July 2016) eleven mentioned "bitter", and some more than once. Consumers naturally have predefined ideas about what they are getting into, including when they don't know what to expect (which was a bit like my experience in drinking this without prior knowledge about the purported style). I believe the misplaced expectations of what a stout should taste like left reviewers surprised, and clearly not always in a pleasant way. I would submit that if Naughty Boy has an IBU of 55 or higher it be rebranded and possibly receive better reviews as a result. **[UPDATE - A couple of months after running this article I reached out to one of the breweries and received the following response: _"First off we have to say that you are absolutely right and we actually regretted not dry hopping Naughty Boy and set the style to session BIPA. But then when brewing a collab you can't precisely do as you want all the time." - Daniel, LOC Brewery_]**
 
 ## Emelisse Saison
 
