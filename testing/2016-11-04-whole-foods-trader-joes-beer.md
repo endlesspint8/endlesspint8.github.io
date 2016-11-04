@@ -74,13 +74,12 @@ Lastly, if you look closely at the two Voronoi maps you will notice the Westside
 
 When it comes to non-commodity beer there is more to take into consideration than just how close a store is. There is also variety, exclusivity, price, and rotation. 
 
-WF beer dept (http://www.wholefoodsmarket.com/department/beer)
+Below is a quick and dirty cheat sheet based on annecdotal experience and supporting links. It is not meant to be the final word but rather a starting point of discussion. 
 
-Whole Foods Market (store specific)
-
-* [Bowery](http://www.wholefoodsmarket.com/service/beer-menu-bowery)
-* [Chelsea](http://www.wholefoodsmarket.com/service/beer-menu-chelsea)
-* [Tribeca](http://www.wholefoodsmarket.com/service/beer-menu-tribeca)
-* Even have a [BeerMenus](https://www.beermenus.com/search?q=whole+foods+market) presence
-
-TJ beers (https://www.thrillist.com/drink/nation/trader-joes-beer-every-beer-at-trader-joes-ranked), with decent BA ratings (https://www.beeradvocate.com/beer/profile/10707/)
+|   |Trader Joe's|Whole Foods Market|Comments|
+|---|---|---|---|
+|variety||&#10004;|WF has store specific beer listings (e.g., [Bowery](http://www.wholefoodsmarket.com/service/beer-menu-bowery), [Chelsea](http://www.wholefoodsmarket.com/service/beer-menu-chelsea), & [Tribeca](http://www.wholefoodsmarket.com/service/beer-menu-tribeca)) with enough focus on this deparment to have their presence listed on [BeerMenus](https://www.beermenus.com/search?q=whole+foods+market)|
+|exclusivity|&#10004;||TJ has their own beers (https://www.thrillist.com/drink/nation/trader-joes-beer-every-beer-at-trader-joes-ranked), with decent BA ratings (https://www.beeradvocate.com/beer/profile/10707/)|
+|price|&#10004;|||
+|rotation||&#10004;||
+|website||&#10004;|See for yourself, not even taking the store specific links mentioned above into consideration: [TJ](http://www.traderjoes.com/fearless-flyer/category/11) v [WF](http://www.wholefoodsmarket.com/department/beer)|
