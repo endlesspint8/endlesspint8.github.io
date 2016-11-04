@@ -4,6 +4,7 @@ title: Data Guide for the Beer Perplexed
 subtitle: Part I - Looking at Beer Style Connections 
 tags: ["D3", "BokehPlots", "link & node"]
 shortlink: http://bit.ly/prplxd1
+twitimg: pic.twitter.com/2bXhMn2QHD
 ---
 
 ## Whole Lotta Beers Out There
@@ -52,7 +53,7 @@ Our second visualization represents the same data set as a grid, a co-occurrence
 <iframe src="http://endlesspint.com/gallery/2016/cb/cb_style_req.html" width="810" height="810" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
 <sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> / 
 Vis Inspiration: <a href="https://bost.ocks.org/mike/miserables/" target="_blank">D3 Les Misérables</a> / 
-Vis Code: <a href="http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html" target="_blank">Bokeh Les Mis Occurrences</a>
+Vis Code: <a href="http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html" target="_blank">Bokeh Les Mis Occurrences</a> / <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/2bXhMn2QHD Data Guide for the Beer Perplexed, Part 1&url=http://bit.ly/prplxd1&via=endlesspint8&hashtags=Bokeh,beer,dataviz" target="_blank" title="Share on Twitter">Grid</a></b>
 </sub>
 
 The way to read this grid is at least twofold. First off, find a style you like along the left side, pan horizontally across the row of that style. Anywhere a darkened box appears is a suggestion for expanding your horizon. Alternatively, you can find a style you're interested in across the top and scan down its column to find yourself a gateway beer into appreciating this curiosity. The graph is at times difficult to read due to squeezing in so many styles into a limited space but this issue is partially mitigated by a hover tool that tells you directly the beers represented by each square, "like this" then "try that". This representation of the data allows the user to see groupings more clearly and see relationships at a glance, arguably more quickly than a hairball like the one above.
