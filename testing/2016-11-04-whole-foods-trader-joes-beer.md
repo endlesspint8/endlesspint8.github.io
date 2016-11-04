@@ -39,35 +39,35 @@ In keeping with the holiday spirit and, coincidentally, the branding colors them
 
 ## Manhattan Keeps on Makin' It
 
-The analysis is restricted to one borough, Manhattan, for reasons that what will become obvious, if they are not already. Apropos of nothing, even with Brooklyn in Ascension on the cool and global consciousness for a decade, two decades, plus – forever if you talk to native born Brooklynites, and who can argue with a place that gave us Walt Whitman, when you think of New York you think of Manhattan. That aside, Manhattan sports a giant influx of people from commuters and tourists. Outside of the airports, which are always on the outskirts of cities anyway, many of the major transit hubs and terminals are in "The City". [FN: Going back to the first non relevant point, let's be serious, when people say "The City" they mean the five boroughs generally but if you had to be more specific it would be Manhattan.]
+The analysis is restricted to one borough, Manhattan, for reasons that what will become obvious, if they are not already. Apropos of nothing, even with Brooklyn in ascension on the cool and global consciousness for a decade, two decades-plus, forever if you talk to native born Brooklynites, and who can argue with a place that gave us Walt Whitman, when you think of New York you think of Manhattan. 
 
 **The People Are Here**
+
+That aside, Manhattan sports a giant influx of people from commuters and tourists. Outside of the airports, which are always on the outskirts of cities anyway, many of the major transit hubs and terminals are in "The City". [FN: Going back to the first non relevant point, let's be serious, when people say "The City" they mean the five boroughs generally but if you had to be more specific it would be Manhattan.]
 
 Even if you don’t live in Manhattan, or New York City for that matter, if home is nearby you or someone you know is very likely to work there (http://cityroom.blogs.nytimes.com/2013/06/03/commuters-nearly-double-manhattans-daytime-population-census-says/). 
 
 <img src="/gallery/2016/suds-city/nyc_pop_uscensus.png" alt="nyc_pop_uscensus" /><br>
 <sub>Image Source: <a href="http://www.census.gov/newsroom/releases/pdf/cb13-tps.53_chart2.pdf" target="_blank">Census Bureau</a></sub>
 
-The borough population doubles every workday (1.6 to 3.1 million). Besides MH only trendy bubble Brooklyn has more than half its workers living in the same borough. 
+And the 212 takes in the majority of out of townThe borough population doubles every workday (1.6 to 3.1 million). Besides Manhattan only trendy bubble Brooklyn has half or more of its workers living in the same borough, but only Manhattan does not see a decline in day time population. 
 
 <img src="/gallery/2016/suds-city/man_pop_uscensus.png" alt="man_pop_uscensus" /><br>
 <sub>Image Source: <a href="https://wagner.nyu.edu/files/rudincenter/dynamic_pop_manhattan.pdf" target="_blank">NYU Wagner</a></sub>
 
-The population of the island doubles on working weekdays taking in commuters and tourists from nearby and around the world. Only Brooklyn, which we can't seem to shake, matches Manhattan as a borough that has half or more of its residents working in the same borough.
-
 **And so are The Stores**
 
-The other main reason to focus on Manhattan is that is where most of the stores are located and it makes for a more interesting piece to isolate our attention. The fact that there is a lone shop in Queens doesn't make for very compelling analysis. 
+The other main reason to focus on Manhattan is that is where most of the stores are located and it makes for a more interesting piece to narrow our attention. The fact that there is a lone shop in Queens doesn't make for very compelling analysis. 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1RTa4IKNyHEcfF2PCA1J3vbRPUjY" width="640" height="480"></iframe>
 
 A few things stand out immediately. Whole Foods has more stores and covers more territory across Manhattan than does Trader Joe’s, stretching further uptown and down. While Trader Joe's position at first glance appears to have relinquished the ground in Manhattan a second look provides appreciation for their coverage of an outsized area for their numbers. 
 
-In fact, Trader Joe's placement of stores, both inbetween Whole Foods Markets and right next door to them appears to be a very clever strategy. TJ has the Midtown and Downtown areas of the Eastside to themselves, the Upper West is mostly their's as well, and the Bowery and Chelsea areas are a tossup due to proximity. While the Whole Foods territory is quite expansive the subtle moves of Trader Joe's places them in stronger positioning than a quick glance at the map would have you believe.
+In fact, Trader Joe's placement of stores, both in-between Whole Foods Markets and right next door to them appears to be a very clever strategy. TJ has the Midtown and Downtown areas of the Eastside to themselves, the Upper West is mostly their's as well, and the Bowery and Chelsea areas are a tossup due to proximity to WF shops. While the Whole Foods territory is quite expansive the subtle moves of Trader Joe's places them in stronger positioning than a quick glance at the map would have you believe.
 
 ## Beyond Proximity
 
-Other items of consideration: variety, exclusivity, price, and rotation. 
+When it comes to non-commodity beer there is more to take into consideration than just how close a store is. There is also variety, exclusivity, price, and rotation. 
 
 WF beer dept (http://www.wholefoodsmarket.com/department/beer)
 
