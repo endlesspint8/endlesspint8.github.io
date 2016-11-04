@@ -7,10 +7,9 @@ shortlink:
 twitimg: pic.twitter.com/Kmm6NGhFeB
 ---
 
-<br>
-<iframe width="100%" height="520" frameborder="0" src="https://endlesspint8.carto.com/viz/9bb87bba-9c19-11e6-b223-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
 ## Grab a Roadie
+
+<iframe width="100%" height="520" frameborder="0" src="https://endlesspint8.carto.com/viz/9bb87bba-9c19-11e6-b223-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 Craft beer is here, hooray. There are more breweries and styles (http://endlesspint.com/2016-10-10-beer-introductions-1/) than ever before. Taste has won over mass produced piss and we may all rest easy now. Not so fast. While we may be experiencing a Golden Age in beer consumer options there is no guarantee these days are here to last. With more options come more challenges, opportunities, and developments. 
 
@@ -67,7 +66,7 @@ A few things stand out immediately. Whole Foods has more stores and covers more 
 
 In fact, Trader Joe's placement of stores, both in-between Whole Foods Markets and right next door to them appears to be a very clever strategy. TJ has the Midtown and Downtown areas of the Eastside to themselves, the Upper West is mostly their's as well, and the Bowery and Chelsea areas are a tossup due to proximity to WF shops. While the Whole Foods territory is quite expansive the subtle moves of Trader Joe's places them in stronger positioning than a quick glance at the map would have you believe.
 
-Lastly, if you look closely at the two Voronoi maps you will notice the Westside is not accurately rendered, with a TJ section overlapping what should be one for WF. This is an error to be fixed at a later date but it serves as a funny coincidence that visually shows off the possible effect of my TJ description.
+Lastly, if you look closely at the two Voronoi maps you will notice the Westside is not accurately rendered, with a TJ section overlapping what should be one for WF. This is an error to be fixed at a later date but serves as a funny coincidence that visually shows off the possible effect of my TJ description.
 
 ## Beyond Proximity
 
