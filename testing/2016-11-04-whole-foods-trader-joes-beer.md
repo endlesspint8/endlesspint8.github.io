@@ -13,13 +13,13 @@ twitimg: pic.twitter.com/Kmm6NGhFeB
 <iframe width="100%" height="520" frameborder="0" src="https://endlesspint8.carto.com/viz/9bb87bba-9c19-11e6-b223-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 <br>
 
-Craft beer is here, hooray. There are more breweries and styles (http://endlesspint.com/2016-10-10-beer-introductions-1/) than ever before. Taste has won over mass produced piss and we may all rest easy now. Not so fast. While we may be experiencing a Golden Age in beer consumer options there is no guarantee these days are here to last. With more options come more challenges, opportunities, and developments. 
+Craft beer is here, hooray. There are more breweries and <a href="http://endlesspint.com/2016-10-10-beer-introductions-1/" target="_blank">styles</a> than ever before. Taste has won over mass produced piss and we may all rest easy now. Not so fast. While we may be experiencing a Golden Age in beer consumer options there is no guarantee these days are here to last. With more options come more challenges, opportunities, and developments. 
 
 * **Challenges**: more breweries, more competition, more difficult to be noticed in the market. 
-* **Opportunities**: breweries are supplementing their revenue with on-premise sales at the brewery itself, "own-premise" if you will (http://goodbeerhunting.com/blog/2016/10/2/i-want-you-to-want-me-examining-the-own-premise-revolution), which offer a giant boost to their bottom line but may result in more competition for your favorite local pub. 
+* **Opportunities**: breweries are supplementing their revenue with on-premise sales at the brewery itself, "<a href="http://goodbeerhunting.com/blog/2016/10/2/i-want-you-to-want-me-examining-the-own-premise-revolution" target="_blank">own-premise</a>" if you will, which offer a giant boost to their bottom line but may result in more competition for your favorite local pub. 
 * **Developments**: acquisitions and partnerships are happening all around us that are primed to change the market over the coming years as more money pours in, from keg pricing and distribution to franchised brewpubs. 
 
-Another one of these "devellengepportunities" is the change in consumer behavior present on both sides of the Atlantic with respect to where beers are being enjoyed. On-premise sales are down in the US (http://beverage-handbook-store.myshopify.com/blogs/news/on-premise-beverage-alcohol-consumption-continues-to-decline-according-to-cheers-barometer-report). Meanwhile in the UK off-premise sales (https://www.theguardian.com/business/2016/sep/26/supermarket-beer-sales-overtook-pub-sales-first-time-last-year) top bar purchases for the first time.
+Another one of these "devellengepportunities" is the change in consumer behavior present on both sides of the Atlantic with respect to where beers are being enjoyed. On-premise sales are <a href="http://beverage-handbook-store.myshopify.com/blogs/news/on-premise-beverage-alcohol-consumption-continues-to-decline-according-to-cheers-barometer-report" target="_blank">down in the US</a>. Meanwhile in the UK off-premise sales <a href="https://www.theguardian.com/business/2016/sep/26/supermarket-beer-sales-overtook-pub-sales-first-time-last-year" target="_blank">top bar purchases for the first time</a>.
 
 With the temperature dipping and dollars getting tight for the approaching holidays this is an opportune time to look at the options for New York City residents. Just because it's cold outside doesn't mean you can't have your own little slice of craft beer heaven at home. And for less of a markup than at a bar. 
 
@@ -36,22 +36,22 @@ Stopping over can also serve as a light and warmth oasis between your office and
 
 Setting aside your local bodega, which I absolutely suggest you support first, second, and last, I went about identifying where to go should you only have two options, Whole Foods Market (WF) and Trader Joe's (TJ). No matter where you find yourself in the city you can choose the store closest to you based on the map(s) provided.
 
-In keeping with the holiday spirit and, coincidentally, the branding colors themselves, I've colored the store dots and respective Voronoi (https://en.wikipedia.org/wiki/Voronoi_diagram) sections either red or green. My apologies to the color blind audience out there but I have not forgotten about you and provided a more color blind friendly (http://mkweb.bcgsc.ca/colorblind/) version in a section below. 
+In keeping with the holiday spirit and, coincidentally, the branding colors themselves, I've colored the store dots and respective <a href="https://en.wikipedia.org/wiki/Voronoi_diagram" target="_blank">Voronoi</a> sections either red or green. My apologies to the color blind audience out there but I have not forgotten about you and provided a more <a href="http://mkweb.bcgsc.ca/colorblind/" target="_blank">color blind friendly</a> version in a section below. 
 
 ## Manhattan Keeps on Makin' It
 
 The analysis is restricted to one borough, Manhattan, for reasons that what will become obvious, if they are not already. Apropos of nothing, even with Brooklyn in ascension on the cool and global consciousness for a decade, two decades-plus, forever if you talk to native born Brooklynites, and who can argue with a place that gave us Walt Whitman, when you think of New York you think of Manhattan. 
 
-**The People Are Here**
-
 That aside, Manhattan sports a giant influx of people from commuters and tourists. Outside of the airports, which are always on the outskirts of cities anyway, many of the major transit hubs and terminals are in "The City". [FN: Going back to the first non relevant point, let's be serious, when people say "The City" they mean the five boroughs generally but if you had to be more specific it would be Manhattan.]
 
-Even if you don’t live in Manhattan, or New York City for that matter, if home is nearby you or someone you know is very likely to work there (http://cityroom.blogs.nytimes.com/2013/06/03/commuters-nearly-double-manhattans-daytime-population-census-says/). 
+**The People Are Here**
+
+Even if you don’t live in Manhattan, or New York City for that matter, if home is nearby you or someone you know is very likely to <a href="http://cityroom.blogs.nytimes.com/2013/06/03/commuters-nearly-double-manhattans-daytime-population-census-says/" target="_blank">work there</a>. 
 
 <img src="/gallery/2016/suds-city/nyc_pop_uscensus.png" alt="nyc_pop_uscensus" /><br>
 <sub>Image Source: <a href="http://www.census.gov/newsroom/releases/pdf/cb13-tps.53_chart2.pdf" target="_blank">Census Bureau</a></sub>
 
-And the 212 takes in the majority of out of town commuters, with the borough population doubling on workdays (1.6 to 3.1 million). Besides Manhattan only trendy-bubble Brooklyn has half or more of its workers living in the same borough, but only Manhattan does not see a decline in day time population (chew on that). 
+And the 212 takes in the majority of out of town commuters, with the borough population doubling on workdays. Besides Manhattan, only trendy Brooklyn has half or more of its workers living in the same borough, but only Manhattan does not see a decline in day time population (chew on that). 
 
 <img src="/gallery/2016/suds-city/man_pop_uscensus.png" alt="man_pop_uscensus" /><br>
 <sub>Image Source: <a href="https://wagner.nyu.edu/files/rudincenter/dynamic_pop_manhattan.pdf" target="_blank">NYU Wagner</a></sub>
@@ -78,8 +78,10 @@ Below is a quick and dirty cheat sheet based on annecdotal experience and suppor
 
 |   |Trader Joe's|Whole Foods Market|Comments|
 |---|---|---|---|
-|variety||&#10004;|WF has store specific beer listings (e.g., [Bowery](http://www.wholefoodsmarket.com/service/beer-menu-bowery), [Chelsea](http://www.wholefoodsmarket.com/service/beer-menu-chelsea), & [Tribeca](http://www.wholefoodsmarket.com/service/beer-menu-tribeca)) with enough focus on this deparment to have their presence listed on [BeerMenus](https://www.beermenus.com/search?q=whole+foods+market)|
-|exclusivity|&#10004;||TJ has their own beers (https://www.thrillist.com/drink/nation/trader-joes-beer-every-beer-at-trader-joes-ranked), with decent BA ratings (https://www.beeradvocate.com/beer/profile/10707/)|
+|variety||&#10004;|WF has store specific beer listings (e.g., <a href="http://www.wholefoodsmarket.com/service/beer-menu-bowery" target="_blank">Bowery</a>, <a href="http://www.wholefoodsmarket.com/service/beer-menu-chelsea" target="_blank">Chelsea</a>, & <a href="http://www.wholefoodsmarket.com/service/beer-menu-tribeca" target="_blank">Tribeca</a> with enough focus on this deparment to have their presence listed on [BeerMenus](https://www.beermenus.com/search?q=whole+foods+market)|
+|exclusivity|&#10004;||TJ has <a href="https://www.thrillist.com/drink/nation/trader-joes-beer-every-beer-at-trader-joes-ranked" target="_blank">their own beers</a>, with decent <a href="https://www.beeradvocate.com/beer/profile/10707/" target="_blank">BA ratings</a>|
 |price|&#10004;|||
 |rotation||&#10004;||
-|website||&#10004;|See for yourself, not even taking the store specific links mentioned above into consideration: [TJ](http://www.traderjoes.com/fearless-flyer/category/11) v [WF](http://www.wholefoodsmarket.com/department/beer)|
+|website||&#10004;|See for yourself, not even taking the store specific links mentioned above into consideration: <a href="http://www.traderjoes.com/fearless-flyer/category/11" target="_blank">TJ</a> v <a href="http://www.wholefoodsmarket.com/department/beer" target="_blank">WF</a>|
+
+I believe that's enough ink spilled on these "big guys". Next time we look at spatial analysis we'll show love to the little guys in the craft game.
