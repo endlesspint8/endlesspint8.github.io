@@ -33,9 +33,9 @@ The little glimmers of light all about you come futily from office windows and s
 
 Stopping over can also serve as a light and warmth oasis between your office and home or sightseeing and the hotel. With a solid pint in hand you can dim the light from your mobile or laptop. No need to fight so resolutely, comfortable in the knowledge of being home and snug.
 
-Setting aside your local bodega, which I absolutely suggest you support first, second, and last, I went about identifying where to go should you only have two options, Whole Foods and Trader Joe's. Now no matter where you find yourself in the city you can choose the store closest to you based on the map provided.
+Setting aside your local bodega, which I absolutely suggest you support first, second, and last, I went about identifying where to go should you only have two options, Whole Foods Market (WF) and Trader Joe's (TJ). No matter where you find yourself in the city you can choose the store closest to you based on the map(s) provided.
 
-In keeping with the holiday spirit and, coincidentally, the branding colors themselves, I've colored the store dots and respective Voronoi (https://en.wikipedia.org/wiki/Voronoi_diagram) sections either red or green. My apologies to the color blind audience out there but I have not forgotten about you. The following color blind friendly (http://mkweb.bcgsc.ca/colorblind/) link displays the same data. 
+In keeping with the holiday spirit and, coincidentally, the branding colors themselves, I've colored the store dots and respective Voronoi (https://en.wikipedia.org/wiki/Voronoi_diagram) sections either red or green. My apologies to the color blind audience out there but I have not forgotten about you and provided a more color blind friendly (http://mkweb.bcgsc.ca/colorblind/) version in a section below. 
 
 ## Manhattan Keeps on Makin' It
 
@@ -50,20 +50,24 @@ Even if you don’t live in Manhattan, or New York City for that matter, if home
 <img src="/gallery/2016/suds-city/nyc_pop_uscensus.png" alt="nyc_pop_uscensus" /><br>
 <sub>Image Source: <a href="http://www.census.gov/newsroom/releases/pdf/cb13-tps.53_chart2.pdf" target="_blank">Census Bureau</a></sub>
 
-And the 212 takes in the majority of out of townThe borough population doubles every workday (1.6 to 3.1 million). Besides Manhattan only trendy bubble Brooklyn has half or more of its workers living in the same borough, but only Manhattan does not see a decline in day time population. 
+And the 212 takes in the majority of out of town commuters, with the borough population doubling on workdays (1.6 to 3.1 million). Besides Manhattan only trendy-bubble Brooklyn has half or more of its workers living in the same borough, but only Manhattan does not see a decline in day time population (chew on that). 
 
 <img src="/gallery/2016/suds-city/man_pop_uscensus.png" alt="man_pop_uscensus" /><br>
 <sub>Image Source: <a href="https://wagner.nyu.edu/files/rudincenter/dynamic_pop_manhattan.pdf" target="_blank">NYU Wagner</a></sub>
 
 **And so are The Stores**
 
-The other main reason to focus on Manhattan is that is where most of the stores are located and it makes for a more interesting piece to narrow our attention. The fact that there is a lone shop in Queens doesn't make for very compelling analysis. 
+The other main reason to focus on Manhattan: that is where most of the stores are located and it makes for a more interesting piece to narrow our attention. The fact that there is a lone shop in Queens doesn't make for very compelling analysis. 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1RTa4IKNyHEcfF2PCA1J3vbRPUjY" width="640" height="480"></iframe>
 
 A few things stand out immediately. Whole Foods has more stores and covers more territory across Manhattan than does Trader Joe’s, stretching further uptown and down. While Trader Joe's position at first glance appears to have relinquished the ground in Manhattan a second look provides appreciation for their coverage of an outsized area for their numbers. 
 
+<iframe width="100%" height="520" frameborder="0" src="https://endlesspint8.carto.com/viz/06993e82-a0f8-11e6-85e5-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 In fact, Trader Joe's placement of stores, both in-between Whole Foods Markets and right next door to them appears to be a very clever strategy. TJ has the Midtown and Downtown areas of the Eastside to themselves, the Upper West is mostly their's as well, and the Bowery and Chelsea areas are a tossup due to proximity to WF shops. While the Whole Foods territory is quite expansive the subtle moves of Trader Joe's places them in stronger positioning than a quick glance at the map would have you believe.
+
+Lastly, if you look closely at the two Voronoi maps you will notice the Westside is not accurately rendered, with a TJ section overlapping what should be one for WF. This is an error to be fixed at a later date but it serves as a funny coincidence that visually shows off the possible effect of my TJ description.
 
 ## Beyond Proximity
 
