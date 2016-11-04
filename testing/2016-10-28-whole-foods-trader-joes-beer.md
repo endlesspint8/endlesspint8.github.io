@@ -7,9 +7,11 @@ shortlink:
 twitimg: pic.twitter.com/Kmm6NGhFeB
 ---
 
+<iframe width="100%" height="520" frameborder="0" src="https://endlesspint8.carto.com/viz/9bb87bba-9c19-11e6-b223-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 ## Grab a Roadie
 
-Craft beer is here, hooray. There are more breweries and styles than ever before. Taste has won over mass produced piss and we may all rest easy now. Not so fast. While we may be experiencing a Golden Age in beer consumer options there is no guarantee these days are here to last. With more options come more challenges, opportunities, and developments. 
+Craft beer is here, hooray. There are more breweries and styles (http://endlesspint.com/2016-10-10-beer-introductions-1/) than ever before. Taste has won over mass produced piss and we may all rest easy now. Not so fast. While we may be experiencing a Golden Age in beer consumer options there is no guarantee these days are here to last. With more options come more challenges, opportunities, and developments. 
 
 * **Challenges**: more breweries, more competition, more difficult to be noticed in the market. 
 * **Opportunities**: breweries are supplementing their revenue with on-premise sales at the brewery itself (own-premise (http://goodbeerhunting.com/blog/2016/10/2/i-want-you-to-want-me-examining-the-own-premise-revolution)), which offer a giant boost to their bottom line but may result in more competition for your favorite local pub. 
@@ -38,7 +40,11 @@ In keeping with the holiday spirit and, coincidentally, the branding colors them
 
 The analysis is restricted to one borough, Manhattan, for reasons that what will become obvious, if they are not already. Apropos of nothing, even with Brooklyn in Ascension on the cool and global consciousness for a decade, two decades, plus – forever if you talk to native born Brooklynites, and who can argue with a place that gave us Walt Whitman, when you think of New York you think of Manhattan. That aside, Manhattan sports a giant influx of people from commuters and tourists. Outside of the airports, which are always on the outskirts of cities anyway, many of the major transit hubs and terminals are in "The City". [FN: Going back to the first non relevant point, let's be serious, when people say "The City" they mean the five boroughs generally but if you had to be more specific it would be Manhattan.]
 
-THE PEOPLE ARE THERE: Even if you don’t live in Manhattan you’re very likely to work there (http://cityroom.blogs.nytimes.com/2013/06/03/commuters-nearly-double-manhattans-daytime-population-census-says/?_r=0). The borough population doubles every workday (1.6 to 3.1 million). Besides MH only trendy bubble Brooklyn has more than half its workers living in the same borough. 
+**The People Are Here**
+
+Even if you don’t live in Manhattan, or New York City for that matter, if home is nearby you or someone you know is very likely to work there (http://cityroom.blogs.nytimes.com/2013/06/03/commuters-nearly-double-manhattans-daytime-population-census-says/). 
+
+The borough population doubles every workday (1.6 to 3.1 million). Besides MH only trendy bubble Brooklyn has more than half its workers living in the same borough. 
 
 <img src="/gallery/2016/suds-city/nyc_pop_uscensus.png" alt="nyc_pop_uscensus" /><br>
 <sub>Image Source: <a href="http://www.census.gov/newsroom/releases/pdf/cb13-tps.53_chart2.pdf" target="_blank">Census Bureau</a></sub>
@@ -48,14 +54,11 @@ THE PEOPLE ARE THERE: Even if you don’t live in Manhattan you’re very likely
 
 The population of the island doubles on working weekdays taking in commuters and tourists from nearby and around the world. Only Brooklyn, which we can't seem to shake, matches Manhattan as a borough that has half or more of its residents working in the same borough.
 
-## ALSO, THAT IS WHERE THE STORES ARE: 
+**And so are The Stores**
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1RTa4IKNyHEcfF2PCA1J3vbRPUjY" width="640" height="480"></iframe>
 
-The other main reason to focus on Manhattan, is because that is where most of the stores are located and it makes for a more interesting piece to isolate our attention. The fact that there is a lone 
-
-
-<iframe width="100%" height="520" frameborder="0" src="https://endlesspint8.carto.com/viz/9bb87bba-9c19-11e6-b223-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+The other main reason to focus on Manhattan is that is where most of the stores are located and it makes for a more interesting piece to isolate our attention. The fact that there is a lone 
 
 A few things stand out immediately. Whole Foods has more stores and covers more territory across Manhattan than does Trader Joe’s, stretching further uptown and down. While Trader Joe's position appears to have handed over much of the area they also appear to cover an outsized area for their numbers. 
 
