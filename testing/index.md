@@ -9,7 +9,7 @@ shortlink: http://bit.ly/2dxLtd9
 
 <p><font size="1" color="blue">This is some text!</font></p>
 
-Draft [1](2016-10-28-whole-foods-trader-joes-beer), 2, 3
+Draft [1](2016-11-11-ggg-brook-fight-week-tweets), 2, 3
 
 ## Plotly Heatmap
 
