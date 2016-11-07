@@ -7,14 +7,20 @@ shortlink:
 twitimg: 
 ---
 
-## testing 
+## Bout Highlights 
 
-<p align="right">
+<p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzCO3Q5rZF4" frameborder="0" allowfullscreen></iframe>
 </p>
 
 <img src="/gallery/2016/boxing/ggg-brook/ftwk_ts.png" alt="ftwk_hashes" /><br>
 <sub>Data Source: Twitter | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/nTFzCRSFT8 dataviz of ten thousand season simulations&url=http://bit.ly/2fEpw08&via=endlesspint8&hashtags=nflpicks,heatmap" target="_blank" title="Share on Twitter">Week 8</a></sub>
+
+## Shifting
+
+<p align="middle">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vijD09_O8ek" frameborder="0" allowfullscreen></iframe>
+</p>
 
 ## Grab a Roadie
 <br>
