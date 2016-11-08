@@ -21,6 +21,9 @@ twitimg:
 <img src="/gallery/2016/boxing/ggg-brook/re_tweet_donuts.PNG" alt="re_tweet_donuts" /><br>
 <sub>Data Source: Twitter | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/nTFzCRSFT8 dataviz of ten thousand season simulations&url=http://bit.ly/2fEpw08&via=endlesspint8&hashtags=nflpicks,heatmap" target="_blank" title="Share on Twitter">Week 8</a></sub>
 
+<img src="/gallery/2016/boxing/ggg-brook/re_tweet_donuts2.PNG" alt="re_tweet_donuts" /><br>
+<sub>Data Source: Twitter | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/nTFzCRSFT8 dataviz of ten thousand season simulations&url=http://bit.ly/2fEpw08&via=endlesspint8&hashtags=nflpicks,heatmap" target="_blank" title="Share on Twitter">Week 8</a></sub>
+
 ## Shifting
 
 <p align="middle">
