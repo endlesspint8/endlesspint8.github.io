@@ -40,7 +40,7 @@ In keeping with the holiday spirit and, coincidentally, the branding colors them
 
 ## Manhattan Keeps on Makin' It
 
-The analysis is restricted to one borough, Manhattan, for reasons that what will become obvious, if they are not already. Apropos of nothing, even with Brooklyn in ascension on the cool and global consciousness for a decade, two decades-plus, forever if you talk to native born Brooklynites, and who can argue with a place that gave us Walt Whitman, when you think of New York you think of Manhattan. 
+The analysis is restricted to one borough, Manhattan, for reasons that will become obvious, if they are not already. Apropos of nothing, even with Brooklyn in ascension on the cool and global consciousness for a decade, two decades-plus, forever if you talk to native born Brooklynites, and who can argue with a place that gave us Walt Whitman, when you think of New York you think of Manhattan. 
 
 That aside, Manhattan sports a giant influx of people from commuters and tourists. Outside of the airports, which are always on the outskirts of cities anyway, many of the major transit hubs and terminals are in "The City".<sup id="a1">[1](#f1)</sup> 
 
@@ -92,4 +92,4 @@ I believe that's enough ink spilled on these "big guys". Next time we look at sp
 
 **Notes**
 
-<b id="f1">1</b> Going back to the first non-relevant point, let's be serious, when people say "The City" they mean the five boroughs generally but if you had to be more specific it would be Manhattan.
+<b id="f1">1</b> Going back to the first non-relevant point, let's be serious, when people say "The City" they mean the five boroughs generally but if you had to be more specific it would be Manhattan. [↩](#a1) <br>
