@@ -49,7 +49,7 @@ Below is a treemap (wiki link) that shows the share of wins by team, division, a
 
 (it's halftime lyric)
 
-While the above is not immediately related to our picks sources, it is not tangential either. The halfway point of the season seems like an appropriate time to see where we stand, how favorites have performed, and help judge the knowledge moving forward.
+While the above is not immediately linked to our picks' sources, it is not tangential either. The halfway point of the season seems like an appropriate time to see where we stand, who has under- or over-performed, and help recalibrate our knowledge and expectations moving forward.
 
 ATS/SUP ratio: overachievers & underachievers
 
