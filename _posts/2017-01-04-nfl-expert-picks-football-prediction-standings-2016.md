@@ -30,6 +30,24 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 ---
 
+## Week 9 - Team Performance: SUP & ATS
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/nTFzCRSFT8 treemap dataviz of NFL wins SUP and ATS&url=http://bit.ly/2fEpw08&via=endlesspint8&hashtags=nflpicks,D3" target="_blank" title="Share on Twitter">Week 9</a></b></sub></p>
+
+http://endlesspint.com/2017-01-04-nfl-expert-picks-football-prediction-standings-2016/#week-9---team-performance-sup--ats
+
+It would have been nice to include everyone this week but our spotlighted team from last week, the Cleveland Browns, couldn't pull the upset and as a result they will be partly left out from this week's visual representation. Initially I thought this was inconvenient and a break in the streak of good luck I've had in the way the season has played out, being conveniently aligned with the visuals picked out, but then I realized this is equally perfect and suits the Browns' season just right.
+
+Last week we looked at the universe of possible outcomes for each team over thousands of simulated seasons. This week, with every team having played eight games, we look at reality to date.
+
+Below is a treemap (wiki link) that shows the share of wins by team, division, and conference as a spatial representation. This is done by grouping division teams spatially and by color, and splitting the conferences. Additionally the user may toggle between the two wins representations: straight up (SUP) and against the spread (ATS).
+
+<iframe src="http://endlesspint.com/gallery/2016/football-picks/wk09_treemap.html" width="800" height="400" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
+<sub>Vis Source: <a href="https://bl.ocks.org/mbostock/4063582" target="_blank">Mike Bostock</a></sub>
+
+While the above is not immediately linked to our picks' sources, it is not tangential either. The halfway point of the season seems like an appropriate time to see where we stand, who has under- or over-performed, and help recalibrate our knowledge and expectations moving forward.
+
+---
+
 ## Week 8 - Here's to Cleveland
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/nTFzCRSFT8 dataviz of ten thousand season simulations&url=http://bit.ly/2fEpw08&via=endlesspint8&hashtags=nflpicks,heatmap" target="_blank" title="Share on Twitter">Week 8</a></b></sub></p>
 
