@@ -36,6 +36,8 @@ After Season
 ## Week 9 - Team Performance: SUP & ATS
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 9</a></b></sub></p>
 
+twitimg: pic.twitter.com/nTFzCRSFT8
+
 It would have been nice to include everyone this week but our spotlighted team from last week, the Cleveland Browns, couldn't pull the upset and as a result they will be partly left out from this week's visual representation. Initially I thought this was inconvenient and a break in the streak of good luck I've had in the way the season has played out been conveniently aligned with the visuals picked out but then I realized this is equally perfect and suits the Browns' season just right.
 
 Last week we looked at the universe of possible outcomes for each team over thousands of simulated seasons. This week we look at reality to date.
