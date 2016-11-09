@@ -38,9 +38,9 @@ After Season
 
 twitimg: pic.twitter.com/nTFzCRSFT8
 
-It would have been nice to include everyone this week but our spotlighted team from last week, the Cleveland Browns, couldn't pull the upset and as a result they will be partly left out from this week's visual representation. Initially I thought this was inconvenient and a break in the streak of good luck I've had in the way the season has played out been conveniently aligned with the visuals picked out but then I realized this is equally perfect and suits the Browns' season just right.
+It would have been nice to include everyone this week but our spotlighted team from last week, the Cleveland Browns, couldn't pull the upset and as a result they will be partly left out from this week's visual representation. Initially I thought this was inconvenient and a break in the streak of good luck I've had in the way the season has played out, being conveniently aligned with the visuals picked out, but then I realized this is equally perfect and suits the Browns' season just right.
 
-Last week we looked at the universe of possible outcomes for each team over thousands of simulated seasons. This week we look at reality to date.
+Last week we looked at the universe of possible outcomes for each team over thousands of simulated seasons. This week, with every team having played eight games, we look at reality to date.
 
 Below is a treemap (wiki link) that shows the share of wins by team, division, and conference as a spatial representation. This is done by grouping division teams spatially and by color, and splitting the conferences. Additionally the user may toggle between the two wins representations: straight up (SUP) and against the spread (ATS).
 
