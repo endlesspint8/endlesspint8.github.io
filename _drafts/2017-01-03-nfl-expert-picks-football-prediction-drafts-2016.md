@@ -48,6 +48,10 @@ Below is a treemap (wiki link) that shows the share of wins by team, division, a
 
 While the above is not immediately related to our picks sources, it is not tangential either. The halfway point of the season seems like an appropriate time to see where we stand, how favorites have performed, and help judge the knowledge moving forward.
 
+ATS/SUP ratio: overachievers & underachievers
+
+Expectation rating: SUP wins * ATS/SUP ratio
+
 
 ## Week 8 - Here's to Cleveland
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 8</a></b></sub></p>
