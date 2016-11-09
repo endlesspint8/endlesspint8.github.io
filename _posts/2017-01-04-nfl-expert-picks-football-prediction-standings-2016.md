@@ -31,7 +31,7 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 ---
 
 ## Week 9 - Team Performance: SUP & ATS
-<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/nTFzCRSFT8 treemap dataviz of NFL wins SUP and ATS&url=http://bit.ly/2fmuw09&via=endlesspint8&hashtags=nflpicks,D3" target="_blank" title="Share on Twitter">Week 9</a></b></sub></p>
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/FibCiOMo6R treemap dataviz of NFL wins SUP and ATS&url=http://bit.ly/2fmuw09&via=endlesspint8&hashtags=nflpicks,D3" target="_blank" title="Share on Twitter">Week 9</a></b></sub></p>
 
 It would have been nice to include everyone this week but our spotlighted team from last week, the Cleveland Browns, couldn't pull the upset and as a result they will be partly left out from this week's visual representation. Initially I thought this was inconvenient and a break in the streak of good luck I've had in the way the season has played out, being conveniently aligned with the visuals picked out, but then I realized this is equally perfect and suits the Browns' season just right.
 
