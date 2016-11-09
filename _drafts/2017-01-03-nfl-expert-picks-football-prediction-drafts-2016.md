@@ -33,6 +33,22 @@ After Season
 2. 
 
 
+## Week 9 - Team Performance: SUP & ATS
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 9</a></b></sub></p>
+
+It would have been nice to include everyone this week but our spotlighted team from last week, the Cleveland Browns, couldn't pull the upset and as a result they will be partly left out from this week's visual representation. Initially I thought this was inconvenient and a break in the streak of good luck I've had in the way the season has played out been conveniently aligned with the visuals picked out but then I realized this is equally perfect and suits the Browns' season just right.
+
+Last week we looked at the universe of possible outcomes for each team over thousands of simulated seasons. This week we look at reality to date.
+
+Below is a treemap (wiki link) that shows the share of wins by team, division, and conference as a spatial representation. This is done by grouping division teams spatially and by color, and splitting the conferences. Additionally the user may toggle between the two wins representations: straight up (SUP) and against the spread (ATS).
+
+(vis)
+
+(it's halftime lyric)
+
+While the above is not immediately related to our picks sources, it is not tangential either. The halfway point of the season seems like an appropriate time to see where we stand, how favorites have performed, and help judge the knowledge moving forward.
+
+
 ## Week 8 - Here's to Cleveland
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 8</a></b></sub></p>
 
