@@ -53,7 +53,7 @@ While the above is not immediately linked to our picks' sources, it is not tange
 
 ATS/SUP ratio: overachievers & underachievers
 
-Expectation rating: SUP wins * ATS/SUP ratio
+Expectation rating: SUP wins/times_favored * ATS/SUP ratio 
 
 
 ## Week 8 - Here's to Cleveland
