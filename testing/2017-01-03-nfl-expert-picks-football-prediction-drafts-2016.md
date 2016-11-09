@@ -17,7 +17,7 @@ Upcoming graphs:
     
     a) SIMULATION: games won prob for 10k sims ([Bokeh](http://bokeh.pydata.org/en/latest/docs/reference/charts.html#heatmap) v [Plotly](https://plot.ly/python/heatmaps/)); </strike>
     b) ACTUAL: 4x4 SUP heatmap for favorites (both axes: AFC home/road & NFC home/road)
-6. wk09 - Treemap: conf/div sup & ats
+6. <strike>wk09 - Treemap: conf/div sup & ats</strike>
 7. wk10 - small multiples of prob/source (x, top)/week (y, desc)/WL-split
 8. wk11 - [Stream graph](https://plot.ly/~empet/13409/streamgraph-with-minimized-wiggle-1/#code) ... of something
 9. wk12 - tree branch of... something
