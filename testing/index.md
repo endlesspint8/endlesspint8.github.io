@@ -9,6 +9,9 @@ shortlink: http://bit.ly/2dxLtd9
 
 <p><font size="1" color="blue">This is some text!</font></p>
 
+reddit?
+<script type="text/javascript" src="//www.reddit.com/buttonlite.js?i=0"></script>
+
 Draft [1](2016-11-11-ggg-brook-fight-week-tweets), [2](2017-01-03-nfl-expert-picks-football-prediction-drafts-2016), 3
 
 <iframe src="http://endlesspint.com/gallery/2016/football-picks/wk09_treemap.html" width="800" height="400" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
