@@ -25,15 +25,7 @@ Draft [1](2016-11-11-ggg-brook-fight-week-tweets), [2](2017-01-03-nfl-expert-pic
 
 ![alt text](/gallery/2016/cb/cb_bxplt.PNG "test")
 
-Shiny app embedding, attempt anyway
 
-**scatter** 
-
-<iframe src="https://endlesspint8.shinyapps.io/cb_sh_sct/" width="800" height="700" frameborder="0" marginwidth="0" marginheight="0"></iframe>
-
-**boxplots**
-
-<iframe src="https://endlesspint8.shinyapps.io/cb_sh_bxplt/" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
 
 
