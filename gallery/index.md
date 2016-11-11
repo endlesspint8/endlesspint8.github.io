@@ -8,7 +8,13 @@ subtitle: Visualizations at a Glance
 
 <br>
 
-### [Data Guide for the Beer Perplexed, Part I](/2016-10-10-beer-introductions-1)
+### [Suds in the City](/2016-11-04-whole-foods-trader-joes-beer)
+>
+> * Mapping with QGis and Carto
+
+<img src="/gallery/2016/suds-city/WHvTJvor.gif"> <br>
+
+### [Data Guide for the Beer Perplexed](/2016-10-10-beer-introductions-1)
 > 
 > * D3 link-node of beer style recommendations <br>
 
