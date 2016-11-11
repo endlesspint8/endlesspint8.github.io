@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Data Guide for the Beer Perplexed
+title: Data Guide for the Beer Perplexed II
 subtitle: Part II - What's in a Style? 
 tags: ["RShiny", "datavis"]
 shortlink:
 twitimg: 
 ---
 
-## What's in style?
+## What's in a style?
 
 
 As we inch our way closer to beer authority [FN: that's a great name but it's already taken by a New York City bar situated across the street from the port authority] , approaching the topic from many angles it is important to occasionally take a deeper dive. This is not one of those times. Not really. We’ll get a little more information on the beer categories and develop an idea of their characteristics on a closer but still superficial level. It's like knowing the stats of a player. You may be able to discuss them with more understanding but if you haven't seen them in action you can't truly speak about their presence. Ultimately knowing an item is to have made yourself more intimate with it then just reading about it. So once you're done with this piece (but not before!) go out there, grab a pint, and get yourself some learnin’.
