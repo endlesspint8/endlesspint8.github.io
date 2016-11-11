@@ -15,7 +15,7 @@ reddit?
 reddit 2
 <a style="color: #369; text-decoration: none;" href="https://www.reddit.com/submit?url=http%3A%2F%2Fendlesspint.com%2Ftesting%2F&amp;amp;title=Testing my Crap" target="_parent">reddit</a>
 
-Draft [1](2016-11-11-ggg-brook-fight-week-tweets), [2](2017-01-03-nfl-expert-picks-football-prediction-drafts-2016), 3
+Draft [1](2016-11-11-ggg-brook-fight-week-tweets), [2](2017-01-03-nfl-expert-picks-football-prediction-drafts-2016), [3](2016-11-18-beer-introductions-2)
 
 <iframe src="http://endlesspint.com/gallery/2016/football-picks/wk09_treemap.html" width="800" height="400" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
 <sub>Vis Source: <a href="https://bl.ocks.org/mbostock/4063582" target="_blank">Mike Bostock</a></sub>
@@ -24,10 +24,6 @@ Draft [1](2016-11-11-ggg-brook-fight-week-tweets), [2](2017-01-03-nfl-expert-pic
 <sub><font color="lightgrey">Image source: <a href="" target="_blank"></a> | Text source: <a href="" target="_blank"></a> | </font><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Pipi</a></b></sub>
 
 ![alt text](/gallery/2016/cb/cb_bxplt.PNG "test")
-
-
-
-
 
 [D3 lattice](lattice.html)
 
