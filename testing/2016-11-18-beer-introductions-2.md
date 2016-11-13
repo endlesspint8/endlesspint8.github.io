@@ -10,36 +10,25 @@ twitimg:
 ## What's in a style?
 
 
-As we inch our way closer to beer authority [FN: that's a great name but it's already taken by a New York City bar situated across the street from the port authority] , approaching the topic from many angles it is important to occasionally take a deeper dive. This is not one of those times. Not really. We’ll get a little more information on the beer categories and develop an idea of their characteristics on a closer but still superficial level. It's like knowing the stats of a player. You may be able to discuss them with more understanding but if you haven't seen them in action you can't truly speak about their presence. Ultimately knowing an item is to have made yourself more intimate with it then just reading about it. So once you're done with this piece (but not before!) go out there, grab a pint, and get yourself some learnin’.
+As we inch our way closer to beer authority [FN: that's a fine name but it's already taken by a New York City bar (link) situated across the street from the Port Authority], approaching the topic from many angles it is important to occasionally take a deeper dive. This is not one of those times. Not really. Well sort of. We will get more information on beer categories and develop an idea of their characteristics on a closer but still superficial level. It's like knowing the stats of a player. You may be able to discuss them with more understanding but if you haven't seen them in action you can't truly speak about their presence. Ultimately, knowing any subject is to have made yourself more intimately familiar with it then from just reading about it. So once you're done with this piece (but not before!) go out there, grab a pint, and get yourself some learnin’.
+
+The characteristics we will cover are primarily three: ABV, IBU, & SRM, four if you include temperature. My throwing acronyms, can appear quite inline with the sports analogy from above. These letters represent a solid grounding, certainly a necessary one, in better understanding beer styles but they will ultimately be sterile and insufficient without some first-hand experience. Nevertheless, this information is important in getting closer to understanding what is expected f styles and how they relates when comparing one beer to another.
+
+To give these three measures more soul let's bring our senses into the mix and match each of the measures with one or more of them.
+
+* Alcohol by volume (ABV) -> taste & touch
+* International bittering units (IBU) -> taste & smell
+* Standard Reference Method (SRM; https://en.wikipedia.org/wiki/Standard_Reference_Method) -> sight
+* Temperature -> taste [FN: that's right newbie, temperature has an impact on the taste of beer] & touch
+
+This association only leaves out primary sense, hearing, which is a weird one to consider for the direct tasting of beer but is indispensable in learning from others and appreciating convivial company. Additionally, we’re stretching a little bit (though not much) to mention smell with respect to IBU. Now that we've teased this out long enough let us get down to particulars.
 
 
-The characteristics we will cover here are primarily three: ABV, IBU, & SRM. in my throwing acronyms at you, you can say that the sports analogy above was apropos. While these letters do provide a solid grounding, and perhaps a necessary one, it will ultimately be sterile and insufficient without some first-hand experience. Nevertheless, this information is important in getting closer to understanding what is out there and how it relates when comparing one beer to another.
-
-
-To give these three measures more soul let's bring in our senses into the mix and associate each of the measures with one or more of them.
-
-
-ABV -> taste & touch
-IBU -> taste & smell
-SRM -> sight
-Temperature -> taste & touch (that's right newbie, temperature has an impact on the taste of beer)
-
-
-This association only leaves out hearing, which is a weird one to consider for the direct tasting of beer but is indispensable to learning from others and convivial company. Additionally we’re stretching a little bit though not much to mention smell with respect to IBU. Now that we've teased this out long enough it is time to get down to particulars.
-
-
-I can rattle off specifics on what style has what and how it compares to another, how the styles are similar, how they're different and so forth. However, you need not sit here idly through my rambling, shit you may have already clicked over to another site by now. No sir, instead we're going to use the wonderful interactive features of the Internet to breathe still more life into these characteristics.
-
+I can rattle off specifics on what style has what and how it compares to another, how certain styles are similar, how they're different and so forth. However, you need not sit here idly through my rambling, shit you may have already clicked over to another site by now. No sir, instead we're going to use the wonderful interactive features of the Internet to breathe still more life into these characteristics.
 
 We will use two primary graphs to explore this data world further. 
 
-
-The first is a one feature exploration by category: 
-category, glass, yeast. 
-Or ABV, IBU, SRM, & Temp
-
-
-The second is a two future exploration begins similar groupings. This allows for a deeper understanding, especially as it read leads to comparisons.
+The first is a one feature exploration of ABV, IBU, SRM, & Tempby grouped by beer category, glass, and yeast. 
 
 **boxplots**
 
@@ -55,6 +44,8 @@ Besides, don't get so excited by the category idea, this was already introduced 
 
 
 Back to the graph. Sticking with the style categories on the X axis, mess around and vary the Y axis to display the features. If you haven't seen a box-and-whisker plot in a while, maybe since high school math class, allow me to provide a quick recap. Each box represents information in the same way: the bisecting line represents the median, fancy talk for the 50th percentile, half the beers appear above this lint and the other half below. The top of the box is the 75th percentile and the bottom the 25th.
+
+The second is a two future exploration begins similar groupings. This allows for a deeper understanding, especially as it read leads to comparisons.
 
 **scatter** 
 
