@@ -21,6 +21,7 @@ Scraping Template: <a href="https://github.com/cs109/content/blob/master/labs/la
 > * Mapping with QGis and Carto
 
 <img src="/gallery/2016/suds-city/WHvTJvor.gif"> <br>
+<sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/Kmm6NGhFeB Closest Big Box Yuppie Stores in Manhattan&url=http://bit.ly/2eH2bVr&via=endlesspint8&hashtags=beer,dataviz" target="_blank" title="Share on Twitter">Whole Foods v. Trader Joe's Voronoi</a></b></sub>
 
 ### [Data Guide for the Beer Perplexed](/2016-10-10-beer-introductions-1)
 > 
