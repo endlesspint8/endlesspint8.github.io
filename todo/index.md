@@ -9,7 +9,7 @@ subtitle: A gentle reminder of sh-, <i>stuff</i>, that needs to get done
 |----|----|-----|----------|
 |[~]  [ESP](http://eepurl.com/cj8urH) intake|[x]  [twit img links](https://onlinejournalismblog.com/2015/02/11/how-to-make-a-tweetable-image-in-your-blog-post/) for sharing|[ ] iPhone home screen icon|[~]  [mess about even more](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)|
 |[x] add CBS/ESPN links to game predictions|||[ ] <strike>change next buttons to blog titles</strike>|
-||[x] tags to hashtags|[x] get images to display on mobile|[~] shortlinks, tags, & twit img's for all posts|
+|[ ] normalize subtitles for link sharing|[x] tags to hashtags|[x] get images to display on mobile|[~] shortlinks, tags, & twit img's for all posts|
 |[ ] join [Flattr](https://flattr.com/)?|[x]  [StumbleUpon](http://www.stumbleupon.com/)?||[x]  [mess about](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)|
 |[ ] WBC heatmap code|[x] create sharing links [I](https://dev.twitter.com/web/tweet-button) &/or [II](http://www.sharelinkgenerator.com/)||[x] create footer w/NL, PP, & Contact|
 |[x] import GGG/Brook tweets|[x] prep [kNN BIPA excerpt](/2016-08-01-six-pack-project-netherlands#loc--de-3-hornes-naughty-boy) for [Data Science Central][DSC]||[x] Replace similar gallery images with gif's|
