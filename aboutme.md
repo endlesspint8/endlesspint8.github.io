@@ -14,6 +14,6 @@ a soi-disant #data essayist ensnared in “a long, spiraling chute, greased with
 
 ---
 
-I am fascinated by human behavior and expression. I see data as another artifact of human actions and systems, both social and technic. 
+Fascinated by human behavior and expression, I view data as an artifact of human actions and systems, both social and technic. 
 
 By using available data, creating visualizations and applying machine learning techniques I write data-infused essays related to one of humans' longest standing endeavors, the creation and enjoyable consumption of beer.
