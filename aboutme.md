@@ -10,6 +10,10 @@ Big whoop. Enjoy.
 
 ---
 
+a soi-disant #data essayist ensnared in “a long, spiraling chute, greased with regular paychecks, to the Tartarus of pseudonymous hackdom.” (<a href="https://www.amazon.com/Amazing-Adventures-Kavalier-Clay/dp/0312282990" target="_blank">tAAoK&C</a>, M. Chabon)
+
+---
+
 I am fascinated by human behavior and expression. I see data as another artifact of human actions and systems, both social and technic. 
 
 By using available data, creating visualizations and applying machine learning techniques I write data-infused essays related to one of humans' longest standing endeavors, the creation and enjoyable consumption of beer.
