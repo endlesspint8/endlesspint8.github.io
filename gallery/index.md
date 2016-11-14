@@ -8,6 +8,14 @@ subtitle: Visualizations at a Glance
 
 <br>
 
+### [Data Guide for the Beer Perplexed II]()
+> 
+> * R Shiny boxplot and scatter plot dashboard visualizations<br>
+
+<img src="/gallery/2016/beer-prplxd/beer_prplxd2.gif"> <br>
+<sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> / 
+Scraping Template: <a href="https://github.com/cs109/content/blob/master/labs/lab2/Lab_2_A_Live.ipynb" target="_blank">CS109</a> / <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/mT5QiQ9Ncz Data Guide for the Beer Perplexed, Part 1&url=http://bit.ly/prplxd1&via=endlesspint8&hashtags=D3,beer,dataviz" target="_blank" title="Share on Twitter">Hairball</a></b></sub>
+
 ### [Suds in the City](/2016-11-04-whole-foods-trader-joes-beer)
 >
 > * Mapping with QGis and Carto
@@ -28,7 +36,8 @@ Vis Code: <a href="http://bl.ocks.org/mbostock/4062045" target="_blank">Force-Di
 <img src="/gallery/2016/beer-prplxd/co_occurrence.gif"> <br>
 <sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> / 
 Vis Inspiration: <a href="https://bost.ocks.org/mike/miserables/" target="_blank">D3 Les Misérables</a> / 
-Vis Code: <a href="http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html" target="_blank">Bokeh Les Mis Occurrences</a>
+Vis Code: <a href="http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html" target="_blank">Bokeh Les Mis Occurrences</a> / <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/2bXhMn2QHD Data Guide for the Beer Perplexed, Part 1&url=http://bit.ly/prplxd1&via=endlesspint8&hashtags=Bokeh,beer,dataviz" target="_blank" title="Share on Twitter">Grid</a></b>
+
 </sub>
 
 ### [Six-Pack Project: The Netherlands](/2016-08-01-six-pack-project-netherlands)
