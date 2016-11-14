@@ -12,6 +12,7 @@ twitimg: pic.twitter.com/Kmm6NGhFeB
 
 <iframe width="100%" height="520" frameborder="0" src="https://endlesspint8.carto.com/viz/9bb87bba-9c19-11e6-b223-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 <br>
+<sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/Kmm6NGhFeB Closest Big Box Yuppie Stores in Manhattan&url=http://bit.ly/2eH2bVr&via=endlesspint8&hashtags=beer,dataviz" target="_blank" title="Share on Twitter">Whole Foods v. Trader Joe's Voronoi</a></b></sub>
 
 Craft beer is here, hooray. There are more breweries and <a href="http://endlesspint.com/2016-10-10-beer-introductions-1/" target="_blank">styles</a> than ever before. Taste has won over mass produced piss and we may all rest easy now. Not so fast. While we may be experiencing a Golden Age in beer consumer options there is no guarantee these days are here to last. With more options come more challenges, opportunities, and developments. 
 
