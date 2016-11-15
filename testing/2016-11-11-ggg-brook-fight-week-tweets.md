@@ -32,6 +32,10 @@ twitimg:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vijD09_O8ek" frameborder="0" allowfullscreen></iframe>
 </p>
 
+## Timezones
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Standard_World_Time_Zones.png#/media/File:Standard_World_Time_Zones.png"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Standard_World_Time_Zones.png" alt="Standard World Time Zones.png" width="800"></a><br><sub>By <a href="//commons.wikimedia.org/w/index.php?title=User:TimeZonesBoy&amp;action=edit&amp;redlink=1" class="new" title="User:TimeZonesBoy (page does not exist)">TimeZonesBoy</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=42165217">Link</a></sub></p>
+
 ## Grab a Roadie
 <br>
 
