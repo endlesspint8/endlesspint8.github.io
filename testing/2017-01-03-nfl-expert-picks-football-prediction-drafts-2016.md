@@ -33,6 +33,12 @@ After Season
 2. 
 
 
+## Week 10 - Big Picture with Small Multiples
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 10</a></b></sub></p>
+
+At the end of the week 5 post I listed in a table the "<a href="#week5WinProb">Average Model-Projected Win Probability for Changed Picks</a>"
+
+
 ## Week 9 - Team Performance: SUP & ATS
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 9</a></b></sub></p>
 
@@ -223,7 +229,9 @@ Something the graph does not show are the number of changed picks per model. It 
 
 Of course the other element the graph does not cover is BS score (nor is it intended to). This will be a focus in the next week or so but I will provide the following probability table as a wrap up. Make of it what you will.
 
-**Average Model-Projected Win Probability for Changed Picks**
+**Average Model-Projected Win Probability for Changed Picks** 
+
+<h3 id="week5WinProb">Average Model-Projected Win Probability for Changed Picks</h3>
 
 ||Wins|Loses|
 |---|---|---|
