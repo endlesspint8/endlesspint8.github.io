@@ -36,7 +36,13 @@ After Season
 ## Week 10 - Big Picture with Small Multiples
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 10</a></b></sub></p>
 
-At the end of the week 5 post I listed in a table the "<a href="#week5WinProb">Average Model-Projected Win Probability for Changed Picks</a>"
+EDIT: `h4 id="week5WinProb" Average Model-Projected Win Probability for Changed Picks h4`
+
+At the end of the week 5 post I listed in a table the "<a href="#week5WinProb">Average Model-Projected Win Probability for Changed Picks</a>", which now that I read the title have no idea what it means. Actually, it was a meant to show the confidence that the data models had in their picks. Additionally, it was focused only on the game picks that differed from their pre-season choices. That little throw away insight got me thinking to look at the numbers at a larger level, for all pick sources for the season to date.
+
+There have been hints at what is about to be presented, right from the beginning really. With only so many human experts per panels unanimous votes and high level of confidence probabilities are far more likely than in data models. I wanted to visualize this and see if there was anything interesting to the outcomes.
+
+Below are two versions of the same data. Each presentation of the data can be considered an instance of small multiples (https://en.wikipedia.org/wiki/Small_multiple). This data representation is especially astute at making comparisons across multiple data points. See which one makes the case better.
 
 
 ## Week 9 - Team Performance: SUP & ATS
@@ -231,7 +237,7 @@ Of course the other element the graph does not cover is BS score (nor is it inte
 
 **Average Model-Projected Win Probability for Changed Picks** 
 
-<h3 id="week5WinProb">Average Model-Projected Win Probability for Changed Picks</h3>
+<h4 id="week5WinProb">Average Model-Projected Win Probability for Changed Picks</h4>
 
 ||Wins|Loses|
 |---|---|---|
