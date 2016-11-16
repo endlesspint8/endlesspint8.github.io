@@ -30,6 +30,50 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 ---
 
+## Week 10 - Big Picture with Small Multiples
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 10</a></b></sub></p>
+
+At the end of the week 5 post I listed in a table the "<a href="#week5WinProb">Average Model-Projected Win Probability for Changed Picks</a>", which now that I read the title have no idea what it means. Actually, it was meant to show the confidence that the data models had in their changed picks from the pre-season choices, by win/loss split. That little throw away insight got me thinking about looking at these numbers at a larger level, for all pick sources for the season to date.
+
+There have been hints at what is presented this week right from the beginning, with an understanding that with only so many human experts per panel unanimous votes and high levels of confidence probabilities were more likely to occur than in the data models. Below we visualize this and see if anything interesting comes to the fore.
+
+Two versions of the same data appear below. Each presentation may be considered an instance of <a href="https://en.wikipedia.org/wiki/Small_multiple" target="_blank">small multiples</a>, a data representation that is especially astute at making comparisons across many data points. See which one tells a story more clearly.
+
+In the first instance we line up the sources across the ten weeks to date. The order of the bars is identical week to week, first the two expert panels, CBS and ESPN, followed by the two data models, FiveThirtyEight and FOX. The green bars extending up from the middle (50% to 90+% pick) represent the average confidence probability of winnig picks, the black bars extending downward show the average confidence probability of incorrect picks.
+
+<img src="/gallery/2016/football-picks/wk10_smmult2.PNG" alt="wk10_smmult2" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+ 
+The second chart has the same data set but broken out by pick source across the top and the weeks down the lefthand side. This version makes it easier to compare confidence probabilities per source across weeks.
+
+<img src="/gallery/2016/football-picks/wk10_smmult1.PNG" alt="wk10_smmult1" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+
+Between the two graphs it is clear that,
+
+* the expert panels are routinely confident, cocky really, in their choices;
+* the data models are much more restrained in their picks' confidence probability;
+* FOX is most modest, but appears to be most consistent;
+* FiveThirtyEight looks to have the best ratio of win/loss confidence probability.
+
+However, all of the above is quite relative. A pick source may have only a couple of incorrect picks in any given week and if they had been overly confident the black bars would have you believe they had a rough week. In a sense they have, confidence in their picks should be questioned. I bring this up to remind the reader that it is not just getting picks right that matters but the level of confidence in the pick, which can help determine how trustworthy a source may be considered.
+
+To that end I'm throwing in a freebie chart to smooth away the week to week anomalies and see big picture how much the sources can be trusted. Below is a simple bubble chart that represents the following:
+
+* confidence probability of picks (x-axis)
+* winning percentage of picks (y-axis)
+* data source (color)
+* number of picks (size)
+
+Lastly, I have included a 45 degree gray line to serve as a guide to determine which picks are performing up to snuff and which are not.
+
+<img src="/gallery/2016/football-picks/wk10_probwinbubble.png" alt="wk10_probwinbubble" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+
+The only sources above the diagonal line are from FiveThirtyEight and FOX. This says to me not to put too much credence in the expert panels. While most of the expert picks are above the outright .500 line (not visualized, but you can use your imagination), that would cut horizontally across the chart, this representation shows that the level at which picks made by the experts win are well below their expected frequency. 
+
+---
+
 ## Week 9 - Team Performance: SUP & ATS
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/FibCiOMo6R treemap dataviz of NFL wins SUP and ATS&url=http://bit.ly/2fmuw09&via=endlesspint8&hashtags=nflpicks,D3" target="_blank" title="Share on Twitter">Week 9</a></b></sub></p>
 
@@ -220,7 +264,7 @@ Something the graph does not show are the number of changed picks per model. It 
 
 Of course the other element the graph does not cover is BS score (nor is it intended to). This will be a focus in the next week or so but I will provide the following probability table as a wrap up. Make of it what you will.
 
-**Average Model-Projected Win Probability for Changed Picks**
+<h4 id="week5WinProb">Average Model-Projected Win Probability for Changed Picks</h4>
 
 ||Wins|Loses|
 |---|---|---|
