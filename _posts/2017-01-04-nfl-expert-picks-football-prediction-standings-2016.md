@@ -31,7 +31,7 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 ---
 
 ## Week 10 - Big Picture with Small Multiples
-<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 10</a></b></sub></p>
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/F53Y0BYdpo small multiples of NFL picks&url=http://bit.ly/2f4qw10&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 10</a></b></sub></p>
 
 At the end of the week 5 post I listed in a table the "<a href="#week5WinProb">Average Model-Projected Win Probability for Changed Picks</a>", which now that I read the title have no idea what it means. Actually, it was meant to show the confidence that the data models had in their changed picks from the pre-season choices, by win/loss split. That little throw away insight got me thinking about looking at these numbers at a larger level, for all pick sources for the season to date.
 
