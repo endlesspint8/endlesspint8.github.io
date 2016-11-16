@@ -45,6 +45,18 @@ There have been hints at what is about to be presented, right from the beginning
 Below are two versions of the same data. Each presentation of the data can be considered an instance of small multiples (https://en.wikipedia.org/wiki/Small_multiple). This data representation is especially astute at making comparisons across multiple data points. See which one makes the case better.
 
 
+<img src="/gallery/2016/football-picks/wk10_smmult2.PNG" alt="wk10_smmult2" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+ 
+
+<img src="/gallery/2016/football-picks/wk10_smmult1.PNG" alt="wk10_smmult1" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+
+
+<img src="/gallery/2016/football-picks/wk10_probwinbubble.png" alt="wk10_probwinbubble" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+
+
 ## Week 9 - Team Performance: SUP & ATS
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 9</a></b></sub></p>
 
