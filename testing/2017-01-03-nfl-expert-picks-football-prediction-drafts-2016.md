@@ -38,20 +38,23 @@ After Season
 
 EDIT: `h4 id="week5WinProb" Average Model-Projected Win Probability for Changed Picks h4`
 
-At the end of the week 5 post I listed in a table the "<a href="#week5WinProb">Average Model-Projected Win Probability for Changed Picks</a>", which now that I read the title have no idea what it means. Actually, it was a meant to show the confidence that the data models had in their picks. Additionally, it was focused only on the game picks that differed from their pre-season choices. That little throw away insight got me thinking to look at the numbers at a larger level, for all pick sources for the season to date.
+At the end of the week 5 post I listed in a table the "<a href="#week5WinProb">Average Model-Projected Win Probability for Changed Picks</a>", which now that I read the title have no idea what it means. Actually, it was meant to show the confidence that the data models had in their changed picks from the pre-season choices, by win/loss split. That little throw away insight got me thinking about looking at these numbers at a larger level, for all pick sources for the season to date.
 
-There have been hints at what is about to be presented, right from the beginning really. With only so many human experts per panels unanimous votes and high level of confidence probabilities are far more likely than in data models. I wanted to visualize this and see if there was anything interesting to the outcomes.
+There have been hints at what is presented this week, right from the beginning really, with an understanding that only so many human experts per panel unanimous votes and high level of confidence probabilities are far more likely than in the data models. Below we visualize this and see if anything interesting comes to the fore.
 
-Below are two versions of the same data. Each presentation of the data can be considered an instance of small multiples (https://en.wikipedia.org/wiki/Small_multiple). This data representation is especially astute at making comparisons across multiple data points. See which one makes the case better.
+Two versions of the same data appear below. Each presentation may be considered an instance of small multiples (https://en.wikipedia.org/wiki/Small_multiple), a data representation that is especially astute at making comparisons across many data points. See which one makes the case more clearly.
 
+In the first instance we line up all of the sources together across the ten weeks to date. The order of the bars is identical week to week, first the two expert panels, CBS and ESPN, followed by the two data models, FiveThirtyEight and FOX. The green bars extending up from the middle represent the average confidence probability of winnig picks, the black bars extending downward the average confidence probability of incorrect picks. The human panels routinely 
 
 <img src="/gallery/2016/football-picks/wk10_smmult2.PNG" alt="wk10_smmult2" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
  
+The second chart has the same data set but broken out by pick source across the top and the weeks down the lefthand side. This version makes it easier to compare confidence probabilities per source across weeks.
 
 <img src="/gallery/2016/football-picks/wk10_smmult1.PNG" alt="wk10_smmult1" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
 
+In either of the above it is clear that the expert panels are routinely confident, cocky really, in their choices. 
 
 <img src="/gallery/2016/football-picks/wk10_probwinbubble.png" alt="wk10_probwinbubble" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
