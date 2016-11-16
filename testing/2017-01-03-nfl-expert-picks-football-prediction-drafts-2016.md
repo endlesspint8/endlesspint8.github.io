@@ -17,9 +17,9 @@ Upcoming graphs:
     
     a) SIMULATION: games won prob for 10k sims ([Bokeh](http://bokeh.pydata.org/en/latest/docs/reference/charts.html#heatmap) v [Plotly](https://plot.ly/python/heatmaps/)); </strike>
     b) ACTUAL: 4x4 SUP heatmap for favorites (both axes: AFC home/road & NFC home/road)
-6. <strike>wk09 - Treemap: conf/div sup & ats</strike>
-7. wk10 - small multiples of prob/source (x, top)/week (y, desc)/WL-split
-8. wk11 - [Stream graph](https://plot.ly/~empet/13409/streamgraph-with-minimized-wiggle-1/#code) ... of something
+6. <strike>wk09 - Treemap: conf/div sup & ats
+7. wk10 - small multiples of prob/source (x, top)/week (y, desc)/WL-split</strike>
+8. wk11 - [Stream graph](https://plot.ly/~empet/13409/streamgraph-with-minimized-wiggle-1/#code)... of something... BS, duh
 9. wk12 - tree branch of... something
 10. wk13 - [donut chart](http://bokeh.pydata.org/en/latest/docs/gallery/donut_chart.html): sources in middle; "medals" replaced by home/road and/or fav/dog; regarding "and" of and/or: add a third ring to donut
 11. wk14 - a priori wins/week [slopegraph](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003nk); parallel coordinates of wins by source
