@@ -19,7 +19,7 @@ Discovering that beer does not have to taste bad is something that happens on a 
 
 With innumerable options and not knowing where to begin it is forgivable to simply throw one’s hands up and rush into any old style. This tactic, while commendable for its action and much better than doing nothing (including, heaven forbid, not drinking beer at all), has the unfortunate effect of being unfocused and leaving you to the whims of external vagaries. There is the added likelihood of running into a beer style that is not a particularly good match, resulting in disappointment and pushing you back, short term let’s hope, into the familiar but underwhelming arms of a light lager. One is made more painfully aware of all this with hindsight. To begin imbibing craft beer is to bring on short term pleasure, medium term disappointment in reflecting on all the lost opportunities, and, finally, gleeful acceptance of never going back.
 
-## I Got a Pretzel in My Head (good, have a beer w/that)
+<h2 id="hairball">I Got a Pretzel in My Head (good, have a beer w/that)</h2>
 
 To the uninitiated the awareness of available styles may feel not unlike the way the following node and link visual looks. When things get as cluttered as this data vis people (not so) affectionately refer to it as a hairball and I believe it is clear why. You can see there are relationships and make out some, if not all, of the individual points but there is a lot going on. Now before we crap on this visual too hard let's play around a bit to get a better idea of what is available to us. This can be a metaphor for the real life journey many of us take trying one style after another. 
 
@@ -46,7 +46,7 @@ Note the styles you like, those you don't, and repeat. That's it.
 
 Oh, you want more instruction grasshopper? Let's take a second look at the relationships/likeness/similarity among the 70+ styles. Don't worry if some of these are foreign to you, appreciate the novelty while it lasts and realize it gets even more esoteric later on, should you choose to accept this mission. This is a high level approach not a deep dive into the Kabbalah-like minutia of beer offerings.
 
-## Styles on top of Styles
+<h2 id="grid">Styles on top of Styles</h2>
 
 Our second visualization represents the same data set as a grid, a co-occurrence matrix. The beer styles are duplicated across the left side and the top, clustered into style groups. At the intersection of any two beers is either a clear space or a darkened square indicating a recommendation. Lightly color saturated boxes indicate groups, more fully saturated colored boxes are beer recommendations within the same style, something that carries relevant information for the less intrepid. Sticking to the underlying data structure we have here a nonsymmetrical matrix, think of the arrows in the direction of style recommendation above. 
 
