@@ -16,10 +16,10 @@ The characteristics we will cover are primarily three: ABV, IBU, & SRM, four if 
 
 To give these three measures more soul let's bring our senses into the mix and match each of the measures with one or more of them.
 
-* Alcohol by volume (ABV; https://en.wikipedia.org/wiki/Beer_measurement#Strength) -> taste & touch
-* International bittering units (IBU; https://en.wikipedia.org/wiki/Beer_measurement#Bitterness) -> taste & smell
-* Standard Reference Method (SRM; https://en.wikipedia.org/wiki/Standard_Reference_Method) -> sight
-* Temperature -> taste [FN: that's right newbie, temperature has an impact on the taste of beer] & touch
+* Alcohol by volume</a> (<a href="https://en.wikipedia.org/wiki/Beer_measurement#Strength" target="_blank">ABV</a>) -> taste & touch
+* International bittering units (<a href="https://en.wikipedia.org/wiki/Beer_measurement#Bitterness" target="_blank">IBU</a>) -> taste & smell
+* Standard Reference Method (<a href="https://en.wikipedia.org/wiki/Standard_Reference_Method" target="_blank">SRM</a>) -> sight
+* Temperature -> taste<sup id="a1">[1](#f1)</sup> & touch
 
 This association leaves out only one primary sense, hearing, which is a weird one to consider for the direct tasting of beer but is indispensable in learning from others and appreciating convivial company. You'll be working out your senses quite a bit on your beer adventure, including balance and movement. Give your motormouth a rest and let others get in a word. Additionally, we’re stretching a little bit (though not much) to mention smell with respect to IBU. Now that we've teased this out long enough let us get down to particulars.
 
@@ -40,7 +40,7 @@ Don't get too excited by the category idea, it was already introduced last time 
 
 Trying several styles within a category helps to pick up on nuances of both the styles and the category. You will see the features in common that bind them together as well as their differences which help distinguish them. The latter may not be readily identifiable when starting out, hence the comparisons across categories which helps build up your observational qualities and knowing what to look for.
 
-Back to the graph. Sticking with the style categories on the X axis, mess around and vary the Y axis to display the features. If you haven't seen a boxplot (https://en.wikipedia.org/wiki/Box_plot) in a while, maybe since high school math class, allow me to provide a quick recap. Each box represents information in the same way: the bisecting line represents the median, fancy talk for the 50th percentile, half the beers appear above this line and the other half below, the top of the box is the 75th percentile and the bottom the 25th.
+Back to the graph. Sticking with the style categories on the X axis, mess around and vary the Y axis to display the features. If you haven't seen a <a href="https://en.wikipedia.org/wiki/Box_plot" target="_blank">boxplot</a> in a while, maybe since high school math class, allow me to provide a quick recap. Each box represents information in the same way: the bisecting line represents the median, fancy talk for the 50th percentile, half the beers appear above this line and the other half below, the top of the box is the 75th percentile and the bottom the 25th.
 
 INSERT
 
@@ -48,7 +48,7 @@ Strong Ales carry the highest median ABV at nearly 10%.
 
 WHAT DO YOU SEE IN THE PLOT FOR... ABV, TEMP, ETC.
 
-The second graph is slightly more sophisticated, allowing for more than one feature to be plotted, lending itself to be used as a comparative tool. What you will see here are the beer features standardized (https://en.wikipedia.org/wiki/Feature_scaling#Standardization). We have the opportunity to map three data elements onto each point, a variable each on the X axis, Y axis, and the dots themselves by way of using color. The graph defaults to ABV against IBU. 
+The second graph is slightly more sophisticated, allowing for more than one feature to be plotted, lending itself to be used as a comparative tool. What you will see here are the beer features <a href="https://en.wikipedia.org/wiki/Feature_scaling#Standardization" target="_blank">standardized</a>. We have the opportunity to map three data elements onto each point, a variable each on the X axis, Y axis, and the dots themselves by way of using color. The graph defaults to ABV against IBU. 
 
 **scatter** 
 
@@ -66,3 +66,13 @@ Now that you have a little knowledge and some tools what are you going to do abo
 Knowing a style/category you already enjoy, and using only the characteristics discussed in this piece, identify a similar category by ABV and/or IBU. See how these new beers suit you. The color of a beer has for too long been misunderstood to be a stand-in for the heaviness or lightness of a beer. This is a blunt heuristic that will steer you wrong just as often as it will be correct as you continue to find and be introduced to more beers [FN: the color can tell you something about the beer in combination with its other characteristics, such as its belt character.]
 
 Having come to this point you may find yourself in a slightly unsatisfied position. I warned you of this, of letting yourself believe that you can know something simply by reading about it. However it's probably not just that. These numbers and acronyms are not natural if you haven't come across them too often. It won't take long, but certainly a little bit of time, before they carry a meaning you can internalize. For that reason we'll switch it up in the next installment and use universally accepted descriptors that make more intuitive sense. We will be talking about taste.
+
+<br>
+
+---
+
+**Notes**
+
+<b id="f1">1</b> That's right newbie, temperature has an impact on the taste of beer. [↩](#a1) <br>
+<b id="f2">2</b>  [↩](#a2) <br>
+<b id="f3">3</b>  [↩](#a3) <br>
