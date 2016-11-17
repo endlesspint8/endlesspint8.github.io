@@ -10,24 +10,24 @@ twitimg:
 ## What's in a style?
 
 
-As we inch our way closer to beer authority [FN: that's a fine name but one that has already been taken by a New York City bar (link) situated across the street from the Port Authority], approaching the topic from many angles it is important to occasionally take a deeper dive. This is not one of those times. Not really. Well sort of. We will get more information on beer categories and develop an idea of their characteristics on a closer but still superficial level. It's like knowing the stats of a player. You may be able to discuss them with more understanding but if you haven't seen them in action you can't truly speak about their presence. Ultimately, knowing any subject is to have made yourself more intimately familiar with it then from just reading about it. So once you're done with this piece (but not before!) go out there, grab a pint, and get yourself some learnin’.
+As we inch our way closer to beer authority<sup id="a1">[1](#f1)</sup> approaching the topic from many angles it is important to occasionally take a deeper dive. This is not one of those times. Not really. Well sort of. We will get more information on beer categories and develop an idea of their characteristics on a closer but still superficial level. It's like knowing the stats of a player. You may be able to discuss them with more understanding but if you haven't seen them in action you can't truly speak of their presence. There are qualitative and expirential aspects that will forever escape quantitative constraints. Ultimately, knowing any subject is to have made yourself more intimately familiar with it than from just reading about it. So once you're done with this piece (but not before!) go out there, grab a pint, and get yourself some learnin’.
 
-The characteristics we will cover are primarily three: ABV, IBU, & SRM, four if you include temperature. My throwing acronyms around, can appear quite inline with the sports analogy from above. These letters represent a solid grounding, certainly a necessary one, in better understanding beer styles but they will ultimately be sterile and insufficient without some first-hand experience. Nevertheless, this information is important in getting closer to understanding what is expected of styles and how they relate when comparing one beer to another.
+The characteristics we will cover are primarily three: ABV, IBU, & SRM, four if you include temperature. My throwing acronyms around, can appear quite inline with the sports analogy from above. These letters represent a solid grounding, certainly a necessary one, in better understanding beer styles but they will ultimately be sterile and insufficient without some first-hand experience. Nevertheless, this information is important in getting closer to appreciating what is expected of styles and how they relate when comparing one beer to another.
 
 To give these three measures more soul let's bring our senses into the mix and match each of the measures with one or more of them.
 
-* Alcohol by volume</a> (<a href="https://en.wikipedia.org/wiki/Beer_measurement#Strength" target="_blank">ABV</a>) -> taste & touch
+* Alcohol by volume</a> (<a href="https://en.wikipedia.org/wiki/Beer_measurement#Strength" target="_blank">ABV</a>) -> taste & touch<sup id="a2">[2](#f2)</sup>
 * International bittering units (<a href="https://en.wikipedia.org/wiki/Beer_measurement#Bitterness" target="_blank">IBU</a>) -> taste & smell
 * Standard Reference Method (<a href="https://en.wikipedia.org/wiki/Standard_Reference_Method" target="_blank">SRM</a>) -> sight
-* Temperature -> taste<sup id="a1">[1](#f1)</sup> & touch
+* Temperature -> taste<sup id="a3">[3](#f3)</sup> & touch
 
 This association leaves out only one primary sense, hearing, which is a weird one to consider for the direct tasting of beer but is indispensable in learning from others and appreciating convivial company. You'll be working out your senses quite a bit on your beer adventure, including balance and movement. Give your motormouth a rest and let others get in a word. Additionally, we’re stretching a little bit (though not much) to mention smell with respect to IBU. Now that we've teased this out long enough let us get down to particulars.
 
-I can rattle off specifics on what style has what and how it compares to another, how certain styles are similar, how they're different and so forth. However, you need not sit here idly through my rambling, shit you may have already clicked over to another site by now. No sir, instead we're going to use the wonderful interactive features of the Internet to breathe still more life into these characteristics.
+I can rattle off specifics on what style has what and how it compares to another, how certain styles are similar, how they're different and so forth. However, you need not sit here idly through my rambling, shit you may have already clicked over to another site by now. No sir, instead we're going to use the wonderful interactive features of the internet to breathe still more life into these characteristics.
 
-We will use two primary graphs to explore this data world further. The first is a one feature exploration of ABV, IBU, SRM, & Temp  grouped by beer category, glass, and yeast. Far from it for me to tell you how to go about your beer adventure but I suggest for the data exploration in the first graph, which displays group characteristics as boxplots, we stick with the categories. 
+We will use two primary graphs to explore this data world further. The first is a one feature exploration of ABV, IBU, SRM, & Temp  grouped by beer category, glass, and yeast. Far from it for me to tell you how to go about your beer adventure but I suggest for the data exploration in the first graph, which displays group characteristics as boxplots, we stick with the beer categories. 
 
-**boxplots**
+<h4 id="bxplt">One Feature Beer Category Boxplots</h4>
 
 <iframe src="https://endlesspint8.shinyapps.io/cb_sh_bxplt/" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 <sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> / 
@@ -73,6 +73,6 @@ Having come to this point you may find yourself in a slightly unsatisfied positi
 
 **Notes**
 
-<b id="f1">1</b> That's right newbie, temperature has an impact on the taste of beer. [↩](#a1) <br>
-<b id="f2">2</b>  [↩](#a2) <br>
-<b id="f3">3</b>  [↩](#a3) <br>
+<b id="f1">1</b> A fine name but one that has already been taken by a New York City <a href="http://www.beerauthoritynyc.com/" target="_blank">bar</a> situated across the street from, wait for it, the Port Authority. Now isn't that clever? [↩](#a1) <br>
+<b id="f2">2</b> If nothing else there is the warming nature of alcohol. Later on there is also the mobility and balance aspect which requires a deft touch of its own. [↩](#a2) <br>
+<b id="f3">3</b> That's right newbie, temperature has an impact on the taste of beer. [↩](#a3) <br>
