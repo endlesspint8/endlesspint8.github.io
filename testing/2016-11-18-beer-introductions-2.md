@@ -15,7 +15,7 @@ The characteristics we will cover are primarily three: ABV, IBU, & SRM, four if 
 
 To give these three measures more soul let's bring our senses into the mix and match each of the measures with one or more of them.
 
-* Alcohol by volume</a> (<a href="https://en.wikipedia.org/wiki/Beer_measurement#Strength" target="_blank">ABV</a>) -> taste & touch<sup id="a2">[2](#f2)</sup>
+* Alcohol by volume (<a href="https://en.wikipedia.org/wiki/Beer_measurement#Strength" target="_blank">ABV</a>) -> taste & touch<sup id="a2">[2](#f2)</sup>
 * International bittering units (<a href="https://en.wikipedia.org/wiki/Beer_measurement#Bitterness" target="_blank">IBU</a>) -> taste & smell
 * Standard Reference Method (<a href="https://en.wikipedia.org/wiki/Standard_Reference_Method" target="_blank">SRM</a>) -> sight
 * Temperature -> taste<sup id="a3">[3](#f3)</sup> & touch
