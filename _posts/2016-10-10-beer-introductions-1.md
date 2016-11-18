@@ -60,7 +60,7 @@ The way to read this grid is at least twofold. First off, find a style you like 
 
 ## Conclusion: We're Just Getting Started
 
-This is just a taste for the ways in which we can leverage data to augment our beer explorations. In future installments of the Beer Perplexed we will look more closely at beer category features, links beyond just two beers, and approaching beers based on your descriptive preferences. Happy exploring. 
+This is just a taste for the ways in which we can leverage data to augment our beer explorations. In future installments of the Beer Perplexed we will look more closely at beer [category features](/2016-11-18-beer-introductions-2), links beyond just two beers, and approaching beers based on your descriptive preferences. Happy exploring. 
 
 <br>
 
