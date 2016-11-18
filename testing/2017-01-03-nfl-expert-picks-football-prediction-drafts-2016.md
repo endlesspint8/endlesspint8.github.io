@@ -19,11 +19,11 @@ Upcoming graphs:
     b) ACTUAL: 4x4 SUP heatmap for favorites (both axes: AFC home/road & NFC home/road)
 6. <strike>wk09 - Treemap: conf/div sup & ats
 7. wk10 - small multiples of prob/source (x, top)/week (y, desc)/WL-split</strike>
-8. wk11 - [Stream graph](https://plot.ly/~empet/13409/streamgraph-with-minimized-wiggle-1/#code)... of something... BS, duh
-9. wk12 - tree branch of... something
+8. wk11 - [pick source perform above .500](http://thedailyviz.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-25-at-2.21.48-PM-620x383.png)
+9. wk12 - [Stream graph](https://plot.ly/~empet/13409/streamgraph-with-minimized-wiggle-1/#code)... of something... BS, duh
 10. wk13 - [donut chart](http://bokeh.pydata.org/en/latest/docs/gallery/donut_chart.html): sources in middle; "medals" replaced by home/road and/or fav/dog; regarding "and" of and/or: add a third ring to donut
 11. wk14 - a priori wins/week [slopegraph](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003nk); parallel coordinates of wins by source
-12. wk15 - [pick source perform above .500](http://thedailyviz.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-25-at-2.21.48-PM-620x383.png)
+12. wk15 - tree branch of... something
 13. wk16 - [projected v actual arrow charts](https://public.tableau.com/static/images/TH/THTProjectedStandingsChanges/2014-2015ProjectedStandingsChanges/1_rss.png) ([Excel](http://peltiertech.com/arrow-charts-in-excel/))
 14. wk17 - [bump graph / position time plot](http://vizthinker.com/wp-content/uploads/2014/01/BCS-Top-25-College-Football-2013-01.png); ([Excel](http://best-excel-tutorial.com/56-charts/306-bump-chart))
 
