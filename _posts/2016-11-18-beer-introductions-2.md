@@ -3,8 +3,8 @@ layout: post
 title: Data Guide for the Beer Perplexed II
 subtitle: Part II - Beer Category Dimensions 
 tags: ["RShiny", "datavis"]
-shortlink:
-twitimg: 
+shortlink: http://bit.ly/prplxd2
+twitimg: pic.twitter.com/NKltUlWk71
 ---
 
 ## What's in a style?
