@@ -7,6 +7,8 @@ shortlink:
 twitimg: 
 ---
 
+... not even getting into the type of fight fans who would tweet, yada yada yada (https://www.youtube.com/watch?v=av64gOA9nXM) [FN: yada yada yada]
+
 ## Bout Highlights 
 
 <p align="middle">
