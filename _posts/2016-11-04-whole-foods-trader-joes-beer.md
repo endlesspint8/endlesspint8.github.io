@@ -2,7 +2,7 @@
 layout: post
 title: Suds in The City
 subtitle: Closest Big Box Yuppie Stores in Manhattan
-tags: ["Voronoi", "map"]
+tags: ["beer", "map", "Voronoi"]
 shortlink: http://bit.ly/2eH2bVr
 twitimg: pic.twitter.com/Kmm6NGhFeB
 ---
