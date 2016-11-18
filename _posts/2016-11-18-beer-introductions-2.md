@@ -30,6 +30,8 @@ We will use two primary graphs to explore this data world further. The first is 
 
 <iframe src="https://endlesspint8.shinyapps.io/cb_sh_bxplt/" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
+<sub>R Shiny <a href="https://gist.github.com/endlesspint8/83e1a4d68527e4b73a93a96c30b0edf6" target="_blank">code</a></sub>
+
 Categories?! Wait, what? I thought we were talking about the 70+ styles from the previous [guide entry](/2016-10-10-beer-introductions-1). We still are but at one higher level. You should have noticed that some styles, even if you knew nothing else about beer, appear to have natural groupings based on their names. For instance there are several country specific names, such as American, Belgian, English and German. 
 
 A country name surely does not suggest all said beers are similar but there is a common heritage nonetheless (something for another time). Beyond the easily identifiable country names there are common descriptors: Pale Ale, Sour, Stout, etc. You can be sure that regardless of country origin these distinguishing characteristics cross borders.
@@ -47,6 +49,8 @@ According to the above graphic Strong Ales carry the highest median ABV at just 
 The second graph is slightly more sophisticated, allowing for more than one feature to be plotted simultaneously, just asking to be used as a comparative tool. The beer features are <a href="https://en.wikipedia.org/wiki/Feature_scaling#Standardization" target="_blank">standardized</a> for meaningful comparisons between values of different scales. We have the opportunity to map three data elements onto each point, a variable each on the x-axis, y-axis, and the dots themselves by way of using color. The graph defaults to ABV against IBU. 
 
 <iframe src="https://endlesspint8.shinyapps.io/cb_sh_sct/" width="800" height="700" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+
+<sub>R Shiny <a href="https://gist.github.com/endlesspint8/dc42163817bd73ca5f2a606c5ff6699f" target="_blank">code</a></sub>
 
 Without doing anything else it is pretty clear that there is a positive general correlation between the two beer characteristics. Beers with higher alcohol content tend to have more bittering units and the other way around. To get an idea of what styles fall where, use the third drop-down menu option, "Color By", to select a grouping of your choosing. Again, I recommend "Category". 
 
