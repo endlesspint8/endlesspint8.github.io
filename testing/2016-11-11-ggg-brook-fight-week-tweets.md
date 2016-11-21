@@ -20,7 +20,7 @@ twitimg:
 
 ## (Re)Tweet Week
 
-<img src="/gallery/2016/boxing/ggg-brook/re_tweet_donuts2.PNG" alt="re_tweet_donuts" /><br>
+<img src="/gallery/2016/boxing/ggg-brook/re_tweet_donuts3.PNG" alt="re_tweet_donuts" /><br>
 <sub>Data Source: Twitter | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/nTFzCRSFT8 dataviz of ten thousand season simulations&url=http://bit.ly/2fEpw08&via=endlesspint8&hashtags=nflpicks,heatmap" target="_blank" title="Share on Twitter">Week 8</a></sub>
 
 ## Top Hashes
@@ -37,6 +37,10 @@ twitimg:
 ## Timezones
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Standard_World_Time_Zones.png#/media/File:Standard_World_Time_Zones.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Standard_World_Time_Zones.png" alt="Standard World Time Zones.png" width="800"></a><br><sub>By <a href="//commons.wikimedia.org/w/index.php?title=User:TimeZonesBoy&amp;action=edit&amp;redlink=1" class="new" title="User:TimeZonesBoy (page does not exist)">TimeZonesBoy</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=42165217">Link</a></sub></p>
+
+Fight Hour Tweets
+
+<img src="/gallery/2016/boxing/ggg-brook/fight_hour_tweets.PNG" alt="fight_hour_tweets" /><br>
 
 ## Grab a Roadie
 <br>
