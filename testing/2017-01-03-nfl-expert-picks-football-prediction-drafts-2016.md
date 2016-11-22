@@ -41,7 +41,13 @@ The last chart of last week used a diagonal line to help provide guidance on whi
 This week we will remove the hints and speak directly to performance above .500. Just to be clear I am counting the difference between correct picks ("wins") and incorrect picks ("loses") as the number above/below .500. There seems to be some debate out there (https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=calculate%20games%20above%20500) on how to count this depending on what you want to measure. I've said my piece, I'm moving on.
 
 
+	
 
+<img src="/gallery/2016/football-picks/wk11_sup_chart.PNG" alt="wk11_sup_chart" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+
+<img src="/gallery/2016/football-picks/wk11_ats_chart.PNG" alt="wk11_ats_chart" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
 
 ## Week 10 - Big Picture with Small Multiples
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 10</a></b></sub></p>
