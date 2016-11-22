@@ -33,6 +33,16 @@ After Season
 2. 
 
 
+## Week 11 - Breaking Even, Breaking Bad
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 11</a></b></sub></p>
+
+The last chart of last week used a diagonal line to help provide guidance on which level of confidence predictions were performing above or below as expectations. In the discription of that graph I mentioned peforming at or above .500, breaking even with picks. 
+
+This week we will remove the hints and speak directly to performance above .500. Just to be clear I am counting the difference between correct picks ("wins") and incorrect picks ("loses") as the number above/below .500. There seems to be some debate out there (https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=calculate%20games%20above%20500) on how to count this depending on what you want to measure. I've said my piece, I'm moving on.
+
+
+
+
 ## Week 10 - Big Picture with Small Multiples
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 10</a></b></sub></p>
 
