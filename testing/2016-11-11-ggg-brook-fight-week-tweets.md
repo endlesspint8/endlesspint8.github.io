@@ -54,4 +54,4 @@ Fight Hour Tweets
 ## Sankey Placeholder
 
 <iframe src="http://endlesspint.com/gallery/2016/boxing/ggg-brook/gggbrook_sankey.html#chart" width="900" height="600" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
-<sub>Vis Source: <a href="https://bl.ocks.org/mbostock/1b64ec067fcfc51e7471d944f51f1611" target="_blank">Mike Bostock</a></sub>
+<sub>Code Source: Sankey from Excel <a href="http://ramblings.mcpher.com/" target="_blank">ramblings.mcpher.com</a></sub>
