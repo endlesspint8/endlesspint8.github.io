@@ -36,15 +36,16 @@ After Season
 ## Week 11 - Breaking Even, Breaking Bad
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 11</a></b></sub></p>
 
-The last chart of last week used a diagonal line to help provide guidance on which level of confidence predictions were performing above or below as expectations. In the discription of that graph I mentioned peforming at or above .500, breaking even with picks. 
+The last chart of last week used a diagonal line to help provide guidance on which level of confidence predictions were performing above or below expectations. In the discription of that graph I mentioned peforming at or above .500, breaking even with picks. 
 
-This week we will remove the hints and speak directly to performance above .500. Just to be clear I am counting the difference between correct picks ("wins") and incorrect picks ("loses") as the number above/below .500. There seems to be some debate out there (https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=calculate%20games%20above%20500) on how to count this depending on what you want to measure. I've said my piece, I'm moving on.
+This week we will remove the hints and speak directly to performance above .500. Just to be clear I am counting the difference between correct picks ("wins") and incorrect picks ("loses") as the number above/below .500. There seems to be <a href="https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=calculate%20games%20above%20500" target="_blank">some debate out there</a> on how to count this depending on what you want to measure. I've said my piece, I'm moving on.
 
-
+First up is the SUP performance where we are able to see all pick sources as well as the random picker. Predicably the latter is a dud. The actual professionals are all above .500 through week 11 and have been since the very beginning. There has been some jockeying at the top, especially early on, but over the longterm FiveThirtyEight has shown itself to be most consistent. CBS started out strong, stumbled, has been in every position (1st, 2nd, etc), and is now trailing behind though it is in a upswing. Unfortunately the recent upswing is shared by all of the other pick sources and as a result CBS has made up no ground.
 	
-
 <img src="/gallery/2016/football-picks/wk11_sup_chart.PNG" alt="wk11_sup_chart" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+
+Our next chart shows a less rosy picture. One thing is consistent and that is FiveThirtyEight once again coming out on top. Damn that ELO is a good way to make predictions. CBS is again not showing well, even falling below the random generator in performance. Meanwhile, Fox is dancing around the break even .500 line. 
 
 <img src="/gallery/2016/football-picks/wk11_ats_chart.PNG" alt="wk11_ats_chart" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
