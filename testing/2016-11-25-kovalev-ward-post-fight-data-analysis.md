@@ -27,5 +27,10 @@ The purpose of narrowing in on the rounds and breaks was two-fold, to make the a
 
 What I found was a whole lot of handwringing and excited viewers. Many rounds went unscored on an individual level, most times people simply commentating on how close and tense the fight was. The scores varied with wide margins on both sides but I believe the ultimate proportions fall inline with most people's expectations, though there were some surprises from my end. 
 
+<img src="/gallery/2016/boxing/kov-ward/kov_rnd_twt_scoring.PNG" alt="kov_rnd_twt_scoring" align="middle" /><br>
+<sub>Data Source: Twitter</sub>
+
+<img src="/gallery/2016/boxing/kov-ward/kov_rnds_won_density.PNG" alt="kov_rnds_won_density" align="middle" /><br>
+<sub>Data Source: Twitter</sub>
 
 https://boxstat.co/bout/2898784/sergey-kovalev-vs-andre-ward
