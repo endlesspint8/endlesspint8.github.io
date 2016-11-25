@@ -20,5 +20,14 @@ Afterwards we will take a closer look at the round features and judge scores. Ho
 
 Lastly, unless more gets added, will be a review of the respective fighter's ELO ratings coming into the fight. 
 
+## What do the Masses Have to Say?
+
+I pulled the fight night tweets associated with the two primary hashtags, #KovalevWard and #WardKovalev, focused in on the bout itself, and identified the round and rest period time ranges.
+
+<img src="/gallery/2016/boxing/kov-ward/fight_hour_tweets.PNG" alt="fight_hour_tweets" /><br>
+<sub>Data Source: Twitter</sub>
+
+The purpose of 
+
 
 https://boxstat.co/bout/2898784/sergey-kovalev-vs-andre-ward
