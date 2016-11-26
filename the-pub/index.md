@@ -26,6 +26,8 @@ subtitle: Public House & Publications
 
 <a href="http://www.kdnuggets.com/" target="_blank">KDnuggets</a>
 
+<a href="http://www.kdnuggets.com/2016/11/neighbors-know-best-classifying-underappreciated-beer.html?utm_content=bufferd78ac&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">Beer (Re)Classification</a>
+
 <a href="http://www.kdnuggets.com/2016/07/world-beer-cup-predictions.html" target="_blank">
 <img src="/the-pub/img/kd_screenshot1_40per.png " alt="KD-001" />
 </a>
