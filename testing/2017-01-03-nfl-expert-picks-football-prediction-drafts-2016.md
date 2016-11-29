@@ -40,7 +40,7 @@ After Season
 The
 
 
-<iframe width="810" height="720" frameborder="0" scrolling="no" src="//plot.ly/~ep8/16.embed"></iframe><br>
+<iframe width="810" height="400" frameborder="0" scrolling="no" src="//plot.ly/~ep8/16.embed"></iframe><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
 
