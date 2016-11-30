@@ -34,14 +34,15 @@ After Season
 
 
 
-## Week 12
-<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 11</a></b></sub></p>
+## Week 12 - Who's Got the Best BS?
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 12</a></b></sub></p>
 
 The
 
 
 <iframe width="810" height="400" frameborder="0" scrolling="no" src="//plot.ly/~ep8/16.embed"></iframe><br>
-<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub><br>
+
 
 
 ## Week 11 - Breaking Even, Breaking Bad
