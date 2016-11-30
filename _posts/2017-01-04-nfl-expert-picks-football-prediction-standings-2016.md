@@ -33,7 +33,25 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 ## Week 12 - Who's Got the Best BS?
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/B5TznXS3gt NFL picks above below .500&url=http://bit.ly/2gAhw11&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 12</a></b></sub></p>
 
+Time to check in on one of the primary predictive metrics, the Brier Score (BS). This was an excellent opportunity to use yet another visualization idiom. Perhaps it's a bit of overkill but I <strike>wanted</strike> needed to get it out of my system. This week I show a streamgraph to represent the week over week BS for each of our sources regarding SUP picks.
 
+For the human expert panels I used the regularized rating and the data models charted are (naturally) for in-season picks.
+
+**problem graph**
+
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
+
+The visualization leaves something to be desired. For learning purposes this is a good thing. Let us count the ways in which the graph could provide the data more effectively. 
+
+First, the difference in non-Random BS is quite small week to week. As such, a chart that uses area to represent divergence may not be the best way to get the difference across, especially when the stacking of these areas/streams makes the point of reference more difficult to ascertain. Second, by moving the Random stream to the bottom, which is consistently the largest, I may have lost out on the aesthetic if not the practical use of this sort of graph. 
+
+Third, what at first looks like a helpful attribute in the form of hover tools turns out to leave something to be desired. The hover tool indicates the stream source and y-coordinate. What it should have shown is the BS for that source/week. The user can still identify the BS but only by finding the difference in y-coordinates between sources. This is asking too much of the user and defeats the purpose of making the data easier to "read" than via a table.
+
+We can still answer who generally has the best BS but beforehand I wish to volunteer my execution of this graphic as being the biggest BS of the bunch. Having cleared my conscience I can get back to the task at hand.
+
+Best BS means smallest BS so we're looking for the tightest stream. Right away Random can be tossed out, followed by the occasionally pregnant looking CBS (light blue) and ESPN (red) lines. That leaves us with the two data models, FiveThirtyEight and FOX. Hmmm. I'm gonna call it a tie. Too close to call.
+
+What have we learned? I'm lazy (efficient?), have no shame, and for specific comparisons a streamgraph may not be the best tool. Instead, it would appear wise to leverage a streamgraph for getting a general picture of trends (on larger data, no less, to make it worthwhile).
 
 ---
 
