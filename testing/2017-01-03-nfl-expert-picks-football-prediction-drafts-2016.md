@@ -37,13 +37,16 @@ After Season
 ## Week 12 - Who's Got the Best BS?
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 12</a></b></sub></p>
 
-The
+Time to check in on one of the primary predictive metrics, the Brier Score (BS). This was an excellent opportunity to use yet another visualization idiom. Perhaps it's a bit of overkill but I <strike>wanted</strike> needed to get it out of my system. This week I present a streamgraph to represent the week over week BS for each of our sources regarding SUP picks.
+
+For the human expert panels I used the regularized rating and the data models charted are (naturally) for in-season ("in situ") picks.
 
 
 <iframe width="810" height="400" frameborder="0" scrolling="no" src="//plot.ly/~ep8/16.embed"></iframe><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub><br>
 
 
+---
 
 ## Week 11 - Breaking Even, Breaking Bad
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 11</a></b></sub></p>
