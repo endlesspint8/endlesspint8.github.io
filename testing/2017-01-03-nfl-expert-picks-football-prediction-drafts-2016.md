@@ -46,7 +46,15 @@ For the human expert panels I used the regularized rating and the data models ch
 
 The visualization leaves something to be desired. For learning purposes this is a good thing. Let us count the ways in which the graph could provide the data more effectively. 
 
-First, the difference in non-Random BS is relatively small week to week. As such, a chart that uses area to represent the difference is not the best way to get the difference across. 
+First, the difference in non-Random BS is quite small week to week. As such, a chart that uses area to represent divergence may not be the best way to get the difference across, especially when the stacking of these areas/streams makes the point of reference more difficult to ascertain. Second, by moving the Random stream to the bottom, which is consistently the largest, I may have lost out on the aesthetic if not the practical use of this sort of graph. 
+
+Third, what at first looks like a helpful attribute in the form of hover tools turns out to leave something to be desired. The hover tool indicates the stream source and y-coordinate. What it should have shown is the BS for that source/week. The user can still identify the BS but only by finding the difference in y-coordinates between sources. This is asking too much of the user and defeats the purpose of making the data easier to "read" than via a table.
+
+We can still answer who generally has the best BS but beforehand I wish to volunteer my execution of this graphic as being the biggest BS of the bunch. Having cleared my conscience I can get back to the task at hand.
+
+Best BS means smallest BS so we're looking for the tightest stream. Right away Random can be tossed out, followed by the occasionally pregnant looking CBS (light blue) and ESPN (red) lines. That leaves us with the two data models, FiveThirtyEight and FOX. Hmmm.
+
+
 
 ---
 
