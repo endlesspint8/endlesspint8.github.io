@@ -30,6 +30,13 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 ---
 
+## Week 12 - Who's Got the Best BS?
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/B5TznXS3gt NFL picks above below .500&url=http://bit.ly/2gAhw11&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 12</a></b></sub></p>
+
+
+
+---
+
 ## Week 11 - Breaking Even, Breaking Bad
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/B5TznXS3gt NFL picks above below .500&url=http://bit.ly/2gAhw11&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 11</a></b></sub></p>
 
