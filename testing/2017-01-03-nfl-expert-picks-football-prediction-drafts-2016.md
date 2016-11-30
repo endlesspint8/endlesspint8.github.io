@@ -41,7 +41,10 @@ Time to check in on one of the primary predictive metrics, the Brier Score (BS).
 
 For the human expert panels I used the regularized rating and the data models charted are (naturally) for in-season picks.
 
-<iframe width="810" height="400" frameborder="0" scrolling="no" src="//plot.ly/~ep8/16.embed"></iframe><br>
+<p>
+<iframe width="810" height="400" frameborder="0" scrolling="no" src="//plot.ly/~ep8/16.embed"></iframe>
+</p>
+
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub><br>
 
 The visualization leaves something to be desired. For learning purposes this is a good thing. Let us count the ways in which the graph could provide the data more effectively. 
