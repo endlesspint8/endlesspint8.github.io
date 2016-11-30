@@ -52,7 +52,9 @@ Third, what at first looks like a helpful attribute in the form of hover tools t
 
 We can still answer who generally has the best BS but beforehand I wish to volunteer my execution of this graphic as being the biggest BS of the bunch. Having cleared my conscience I can get back to the task at hand.
 
-Best BS means smallest BS so we're looking for the tightest stream. Right away Random can be tossed out, followed by the occasionally pregnant looking CBS (light blue) and ESPN (red) lines. That leaves us with the two data models, FiveThirtyEight and FOX. Hmmm.
+Best BS means smallest BS so we're looking for the tightest stream. Right away Random can be tossed out, followed by the occasionally pregnant looking CBS (light blue) and ESPN (red) lines. That leaves us with the two data models, FiveThirtyEight and FOX. Hmmm. I'm gonna call it a tie. Too close to call.
+
+What have we learned? I'm lazy (efficient?), have no shame, and for specific comparisons a streamgraph may not be the best tool. Instead, the streamgraph is helpful for getting a general picture of trends.
 
 
 
