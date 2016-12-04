@@ -3,8 +3,8 @@ layout: post
 title: It was all GGGood just a week ago
 subtitle: Basic Analysis of Fight Week Tweets
 tags: ["boxing", "dataviz"]
-shortlink: 
-twitimg: 
+shortlink: http://bit.ly/2g8yGGG
+twitimg: pic.twitter.com/f5C2qWMxaq
 ---
 
 ## Gotta Get Your Fix
