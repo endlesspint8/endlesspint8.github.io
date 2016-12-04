@@ -59,24 +59,35 @@ Undisciplined performance or clever fox, I was surprised to find that GGG was do
 
 I had fortunately secured for myself at least one way of seeing if I was the one who was swayed by my prejudices or if maybe it was the judges being influenced by the crowd (let’s be generous). At the beginning of fight week I had begun pulling tweets with one of two hashtags (#GolovkinBrook & #GGGBrook) and had collected just under 140,000 tweets. You can bet your candy ass these tweets were not evenly distributed but predictably spiked on fight day. In fact, zooming in on fight day, night, hour, and the five rounds of the fight itself was quite the <a href="https://en.wikipedia.org/wiki/Fractal" target="_blank">fractal</a> phenomenon, each zoom resembling the scale above.
 
+<img src="/gallery/2016/boxing/ggg-brook/ftwk_ts.png" alt="ftwk_hashes" /><br>
+<sub>Data Source: Twitter</sub>
+
 Retweets were pervasive, accounting for more than half of all tweets overall and on each day except for the fight date. I saw this as an example of people passing along the information they agreed with or felt strongly against but only caring to make themselves heard as a collective of individuals on the day of the actual event. [FN: Similar to polling versus voting. The political parallels rear their head again.] I see this akin to real life conversations regarding sporting events. Common storylines are broadcast, disseminated and spread via word-of-mouth. This invention of conventional wisdom sticks around not particularly challenged in the absence of an upset result.
+
+**(Re)Tweet Week**
+
+<img src="/gallery/2016/boxing/ggg-brook/re_tweet_donuts3.PNG" alt="re_tweet_donuts" /><br>
+<sub>Data Source: Twitter</sub>
 
 In pulling down the Twitter data I had flirted with various ideas of what to do with it once the fight and fight weekend were over. Once the judges’ cards were revealed I knew what was of utmost interest to me. [FN: You can see some of my meandering investigations via this PDF. {email needed}] Gone was any curiosity of who had the most liked tweet, the most shared tweet, whose followers were heard and reheard the most. I wanted to see what people thought about the victory, specifically how they saw the fight leading up to the early stoppage. Taking the data I clipped it to the approximate 20 minutes of flight time, identifying the three minute rounds and one minute breaks in between so that I could bucket all tweets by timestamp and identify actual in-the-moment reactions and scoring. 
 
+**Fight Hour Tweets**
+
+<img src="/gallery/2016/boxing/ggg-brook/fight_hour_tweets.PNG" alt="fight_hour_tweets" /><br>
+
 With the data set narrowed it was only a matter of figuring out how to attribute scores to the appropriate fighter. I toyed around with various text processing options, including word counts, cooccurrences, and sentiment analysis. Let's just say that the results were not promising and that I leave my burgeoning proficiency at these skills with tweets specifically for another time. In the end I settled on what was the most obvious and easy solution, I used the actual round scoring that Twitter users were sharing. What I mean is that I took all instances of user round scoring (10–9) as well as parsing out overall fight scores across multiple rounds (20-18 or 19-19 after two rounds for instance). I did not limit my example set by following users from round to round, I simply took each instance of a tweet in the rest period between rounds as a "vote" for the respective fighter. The resulting tallies allowed me to get a decent picture of what the Twitter-verse was seeing in the moment. It is this view that is visualized below.
+
+<iframe src="http://endlesspint.com/gallery/2016/boxing/ggg-brook/gggbrook_sankey.html#chart" width="900" height="600" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
+<sub>Code Source: Sankey from Excel <a href="http://ramblings.mcpher.com/" target="_blank">ramblings.mcpher.com</a></sub>
 
 As there were only four complete rounds I focused on these for the scoring. From left to right we have rounds one through four. The vertical bar representation of all votes for that round are split by the way the scores came out. As you can clearly see round one was a landslide in the opinion of Twitter users for GGG. In subsequent rounds the picture was more balanced, occasionally murky, typically more balanced, but with a general consensus nonetheless. By that I mean, the majority of Twitter users who were scoring the fight saw the bout generally as either split or in GGG’s favor, in contrast to the ringside judges who leaned slightly in the favor of Brook. 
 
 In a small way I felt vindicated. Here was visual evidence from boxing fans who had taken the time and trouble to bother scoring and sharing their opinions, agreeing in the aggregate with how I had seen the fight play out. I suppose you could say those pre-fight and in-fight pints had not hindered my judgment too severely. 
 
 
-<img src="/gallery/2016/boxing/ggg-brook/ftwk_ts.png" alt="ftwk_hashes" /><br>
-<sub>Data Source: Twitter | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/nTFzCRSFT8 dataviz of ten thousand season simulations&url=http://bit.ly/2fEpw08&via=endlesspint8&hashtags=nflpicks,heatmap" target="_blank" title="Share on Twitter">Week 8</a></sub>
 
-## (Re)Tweet Week
 
-<img src="/gallery/2016/boxing/ggg-brook/re_tweet_donuts3.PNG" alt="re_tweet_donuts" /><br>
-<sub>Data Source: Twitter | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/nTFzCRSFT8 dataviz of ten thousand season simulations&url=http://bit.ly/2fEpw08&via=endlesspint8&hashtags=nflpicks,heatmap" target="_blank" title="Share on Twitter">Week 8</a></sub>
+## 
 
 ## Top Hashes
 
@@ -93,9 +104,7 @@ In a small way I felt vindicated. Here was visual evidence from boxing fans who 
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Standard_World_Time_Zones.png#/media/File:Standard_World_Time_Zones.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Standard_World_Time_Zones.png" alt="Standard World Time Zones.png" width="800"></a><br><sub>By <a href="//commons.wikimedia.org/w/index.php?title=User:TimeZonesBoy&amp;action=edit&amp;redlink=1" class="new" title="User:TimeZonesBoy (page does not exist)">TimeZonesBoy</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=42165217">Link</a></sub></p>
 
-Fight Hour Tweets
 
-<img src="/gallery/2016/boxing/ggg-brook/fight_hour_tweets.PNG" alt="fight_hour_tweets" /><br>
 
 ## Grab a Roadie
 <br>
@@ -108,8 +117,7 @@ Fight Hour Tweets
 
 ## Sankey Placeholder
 
-<iframe src="http://endlesspint.com/gallery/2016/boxing/ggg-brook/gggbrook_sankey.html#chart" width="900" height="600" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
-<sub>Code Source: Sankey from Excel <a href="http://ramblings.mcpher.com/" target="_blank">ramblings.mcpher.com</a></sub>
+
 
 <br>
 
