@@ -31,7 +31,7 @@ This past September, at the tail end of summer, one such highly touted fighter w
 [link/gif (https://p4pboxingreport.files.wordpress.com/2013/11/golovkin-stevens2.gif?w=500&h=281)]<br>
 <sub>GIF Source: P4PBoxingReport</sub>
 
-Like all top fighters GGG does a few things very well. In descending order of obvious traits there is his punching power, boxing skills, and footwork. Along with the heavy artillery advantage he possesses a granite chin that allows him to stick it out in a firefight and deliver much better than he receives. With various options at hand he routinely displays what I believe is his greatest asset, the ability and willingness to mix up his approach, banging away if it suits him best or sticking you with a stiff jab delivered to limber you up first (I'm looking at you Monsieur Lemieux). It is this use and pressing of his advantages over his opponent, in the service of going for the kill, that makes him most appealing to watch. 
+Like all top fighters GGG does a few things very well. In descending order of obvious traits there is his punching power, boxing skills, and <a href="https://www.youtube.com/watch?v=vijD09_O8ek" target="_blank">footwork</a>. Along with the heavy artillery advantage he possesses a granite chin that allows him to stick it out in a firefight and deliver much better than he receives. With various options at hand he routinely displays what I believe is his greatest asset, the ability and willingness to mix up his approach, banging away if it suits him best or sticking you with a stiff jab delivered to limber you up first (I'm looking at you Monsieur Lemieux). It is this use and pressing of his advantages over his opponent, in the service of going for the kill, that makes him most appealing to watch. 
 
 On fight night of September 10 I was pleased to head out for an evening of boxing, drinking and talking shit. One of the great joys of watching sports in general and boxing in particular is the exchange of insight, information, and insults. The three are easy enough apart, a bit more challenging together, and truly something to master when you include the mixture of humor needed to avoid coming across as a know-it-all, an overly serious blowhard, or someone who might risk the animus of another and hence escalate what should be a fun evening out into something unpleasant (aka getting your ass kicked). 
 
@@ -55,6 +55,9 @@ Despite the win and apparently correct stoppage, I saw the GGG approach as possi
 
 Then again, what had GGG done? He had pressed and chased a smaller man, forcing Brook to throw in order to keep GGG off, thereby exposing him to the harm that eventually did Brook in. Going to the other extreme, a pure boxing match would have played into the strengths of his opponent. The more I thought about it the more I considered the possibility that we had seen a master strategy. A dangerous one but a tightrope performance worthy of some respect. Certainly another pint didn’t hurt in my convincing myself. 
 
+<img src="/gallery/2016/boxing/ggg-brook/brook_v_ggg_scorecard.jpg" alt="brook_v_ggg_scorecard" /><br>
+<sub>Data Source: [TopClassBoxing](http://www.topclassboxing.co.uk/My_Take/all_eyes_on_ggg.html)</sub>
+
 Undisciplined performance or clever fox, I was surprised to find that GGG was down on one of the judges’ scorecards and even on the others. That did not seem inline with what I had seen. Aesthetic qualities aside, GGG appeared to be dishing out the more pronounced punishment. Perhaps the judges were swayed by the crowd reactions or maybe, as Paul Malignaggi would comment weeks later during the Linares/Crolla fight, which also took place in England, there was too much home cooking.
 
 I had fortunately secured for myself at least one way of seeing if I was the one who was swayed by my prejudices or if maybe it was the judges being influenced by the crowd (let’s be generous). At the beginning of fight week I had begun pulling tweets with one of two hashtags (#GolovkinBrook & #GGGBrook) and had collected just under 140,000 tweets. You can bet your candy ass these tweets were not evenly distributed but predictably spiked on fight day. In fact, zooming in on fight day, night, hour, and the five rounds of the fight itself was quite the <a href="https://en.wikipedia.org/wiki/Fractal" target="_blank">fractal</a> phenomenon, each zoom resembling the scale above.
@@ -75,49 +78,14 @@ In pulling down the Twitter data I had flirted with various ideas of what to do 
 
 <img src="/gallery/2016/boxing/ggg-brook/fight_hour_tweets.PNG" alt="fight_hour_tweets" /><br>
 
-With the data set narrowed it was only a matter of figuring out how to attribute scores to the appropriate fighter. I toyed around with various text processing options, including word counts, cooccurrences, and sentiment analysis. Let's just say that the results were not promising and that I leave my burgeoning proficiency at these skills with tweets specifically for another time. In the end I settled on what was the most obvious and easy solution, I used the actual round scoring that Twitter users were sharing. What I mean is that I took all instances of user round scoring (10–9) as well as parsing out overall fight scores across multiple rounds (20-18 or 19-19 after two rounds for instance). I did not limit my example set by following users from round to round, I simply took each instance of a tweet in the rest period between rounds as a "vote" for the respective fighter. The resulting tallies allowed me to get a decent picture of what the Twitter-verse was seeing in the moment. It is this view that is visualized below.
+With the data set narrowed it was only a matter of figuring out how to attribute scores to the appropriate fighter. I toyed around with various text processing options, including word counts, cooccurrences, and sentiment analysis. Let's just say that the results were not promising and that I leave my burgeoning proficiency at these skills with tweets specifically for another time. In the end I settled on what was the most obvious and easy solution, I used the actual round scoring that Twitter users were sharing. What I mean is that I took all instances of user round scoring (10–9) as well as parsing out overall fight scores across multiple rounds (20-18 or 19-19 after two rounds for instance). I did not limit my example set by following users from round to round, I simply took each instance of a tweet in the rest period between rounds as a "vote" for the respective fighter. The resulting tallies allowed me to get a decent picture of what the Twitter-verse was seeing in the moment. It is this view that is visualized below. 
 
 <iframe src="http://endlesspint.com/gallery/2016/boxing/ggg-brook/gggbrook_sankey.html#chart" width="900" height="600" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
 <sub>Code Source: Sankey from Excel <a href="http://ramblings.mcpher.com/" target="_blank">ramblings.mcpher.com</a></sub>
 
-As there were only four complete rounds I focused on these for the scoring. From left to right we have rounds one through four. The vertical bar representation of all votes for that round are split by the way the scores came out. As you can clearly see round one was a landslide in the opinion of Twitter users for GGG. In subsequent rounds the picture was more balanced, occasionally murky, typically more balanced, but with a general consensus nonetheless. By that I mean, the majority of Twitter users who were scoring the fight saw the bout generally as either split or in GGG’s favor, in contrast to the ringside judges who leaned slightly in the favor of Brook. 
+As there were only four complete rounds I focused on these for the scoring. From left to right we have rounds one through four. The vertical bar representation of all votes for that round are split by the way the scores came out. As you can clearly see round one was a landslide in the opinion of Twitter users for GGG. In subsequent rounds the picture was more balanced, occasionally murky,[FN: I did not help matters by taking just the round percent scoring irrespective of Twitter user and using a Sankey diagram. If you look carefully from the first round to the second you see some of the "votes" going from 1-0 GGG to 2-0 Brook. This would be impossible on a real score card but I decided to keep the irregularity in order to highlight how lopsided the first round was. At least according to Twitter'ers.] typically more balanced, but with a general consensus nonetheless. By that I mean, the majority of Twitter users who were scoring the fight saw the bout generally as either split or in GGG’s favor, in contrast to the ringside judges who leaned slightly in the favor of Brook. 
 
 In a small way I felt vindicated. Here was visual evidence from boxing fans who had taken the time and trouble to bother scoring and sharing their opinions, agreeing in the aggregate with how I had seen the fight play out. I suppose you could say those pre-fight and in-fight pints had not hindered my judgment too severely. 
-
-
-
-
-## 
-
-## Top Hashes
-
-<img src="/gallery/2016/boxing/ggg-brook/hashes_bump_chart.png" alt="hashes_bump_chart" /><br>
-<sub>Data Source: Twitter | <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/nTFzCRSFT8 dataviz of ten thousand season simulations&url=http://bit.ly/2fEpw08&via=endlesspint8&hashtags=nflpicks,heatmap" target="_blank" title="Share on Twitter">Week 8</a></sub>
-
-## Shifting
-
-<p align="middle">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vijD09_O8ek" frameborder="0" allowfullscreen></iframe>
-</p>
-
-## Timezones
-
-<p><a href="https://commons.wikimedia.org/wiki/File:Standard_World_Time_Zones.png#/media/File:Standard_World_Time_Zones.png" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Standard_World_Time_Zones.png" alt="Standard World Time Zones.png" width="800"></a><br><sub>By <a href="//commons.wikimedia.org/w/index.php?title=User:TimeZonesBoy&amp;action=edit&amp;redlink=1" class="new" title="User:TimeZonesBoy (page does not exist)">TimeZonesBoy</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=42165217">Link</a></sub></p>
-
-
-
-## Grab a Roadie
-<br>
-
-<img src="/gallery/2016/boxing/ggg-brook/brook_v_ggg_scorecard.jpg" alt="brook_v_ggg_scorecard" /><br>
-<sub>Data Source: [TopClassBoxing](http://www.topclassboxing.co.uk/My_Take/all_eyes_on_ggg.html?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork)</sub>
- 
-<img src="/gallery/2016/boxing/ggg-brook/boxstat_punchstat.png" alt="boxstat_punchstat" /><br>
-<sub>Data Source: [BoxStat](https://boxstat.co/bout/2899112/kellbrook-vs-gennadygolovkin)</sub>
-
-## Sankey Placeholder
-
-
 
 <br>
 
