@@ -25,8 +25,10 @@ Sleepy town aside, I find myself on the continent at a time when British boxing 
 
 This past September, at the tail end of summer, one such highly touted fighter was lured to the lion’s den. As a result I got to watch another live broadcast of a GGG<sup id="a2">[2](#f2)</sup> fight. Like many, I've followed Gennady Golovkin’s rise since HBO <a href="https://www.youtube.com/watch?v=q0HuLUUbRiU" target="_blank">put him on in 2013</a>, learning about his past and extrapolating his future (unfortunately there’s been far too much extrapolation of late, I’m looking at you Cotto, Canelo, Saunders, and now possibly Jacobs). I was even fortunate enough to catch the Stevens fight in person at The Theater at MSG. It was an incredible atmosphere that felt as if there were far more in attendance than the sold out capacity crowd of 5,000 people.
 
-[link/gif (https://p4pboxingreport.files.wordpress.com/2013/11/golovkin-stevens2.gif?w=500&h=281)]<br>
+![](https://p4pboxingreport.files.wordpress.com/2013/11/golovkin-stevens2.gif) <br>
 <sub>GIF Source: P4PBoxingReport</sub>
+
+[link/gif (https://p4pboxingreport.files.wordpress.com/2013/11/golovkin-stevens2.gif?w=500&h=281)]
 
 Like all top fighters GGG does a few things very well. In descending order of obvious traits there is his punching power, boxing skills, and <a href="https://www.youtube.com/watch?v=vijD09_O8ek" target="_blank">footwork</a>. Along with the heavy artillery advantage he possesses a granite chin that allows him to stick it out in a firefight and deliver much better than he receives. With various options at hand he routinely displays what I believe is his greatest asset, the ability and willingness to mix up his approach, banging away if it suits him best or sticking you with a stiff jab delivered to limber you up first (I'm looking at you Monsieur Lemieux). It is this use and pressing of his advantages over his opponent, in the service of going for the kill, that makes him most appealing to watch. 
 
