@@ -7,7 +7,7 @@ shortlink:
 twitimg: 
 ---
 
-## Bout Highlights 
+## Gotta Get Your Fix
 
 <p align="middle">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzCO3Q5rZF4" frameborder="0" allowfullscreen></iframe>
@@ -24,6 +24,8 @@ I am living in a bit of a sleepy town at the moment. It's technically more of a 
 Sleepy town aside, I find myself on the continent at a time when British boxing is enjoying one of its greatest, if not the greatest, periods in its storied history. This from a nation that birthed the sport as we know it. This upswing in belt holders has resulted in great enthusiasm and full stadiums. Along with the hoopla comes a lot of money, Brexit be damned. With belts and pounds at stake the UK promoters are able, as much as ever, to attract talent from around the world to their shores. This state of affairs has resulted in a double boon of sorts for me. I am able to tap into reasonably scheduled bouts of decent to high-quality talent and also see some of the familiar top fighters better known back home in the US, all without having to rely on next day Russian-commentated illegal video feeds. If such things even exist, I can neither confirm nor deny my having seen such things.
 
 This past September, at the tail end of summer, one such highly touted fighter was lured to the lion’s den. As a result I got to watch another live broadcast of a GGG<sup id="a2">[2](#f2)</sup> fight. Like many, I've followed Gennady Golovkin’s rise since HBO <a href="https://www.youtube.com/watch?v=q0HuLUUbRiU" target="_blank">put him on in 2013</a>, learning about his past and extrapolating his future (unfortunately there’s been far too much extrapolation of late, I’m looking at you Cotto, Canelo, Saunders, and now possibly Jacobs). I was even fortunate enough to catch the Stevens fight in person at The Theater at MSG. It was an incredible atmosphere that felt as if there were far more in attendance than the sold out capacity crowd of 5,000 people.
+
+## So Much Hustle Plus Down to Ill
 
 ![](https://p4pboxingreport.files.wordpress.com/2013/11/golovkin-stevens2.gif) <br>
 <sub>GIF Source: P4PBoxingReport</sub>
