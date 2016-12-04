@@ -92,5 +92,11 @@ In a small way I felt vindicated. Here was visual evidence from boxing fans who 
 
 <b id="f1">1</b> I once watched the Mayweather/Canelo fight live in the late morning of Tokyo. That was a holiday trip allowing for the interesting experience of scarfing burgers, drinking beers, and messaging with friends back in the US still experiencing “yesterday.” 
  [↩](#a1) <br>
-<b id="f2">2</b> Yep, that's the technical term. [↩](#a2) <br>
-<b id="f3">3</b> The change in absolute numbers however are remarkably similar: 1984-1996 (+1,248 breweries), 2000-2012 (+1,258). [↩](#a3)
+<b id="f2">2</b> Triple “G” for all you latecomers. [↩](#a2) <br>
+<b id="f3">3</b> Naturally I poured it into a glass. I’m not an animal. [↩](#a3) <br>
+<b id="f4">4</b> Shout out Jim Lampley. (#a4) <br>
+<b id="f5">5</b> It would be several hours before the orbital bone fracture was disclosed. Of course if I knew of the injury there would be no doubt. I'm not an animal. (#a5) <br>
+<b id="f6">6</b> Similar to polling versus voting. The political parallels rear their head again. (#a6) <br>
+<b id="f7">7</b> You can see some of my meandering investigations via this PDF. {email needed} (#a7) <br>
+<b id="f8">8</b> I did not help matters by taking just the round percent scoring, irrespective of Twitter user and using a Sankey diagram. If you look carefully from the first round to the second you see some of the "votes" going from 1-0 GGG to 2-0 Brook. This would be impossible on a real score card but I decided to keep the irregularity in order to highlight how lopsided the first round was. At least according to Twitter'ers. (#a8) <br>
+<b id="f9">9</b> Not even getting into the type of fight fans who would tweet, non-random selection, bias, <a href="https://www.youtube.com/watch?v=av64gOA9nXM" target="_blank">yada yada yada</a>. (#a9)
