@@ -2,7 +2,7 @@
 layout: post
 title: It was all GGGood just a week ago
 subtitle: Basic Analysis of Fight Week Tweets
-tags: ["Voronoi", "map"]
+tags: ["boxing", "dataviz"]
 shortlink: 
 twitimg: 
 ---
@@ -27,8 +27,6 @@ This past September, at the tail end of summer, one such highly touted fighter w
 
 ![](https://p4pboxingreport.files.wordpress.com/2013/11/golovkin-stevens2.gif) <br>
 <sub>GIF Source: P4PBoxingReport</sub>
-
-[link/gif (https://p4pboxingreport.files.wordpress.com/2013/11/golovkin-stevens2.gif?w=500&h=281)]
 
 Like all top fighters GGG does a few things very well. In descending order of obvious traits there is his punching power, boxing skills, and <a href="https://www.youtube.com/watch?v=vijD09_O8ek" target="_blank">footwork</a>. Along with the heavy artillery advantage he possesses a granite chin that allows him to stick it out in a firefight and deliver much better than he receives. With various options at hand he routinely displays what I believe is his greatest asset, the ability and willingness to mix up his approach, banging away if it suits him best or sticking you with a stiff jab delivered to limber you up first (I'm looking at you Monsieur Lemieux). It is this use and pressing of his advantages over his opponent, in the service of going for the kill, that makes him most appealing to watch. 
 
