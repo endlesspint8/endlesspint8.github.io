@@ -38,7 +38,9 @@ After Season
 ## Week 13 - What are you Chalkin' About? 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 13</a></b></sub></p>
 
-Maybe we should just go chalk?  
+Maybe we should just go chalk?
+
+Inspired by Bokeh gallery example (http://bokeh.pydata.org/en/latest/docs/gallery/donut_chart.html) but was unhappy with color scheme and control, not worth the bother. Also, couldn't nest home/road ontop of fav/dog. Why bother with two graphs when you can get away with one (no disrespect to Contact (https://youtu.be/Et4sMJP9FmM?t=2m))?
 
 <img src="/gallery/2016/football-picks/wk13_donut_sup2.PNG" alt="wk13_donut_sup" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
