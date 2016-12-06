@@ -40,7 +40,9 @@ After Season
 
 Maybe we should just go chalk?
 
-Precision, Recall, & Accuracy: heatmap & confusion matrices?
+Precision, Recall, & Accuracy (https://en.wikipedia.org/wiki/Precision_and_recall): heatmap & confusion matrices?
+
+What would be the precision of choosing all home favorites to win?
 
 What's the correct/winning Road Dog avg line?
 
