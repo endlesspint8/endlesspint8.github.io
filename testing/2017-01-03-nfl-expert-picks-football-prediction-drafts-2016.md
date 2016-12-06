@@ -35,10 +35,14 @@ After Season
 
 
 
-## Week 13 - What are you Chalkin' About? 
+## Week 13 - Total Recall 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 13</a></b></sub></p>
 
 Maybe we should just go chalk?
+
+Precision, Recall, & Accuracy: heatmap & confusion matrices?
+
+What's the correct/winning Road Dog avg line?
 
 Inspired by Bokeh gallery example (http://bokeh.pydata.org/en/latest/docs/gallery/donut_chart.html) but was unhappy with color scheme and control, not worth the bother. Also, couldn't nest home/road ontop of fav/dog. Why bother with two graphs when you can get away with one (no disrespect to Contact (https://youtu.be/Et4sMJP9FmM?t=2m))?
 
