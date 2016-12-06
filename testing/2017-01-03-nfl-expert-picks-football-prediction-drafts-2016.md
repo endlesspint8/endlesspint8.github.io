@@ -40,7 +40,7 @@ After Season
 
 Maybe we should just go chalk?  
 
-<img src="/gallery/2016/football-picks/wk13_donut_sup.PNG" alt="wk13_donut_sup" align="middle"/><br>
+<img src="/gallery/2016/football-picks/wk13_donut_sup2.PNG" alt="wk13_donut_sup" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
 
 ## Week 12 - Who's Got the Best BS?
