@@ -47,11 +47,15 @@ One of the inspirations for this breakdown was the Bokeh donut graph example (ht
 
 The results were not immediately surprising but they did raise some further questions which is sometimes better than a quick conclusion. As might be expected the majority of correct picks came from choosing the favorite. A majority of these correct picks were of home favorites, again no big deal. What was a bit curious was the breakdown of dog picks. For each pick source the majority of correct dog picks were of road teams. What constitutes a favorite? The betting line. This begs the question, how much of a dog were these dogs? We'll get to that but first a closer look at home-favorite performance by source via <a href="https://en.wikipedia.org/wiki/Precision_and_recall" target="_blank">confusion matrices</a>.
 
+<img src="/gallery/2016/football-picks/wk13_confmx.PNG" alt="wk13_confmx" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
 
+What at first looks like similar performances in the first graph are sliced into clearer detail above. The boxes are divided into True Positive (TP), False Positive (FP), False Negative (FN), and True Negative (TN) and are layed out as shown in the table below:
 
-
-Precision, Recall, & Accuracy (https://en.wikipedia.org/wiki/Precision_and_recall): heatmap & confusion matrices?
-
+|||
+|---|---|
+|TP|FN|
+|FP|TN|
 
 What's the correct/winning Road Dog avg line?
 
