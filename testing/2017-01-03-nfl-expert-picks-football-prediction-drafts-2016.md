@@ -38,11 +38,14 @@ After Season
 ## Week 13 - Total Recall 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 13</a></b></sub></p>
 
-This week I wanted to look at where the correct SUP picks were being. Would there be big discrepencies or different mixes among the sources? I split the picks between two different axes: favorite/dog and home/road. I wanted to know what number of correct picks fell into the four resulting catetgories: home-fav; home-dog; road-fav; road-dog. Each of these four segments would apply to our four sources, resulting in 16 potential buckets baring zero counts.
+This week I wanted to look at where the correct SUP picks were being made. Would there be big discrepencies or different mixes among the sources? I split the picks between two different axes: favorite/dog and home/road. I wanted to know what number of correct picks fell into the four resulting catetgories: home-fav; home-dog; road-fav; road-dog. Each of these four segments would apply to our four sources, resulting in 16 potential buckets baring zero counts.
 
 One of the inspirations for this breakdown was the Bokeh donut graph example (http://bokeh.pydata.org/en/latest/docs/gallery/donut_chart.html). In that instance the underlying data was from the Olypmics and the presentation was a slicing of country medals by Gold, Silver, and Bronze. I flirted with using the sample code from the gallery but was unhappy with the color scheme and inability to nest home/road ontop of fav/dog, ultimately deciding it was not worth the bother. I did not want to make two graphs when I could get away with one (no disrespect to Contact (https://youtu.be/Et4sMJP9FmM?t=2m))?
 
-The results were not immediately surprising but they did raise some further questions which is sometimes better than a quick conclusion.
+<img src="/gallery/2016/football-picks/wk13_donut_sup2.PNG" alt="wk13_donut_sup" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+
+The results were not immediately surprising but they did raise some further questions which is sometimes better than a quick conclusion. As might be expected the majority of correct picks came from choosing the favorite. A majority of these correct picks were of home favorites, again no big deal. What was a bit curious was the breakdown of dog picks. For each pick source the majority of correct dog picks were from the road teams. What constitutes a favorite? The betting line. This begs the question, how much of a dog were these dogs? We'll get to that but first a closer look at 
 
 Maybe we should just go chalk?
 
@@ -52,10 +55,7 @@ What would be the precision of choosing all home favorites to win?
 
 What's the correct/winning Road Dog avg line?
 
-Inspired by Bokeh gallery example (http://bokeh.pydata.org/en/latest/docs/gallery/donut_chart.html) 
 
-<img src="/gallery/2016/football-picks/wk13_donut_sup2.PNG" alt="wk13_donut_sup" align="middle"/><br>
-<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
 
 ## Week 12 - Who's Got the Best BS?
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 12</a></b></sub></p>
