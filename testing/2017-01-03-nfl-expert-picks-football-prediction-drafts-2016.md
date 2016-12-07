@@ -38,7 +38,7 @@ After Season
 ## Week 13 - Total Recall 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 13</a></b></sub></p>
 
-This week I wanted to look at where the correct SUP picks were being made. Would there be big discrepencies or different mixes among the sources? I split the picks between two different criteria: favorite/dog and home/road. I wanted to know what number of correct picks fell into the four resulting catetgories: home-fav; home-dog; road-fav; road-dog. Each of these four segments would apply to our four sources, resulting in 16 potential buckets baring zero counts.
+This week I wanted to look at where the correct SUP picks were being made. Would there be big discrepencies or different mixes among the sources? I split the picks between two different criteria: favorite/dog and home/road. I wanted to know what number of correct picks fell into the four resulting catetgories: home-fav; home-dog; road-fav; road-dog. Each of these four segments would apply to our four sources, resulting in 16 potential buckets baring zero counts (FOX has to date zero home-dog correct picks out of five such calls).
 
 One of the inspirations for this breakdown was the Bokeh donut graph example (http://bokeh.pydata.org/en/latest/docs/gallery/donut_chart.html). In that instance the underlying data was from the Olympics and the presentation was a slicing of country medals by Gold, Silver, and Bronze. I flirted with using the sample code from the gallery but was unhappy with the color scheme and inability to nest home/road ontop of fav/dog, ultimately deciding it was not worth the bother. I did not want to make two graphs when I could get away with the one (no disrespect to Contact (https://youtu.be/Et4sMJP9FmM?t=2m))?
 
@@ -57,7 +57,9 @@ What at first looks like similar performances in the first graph are sliced into
 |TP|FN|
 |FP|TN|
 
-What's the correct/winning Road Dog avg line?
+What we see is consistent with the underlying trends to date. The data models are slightly better. The human panels are slightly more error prone.
+
+What's the correct/winning Road Dog avg line? There have been 46 road dog wins through week 13. The average line... home team favored by 3.86 points. 
 
 
 
