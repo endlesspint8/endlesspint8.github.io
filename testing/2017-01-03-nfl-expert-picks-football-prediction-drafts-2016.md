@@ -24,7 +24,7 @@ Upcoming graphs:
 9. wk12 - [Stream graph](https://plot.ly/~empet/13409/streamgraph-with-minimized-wiggle-1/#code)... of something... BS, duh
 10. wk13 - [donut chart](http://bokeh.pydata.org/en/latest/docs/gallery/donut_chart.html): sources in middle; "medals" replaced by home/road and/or fav/dog; regarding "and" of and/or: add a third ring to donut</strike>
 11. wk14 - conf% v win% [slopegraph](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003nk) in [Excel](http://peltiertech.com/slope-graphs-in-excel/), prolly MPL; wk10 bubble chart revisited
-12. wk15 - tree branch of... something
+12. wk15 - tree branch of... something; rather ROC curves/source with weekly dots (https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
 13. wk16 - [projected v actual arrow charts](https://public.tableau.com/static/images/TH/THTProjectedStandingsChanges/2014-2015ProjectedStandingsChanges/1_rss.png) ([Excel](http://peltiertech.com/arrow-charts-in-excel/))
 14. wk17 - [bump graph / position time plot](http://vizthinker.com/wp-content/uploads/2014/01/BCS-Top-25-College-Football-2013-01.png); ([Excel](http://best-excel-tutorial.com/56-charts/306-bump-chart))
 
@@ -45,17 +45,13 @@ One of the inspirations for this breakdown was the Bokeh donut graph example (ht
 <img src="/gallery/2016/football-picks/wk13_donut_sup2.PNG" alt="wk13_donut_sup" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
 
-The results were not immediately surprising but they did raise some further questions which is sometimes better than a quick conclusion. As might be expected the majority of correct picks came from choosing the favorite. A majority of these correct picks were of home favorites, again no big deal. What was a bit curious was the breakdown of dog picks. For each pick source the majority of correct dog picks were of road teams. What constitutes a favorite? The betting line. This begs the question, how much of a dog were these dogs? We'll get to that but first a closer look at home-favorites and road-dogs, two sides of the same coin.
+The results were not immediately surprising but they did raise some further questions which is sometimes better than a quick conclusion. As might be expected the majority of correct picks came from choosing the favorite. A majority of these correct picks were of home favorites, again no big deal. What was a bit curious was the breakdown of dog picks. For each pick source the majority of correct dog picks were of road teams. What constitutes a favorite? The betting line. This begs the question, how much of a dog were these dogs? We'll get to that but first a closer look at home-favorite performance by source via <a href="https://en.wikipedia.org/wiki/Precision_and_recall" target="_blank">confusion matrices</a>.
 
 
 
-Maybe we should just go chalk?
 
 Precision, Recall, & Accuracy (https://en.wikipedia.org/wiki/Precision_and_recall): heatmap & confusion matrices?
 
-ROC curve (https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
-
-What would be the precision of choosing all home favorites to win?
 
 What's the correct/winning Road Dog avg line?
 
