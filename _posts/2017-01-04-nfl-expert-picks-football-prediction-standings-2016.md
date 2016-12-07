@@ -30,6 +30,34 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 ---
 
+## Week 13 - Total Recall 
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/pNIo1oVbKO NFL pick accuracy confusion matrix breakdown&url=http://bit.ly/2gTXw13&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 13</a></b></sub></p>
+
+This week I wanted to look at where the correct SUP picks were being made. Would there be big discrepencies or different mixes among the sources? I split the picks between two different criteria: favorite/dog and home/road. I wanted to know what number of correct picks fell into the four resulting catetgories: home-fav; home-dog; road-fav; road-dog. Each of these four segments would apply to our four sources, resulting in 16 potential buckets baring zero counts (FOX has to date zero home-dog correct picks out of five such calls).
+
+One of the inspirations for this breakdown was the <a href="http://bokeh.pydata.org/en/latest/docs/gallery/donut_chart.html" target="_blank">Bokeh donut graph</a> example. In that instance the underlying data was from the Olympics and the presentation was a slicing of country medals by Gold, Silver, and Bronze. I flirted with using the sample code from the gallery but was unhappy with the color scheme and inability to nest home/road ontop of fav/dog, ultimately deciding it was not worth the bother. I did not want to make two graphs when I could get away with the one (no disrespect to <a href="https://youtu.be/Et4sMJP9FmM?t=2m" target="_blank">Contact</a>)?
+
+<img src="/gallery/2016/football-picks/wk13_donut_sup2.PNG" alt="wk13_donut_sup" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+
+The results were not immediately surprising but they did raise some further questions which is sometimes better than a quick conclusion. As might be expected the majority of correct picks came from choosing the favorite. A majority of these correct picks were of home favorites, again no big deal. What was a bit curious was the breakdown of dog picks. For each pick source the majority of correct dog picks were of road teams. What constitutes a favorite? The betting line. This begs the question, how much of a dog were these dogs? We'll get to that but first a closer look at home-favorite performance by source via <a href="https://en.wikipedia.org/wiki/Precision_and_recall" target="_blank">confusion matrices</a>.
+
+<img src="/gallery/2016/football-picks/wk13_confmx.PNG" alt="wk13_confmx" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>	
+
+What at first looks like similar performances in the first graph are sliced into clearer detail above. The boxes are divided into True Positive (TP), False Positive (FP), False Negative (FN), and True Negative (TN) and are layed out as shown in the table below:
+
+|||
+|---|---|
+|TP|FN|
+|FP|TN|
+
+What we see is consistent with the underlying trends to date. The data models are slightly better. The human panels are slightly more error prone.
+
+What's the correct/winning Road Dog avg line? There have been 46 road dog wins through week 13. The average line... home team favored by 3.86 points. 
+
+---
+
 ## Week 12 - Who's Got the Best BS?
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/AaKqRElwpC NFL Brier Score picks as streamgraph&url=http://bit.ly/2fMaw12&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 12</a></b></sub></p>
 
