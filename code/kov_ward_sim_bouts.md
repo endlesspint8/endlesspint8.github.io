@@ -1,7 +1,7 @@
 ---
 layout: page
 title: endlesspint
-subtitle: Kovalev / Ward I Round Scoring Simulation
+subtitle: Kovalev Ward I - Round Scoring Simulation
 ---
 
 
@@ -839,7 +839,7 @@ tweets_df[tweets_df.rest_period == 1]['text']
     11149             That jab rocking Ward. Wow! #KovalevWard
     11150                      Round 1 to kovalev #KovalevWard
                                    ...                        
-    11536    RT @boxingcorner247: Here we go #KovalevWard í ¼...
+    11536    RT @boxingcorner247: Here we go #KovalevWard ï¿½ï¿½ï¿½...
     11537                  1st round Kovalev 10-9 #KovalevWard
     11538    R1 Ward showing more fight than flight, but ea...
     11539    1st round i think goes to Kovalev he landed th...
