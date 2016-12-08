@@ -10,6 +10,7 @@ subtitle: For those who still can't get their fill.
 
 ### [Still Razor Thin](/2016-11-25-kovalev-ward-post-fight-data-analysis)
 > Three part breakdown to a tight fight: <br>
+>
 > * [round scoring simulation](kov_ward_sim_bouts) based on Twitter user scores; <br>
 > * [round features & judges' scores]() analysis; <br>
 > * [ELO ratings], before and after <br>
