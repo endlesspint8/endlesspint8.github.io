@@ -24,7 +24,7 @@ I pulled the fight night tweets associated with the two primary hashtags, #Koval
 <img src="/gallery/2016/boxing/kov-ward/fight_hour_tweets.PNG" alt="fight_hour_tweets" /><br>
 <sub>Data Source: Twitter</sub>
 
-The purpose of narrowing in on the rounds and breaks was two-fold, to make the above graph and to only use the scores in the moment. I wanted to get the "as it happened" impression from fight fans. I was not interested in Monday morning quarterbacks or rationalizations of any sort. 
+The purpose of narrowing in on the rounds and breaks was two-fold, to make the above graph (pretty!) and to just use the scores in the moment. I wanted to get the "as it happened" impression from fight fans. I was not interested in Monday morning quarterbacks or rationalizations of any sort. 
 
 What I found was a whole lot of handwringing and excited viewers. Many rounds went unscored on an individual basis, many times people simply commentating on how close and tense the fight was. The scores varied with wide margins on both sides but overall the ultimate proportions fall in line with most people's expectations, though there were some surprises from my perspective (see round 12, which I thought was much closer). 
 
@@ -35,7 +35,7 @@ Below are the percentages associated with how people saw the fight on a round-by
 
 What we see is the story of two halves. Early Kovalev domination, including the knockdown in round 2,<sup id="a1">[1](#f1)</sup> followed by a steady Ward resurgence. Going on the straight majority votes it is clear that the fight is a six rounds to six split, with Kovalev winning by a point due to the knockdown. That observation is boring, however, and obscures individual scorecards by aggregating all of the votes. 
 
-In order to get a slightly more nuanced appreciation for how close the fight was I used these votes as probabilities, ran one thousand simulations of the bout, and came up with a range of possibilities for scoring it.
+In order to get a slightly more nuanced appreciation for how close the fight was I used these votes as probabilities, ran one thousand [simulations of the bout](/code/kov_ward_sim_bouts), and came up with a range of possibilities for scoring it.
 
 <img src="/gallery/2016/boxing/kov-ward/kov_rnds_won_density.PNG" alt="kov_rnds_won_density" align="middle" /><br>
 <sub>Data Source: Twitter</sub>
