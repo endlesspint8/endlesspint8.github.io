@@ -4,7 +4,7 @@ title: Still Razor Thin
 subtitle: Three Data Approaches to a Controversial Decision
 tags: ["KovalevWard", "dataviz"]
 shortlink: http://bit.ly/KovWrdep
-twitimg: 
+twitimg: pic.twitter.com/I4duoYZyjC
 ---
 
 ## Still too Close to Call
