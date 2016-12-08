@@ -5,6 +5,7 @@ subtitle: Failing Real Kwick
 header-img: "img/start.jpg"
 tags: ["test1", "urple", "erhe", "test2"]
 shortlink: http://bit.ly/2dxLtd9
+sideof: ["Testing, baby!"]
 ---
 
 <p><font size="1" color="blue">This is some text!</font></p>
