@@ -27,6 +27,8 @@ Taking a look at this data in another way I identified each round with the judge
 
 scores
 
+jab/power scatter w 1st & 2nd half distinguishing markers (circles v crosses)
+
 Bagging
 
 Random Forest // feature importance, top three
