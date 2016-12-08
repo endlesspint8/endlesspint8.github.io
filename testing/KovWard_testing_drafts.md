@@ -23,7 +23,13 @@ These two rows appear to tell slightly different stories. In the first we see a 
 
 Taking a look at this data in another way I identified each round with the judges' scores. There were eight rounds that were unanimously agreed upon, three for Kovalev and five in Ward's favor, and four that were split. I replotted the data points with colors to identify the judges' take on the fighters' performance.
 
+even with the added context of the official score cards I'm still a bit hard pressed to distinguish any patterns of preference. Nothing in particular jumps out. The fact that Kovalev had a knockdown in one of the rounds doesn't exactly help matters. That round, when your default, he's going to be opening round and typically one where the punch numbers will be hard to generalize to other rounds.
 
+Setting aside the head-to-head comparison I wanted to visualize the performance side-by-side. The benefit of splitting the fighter inputs from each other is to combine jobs and power punches for single fighter, again per round. By plotting the two feature Data points on the same graph with distinguishing colors and markers we can see a more complete view of the fighters round performances that we unfortunately lose the connection with the other fighters contributing performance in the same round. I could've added colors to distinguish the multiple rounds but that would've been too much of a CF or more politely chart junk as Edward tufty calls it. Instead I decided to meet the need halfway. We already know this is a fight of two halves. So I've distinguished the fighter markers to help if you were see how each fighter did in the respective halves of the bout. 
+
+having come to the end of basic exploratory visual analysis I switched my attention to learning and prediction. This was a tough thing to ask due to the small number of examples. I partly mitigated this like reading three instances of each round, one for the decision of each judge. With the punch that's as features and the judge decisions as labels I applied several quick techniques to see what if anything popped out.
+
+I applied bagging, random forest, and K and N. The results for each of the above confirmed A deepening appreciation for how close the rounds were, or rather the fight as a whole. What I was hoping to find where anomalies in the round statistics that one of these techniques would pick up on and then result in the significantly different result. that might have suggested that a round or two that was more similar to one fighters better performance over another was "unfairly" given to the other. Unfortunately from a point of view of a "gotcha" piece I was not able to determine such a thing having happened.
 
 scores
 
