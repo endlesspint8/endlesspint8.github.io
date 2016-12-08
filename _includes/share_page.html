@@ -26,5 +26,11 @@
     <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">Google+</a> | 
     <a href="http://www.stumbleupon.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.subtitle | strip_html }}" target="_blank" title="Share on StumbleUpon">StumbleUpon</a>
     
+  </sub><br>
+  
+  {% if page.sideof.size >= 1 %}
+  <sub>
+    <i>This pint comes with a free side</i>: {{ page.sideof }}
   </sub>
+  {% endif %}
 </div>
