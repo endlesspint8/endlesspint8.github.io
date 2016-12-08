@@ -8,6 +8,15 @@ subtitle: For those who still can't get their fill.
 
 <br>
 
+### [Still Razor Thin](/2016-11-25-kovalev-ward-post-fight-data-analysis)
+> Three part breakdown to a tight fight: <br>
+> * [round scoring simulation](kov_ward_sim_bouts) based on Twitter user scores; <br>
+> * [round features & judges' scores]() analysis; <br>
+> * [ELO ratings], before and after <br>
+
+<img src="/gallery/2016/boxing/kov-ward/kov_rnd_twt_scoring.PNG" alt="kov_rnd_twt_scoring" align="middle" /><br>
+<sub>Data Source: Twitter</sub>
+
 ### [Six-Pack Project: The Netherlands](/2016-08-01-six-pack-project-netherlands)
 > Three sklearn python data models: <br>
 >
