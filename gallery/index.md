@@ -37,9 +37,7 @@ Vis Code: <a href="http://bl.ocks.org/mbostock/4062045" target="_blank">Force-Di
 <img src="/gallery/2016/beer-prplxd/co_occurrence.gif"> <br>
 <sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> / 
 Vis Inspiration: <a href="https://bost.ocks.org/mike/miserables/" target="_blank">D3 Les Misérables</a> / 
-Vis Code: <a href="http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html" target="_blank">Bokeh Les Mis Occurrences</a> / <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/2bXhMn2QHD Data Guide for the Beer Perplexed, Part 1&url=http://bit.ly/prplxd1&via=endlesspint8&hashtags=Bokeh,beer,dataviz" target="_blank" title="Share on Twitter">Grid</a></b>
-
-</sub>
+Vis Code: <a href="http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html" target="_blank">Bokeh Les Mis Occurrences</a> / <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/2bXhMn2QHD Data Guide for the Beer Perplexed, Part 1&url=http://bit.ly/prplxd1&via=endlesspint8&hashtags=Bokeh,beer,dataviz" target="_blank" title="Share on Twitter">Grid</a></b></sub>
 
 ### [Six-Pack Project: The Netherlands](/2016-08-01-six-pack-project-netherlands)
 > 
@@ -63,9 +61,3 @@ Vis Code: <a href="http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html" 
 
 ### [Exploring US Brewery Historical Data](/2016-04-15-just-keep-going)
 > A couple of not overly sophisticated or impressive D3 plots for [Brewery Totals Over Time](usb_d3_barchart1) and [Brewery Count Percentage Change Year-Over-Year](usb_d3_posneg)
-
-### CraftBeer
-> Beer style comparison and feature exploration via <a href="http://shiny.rstudio.com/" target="_blank">RStudio Shiny</a> using <a href="https://endlesspint8.shinyapps.io/cb_sh_bxplt/">boxplots</a> and standardized <a href="https://endlesspint8.shinyapps.io/cb_sh_sct/">scatter plots</a>.
-
-<img src="/gallery/2016/cb/cb_bxplt.PNG" hspace="50"> <img src="/gallery/2016/cb/cb_sct.PNG"><br>
-
