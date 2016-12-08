@@ -25,15 +25,15 @@ Taking a look at this data in another way I identified each round with the judge
 
 
 
-
-
-plots/graphs
-
 scores
 
-simulations
+Bagging
 
-No good b/c of p>n/curse of dimensionality: 3D a disaster (with 3 most important RF features) kMeans
+Random Forest // feature importance, top three
+
+kNN
+
+No good b/c of p>n/curse of dimensionality: 3D a disaster (with 3 most important RF features) kMeans... but based on this feature set kMeans split the rounds 6-6
 
 I thought it was a bit fishy that Ward won five rounds straight and unanimously from the beginning of the second half of the bout. Then we see the numbers and it is clear that precision was very high for those rounds. This analysis looks at raw numbers as punch outputs only differentiated by jab or power punch. We have not looked at nor is there as yet an adequate way of measuring "pain" [link: Clubber Lang, https://www.youtube.com/watch?v=lSPNQ82Sq4E]. Having said as much, you can imagine that being given the impression that when one fighter throws and he's consistently connecting (+40%) he is in control.
 
