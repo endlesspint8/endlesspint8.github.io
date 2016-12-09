@@ -9,13 +9,9 @@ twitimg:
 
 ## Round Features v. Judges' Cards
 
-Having looked at how Twitter folk saw the fight we now turn our attention to the ringside judges' take. Additionally, we will take a look at the fight numbers to get a better idea of _what_ people were seeing.
+Having seen how the Twitter folk saw the fight we now turn our attention to the ringside judges. To help give us context regarding _what_ people were seeing we bring in the fight numbers as measured by CompuBox.
 
-first the numbers, CompuBox
-
-Twelve rounds, one knockdown, cat & mouse, cobra & mongoose, nip and tuck, clichés baby!
-
-The data is built up out of two primary features: jabs and power punches. These numbers are combined, for total punch output, and broken down into thrown and connected hits, for percentages. We will take all of these criteria into consideration and review.
+The data is built up of two primary features: jabs and power punches. These numbers are combined, for total punch output, and broken down into thrown and connected hits, for percentages. We will take all of these criteria into consideration and review.
 
 Below is a head-to-head graphical representation by round of jabs, power, and total punches. The top row shows the actual counts for each of the aforementioned measures. The second row shows the same data as percentages. In each of the charts I have provided a 45-degree line to help provide a visual cue when one fighter is outperforming the other for any specific round.
 
@@ -24,17 +20,19 @@ Below is a head-to-head graphical representation by round of jabs, power, and to
 
 These two rows appear to tell slightly different stories. In the first we see a nearly balanced fight, depending on how you favor jabs versus power shots. The second row tells a much more partisan tale. Here we see that Ward holds a definitive advantage.
 
-Taking a look at this data in another way I identified each round with the judges' scores. There were eight rounds that were unanimously agreed upon, three for Kovalev and five in Ward's favor, and four that were split. I replotted the data points with colors to identify the judges' take on the fighters' performance.
+Taking a look at this data in another way I identified each round with the judges' scores. There were eight rounds that were unanimously agreed upon, three for Kovalev (red) and five in Ward's favor (blue), and four that were split (green). I replotted the data points with colors to identify the judges' take on the fighters' performance.
 
 <img src="/code/kov_ward_rd_feat/output_7_0.png" alt="punch4punch_judges" align="middle" /><br>
 <sub>Data Source: <a href="http://compuboxonline.com/" target="_blank">CompuBox</a></sub>
 
-With the added context of the official score cards you might say that Ward was favored in more active rounds, most likely due to his more acurate punches. Beyond that I am a bit hard pressed to distinguish how the split rounds should be distributed. Nothing in particular jumps out. The fact that Kovalev had a knockdown in one of the rounds doesn't exactly help matters. That round, when your default, he's going to be opening round and typically one where the punch numbers will be hard to generalize to other rounds.
+With the added context of the official score cards you might say that Ward was favored in more active rounds, possibly due his higher accuracy shining through in busier rounds. Beyond that I am a bit hard pressed to distinguish how the split rounds should be distributed. While certain split/green rounds appear closer to Kovalev they often times fall into Ward's half of the graph. The fact that Kovalev had a knockdown in one of the rounds doesn't exactly help matters. That round goes to the fighter who scored the knockdown in the abscence of a remarkable in-round comback by the floored opponent. For our purposes punch numbers from round two may be difficult to generalize to other rounds.
 
 <img src="/code/kov_ward_rd_feat/output_12_1.png" alt="punch4punch_judges2" align="middle" /><br>
 <sub>Data Source: <a href="http://compuboxonline.com/" target="_blank">CompuBox</a></sub>
 
-Setting aside the head-to-head comparison I wanted to visualize the performance side-by-side. The benefit of splitting the fighter inputs from each other is to combine jobs and power punches for single fighter, again per round. By plotting the two feature Data points on the same graph with distinguishing colors and markers we can see a more complete view of the fighters round performances that we unfortunately lose the connection with the other fighters contributing performance in the same round. I could've added colors to distinguish the multiple rounds but that would've been too much of a CF or more politely chart junk as Edward tufty calls it. Instead I decided to meet the need halfway. We already know this is a fight of two halves. So I've distinguished the fighter markers to help if you were see how each fighter did in the respective halves of the bout. 
+Setting aside the head-to-head comparison I wanted to visualize the performances side-by-side. The benefit of splitting the fighter inputs from each other is to combine jabs and power punches for a single fighter (again per round). Plotting the two-feature data points, with distinguishing colors and markers, could allow for a more complete view of the fighters' round performances. Unfortunately we lose the connection with the other fighter's contributing performance in the same round. 
+
+I could have added distinguishing colors/markers for each round but that would have been too much of a CF. [FN: Or chart junk as Edward Tufte more politely calls it.] Instead I decided to meet the need halfway. We already know this is a fight of two halves so I distinguished the markers for fighter by color, again red v. blue, and rounds by shape, circle (1st half of bout) v. square (2nd half), to  to help if you were see how each fighter did in the respective halves of the bout. 
 
 having come to the end of basic exploratory visual analysis I switched my attention to learning and prediction. This was a tough thing to ask due to the small number of examples. I partly mitigated this like reading three instances of each round, one for the decision of each judge. With the punch that's as features and the judge decisions as labels I applied several quick techniques to see what if anything popped out.
 
@@ -59,5 +57,8 @@ I thought it was a bit fishy that Ward won five rounds straight and unanimously 
 A second pass confirms what most of our eyes saw while adding a bit of nuance (perhaps).
 
 
+## Notes
+
+Twelve rounds, one knockdown, cat & mouse, cobra & mongoose, nip and tuck, clichés baby!
 
 
