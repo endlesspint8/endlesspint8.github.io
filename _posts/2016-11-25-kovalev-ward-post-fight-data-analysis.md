@@ -73,7 +73,7 @@ Less impressive is my rendering of the data on the second row below. What I atte
 <img src="/code/kov_ward_rd_feat/output_12_1.png" alt="punch4punch_judges2" align="middle" /><br>
 <sub>Data Source: <a href="http://compuboxonline.com/" target="_blank">CompuBox</a></sub>
 
-Having come to the end of basic exploratory visual analysis I switched my attention to learning and prediction. This was a tough thing to ask due to the small number of examples. I partly mitigated this by creating three instances of each round, one for the decision of each judge. With the punch stats as features and the judge decisions as labels I applied several quick techniques to see what if anything popped out.
+Having come to the end of basic exploratory visual analysis I switched my attention to [learning and prediction](/code/kov_ward_rd_feat). This was a tough thing to ask due to the small number of examples. I partly mitigated this by creating three instances of each round, one for the decision of each judge. With the punch stats as features and the judge decisions as labels I applied several quick techniques to see what if anything popped out.
 
 Using bagging (7-5 Ward), random forest (7-5 Ward), kNN (6-6), and k-means (6-6) my appreciation for how close the rounds were, or rather the fight as a whole, grew. What I was hoping to find where anomalies in the round statistics that one of these techniques would pick up on, leading to a significantly different result. That might have suggested a round or two that were more similar to one fighter's better performance over another being "unfairly" given to the wrong fighter. Unfortunately from the point of view of a "gotcha" piece I was not able to determine such a thing having happened.
 
