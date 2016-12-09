@@ -11,7 +11,7 @@ twitimg:
 
 Having looked at how Twitter folk saw the fight we now turn our attention to the ringside judges' take. Additionally, we will take a look at the fight numbers to get a better idea of _what_ people were seeing.
 
-first the numbers, Compubox
+first the numbers, CompuBox
 
 Twelve rounds, one knockdown, cat & mouse, cobra & mongoose, nip and tuck, clichés baby!
 
@@ -19,11 +19,20 @@ The data is built up out of two primary features: jabs and power punches. These 
 
 Below is a head-to-head graphical representation by round of jabs, power, and total punches. The top row shows the actual counts for each of the aforementioned measures. The second row shows the same data as percentages. In each of the charts I have provided a 45-degree line to help provide a visual cue when one fighter is outperforming the other for any specific round.
 
+<img src="/code/kov_ward_rd_feat/output_5_0.png" alt="punch4punch" align="middle" /><br>
+<sub>Data Source: <a href="http://compuboxonline.com/" target="_blank">CompuBox</a></sub>
+
 These two rows appear to tell slightly different stories. In the first we see a nearly balanced fight, depending on how you favor jabs versus power shots. The second row tells a much more partisan tale. Here we see that Ward holds a definitive advantage.
 
 Taking a look at this data in another way I identified each round with the judges' scores. There were eight rounds that were unanimously agreed upon, three for Kovalev and five in Ward's favor, and four that were split. I replotted the data points with colors to identify the judges' take on the fighters' performance.
 
+<img src="/code/kov_ward_rd_feat/output_7_0.png" alt="punch4punch_judges" align="middle" /><br>
+<sub>Data Source: <a href="http://compuboxonline.com/" target="_blank">CompuBox</a></sub>
+
 With the added context of the official score cards you might say that Ward was favored in more active rounds, most likely due to his more acurate punches. Beyond that I am a bit hard pressed to distinguish how the split rounds should be distributed. Nothing in particular jumps out. The fact that Kovalev had a knockdown in one of the rounds doesn't exactly help matters. That round, when your default, he's going to be opening round and typically one where the punch numbers will be hard to generalize to other rounds.
+
+<img src="/code/kov_ward_rd_feat/output_12_1.png" alt="punch4punch_judges2" align="middle" /><br>
+<sub>Data Source: <a href="http://compuboxonline.com/" target="_blank">CompuBox</a></sub>
 
 Setting aside the head-to-head comparison I wanted to visualize the performance side-by-side. The benefit of splitting the fighter inputs from each other is to combine jobs and power punches for single fighter, again per round. By plotting the two feature Data points on the same graph with distinguishing colors and markers we can see a more complete view of the fighters round performances that we unfortunately lose the connection with the other fighters contributing performance in the same round. I could've added colors to distinguish the multiple rounds but that would've been too much of a CF or more politely chart junk as Edward tufty calls it. Instead I decided to meet the need halfway. We already know this is a fight of two halves. So I've distinguished the fighter markers to help if you were see how each fighter did in the respective halves of the bout. 
 
