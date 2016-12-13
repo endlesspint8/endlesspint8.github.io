@@ -16,9 +16,8 @@ reddit?
 reddit 2
 <a style="color: #369; text-decoration: none;" href="https://www.reddit.com/submit?url=http%3A%2F%2Fendlesspint.com%2Ftesting%2F&amp;title=Testing%20my%20Crap" target="_none">reddit</a>
 
-Draft [1](2016-10-03-ggg-brook-fight-week-tweets), 
-[2](2017-01-03-nfl-expert-picks-football-prediction-drafts-2016), 
-[3](/gallery/2016/boxing/ggg-brook/gggbrook_sankey.html)
+Draft [1](2017-01-03-nfl-expert-picks-football-prediction-drafts-2016), 
+[2](KovWard_testing_drafts)
 
 <iframe src="http://endlesspint.com/gallery/2016/football-picks/wk09_treemap.html" width="800" height="400" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
 <sub>Vis Source: <a href="https://bl.ocks.org/mbostock/4063582" target="_blank">Mike Bostock</a></sub>
