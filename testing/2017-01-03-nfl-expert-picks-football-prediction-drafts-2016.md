@@ -22,8 +22,8 @@ Upcoming graphs:
 7. wk10 - small multiples of prob/source (x, top)/week (y, desc)/WL-split
 8. wk11 - [pick source perform above .500](http://thedailyviz.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-25-at-2.21.48-PM-620x383.png)
 9. wk12 - [Stream graph](https://plot.ly/~empet/13409/streamgraph-with-minimized-wiggle-1/#code)... of something... BS, duh
-10. wk13 - [donut chart](http://bokeh.pydata.org/en/latest/docs/gallery/donut_chart.html): sources in middle; "medals" replaced by home/road and/or fav/dog; regarding "and" of and/or: add a third ring to donut</strike>
-11. wk14 - conf% v win% [slopegraph](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003nk) in [Excel](http://peltiertech.com/slope-graphs-in-excel/), prolly MPL; wk10 bubble chart revisited
+10. wk13 - [donut chart](http://bokeh.pydata.org/en/latest/docs/gallery/donut_chart.html): sources in middle; "medals" replaced by home/road and/or fav/dog; regarding "and" of and/or: add a third ring to donut
+11. wk14 - conf% v win% [slopegraph](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003nk) in [Excel](http://peltiertech.com/slope-graphs-in-excel/), prolly MPL; wk10 bubble chart revisited</strike>
 12. wk15 - tree branch of... something; rather ROC curves/source with weekly dots (https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
 13. wk16 - [projected v actual arrow charts](https://public.tableau.com/static/images/TH/THTProjectedStandingsChanges/2014-2015ProjectedStandingsChanges/1_rss.png) ([Excel](http://peltiertech.com/arrow-charts-in-excel/))
 14. wk17 - [bump graph / position time plot](http://vizthinker.com/wp-content/uploads/2014/01/BCS-Top-25-College-Football-2013-01.png); ([Excel](http://best-excel-tutorial.com/56-charts/306-bump-chart))
@@ -34,6 +34,11 @@ After Season
 2. 
 
 
+
+## Week 13 - Slippery Slope 
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 14</a></b></sub></p>
+
+<p>This is some text. <img src="http://endlesspint.com/gallery/2016/football-picks/wk14_slopegraph.png" alt="wk14_slopegraph" width="180" height="450" align="right"> hey! we need a whole lot more text, apparently .... hey! we need a whole lot more text, apparently .... hey! we need a whole lot more text, apparently .... hey! we need a whole lot more text, apparently .... hey! we need a whole lot more text, apparently .... hey! we need a whole lot more text, apparently .... hey! we need a whole lot more text, apparently .... hey! we need a whole lot more text, apparently .... hey! we need a whole lot more text, apparently .... hey! we need a whole lot more text, apparently .... hey! we need a whole lot more text, apparently .... hey! we need a whole lot more text, apparently ....</p>
 
 ## Week 13 - Total Recall 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 13</a></b></sub></p>
