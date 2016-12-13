@@ -5,7 +5,7 @@ subtitle: Failing Real Kwick
 header-img: "img/start.jpg"
 tags: ["test1", "urple", "erhe", "test2"]
 shortlink: http://bit.ly/2dxLtd9
-sideof: ["Testing, baby!", "http://eepurl.com/csTBM1"]
+sideof: ["Slope graph", "http://eepurl.com/csTBM1", "of beers profiled below."]
 ---
 
 <p><font size="1" color="blue">This is some text!</font></p>
