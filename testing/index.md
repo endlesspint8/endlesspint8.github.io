@@ -28,6 +28,9 @@ Draft [1](2016-10-03-ggg-brook-fight-week-tweets),
 
 ![alt text](/gallery/2016/cb/cb_bxplt.PNG "test")
 
+<h4>Image with align="right":</h4>
+<p>This is some text. <img src="http://endlesspint.com/gallery/2016/cb/cb_bxplt.PNG" alt="Smiley face" width="100" height="100" align="right"> This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text. This is some text.</p>
+
 [D3 lattice](lattice.html)
 
 [US bokeh map](choropleth.html)
