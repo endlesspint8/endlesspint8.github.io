@@ -53,6 +53,10 @@ Having bucketed the FiveThirtyEight and FOX picks into five groupings each we ar
 <img src="/gallery/2016/football-picks/wk14_slopegraph_buckets.png" alt="wk14_slopegraph_buckets" width="800" height="430" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
+Something glossed over and assumed, in both the original bubble chart and these slope graphs, is that we want "better" performing results than the expected confidence. But is that correct? Wouldn't a dot above the 45° line or an upward line, if either were far enough off from the stated percentage indicate a problem in prediction just as well as if they were in the opposite direction? I believe they would. Being aware that a game predictor is habitually optimistic or pessimistic is at least a good gauge in knowing how to hedge but.... 
+
+Let us do a simple RMSE of the four sources and see how they match up.
+
 ## Week 13 - Total Recall 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 13</a></b></sub></p>
 
