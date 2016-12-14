@@ -620,8 +620,10 @@ Let's start slow for this first installment. We have all season to get to know e
 <b id="f10">10</b> This is an in-season pick change and is indicative of the poor performance FOX has had on their revised picks to this point in the season (so far the in situ FOX model has done worse on both overall picks and Brier Score than the pre-season release). [↩](#a10) <br>
 
 **week 14**
+
 <b id="f11">11</b> You see what I did there? I jiujitsu'd your ass. [↩](#a11) <br>
 
 **week 15 & later**
+
 <b id="f12">12</b>   [↩](#a12) <br>
 <b id="f13">13</b>   [↩](#a13) <br>
