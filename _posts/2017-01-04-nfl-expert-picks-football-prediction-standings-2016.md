@@ -30,6 +30,37 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 ---
 
+## Week 14 - Slippery Slope 
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 14</a></b></sub></p>
+
+<p>At the start of this process I wasn't sure how well the Brier score (BS) measure would resonate, with myself included. I've done my best to bring it up, occasionally highlighting it, but also attempting to not beat the reader over the head with it. <img src="http://endlesspint.com/gallery/2016/football-picks/wk14_slopegraph.png" alt="wk14_slopegraph" width="360" height="900" align="right"> In some respects the weekly visuals are an effort to make BS a more intuitive yardstick.</p> 
+
+<p>A couple of weeks back I thought I may have hit upon an approach that drove home the point (without even specifying the metric). This was back in <a href="#week10">week 10</a> where I provided a throwaway graph in the form of a bubble chart, plotting the confidence percentage by source against the actual winning percentages. What that chart meant to show, in a simple though occasionally busy and cluttered way, was the general reliability of the sources or lack there of. Simply by identifying the color of the bubble (source), it's size (number of said predictions), and placement above or below the 45° line (beating or missing expectations, respectively) the user could see who was the most reliably trustworthy.</p>
+
+<p>This week I apply the same motivation with updated data to present this takeaway once more. Instead of dots or bubbles I implemented lines in a slope graph. The left hand position of the plot represents the percentage confidence of the prognosticating sources. On the right side we have the resulting winning percentages. Line colors represent the sources, thickness the game counts, and the slope of the line, whether upwards or down, how far off the sources are from their intended outcome. A flat horizontal line would signify expectations matching results. An upward moving line from left to right would indicate beaten expectations while a downward slanting line the opposite.</p>
+
+<p>A few things of note. The human panel sources have fewer, thicker, and downward sloping lines. The fewer and thicker aspect go hand-in-hand as the human panels have a set number of experts, resulting in a reliably repetitive set of possible confidence percentages week-to-week. The data models being more "fine-tuned" provide something closer to a continuous range of confidence percentages, resulting in many more and thinner lines. While it is not possible for us to break out the human panel picks into more fine-level percentages, which might allow us to see some upward moving lines, we are able to <a href="https://gist.github.com/endlesspint8/2eaae1e452ce7d5a5edd46277c0459fb#file-nfl_bucketize-py" target="_blank">bucket the data model picks</a>. Grouping the data model confidence percentages will allow us to more reliably compare the computers versus humans and see how well they perform against one another.</p>
+
+Having bucketed the FiveThirtyEight and FOX picks into five groupings each we are better able to read the new graph. Much of the clutter is gone. Additionally, and unexpectadely, we see a lone upward sloping CBS line that was previously obscured (this is a unique conf % due to one of the panelists withholding a vote on one game). Instead of data model lines going all over the place we see a more stable view. Many of the distracting upward lines that seemed to suggest the data models were routinely outperforming their expectations now appear to be overstated impressions. It would appear that the data models are not far off in their accuracy from their human expert counterparts, though perhaps a little less carried away with their picks. While there are some very thin upward sloping lines and a few gradually depressed ones, overall the data model trends look more flat than the expert panels of CBS and ESPN.
+
+<img src="/gallery/2016/football-picks/wk14_slopegraph_buckets.png" alt="wk14_slopegraph_buckets" width="800" height="430" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
+
+Something glossed over and assumed, in both the original bubble chart and these slope graphs, is that we want "better" performing results than the expected confidence. But is that correct? Wouldn't a dot above the 45° line or an upward line, if either were far enough off from the stated percentage, indicate a problem in prediction just as well as if they were in the opposite direction? Of course they would. Being aware a game predictor is habitually optimistic or pessimistic is a good gauge in knowing how to hedge but it does not specify by how off the predictor is.
+
+[Running a simple RMSE](https://gist.github.com/endlesspint8/2eaae1e452ce7d5a5edd46277c0459fb#file-nfl_slope_rmse-py) calculation on the above we find that when grouping the data models into buckets (and CBS' lone odd game) they have the lowest errors among the four sources. 
+
+|source|bucket RMSE|orig vis RMSE|
+|---|---|---|
+|CBS|0.181|**0.181**|
+|ESPN|0.166|**0.167**|
+|FiveThirtyEight|**0.042**|0.191|
+|FOX|**0.083**|0.213|
+
+However, when we stick to the original visualization's underlying data we see that the human panels do better, their naturally aggregating probabilities ironing out much of the variation in game outcome (think of all those 90% confidence choices that were outright duds). What happens if we analyze source performance by game? Well, then we're basically talking about the Brier score<sup id="a11">[11](#f11)</sup> and as we approach the end of the season we will certainly be highlighting this metric one more time to drive home the point of game picking reliability. 
+
+---
+
 ## Week 13 - Total Recall 
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/pNIo1oVbKO NFL pick accuracy confusion matrix breakdown&url=http://bit.ly/2gTXw13&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 13</a></b></sub></p>
 
@@ -106,7 +137,7 @@ That's it people. Short week, gobble-gobble.
 
 ---
 
-## Week 10 - Big Picture with Small Multiples
+<h2 id="week10">Week 10 - Big Picture with Small Multiples</a>
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/F53Y0BYdpo small multiples of NFL picks&url=http://bit.ly/2f4qw10&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 10</a></b></sub></p>
 
 At the end of the week 5 post I listed in a table the "<a href="#week5WinProb">Average Model-Projected Win Probability for Changed Picks</a>", which now that I read the title have no idea what it means. Actually, it was meant to show the confidence that the data models had in their changed picks from the pre-season choices, by win/loss split. That little throw away insight got me thinking about looking at these numbers at a larger level, for all pick sources for the season to date.
@@ -588,7 +619,9 @@ Let's start slow for this first installment. We have all season to get to know e
 <b id="f9">9</b> This is based on intuition. I did not break out win probabilities for first and second half of the season. Get your nerdy cousin to do the math, we're keeping it high level here. [↩](#a9) <br>
 <b id="f10">10</b> This is an in-season pick change and is indicative of the poor performance FOX has had on their revised picks to this point in the season (so far the in situ FOX model has done worse on both overall picks and Brier Score than the pre-season release). [↩](#a10) <br>
 
-**week 9 & later**
-<b id="f11">11</b>   [↩](#a11) <br>
+**week 14**
+<b id="f11">11</b> You see what I did there? I jiujitsu'd your ass. [↩](#a11) <br>
+
+**week 15 & later**
 <b id="f12">12</b>   [↩](#a12) <br>
 <b id="f13">13</b>   [↩](#a13) <br>
