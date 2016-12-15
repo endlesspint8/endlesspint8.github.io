@@ -5,6 +5,7 @@ subtitle: Basic Analysis of Fight Week Tweets
 tags: ["boxing", "dataviz"]
 shortlink: http://bit.ly/2g8yGGG
 twitimg: pic.twitter.com/f5C2qWMxaq
+sideof: ["Meandering Twitter analysis", "http://eepurl.com/cj8urH", " "]
 ---
 
 ## Gotta Get Your Fix
@@ -99,6 +100,6 @@ In a small way I felt vindicated. Here was visual evidence from boxing fans who 
 <b id="f4">4</b> Shout out Jim Lampley. [↩](#a4) <br>
 <b id="f5">5</b> It would be several hours before the orbital bone fracture was disclosed. Of course if I knew of the injury there would be no doubt. I'm not an animal. [↩](#a5) <br>
 <b id="f6">6</b> Similar to polling versus voting. The political parallels rear their head again. [↩](#a6) <br>
-<b id="f7">7</b> You can see some of my meandering investigations via this PDF. {link pending} [↩](#a7) <br>
+<b id="f7">7</b> You can see some of my meandering investigations via this [PDF](http://eepurl.com/cj8urH). [↩](#a7) <br>
 <b id="f8">8</b> I did not help matters by taking just the round percent scoring, irrespective of Twitter user and using a Sankey diagram. If you look carefully from the first round to the second you see some of the "votes" going from 1-0 GGG to 2-0 Brook. This would be impossible on a real score card but I decided to keep the irregularity in order to highlight how lopsided the first round was. At least according to Twitter'ers. [↩](#a8) <br>
 <b id="f9">9</b> Not even getting into the type of fight fans who would tweet, non-random selection, bias, <a href="https://www.youtube.com/watch?v=av64gOA9nXM" target="_blank">yada yada yada</a>. [↩](#a9)
