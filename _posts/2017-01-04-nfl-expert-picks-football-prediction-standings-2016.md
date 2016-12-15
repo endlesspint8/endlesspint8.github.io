@@ -5,6 +5,7 @@ subtitle: We'll Put Their Name to the <a href="https://www.youtube.com/watch?v=s
 tags: ["dataviz", "nflpicks"]
 shortlink: http://bit.ly/2dLdFb6
 twitimg: pic.twitter.com/nTFzCRSFT8
+sideof: ["End of season", "http://eepurl.com/cj8urH", "visualizations, updated and accompanied with new content."]
 ---
 
 ## Experts Know Things, Right?
