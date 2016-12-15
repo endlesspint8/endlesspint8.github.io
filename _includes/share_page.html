@@ -18,7 +18,7 @@
   {% endif %}
   
   <sub>
-  <i>Better when shared, just like beer</i>: 
+    <b><i>Better when shared, just like beer</i></b>: 
 
     <a href="{{ urltwitter }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a> | 
     <a href="https://www.reddit.com/submit?url={{ site.url }}{{ page.url }};title={{ page.subtitle | strip_html }}" target="_blank">reddit</a> | 
@@ -30,7 +30,7 @@
   
   {% if page.sideof.size >= 2 %}
   <sub>
-    <i>This pint comes with a free side</i>: <a href="{{ page.sideof[1] }}">{{ page.sideof[0] }}</a> {{ page.sideof[2] }}
-  </sub>
+    <b><i>This pint comes with a free side</i></b>: <a href="{{ page.sideof[1] }}">{{ page.sideof[0] }}</a> {{ page.sideof[2] }}
+  </sub><br>
   {% endif %}
 </div>
