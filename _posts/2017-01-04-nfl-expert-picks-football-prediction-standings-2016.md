@@ -31,7 +31,7 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 ---
 
 ## Week 14 - Slippery Slope 
-<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 14</a></b></sub></p>
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/k3CAKjo9g2 NFL picks truthiness in form of slopegraph&url=http://bit.ly/2hwsw14&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 14</a></b></sub></p>
 
 <p>At the start of this process I wasn't sure how well the Brier score (BS) measure would resonate, with myself included. I've done my best to bring it up, occasionally highlighting it, but also attempting to not beat the reader over the head with it. <img src="http://endlesspint.com/gallery/2016/football-picks/wk14_slopegraph.png" alt="wk14_slopegraph" width="360" height="900" align="right"> In some respects the weekly visuals are an effort to make BS a more intuitive yardstick.</p> 
 
