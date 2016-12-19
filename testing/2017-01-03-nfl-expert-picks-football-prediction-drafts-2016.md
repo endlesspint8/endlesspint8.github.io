@@ -35,6 +35,15 @@ After Season
 
 
 
+## Week 15 - It's the ROC! 
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 15</a></b></sub></p>
+
+Didn't mean to beat you over the head with all of those confusion matrices back in week 13. I'm referring to the true positives, false positives, etc. of the home/favorite pics. Now, I don't regret bringing it up mind you but I realize I may have left you hanging, which was partly by design. Whether you were confused (pun'd!) or wanted more the following is meant to resolve either situation. What tool for summarizing the performance of the classifier is the ROC curve. Basically classifiers performance is mapped as it's true positive rate against its false positive rate. 45° line is drawn from the bottom left to the upper right hand corner. This line represents a random classifier, a.k.a. a coin flip. If your classifier do not get above this threshold then you're really in trouble. Quick look at the confusion matrices I mentioned earlier shows that each of the pic sources avoided the dignity of falling below the threshold. Those numbers and the updated one for the past two weeks are in a good performance. We break out the pics on a weekly basis we see a more mix the picture. Why did a few times we see our expert and models under performing.
+
+Applying the same graphical representation of four options (home/road and favorite/dog) we see the below performance. The dots sizes represent the number of games for those weeks.
+
+Different subject areas will require different considerations for what makes an effective classify. Trucking fraudulent credit charges are typically very many fewer false positives then a medical screen. Regardless of… We can leverage the use of a one number comparative tool to see what is our best classified within the set: AUC
+
 ## Week 14 - Slippery Slope 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 14</a></b></sub></p>
 
