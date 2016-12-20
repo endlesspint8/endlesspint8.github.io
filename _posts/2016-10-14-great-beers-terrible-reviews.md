@@ -5,6 +5,7 @@ subtitle: Ten Great Beers get <a href="https://youtu.be/IcjSDZNbOs0" target="_bl
 tags: ["BeerReviews", "NotImpressed"]
 shortlink: http://bit.ly/2ecdAgk
 twitimg: pic.twitter.com/d5q3dwTmzE
+sideof: ["Slopegraph", "http://eepurl.com/cj8urH", "of below beers and their ratings."]
 ---
 
 ## "Yeah, well, that's just, like, your opinion, man." - <a href="https://www.youtube.com/watch?v=pWdd6_ZxX8c" target="_blank">The Dude</a>
