@@ -40,7 +40,7 @@ After Season
 
 Didn't mean to beat you over the head with all of those confusion matrices back in week 13. I'm referring to the true positives, false positives, etc. of the home/favorite picks. Now, I don't regret bringing it up mind you but I realize I may have left you hanging, which was partly by design. Whether you were confused (pun'd!) or wanted more the following is meant to resolve either situation. 
 
-To better summarize the performance of our game classifiers we will use the <a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic" target="_blank">ROC curve</a>. A classifiers performance is mapped as it's true positive rate against its false positive rate, whereby a 45° line is drawn from the bottom left to the upper right hand corner. This line represents a random classifier, a.k.a. a coin flip. If your classifier does not get above this threshold you're in trouble. A quick look at the confusion matrices I mentioned earlier shows that each of the pick sources avoided the ignominy of falling below this threshold. At least up until then they had.
+To better summarize the performance of our game classifiers we will use a variation on the <a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic" target="_blank">ROC curve</a>. Here a classifier's performance is determined by mapping it's true positive rate against its false positive rate. A 45° line is drawn from the bottom left to the upper right hand corner as a guide. This line represents a random classifier, a.k.a. a coin flip. If your classifier does not get above this threshold you're in trouble. A quick look at the confusion matrices I mentioned earlier shows that each of the pick sources avoided the ignominy of falling below this threshold. At least up until then they had.
 
 Those week 13 numbers were an aggregate up to that point in the season however. Breaking out the picks into weekly performance provides a more mixed picture. More than a few times we see our experts and models under performing.
 
@@ -63,7 +63,7 @@ The above charts contain the performance through the latest week, in which we sa
 |538|0.931|0.827|
 |fox|0.833|0.750|
 
-There is an additional tool available to help summarize this sort of performance still further. Different subject areas will require different considerations of what makes an _effective_ classifier. For example, tracking fraudulent credit charges typically allows for fewer false positives then a medical screen. Regardless of the subject area however, when dealing with the same classification task, in our case correctly picking football games, you may leverage the use of one number to compare competing classifiers: the area under the curve, (<a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve" target="_blank">AUC</a>).
+There is an additional tool available to help measure this sort of performance still further. Different subject areas will require different considerations of what makes an _effective_ classifier. For example, tracking fraudulent credit charges typically allows for fewer false positives then a medical screen. Regardless of the subject area however, when dealing with the same classification task, in our case correctly picking football games, you may leverage the use of one number to compare competing classifiers: the area under the curve, (<a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve" target="_blank">AUC</a>).
 
 Basically, the larger the shaded region under the line the better.
 
@@ -72,7 +72,7 @@ Using the most recent TPR and FPR rates I plotted this area for each game predic
 <img src="/gallery/2016/football-picks/wk15_auc_plots.png" alt="wk15_auc_plots" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
-
+Ouch! Consider that if one had simply chosen all home favorites to win, adding no discriminatory sophistication, the resulting TPR and FPR would be X and Y, respectively. The AUC for such a scenario would total Z.   
 
 ## Week 14 - Slippery Slope 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 14</a></b></sub></p>
