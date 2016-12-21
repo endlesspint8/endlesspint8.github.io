@@ -38,26 +38,23 @@ After Season
 ## Week 15 - It's the ROC! 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 15</a></b></sub></p>
 
-Didn't mean to beat you over the head with all of those confusion matrices back in week 13. I'm referring to the true positives, false positives, etc. of the home/favorite pics. Now, I don't regret bringing it up mind you but I realize I may have left you hanging, which was partly by design. Whether you were confused (pun'd!) or wanted more the following is meant to resolve either situation. 
+Didn't mean to beat you over the head with all of those confusion matrices back in week 13. I'm referring to the true positives, false positives, etc. of the home/favorite picks. Now, I don't regret bringing it up mind you but I realize I may have left you hanging, which was partly by design. Whether you were confused (pun'd!) or wanted more the following is meant to resolve either situation. 
 
-One tool for summarizing the performance of a classifier is the ROC curve [https://en.wikipedia.org/wiki/Receiver_operating_characteristic]. Basically classifiers performance is mapped as it's true positive rate against its false positive rate. 45° line is drawn from the bottom left to the upper right hand corner. This line represents a random classifier, a.k.a. a coin flip. If your classifier does not get above this threshold then you're really in trouble. A quick look at the confusion matrices I mentioned earlier shows that each of the pic sources avoided the ignominy of falling below the threshold. 
+To better summarize the performance of our game classifiers we will use the <a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic" target="_blank">ROC curve</a>. A classifiers performance is mapped as it's true positive rate against its false positive rate, whereby a 45° line is drawn from the bottom left to the upper right hand corner. This line represents a random classifier, a.k.a. a coin flip. If your classifier does not get above this threshold you're in trouble. A quick look at the confusion matrices I mentioned earlier shows that each of the pick sources avoided the ignominy of falling below this threshold. At least up until then they had.
 
-Those numbers were an aggregate whole up to that point in the season however. Breaking out the pics on a weekly basis we see a more mixed picture. More than a few times we see our experts and models under performing.
+Those week 13 numbers were an aggregate up to that point in the season however. Breaking out the picks into weekly performance provides a more mixed picture. More than a few times we see our experts and models under performing.
 
 <img src="/gallery/2016/football-picks/wk15_oneplot.png" alt="wk15_oneplot" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
-The above is a little busy so let's break out the sources into their own separate subplots. That's better. Now we more clearly see the weekly dots, with sizes representing the number of games predicted when a home favorite was in play.
+The above is a little busy so we will split apart the sources into their own separate subplots. That's better. Now we more clearly see the weekly dots, with sizes representing the number of games predicted when a home favorite was in play.
 
 <img src="/gallery/2016/football-picks/wk15_subplots.png" alt="wk15_subplots" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
-Different subject areas will require different considerations for what makes an effective classify. Trucking fraudulent credit charges are typically very many fewer false positives then a medical screen. Regardless of… We can leverage the use of a one number comparative tool to see what is our best classified within the set: AUC
+The above charts contain the performance through the latest week, in which we saw both human expert panels dip just below 
 
-<img src="/gallery/2016/football-picks/wk15_auc_plots.png" alt="wk15_auc_plots" align="middle"/><br>
-<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
-
-Updated rates through week 15:
+**Updated Sensitivity (TPR) and Specificity (FPR) through week 15**
 
 ||TPR|FPR|
 |---|---|---|
@@ -65,6 +62,13 @@ Updated rates through week 15:
 |espn|0.863|0.865|
 |538|0.931|0.827|
 |fox|0.833|0.750|
+
+Different subject areas will require different considerations for what makes an effective classify. Trucking fraudulent credit charges are typically very many fewer false positives then a medical screen. Regardless of… We can leverage the use of a one number comparative tool to see what is our best classified within the set: <a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve" target="_blank">AUC</a>
+
+<img src="/gallery/2016/football-picks/wk15_auc_plots.png" alt="wk15_auc_plots" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
+
+
 
 ## Week 14 - Slippery Slope 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 14</a></b></sub></p>
