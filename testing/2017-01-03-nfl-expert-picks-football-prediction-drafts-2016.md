@@ -52,7 +52,7 @@ The above is a little busy so we will split apart the sources into their own sep
 <img src="/gallery/2016/football-picks/wk15_subplots.png" alt="wk15_subplots" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
-The above charts contain the performance through the latest week, in which we saw both human expert panels dip just below 
+The above charts contain the performance through the latest week, in which we saw both human expert panels dip just below the 45° line (random picks).
 
 **Updated Sensitivity (TPR) and Specificity (FPR) through week 15**
 
@@ -63,7 +63,8 @@ The above charts contain the performance through the latest week, in which we sa
 |538|0.931|0.827|
 |fox|0.833|0.750|
 
-Different subject areas will require different considerations for what makes an effective classify. Trucking fraudulent credit charges are typically very many fewer false positives then a medical screen. Regardless of… We can leverage the use of a one number comparative tool to see what is our best classified within the set: <a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve" target="_blank">AUC</a>
+
+Different subject areas will require different considerations of what makes an _effective_ classifier. Tracking fraudulent credit charges typically allows for many fewer false positives then a medical screen. Regardless of… We can leverage the use of a one number comparative tool to see what is our best classified within the set: <a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve" target="_blank">AUC</a>
 
 <img src="/gallery/2016/football-picks/wk15_auc_plots.png" alt="wk15_auc_plots" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
