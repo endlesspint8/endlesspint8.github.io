@@ -44,13 +44,18 @@ One tool for summarizing the performance of a classifier is the ROC curve [https
 
 Those numbers were an aggregate whole up to that point in the season however. Breaking out the pics on a weekly basis we see a more mixed picture. More than a few times we see our experts and models under performing.
 
-[big chart]
+<img src="/gallery/2016/football-picks/wk15_oneplot.png" alt="wk15_oneplot" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
 The above is a little busy so let's break out the sources into their own separate subplots. That's better. Now we more clearly see the weekly dots, with sizes representing the number of games predicted when a home favorite was in play.
 
-[2x2]
+<img src="/gallery/2016/football-picks/wk15_subplots.png" alt="wk15_subplots" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
 Different subject areas will require different considerations for what makes an effective classify. Trucking fraudulent credit charges are typically very many fewer false positives then a medical screen. Regardless of… We can leverage the use of a one number comparative tool to see what is our best classified within the set: AUC
+
+<img src="/gallery/2016/football-picks/wk15_auc_plots.png" alt="wk15_auc_plots" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
 ## Week 14 - Slippery Slope 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 14</a></b></sub></p>
