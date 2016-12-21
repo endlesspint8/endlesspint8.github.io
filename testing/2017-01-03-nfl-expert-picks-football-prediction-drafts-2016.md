@@ -57,6 +57,15 @@ Different subject areas will require different considerations for what makes an 
 <img src="/gallery/2016/football-picks/wk15_auc_plots.png" alt="wk15_auc_plots" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
+Updated rates through week 15:
+
+||TPR|FPR|
+|---|---|---|
+|cbs|0.824|0.827|
+|espn|0.863|0.865|
+|538|0.931|0.827|
+|fox|0.833|0.750|
+
 ## Week 14 - Slippery Slope 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 14</a></b></sub></p>
 
