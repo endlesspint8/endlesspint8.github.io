@@ -52,7 +52,7 @@ The above is a little busy so we will split apart the sources into their own sep
 <img src="/gallery/2016/football-picks/wk15_subplots.png" alt="wk15_subplots" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
-The above charts contain the performance through the latest week, in which we saw both human expert panels dip just below the 45° line (random picks).
+The above charts contain the performance through the latest week, in which we saw both human expert panels dip just below the 45° line (random pick performance).
 
 **Updated Sensitivity (TPR) and Specificity (FPR) through week 15**
 
@@ -63,8 +63,11 @@ The above charts contain the performance through the latest week, in which we sa
 |538|0.931|0.827|
 |fox|0.833|0.750|
 
+There is an additional tool available to help summarize this sort of performance still further. Different subject areas will require different considerations of what makes an _effective_ classifier. For example, tracking fraudulent credit charges typically allows for fewer false positives then a medical screen. Regardless of the subject area however, when dealing with the same classification task, in our case correctly picking football games, you may leverage the use of one number to compare competing classifiers: the area under the curve, (<a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve" target="_blank">AUC</a>).
 
-Different subject areas will require different considerations of what makes an _effective_ classifier. Tracking fraudulent credit charges typically allows for many fewer false positives then a medical screen. Regardless of… We can leverage the use of a one number comparative tool to see what is our best classified within the set: <a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve" target="_blank">AUC</a>
+Basically, the larger the shaded region under the line the better.
+
+Using the most recent TPR and FPR rates I plotted this area for each game prediction source. Below are the less than pretty results.
 
 <img src="/gallery/2016/football-picks/wk15_auc_plots.png" alt="wk15_auc_plots" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
