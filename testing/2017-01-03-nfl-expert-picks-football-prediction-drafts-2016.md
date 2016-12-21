@@ -72,7 +72,7 @@ Using the most recent TPR and FPR rates I plotted this area for each game predic
 <img src="/gallery/2016/football-picks/wk15_auc_plots.png" alt="wk15_auc_plots" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
-Ouch! Consider that if one had simply chosen all home favorites to win, adding no discriminatory sophistication, the resulting TPR and FPR would be X and Y, respectively. The AUC for such a scenario would total Z.   
+Ouch! Consider that if one had simply chosen all home favorites (154) to win (102 did in fact win), adding no discriminatory sophistication, the resulting TPR and FPR would be 1.0 each (landing on the top right corner of the plot). The AUC for such a scenario would be .500.   
 
 ## Week 14 - Slippery Slope 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 14</a></b></sub></p>
