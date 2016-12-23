@@ -39,14 +39,13 @@ The  craft  beer  bar  inspection  average  of  12.89 just  qualifies  for  an a
 
 <img src="/gallery/2016/health-insp/diff_hist.png	" alt="diff_hist" align="middle" /><br>
 <sub>Data Source: <a href="https://nycopendata.socrata.com/" target="_blank">NYC Open Data</a></sub>
- 
-
- 
-grade_timeline.png
 
 On  top  of  this  being a 10%  difference  it  is  a  statistically  significant  one as well.  This  was  established  via  a  ho-hum t-test  and  by  running  a shuffling  and sampling of  the  two  populations.  Not  only  are  you  much more  likely  to  find  better  beer  at  these  establishments  than at  a  random  place  but  you're  also  more  likely  to  find  a  cleaner  kitchen.  I  am  <a href="https://www.youtube.com/watch?v=xdXO52ZMcCM" target="_blank">Jack's  clear  conscience</a>.
 
 Below is a timeline of the 30 craft beer bars considered. Each horizontal line and their attending dots represent one establishment. The occurrence of the dots appear at specific times (x-axis), may be multiple for an inspection, and are colored as to their severity (red for critical, yellow for not critical, and gray for not applicable). The lines themselves stretch from the earliest inspection date recorded to the most recent. In the couple of instances of there being only one inspection to date no line is present. 
+
+<img src="/gallery/2016/health-insp/grade_timeline.png" alt="grade_timeline" align="middle" /><br>
+<sub>Data Source: <a href="https://nycopendata.socrata.com/" target="_blank">NYC Open Data</a></sub>
 
 The lines serve several purposes. First, they make the reading and grouping of the dots per establishment more clear. Second, they provide a convenient means of comparing length of inspection ranges between bars. Lastly, the lines themselves are color coded to convey information as to the grade carried by a bar. These colors match the NYC grade color scheme where meaningful. Thus the grades A, B, & C are rendered as blue, green, and orange, respectively. Inspection dates need not always result in a new or retained grade. I use white to indicate when there is no grade given out for a specific inspection date. This color will be extended until the next grade. As best as I can ascertain grades are retained unless specifically changed, even so I prefer this color scheme to at least differentiate the awarding/retaining upgrades. The color gray is also used, though difficult to see, for grades of “P”, passing. One particular feature of the open data not visualized are the violation points incurred per inspection.<sup id="a3">[3](#f3)</sup> 
 
@@ -64,6 +63,7 @@ I leave for another time the analysis of the cuisine itself. A quick look around
 <b id="f2">2</b> Damn the  condescending neck beard  with the judgemental outlook. [↩](#a2) <br>
 <b id="f3">3</b> The inclusion of linewidth variation to portray violation scores proved, for the time being anyway, a bit too much to include. I submit a small version of the image here and move on.
 
-grade_timeline_lws.png	
+<img src="/gallery/2016/health-insp/grade_timeline_lws.png" alt="grade_timeline_lws" align="middle" width=600/><br>
+<sub>Data Source: <a href="https://nycopendata.socrata.com/" target="_blank">NYC Open Data</a></sub>
 
 [↩](#a3) <br>
