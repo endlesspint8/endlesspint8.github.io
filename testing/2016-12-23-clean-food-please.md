@@ -29,12 +29,20 @@ I am   very  often  swayed  by  which  bar to  go  to  based  on  the  kitchen. 
 
 We  will not  be  going  as  far  back  as  the  farm  in  this  piece  but  we  will  take  it  back  a  couple  of  steps  to  the  kitchen  itself  to  see  what  it  is  we're  up  against  when  we  pony  up  to  the  bar  of  our  choice  for  a  pint  and  a  bite. I'll  be  focusing  specifically  on the  criteria of  cleanliness  and  hygiene.  This  is  not a  shame  piece  so  I  will not be  calling  out  particular  bars  but  the  reader  has the ability to  judge  for  themselves.
 
-Like  any  self-respecting  city  of  the  20th  century  New  York  City  does  health  inspections  of,  among  other  things,  restaurants.  Like  any  self-respecting  21st  century  city  NYC makes  this  data  openly  available [link].  Inspections  are  unannounced  yearly  occurrences  where  an  establishment  receives  a  certain  number  of  points  for  each  violation,  critical  or  otherwise.  The  points  are  tallied  up  per inspection  and a final grade (A, B, C) is  based  on  the  resulting  score, the fewer points  the  better.
+Like  any  self-respecting  city  of  the  20th  century  New  York  City  does  health  inspections  of,  among  other  things,  restaurants.  Like  any  self-respecting  21st  century  city  NYC makes  this  data  <a href="https://nycopendata.socrata.com/" target="_blank">openly  available</a>.  Inspections  are  unannounced  yearly  occurrences  where  an  establishment  receives  a  certain  number  of  points  for  each  violation,  critical  or  otherwise.  The  points  are  tallied  up  per inspection  and a final grade (A, B, C) is  based  on  the  resulting  score, the fewer points  the  better.
 
 Taking  the  top  30  craft  beer  bars  of  Manhattan  as  identified  on FourSquare  I  set about  gathering  their  respective  scores,  code  violations,  and  grades.  I  did  the  same  for  all  other  inspected  establishments  in  Manhattan,  bar  or  otherwise. 
 
 
 The  craft  beer  bar  inspection  average  of  12.89 just  qualifies  for  an average grade of A.  The  same  average  for  all  other  non-craft  beer  bars  is  14.68.  This  difference  of  1.79  pushes  the  other  establishments  over  the  points threshold  into  a  Grade  B  average.  
+
+
+<img src="/gallery/2016/health-insp/diff_hist.png	" alt="diff_hist" align="middle" /><br>
+<sub>Data Source: <a href="https://nycopendata.socrata.com/" target="_blank">NYC Open Data</a></sub>
+ 
+
+ 
+grade_timeline.png
 
 On  top  of  this  being a 10%  difference  it  is  a  statistically  significant  one as well.  This  was  established  via  a  ho-hum t-test  and  by  running  a shuffling  and sampling of  the  two  populations.  Not  only  are  you  much more  likely  to  find  better  beer  at  these  establishments  than at  a  random  place  but  you're  also  more  likely  to  find  a  cleaner  kitchen.  I  am  <a href="https://www.youtube.com/watch?v=xdXO52ZMcCM" target="_blank">Jack's  clear  conscience</a>.
 
@@ -54,4 +62,8 @@ I leave for another time the analysis of the cuisine itself. A quick look around
 
 <b id="f1">1</b> At least  New  York  City  water  is  the  best  in  the  world,  so  there's  that. [↩](#a1) <br>
 <b id="f2">2</b> Damn the  condescending neck beard  with the judgemental outlook. [↩](#a2) <br>
-<b id="f3">3</b> The inclusion of linewidth variation to portray violation scores proved, for the time being anyway, a bit too much to include. I submit a small version of the image here and move on. [↩](#a3) <br>
+<b id="f3">3</b> The inclusion of linewidth variation to portray violation scores proved, for the time being anyway, a bit too much to include. I submit a small version of the image here and move on.
+
+grade_timeline_lws.png	
+
+[↩](#a3) <br>
