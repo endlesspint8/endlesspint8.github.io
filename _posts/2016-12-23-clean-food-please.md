@@ -23,6 +23,8 @@ One  of  the  most  natural  things  to  offer  alongside  craft  beer  is  food
 
 Going  to  a  bar  should  be  a  happy  occasion.  The  more  things  you  have  to  look  forward  to  when  you  head  out  the  better your  chances  of  enjoying  yourself.  There's  the  camaraderie of a close group of  friends,  the  prospects  of  attracting  new  people,  catching  up  with  old  acquaintances,  and  of  course  enjoying  your  libations.  I  prefer  my  beer,  as  you  well  know,  but  whatever  it  is  you  drink  make  sure  it's  something  you  enjoy.<sup id="a2">[2](#f2)</sup>   
 
+## Food & Beverage
+
 Another  feature  to look forward  to  when  heading  out,  and  increasingly  so,  is  the  grub.  The  food  offered  at  craft bars  is  becoming ever more spectacular  and  would  be  unrecognizable  as  pub fare  if  it  weren't  for  the  dozen  or  so  taps on the wall.  It's  not  just  Buffalo wings  and  onion rings that  can  be  appreciated alongside a pint nowadays.  
 
 I am   very  often  swayed  by  which  bar to  go  to  based  on  the  kitchen.  Listen,  a  good  bar   rotation  will  pull  me  in  with  it's  siren  song  but  I'll  make  sure  to  work  in  that  other  bar’s  kitchen/menu  as  needed,  whether  it's  where  I  start  or  end  up.  Naturally  with  food  preparation  of  any  kind  you  want  to  have  some  reassurances  about  the  quality  of  what  ends  up  on  your  plate  and  that's  a  story  that  begins  long before  the  dish  is  put  in  front  of  you,  just  as  it  does  for  your  pint.  
@@ -31,11 +33,11 @@ We  will not  be  going  as  far  back  as  the  farm  in  this  piece  but  we 
 
 Like  any  self-respecting  city  of  the  20th  century  New  York  City  does  health  inspections  of,  among  other  things,  restaurants.  Like  any  self-respecting  21st  century  city  NYC makes  this  data  <a href="https://nycopendata.socrata.com/" target="_blank">openly  available</a>.  Inspections  are  unannounced  yearly  occurrences  where  an  establishment  receives  a  certain  number  of  points  for  each  violation,  critical  or  otherwise.  The  points  are  tallied  up  per inspection  and a final grade (A, B, C) is  based  on  the  resulting  score, the fewer points  the  better.
 
+## Craft or Bust
+
 Taking  the  top  30  craft  beer  bars  of  Manhattan  as  identified  on FourSquare  I  set about  gathering  their  respective  scores,  code  violations,  and  grades.  I  did  the  same  for  all  other  inspected  establishments  in  Manhattan,  bar  or  otherwise. 
 
-
 The  craft  beer  bar  inspection  average  of  12.89 just  qualifies  for  an average grade of A.  The  same  average  for  all  other  non-craft  beer  bars  is  14.68.  This  difference  of  1.79  pushes  the  other  establishments  over  the  points threshold  into  a  Grade  B  average.  
-
 
 <img src="/gallery/2016/health-insp/diff_hist.png	" alt="diff_hist" align="middle" /><br>
 <sub>Data Source: <a href="https://nycopendata.socrata.com/" target="_blank">NYC Open Data</a></sub>
@@ -48,6 +50,8 @@ Below is a timeline of the 30 craft beer bars considered. Each horizontal line a
 <sub>Data Source: <a href="https://nycopendata.socrata.com/" target="_blank">NYC Open Data</a></sub>
 
 The lines serve several purposes. First, they make the reading and grouping of the dots per establishment more clear. Second, they provide a convenient means of comparing length of inspection ranges between bars. Lastly, the lines themselves are color coded to convey information as to the grade carried by a bar. These colors match the NYC grade color scheme where meaningful. Thus the grades A, B, & C are rendered as blue, green, and orange, respectively. Inspection dates need not always result in a new or retained grade. I use white to indicate when there is no grade given out for a specific inspection date. This color will be extended until the next grade. As best as I can ascertain grades are retained unless specifically changed, even so I prefer this color scheme to at least differentiate the awarding/retaining upgrades. The color gray is also used, though difficult to see, for grades of “P”, passing. One particular feature of the open data not visualized are the violation points incurred per inspection.<sup id="a3">[3](#f3)</sup> 
+
+## Beer, Not just for Breakfast
 
 Was I relieved by the findings? Certainly with respect to my past stomach exposure. I also wish the craft bars under inspection well if for no other reason than to allow for their continued serving of my main reason for frequenting them, the pouring of delicious pints. Alternatively, I would hope that for the hefty price stuck on these beers we would be provided with some perks. A clean kitchen is definitely a good start.
 
