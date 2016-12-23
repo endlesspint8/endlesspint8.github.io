@@ -63,7 +63,7 @@ I leave for another time the analysis of the cuisine itself. A quick look around
 <b id="f2">2</b> Damn the  condescending neck beard  with the judgemental outlook. [↩](#a2) <br>
 <b id="f3">3</b> The inclusion of linewidth variation to portray violation scores proved, for the time being anyway, a bit too much to include. I submit a small version of the image here and move on.
 
-<img src="/gallery/2016/health-insp/grade_timeline_lws.png" alt="grade_timeline_lws" align="middle" width=600/><br>
+<img src="/gallery/2016/health-insp/grade_timeline_lws.png" alt="grade_timeline_lws" align="middle" /><br>
 <sub>Data Source: <a href="https://nycopendata.socrata.com/" target="_blank">NYC Open Data</a></sub>
 
 [↩](#a3) <br>
