@@ -35,18 +35,18 @@ Like  any  self-respecting  city  of  the  20th  century  New  York  City  does 
 
 ## Craft or Bust
 
-Taking  the  top  30  craft  beer  bars  of  Manhattan  as  identified  on <a href="https://foursquare.com/explore?mode=url&near=New%20York%2C%20NY%2C%20United%20States&nearGeoId=72057594043056517&q=Craft%20beer" target="_blank">FourSquare/a>  I  set about  gathering  their  respective  scores,  code  violations,  and  grades.  I  did  the  same  for  all  other  inspected  establishments  in  Manhattan,  bar  or  otherwise. 
+Taking  the  top  30  craft  beer  bars  of  Manhattan  as  identified  on <a href="https://foursquare.com/explore?mode=url&near=New%20York%2C%20NY%2C%20United%20States&nearGeoId=72057594043056517&q=Craft%20beer" target="_blank">FourSquare</a>  I  set about  gathering  their  respective  scores,  code  violations,  and  grades.  I  did  the  same  for  all  other  inspected  establishments  in  Manhattan,  bar  or  otherwise. 
 
 The  craft  beer  bar  inspection  average  of  12.89 just  qualifies  for  an average grade of A.  The  same  average  for  all  other  non-craft  beer  bars  is  14.68.  This  difference  of  1.79  pushes  the  other  establishments  over  the  points threshold  into  a  Grade  B  average.  
 
-<img src="/gallery/2016/health-insp/diff_hist.png	" alt="diff_hist" align="middle" /><br>
+<img src="/gallery/2016/health-insp/diff_hist.png" alt="diff_hist" align="middle" /><br>
 <sub>Data Source: <a href="https://nycopendata.socrata.com/" target="_blank">NYC Open Data</a></sub>
 
 On  top  of  this  being a 10%  difference  it  is  a  statistically  significant  one as well.  This  was  established  via  a  ho-hum t-test  and  by  running  a shuffling  and sampling of  the  two  populations.  Not  only  are  you  much more  likely  to  find  better  beer  at  these  establishments  than at  a  random  place  but  you're  also  more  likely  to  find  a  cleaner  kitchen.  I  am  <a href="https://www.youtube.com/watch?v=xdXO52ZMcCM" target="_blank">Jack's  clear  conscience</a>.
 
 Below is a timeline of the 30 craft beer bars considered. Each horizontal line and their attending dots represent one establishment. The occurrence of the dots appear at specific times (x-axis), may be multiple for an inspection, and are colored as to their severity (red for critical, yellow for not critical, and gray for not applicable). The lines themselves stretch from the earliest inspection date recorded to the most recent. In the couple of instances of there being only one inspection to date no line is present. 
 
-<img src="/gallery/2016/health-insp/grade_timeline.png" alt="grade_timeline" align="middle" width=900/><br>
+<img src="/gallery/2016/health-insp/grade_timeline.png" alt="grade_timeline" align="middle" width=900 /><br>
 <sub>Data Source: <a href="https://nycopendata.socrata.com/" target="_blank">NYC Open Data</a></sub>
 
 The lines serve several purposes. First, they make the reading and grouping of the dots per establishment more clear. Second, they provide a convenient means of comparing length of inspection ranges between bars. Lastly, the lines themselves are color coded to convey information as to the grade carried by a bar. These colors match the NYC grade color scheme where meaningful. Thus the grades A, B, & C are rendered as blue, green, and orange, respectively (no "C's", horray). 
