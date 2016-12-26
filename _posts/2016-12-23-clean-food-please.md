@@ -46,7 +46,7 @@ On  top  of  this  being a 10%  difference  it  is  a  statistically  significan
 
 Below is a timeline of the 30 craft beer bars considered. Each horizontal line and their attending dots represent one establishment. The occurrence of the dots appear at specific times (x-axis), may be multiple for an inspection, and are colored as to their severity (red for critical, yellow for not critical, and gray for not applicable). The lines themselves stretch from the earliest inspection date recorded to the most recent. In the couple of instances of there being only one inspection to date no line is present. 
 
-<img src="/gallery/2016/health-insp/grade_timeline.png" alt="grade_timeline" align="middle" width=900 /><br>
+<img src="/gallery/2016/health-insp/grade_timeline.png" alt="grade_timeline" align="middle" /><br>
 <sub>Data Source: <a href="https://nycopendata.socrata.com/" target="_blank">NYC Open Data</a></sub>
 
 The lines serve several purposes. First, they make the reading and grouping of the dots per establishment more clear. Second, they provide a convenient means of comparing length of inspection ranges between bars. Lastly, the lines themselves are color coded to convey information as to the grade carried by a bar. These colors match the NYC grade color scheme where meaningful. Thus the grades A, B, & C are rendered as blue, green, and orange, respectively (no "C's", horray). 
