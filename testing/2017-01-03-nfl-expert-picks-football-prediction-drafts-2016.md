@@ -48,7 +48,7 @@ I've taken the expected win totals, rounded to whole games, identified the diffe
 
 To help some of these graphs I have calculated root mean squared error  (RMSE) different for each. This one number score, FiveThirtyEight and FOX, helps provide a quick comparison. 
 
-There are a few strands that we can follow from here. First and foremost we see which data modeling source had the most accurate expectations overall. From here we can look at the changes in game predictions. FOX for instance switched its choices of winning team more often than FiveThirtyEight. Naturally we can then look at the winning performance of those changed game picks. Lastly, we see what the overall win-total and Brier scores are, not just for the data models but also bringing in the human expert panels. 
+There are a few strands that we can follow from here. First and foremost we see which data modeling source had the most accurate expectations overall. From here we can look at the changes in game predictions. FOX for instance switched its choices of winning team more often than FiveThirtyEight. Naturally we can then look at the winning performance of those changed game picks (week five). Lastly, we see what the overall win-total and Brier scores are, not just for the data models but also bringing in the human expert panels (next week). 
 
 
 ## Week 15 - It's the ROC! 
