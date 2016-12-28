@@ -32,7 +32,7 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 ---
 
 ## Week 16 - Arrows Abound
-<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 16</a></b></sub></p>
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/nTFzCRSFT8 NFL picks expected v actual arrow chart&url=http://bit.ly/2hpvw16&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 16</a></b></sub></p>
 
 It is not clear if my coverage over the past several months has come across as dismissive or condescending of the game predictions. Believe me that has not been my motivation or purpose. The times I do bring up less than spectacular performance is more meant to highlight the difficulty of the task rather than heap any disparagement on the sources. Am I getting defensive? No, not really, but I think it's worthwhile re-calibrating every once in a while, even at this late stage.
 
@@ -49,7 +49,7 @@ There are a few strands that we can follow from here. First and foremost we see 
 ---
 
 ## Week 15 - It's the ROC! 
-<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 15</a></b></sub></p>
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/IxNp7IskL9 NFL picks accuracy as ROC and AUC&url=http://bit.ly/2hxcw15&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 15</a></b></sub></p>
 
 Didn't mean to beat you over the head with all of those confusion matrices back in week 13. I'm referring to the true positives, false positives, etc. of the home/favorite picks. Now, I don't regret bringing it up mind you but I realize I may have left you hanging, which was partly by design. Whether you were confused (pun'd!) or wanted more the following is meant to resolve either situation. 
 
