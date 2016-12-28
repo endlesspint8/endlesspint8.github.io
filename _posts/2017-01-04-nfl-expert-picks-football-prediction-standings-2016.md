@@ -31,6 +31,23 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 ---
 
+## Week 16 - Arrows Abound
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 16</a></b></sub></p>
+
+It is not clear if my coverage over the past several months has come across as dismissive or condescending of the game predictions. Believe me that has not been my motivation or purpose. The times I do bring up less than spectacular performance is more meant to highlight the difficulty of the task rather than heap any disparagement on the sources. Am I getting defensive? No, not really, but I think it's worthwhile re-calibrating every once in a while, even at this late stage.
+
+With respect to being late in the season I thought it was worth looking back at what some of the preseason expectations were and how the season played out as a comparison. This recap will hearken back to week two when we highlighted the average expected win totals for teams by both FiveThirtyEight and FOX (the only two where we could take such a long term view).
+
+In case you can't be bothered to remember or click back… Even with one more week of games looming we can get a general idea of the difference between expectations and reality.
+
+I've taken the expected win totals, rounded to whole games, identified the difference between this number and win totals through week 16 (giving half a game to ties). Again, this throws off the final analysis by a game but the visuals below still get across the point. The difference is in actual wins versus expectations, with differences sorted by biggest positive results at the top, trickling down until we get to the biggest duds against expectations.
+
+To help some of these graphs I have calculated root mean squared error  (RMSE) different for each. This one number score, FiveThirtyEight and FOX, helps provide a quick comparison. 
+
+There are a few strands that we can follow from here. First and foremost we see which data modeling source had the most accurate expectations overall. From here we can look at the changes in game predictions. FOX for instance switched its choices of winning team more often than FiveThirtyEight. Naturally we can then look at the winning performance of those changed game picks (week five). Lastly, we see what the overall win-total and Brier scores are, not just for the data models but also bringing in the human expert panels (next week). 
+
+---
+
 ## Week 15 - It's the ROC! 
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 15</a></b></sub></p>
 
@@ -375,7 +392,7 @@ If you're going to use a model, go with FiveThirtyEight's ATS.
 
 ---
 
-## Week 5 - Less Words, More Empathy
+<h2 id="week5">Week 5 - Less Words, More Empathy</h2>
 
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/QmmXvmB4qv preseason data models edge in-season expert panel&url=http://bit.ly/2dvCw05&via=endlesspint8&hashtags=nflpicks,bulletgraph" target="_blank" title="Share on Twitter">Week 5</a></b></sub></p>
 
