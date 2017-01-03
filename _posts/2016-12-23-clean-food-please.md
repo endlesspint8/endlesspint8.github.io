@@ -5,6 +5,7 @@ subtitle: The Cleanliness of NYC Craft Beer Bar Kitchens
 tags: ["HealthInspection", "OpenData", "311", "NYC"]
 shortlink: http://bit.ly/2hgUhFU
 twitimg: pic.twitter.com/Jt994Wfm9p
+sideof: ["Table listing", "http://eepurl.com/cj8urH", "of Craft Bar inspection results."]
 ---
 
 Much is asked of New Yorkers, from high rent, congestion, overstuffed subway cars, and extreme weather conditions, to crowded tourist traps, inconsiderate assess who stand in front of subway doors, and dealing with being attached to a country that is determined to repeatedly vote against its own interests. For this it is fair that we ask and receive some things in return. 
