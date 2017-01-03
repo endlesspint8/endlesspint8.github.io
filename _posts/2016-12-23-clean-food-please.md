@@ -4,7 +4,7 @@ title: May I advise against the lady eating the clam chowder?
 subtitle: The Cleanliness of NYC Craft Beer Bar Kitchens
 tags: ["HealthInspection", "OpenData", "311", "NYC"]
 shortlink: http://bit.ly/2hgUhFU
-twitimg: 
+twitimg: pic.twitter.com/Jt994Wfm9p
 ---
 
 Much is asked of New Yorkers, from high rent, congestion, overstuffed subway cars, and extreme weather conditions, to crowded tourist traps, inconsiderate assess who stand in front of subway doors, and dealing with being attached to a country that is determined to repeatedly vote against its own interests. For this it is fair that we ask and receive some things in return. 
@@ -35,7 +35,7 @@ Like  any  self-respecting  city  of  the  20th  century  New  York  City  does 
 
 ## Craft or Bust
 
-Taking  the  top  30  craft  beer  bars  of  Manhattan  as  identified  on <a href="https://foursquare.com/explore?mode=url&near=New%20York%2C%20NY%2C%20United%20States&nearGeoId=72057594043056517&q=Craft%20beer" target="_blank">FourSquare</a>  I  set about  gathering  their  respective  scores,  code  violations,  and  grades.  I  did  the  same  for  all  other  inspected  establishments  in  Manhattan,  bar  or  otherwise. 
+Taking  the  top  30  craft  beer  bars  of  Manhattan  as  identified  on <a href="https://foursquare.com/explore?mode=url&near=New%20York%2C%20NY%2C%20United%20States&nearGeoId=72057594043056517&q=Craft%20beer" target="_blank">FourSquare</a>  I  set about  gathering  their  respective  scores,  code  violations,  and  grades.<sup id="a3">[3](#f3)</sup>  I  did  the  same  for  all  other  inspected  establishments  in  Manhattan,  bar  or  otherwise. 
 
 The  craft  beer  bar  inspection  average  of  12.89 just  qualifies  for  an average grade of A.  The  same  average  for  all  other  non-craft  beer  bars  is  14.68.  This  difference  of  1.79  pushes  the  other  establishments  over  the  points threshold  into  a  Grade  B  average.  
 
@@ -51,7 +51,7 @@ Below is a timeline of the 30 craft beer bars considered. Each horizontal line a
 
 The lines serve several purposes. First, they make the reading and grouping of the dots per establishment more clear. Second, they provide a convenient means of comparing length of inspection ranges between bars. Lastly, the lines themselves are color coded to convey information as to the grade carried by a bar. These colors match the NYC grade color scheme where meaningful. Thus the grades A, B, & C are rendered as blue, green, and orange, respectively (no "C's", horray). 
 
-Inspection dates need not always result in a new or retained grade. I use white to indicate when there is no grade given out for a specific inspection date. This color will be extended until the next grade. As best as I can ascertain grades are retained unless specifically changed, even so I prefer this color scheme to at least differentiate the awarding/retaining upgrades. The color gray is also used, though difficult to see, for grades of “P”, passing. One particular feature of the open data not visualized are the violation points incurred per inspection.<sup id="a3">[3](#f3)</sup> 
+Inspection dates need not always result in a new or retained grade. I use white to indicate when there is no grade given out for a specific inspection date. This color will be extended until the next grade. As best as I can ascertain grades are retained unless specifically changed, even so I prefer this color scheme to at least differentiate the awarding/retaining upgrades. The color gray is also used, though difficult to see, for grades of “P”, passing. One particular feature of the open data not visualized are the violation points incurred per inspection.<sup id="a4">[4](#f4)</sup> 
 
 ## Beer, Not just for Breakfast
 
@@ -67,9 +67,10 @@ I leave for another time the analysis of the cuisine itself. A quick look around
 
 <b id="f1">1</b> At least  New  York  City  water  is  the  best  in  the  world,  so  there's  that. [↩](#a1) <br>
 <b id="f2">2</b> Damn the  condescending neck beard  with the judgemental outlook. [↩](#a2) <br>
-<b id="f3">3</b> The inclusion of linewidth variation to portray violation scores proved, for the time being anyway, a bit too much to include. I submit a small version of the image here and move on.
+<b id="f3">3</b> Actually 28 of top 30 FourSquare locations were identified, the other two either have no kitchen (Carmine Street Beers) or have never been inspected/cited (Milk & Hops), either way I replaced them with two substitute craft beer bars, Amity Hall & Malt House, to keep the number at 30. [↩](#a3) <br>
+<b id="f4">4</b> The inclusion of linewidth variation to portray violation scores proved, for the time being anyway, a bit too much to include. I submit a small version of the image here and move on. [↩](#a4) <br>
 
 <img src="/gallery/2016/health-insp/grade_timeline_lws.png" alt="grade_timeline_lws" align="middle" /><br>
 <sub>Data Source: <a href="https://nycopendata.socrata.com/" target="_blank">NYC Open Data</a></sub>
 
-[↩](#a3) <br>
+
