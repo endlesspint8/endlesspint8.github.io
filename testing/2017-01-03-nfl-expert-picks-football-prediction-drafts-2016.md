@@ -70,18 +70,16 @@ Any big surprises? Tough to say after 17 weeks of being submerged in the process
 
 A quick look ATS, where the random model did considerably better, with a wrinkle. 
 
-1. W-L-D; 2. BS
+|Source|W-L-D|win%|ATS BS|
+|---|---|---|---|
+|CBS|128-120-8|.5|0.302|
+|FOX|119-122-8, no pick: 18|.478|n/a, <a href="#week6">week 6 arbitrage</a>|
+|538|114-118-8, no pick: 28|.475|n/a, <a href="#week6">week 6 arbitrage</a>|
+|RAN|121-127-8|.473|0.337|
 
-|Source|W-L-D|ATS BS|
-|---|---|---|
-|CBS|128-120-8|0.302|
-|538|114-118-8, no pick: 28|n/a, <a href="#week6">week 6 arbitrage</a>|
-|FOX|119-122-8, no pick: 18|n/a, <a href="#week6">week 6 arbitrage</a>|
-|RAN|121-127-8|0.337|
+Though the random selection of ATS games turned out more correct picks than either FiveThirtyEight or FOX, it did so at a lower percentage. This was due to spreads sometimes matching those estimated by FiveThirtyEight and/or FOX, resulting in "no picks" on those occassions for those sources. As a result the random choices turned up _both_ more wins _and_loses.
 
-Though the random selection of ATS games turned out more correct picks, it did so at a lower percentage than ... this due to spreads sometimes matching those estimated by FiveThirtyEight and/or FOX, resulting in "no picks" on those occassions.
-
-Going back to fully appreciating what this entire effort has meant, I will be updating all of the below graphs with full season numbers, updated commentary, and some additional charts as a PDF file [sign up for update link].
+Going back to fully appreciating what this entire effort has meant, I think it is safe to say that the findings are full or wrinkles, like I just said, and nuances. I will be updating all of the below graphs over the coming weeks with full season numbers, some new commentary, and additional charts as a PDF file [sign up for update link].
 
 ## Week 16 - Arrows Abound
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 16</a></b></sub></p>
