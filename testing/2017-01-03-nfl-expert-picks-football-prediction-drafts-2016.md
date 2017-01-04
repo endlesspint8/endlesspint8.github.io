@@ -42,7 +42,7 @@ After four short months we conclude this piece with a final overview of how the 
 
 Only on a few (fluke?) occasions was the random game picker not in last place. This could have been expected by intuition (there's obvious information in game match-ups) or gleaned from the <a href="#week11">week 11</a> above/below .500 graph. When it came to the SUP comparisons we saw a clear split between the actual game sources and the "coin flip".
 
-|Source|Season Wins|Weeks in 1st Place|
+|Source|Season Wins|1st Place (weekly)|
 |---|---|---|
 |FiveThirtyEight (in situ)|**161**|**7**|
 |ESPN (regularized)|160|5|
@@ -55,7 +55,7 @@ Only on a few (fluke?) occasions was the random game picker not in last place. T
 
 Of course we could not possibly sign off without one final mention of the Brier score (BS). Full season numbers and positioning again in table format followed by a similar bump chart to catalog the season's progress.
 
-|Source|Season Brier Score|Weeks in 1st Place|
+|Source|Season Brier Score|1st Place (weekly)|
 |---|---|---|
 |FiveThirtyEight (in situ)|**0.221**|**8**|
 |FOX (in situ)|0.233|3|
