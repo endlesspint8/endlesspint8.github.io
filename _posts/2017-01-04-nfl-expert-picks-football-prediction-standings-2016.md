@@ -32,7 +32,7 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 ---
 
 ## Week 17 - The End of a Bumpy Road
-<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 17</a></b></sub></p>
+<p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/Fyy40vVRTv end of season NFL picks standings, wins and Brier score&url=http://bit.ly/2hS2w17&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 17</a></b></sub></p>
 
 After four short months we conclude this piece with a final overview of how the season played out for our respective sources. I will focus on the straight up (SUP) picks since this includes all sources.<sup id="a12">[12](#f12)</sup> First up are the win totals for the season followed by a bump chart showing weekly and cumulative rankings for the season. 
 
