@@ -31,6 +31,56 @@ We are interested in a number of anticipated comparisons (expert panel v. expert
 
 ---
 
+## Week 17 - The End of a Bumpy Road
+<p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 17</a></b></sub></p>
+
+After four short months we conclude this piece with a final overview of how the season played out for our respective sources. I will focus on the straight up (SUP) picks since this includes all sources.<sup id="a12">[12](#f12)</sup> First up are the win totals for the season followed by a bump chart showing weekly and cumulative rankings for the season. 
+
+Only on a few (fluke?) occasions was the random game picker not in last place. This could have been expected by intuition (there's obvious information in game match-ups) or gleaned from the <a href="#week11">week 11</a> above/below .500 graph. When it came to the SUP comparisons we saw a clear split between the actual game sources and the "coin flip".
+
+|Source|Season Wins|1st Place (weekly)|
+|---|---|---|
+|FiveThirtyEight (in situ)|**161**|**7**|
+|ESPN (regularized)|160|5|
+|CBS (regularized)|157|**7**|
+|FOX (in situ)|157|4|
+|RANDOM|117|1|
+ 
+<img src="/gallery/2016/football-picks/wk17_bump_chart_wins.PNG" alt="wk17_bump_chart_wins" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
+
+Of course we could not possibly sign off without one final mention of the Brier score (BS). Full season numbers and positioning again in table format followed by a similar bump chart to catalog the season's progress.
+
+|Source|Season Brier Score|1st Place (weekly)|
+|---|---|---|
+|FiveThirtyEight (in situ)|**0.221**|**8**|
+|FOX (in situ)|0.233|3|
+|ESPN (regularized)|0.246|2|
+|CBS (regularized)|0.253|4|
+|RANDOM|0.360|0|
+
+<img src="/gallery/2016/football-picks/wk17_bump_chart_BS.PNG" alt="wk17_bump_chart_BS" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
+
+All in all **FiveThirtyEight held tough and proved the most trusted source of game picks** on a number of different metrics. It was close all the way through, however. 
+
+Any big surprises? Tough to say after 17 weeks of being submerged in the process. While it may take some time to fully appreciate what to make of all this I fully acknowledge how difficult the picking of games is. This was especially underscored by no one model running away with the season. There were moments when that looked like it would happen but as far as this season playing out the breakout never occurred.
+
+A quick look at ATS, where the random model did considerably better (with a wrinkle). 
+
+|Source|W-L-D|win%|ATS BS|
+|---|---|---|---|
+|CBS|128-120-8|.5|0.302|
+|FOX|119-122-8, no pick: 18|.478|n/a, <a href="#week6">week 6 arbitrage</a>|
+|538|114-118-8, no pick: 28|.475|n/a, <a href="#week6">week 6 arbitrage</a>|
+|RAN|121-127-8|.473|0.337|
+
+Though the random selection of ATS games turned out more correct picks than either FiveThirtyEight or FOX, it did so at a lower percentage. This was due to spreads sometimes matching those estimated by FiveThirtyEight and/or FOX, resulting in "no picks" on those occassions for those sources. As a result the random choices turned up _both_ more wins _and_ more loses.
+
+Going back to fully appreciating what this entire effort has meant, I think it is safe to say that the findings are full or wrinkles, like I just said, and nuances. I will be updating all of the below graphs over the coming weeks with full season numbers, some new commentary, and additional charts as a PDF document (<a href="http://eepurl.com/cj8urH">sign up</a> if you're interested).
+
+---
+
 ## Week 16 - Arrows Abound
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/kh3M3tmGoy NFL picks expected v actual arrow chart&url=http://bit.ly/2hpvw16&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 16</a></b></sub></p>
 
@@ -181,7 +231,7 @@ What have we learned? I'm lazy (efficient?), have no shame, and for specific com
 
 ---
 
-## Week 11 - Breaking Even, Breaking Bad
+<h2 id="week11">Week 11 - Breaking Even, Breaking Bad</h2>
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/B5TznXS3gt NFL picks above below .500&url=http://bit.ly/2gAhw11&via=endlesspint8&hashtags=nflpicks,dataviz" target="_blank" title="Share on Twitter">Week 11</a></b></sub></p>
 
 The last chart of last week used a diagonal line to help provide guidance on which level of confidence predictions were performing above or below expectations. In the description of that graph I mentioned performing at or above .500, breaking even with picks.
@@ -316,7 +366,7 @@ _Maybe you're in the <a href="https://www.youtube.com/watch?v=HSfxl1KI6y8" targe
 
 ---
 
-## Week 6 - Arbitrage (maybe)
+<h2 id="week6">Week 6 - Arbitrage (maybe)</h2>
 <p align="right"><sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/UnRTnWObmv dataviz of diverging stacked bar charts&url=http://bit.ly/2ekkw06&via=endlesspint8&hashtags=nflpicks,barchart" target="_blank" title="Share on Twitter">Week 6</a></b></sub></p>
 
 Most of the previous posts have had to do with wins and loses straight up (SUP). There was a brief dipping of the toes into performance against the spread (ATS) back in week 3 but that had more to do with home team performances by conference and did not look at predictions. Today we take more of a dip into predictions ATS and evaluate performances to date. 
@@ -688,7 +738,6 @@ Let's start slow for this first installment. We have all season to get to know e
 
 <b id="f11">11</b> You see what I did there? I jiujitsu'd your ass. [↩](#a11) <br>
 
-**week 15 & later**
+**week 17**
 
-<b id="f12">12</b>   [↩](#a12) <br>
-<b id="f13">13</b>   [↩](#a13) <br>
+<b id="f12">12</b> We never did find a way to attribute against the spread (ATS) picks to ESPN.   [↩](#a12) <br>
