@@ -72,6 +72,11 @@ A quick look ATS, where the random model did considerably better, with a wrinkle
 
 1. W-L-D; 2. BS
 
+CBS: 128-120-8
+538: 114-118-8, no pick: 28
+FOX: 119-122-8, no pick: 18
+RAN: 121-127-8
+
 Though the random selection of ATS games turned out more correct picks, it did so at a lower percentage than ... this due to spreads sometimes matching those estimated by FiveThirtyEight and/or FOX, resulting in "no picks" on those occassions.
 
 Going back to fully appreciating what this entire effort has meant, I will be updating all of the below graphs with full season numbers, updated commentary, and some additional charts as a PDF file [sign up for update link].
