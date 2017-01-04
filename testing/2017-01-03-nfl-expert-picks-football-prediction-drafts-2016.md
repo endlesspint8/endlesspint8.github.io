@@ -41,11 +41,27 @@ After Season
 After four short months we conclude this piece with a final overview of how the season played out for our respective sources. I will focus on the straight up (SUP) picks since this includes all sources, we never did find a way to attribute against the spread (ATS) picks to ESPN. First up are the win totals for the season [table] followed by a bump chart showing weekly and cumulative rankings for the season. 
 
 Only on a few (fluke?) occasions was the random game picker not in last place. This could have been expected by intuition (there's obvious information in game match-ups) or gleaned from the <a href="#week11">week 11</a> above/below .500 graph. When it came to the SUP comparisons we saw a clear split between the actual game sources and the "coin flip".
+
+|Source|Season Wins|Weeks in 1st Place|
+|---|---|---|
+|FOX (in situ)|0.351|41|
+|RANDOM|0.329|38|
+|CBS (regularized)|0.305|38|
+|ESPN (regularized)|0.305|38|
+|FiveThirtyEight (in situ)|0.305|38|
  
 <img src="/gallery/2016/football-picks/wk17_bump_chart_wins.PNG" alt="wk17_bump_chart_wins" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
 Of course we could not possibly sign off without one final mention of the Brier score (BS). Full season numbers and positioning again in table format followed by a similar bump chart to catalog the season's progress.
+
+|Source|Season Brier Score|Weeks in 1st Place|
+|---|---|---|
+|FOX (in situ)|0.351|41|
+|RANDOM|0.329|38|
+|CBS (regularized)|0.305|38|
+|ESPN (regularized)|0.305|38|
+|FiveThirtyEight (in situ)|0.305|38|
 
 <img src="/gallery/2016/football-picks/wk17_bump_chart_BS.PNG" alt="wk17_bump_chart_BS" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
@@ -58,7 +74,7 @@ A quick look ATS, where the random model did considerably better, with a wrinkle
 
 Though the random selection of ATS games turned out more correct picks, it did so at a lower percentage than ... this due to spreads sometimes matching those estimated by FiveThirtyEight and/or FOX, resulting in "no picks" on those occassions.
 
-Going back to fully appreciating what this entire effort has meant, I will be updating all of the below graphs with full season numbers and be providing the updates, with some additional commentary, as a PDF file [link].
+Going back to fully appreciating what this entire effort has meant, I will be updating all of the below graphs with full season numbers, updated commentary, and some additional charts as a PDF file [sign up for update link].
 
 ## Week 16 - Arrows Abound
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 16</a></b></sub></p>
