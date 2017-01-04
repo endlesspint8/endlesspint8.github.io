@@ -35,11 +35,18 @@ After Season
 
 
 
-## Week 16 - The End of a Bumpy Road
+## Week 17 - The End of a Bumpy Road
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 17</a></b></sub></p>
 
-It
+After four short months we conclude this piece with the final overview of how the season plays out for our respective sources. I will focus on the street of pics of this includes all sources, we never did find a way to attribute against the spread pics to ESPN. First up are the win totals for the season [table] followed by a bump chart showing weekly and cumulative rankings for the season. I don't need to (fluke?) Occasions was the random game pic or not in last place. This could have been just that my intuition (there's obvious information in game match-ups) or gleaned from the week X games, above/below 500 graph. When it came to the street of comparisons we saw a clear dispersion between the actual big sources and the "coin flip".
 
+We could not possibly sign off without one final mention of the Brier score (BS). Full season numbers and positioning again and table format followed by a similar bulb chart to catalog the seasons progress.
+
+Any big surprises? Tough to say after 17 weeks of being submerged in the process. While it may take some time to fully appreciate what to make of all this I Jimmy Lee show my respect for how difficult the picking of games correctly is. Is as big as underscored by no one model running away with the season. There were moments when that looked like weed to happen but as far as this season playing out the breakout never occurred.
+
+A quick look on against the spread, where the random model did considerably better. 
+
+1. W-L-D; 2. BS
 
 
 ## Week 16 - Arrows Abound
