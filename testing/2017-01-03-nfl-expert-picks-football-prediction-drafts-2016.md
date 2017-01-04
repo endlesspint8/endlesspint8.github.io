@@ -38,16 +38,21 @@ After Season
 ## Week 17 - The End of a Bumpy Road
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 17</a></b></sub></p>
 
-After four short months we conclude this piece with the final overview of how the season plays out for our respective sources. I will focus on the street of pics of this includes all sources, we never did find a way to attribute against the spread pics to ESPN. First up are the win totals for the season [table] followed by a bump chart showing weekly and cumulative rankings for the season. I don't need to (fluke?) Occasions was the random game pic or not in last place. This could have been just that my intuition (there's obvious information in game match-ups) or gleaned from the week X games, above/below 500 graph. When it came to the street of comparisons we saw a clear dispersion between the actual big sources and the "coin flip".
+After four short months we conclude this piece with a final overview of how the season played out for our respective sources. I will focus on the straight up (SUP) picks since this includes all sources, we never did find a way to attribute against the spread (ATS) picks to ESPN. First up are the win totals for the season [table] followed by a bump chart showing weekly and cumulative rankings for the season. 
 
-We could not possibly sign off without one final mention of the Brier score (BS). Full season numbers and positioning again and table format followed by a similar bulb chart to catalog the seasons progress.
+Only on two (fluke?) occasions was the random game picker not in last place. This could have been expected by intuition (there's obvious information in game match-ups) or gleaned from the week X above/below .500 graph. When it came to the SUP comparisons we saw a clear split between the actual game sources and the "coin flip".
 
-Any big surprises? Tough to say after 17 weeks of being submerged in the process. While it may take some time to fully appreciate what to make of all this I Jimmy Lee show my respect for how difficult the picking of games correctly is. Is as big as underscored by no one model running away with the season. There were moments when that looked like weed to happen but as far as this season playing out the breakout never occurred.
+Of course we could not possibly sign off without one final mention of the Brier score (BS). Full season numbers and positioning again in table format followed by a similar bump chart to catalog the season's progress.
 
-A quick look on against the spread, where the random model did considerably better. 
+Any big surprises? Tough to say after 17 weeks of being submerged in the process. While it may take some time to fully appreciate what to make of all this I fully acknowledge how difficult the picking of games correctly is. This was especially underscored by no one model running away with the season. There were moments when that looked like it would happen but as far as this season playing out the breakout never occurred.
+
+A quick look ATS, where the random model did considerably better, with a wrinkle. 
 
 1. W-L-D; 2. BS
 
+Though the random selection of ATS games turned out more correct picks, it did so at a lower percentage than ... this due to spreads sometimes matching those estimated by FiveThirtyEight and/or FOX, resulting in "no picks" on those occassions.
+
+Going back to fully appreciating what this entire effort has meant, I will be updating all of the below graphs with full season numbers and be providing the updates, with some additional commentary, as a PDF file [link].
 
 ## Week 16 - Arrows Abound
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 16</a></b></sub></p>
