@@ -362,7 +362,7 @@ That low chance of survival is slightly overly optimistic due to the naive repre
 _Maybe you're in the <a href="https://www.youtube.com/watch?v=HSfxl1KI6y8" target="_blank">middle of a storm</a>, the sky is falling in on your head, the waves are crashing over your little boat, the oars are about to snap..._
 
 
-<h2 id="week11">Week 6 - Arbitrage (maybe)</h2>
+<h2 id="week6">Week 6 - Arbitrage (maybe)</h2>
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 6</a></b></sub></p>
 
 Most of the previous posts have had to do with wins and loses straight up (SUP). There was a brief dipping of the toes into performance against the spread (ATS) back in week 3 but that had more to do with home team performances by conference and did not look at predictions. Today we take more of a dip into predictions ATS and evaluate performances to date. 
