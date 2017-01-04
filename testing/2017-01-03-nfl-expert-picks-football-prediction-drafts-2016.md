@@ -40,9 +40,15 @@ After Season
 
 After four short months we conclude this piece with a final overview of how the season played out for our respective sources. I will focus on the straight up (SUP) picks since this includes all sources, we never did find a way to attribute against the spread (ATS) picks to ESPN. First up are the win totals for the season [table] followed by a bump chart showing weekly and cumulative rankings for the season. 
 
-Only on two (fluke?) occasions was the random game picker not in last place. This could have been expected by intuition (there's obvious information in game match-ups) or gleaned from the week X above/below .500 graph. When it came to the SUP comparisons we saw a clear split between the actual game sources and the "coin flip".
+Only on a few (fluke?) occasions was the random game picker not in last place. This could have been expected by intuition (there's obvious information in game match-ups) or gleaned from the <a href="#week11">week 11</a> above/below .500 graph. When it came to the SUP comparisons we saw a clear split between the actual game sources and the "coin flip".
+ 
+<img src="/gallery/2016/football-picks/wk17_bump_chart_wins.PNG" alt="wk17_bump_chart_wins" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
 Of course we could not possibly sign off without one final mention of the Brier score (BS). Full season numbers and positioning again in table format followed by a similar bump chart to catalog the season's progress.
+
+<img src="/gallery/2016/football-picks/wk17_bump_chart_BS.PNG" alt="wk17_bump_chart_BS" align="middle"/><br>
+<sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
 Any big surprises? Tough to say after 17 weeks of being submerged in the process. While it may take some time to fully appreciate what to make of all this I fully acknowledge how difficult the picking of games correctly is. This was especially underscored by no one model running away with the season. There were moments when that looked like it would happen but as far as this season playing out the breakout never occurred.
 
@@ -195,7 +201,7 @@ What have we learned? I'm lazy (efficient?), have no shame, and for specific com
 
 ---
 
-## Week 11 - Breaking Even, Breaking Bad
+<h2 id="week11">Week 11 - Breaking Even, Breaking Bad</h2>
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 11</a></b></sub></p>
 
 The last chart of last week used a diagonal line to help provide guidance on which level of confidence predictions were performing above or below expectations. In the description of that graph I mentioned performing at or above .500, breaking even with picks.
