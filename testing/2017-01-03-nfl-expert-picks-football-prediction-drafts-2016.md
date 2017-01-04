@@ -38,7 +38,7 @@ After Season
 ## Week 17 - The End of a Bumpy Road
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 17</a></b></sub></p>
 
-After four short months we conclude this piece with a final overview of how the season played out for our respective sources. I will focus on the straight up (SUP) picks since this includes all sources, we never did find a way to attribute against the spread (ATS) picks to ESPN. First up are the win totals for the season [table] followed by a bump chart showing weekly and cumulative rankings for the season. 
+After four short months we conclude this piece with a final overview of how the season played out for our respective sources. I will focus on the straight up (SUP) picks since this includes all sources, we never did find a way to attribute against the spread (ATS) picks to ESPN. First up are the win totals for the season followed by a bump chart showing weekly and cumulative rankings for the season. 
 
 Only on a few (fluke?) occasions was the random game picker not in last place. This could have been expected by intuition (there's obvious information in game match-ups) or gleaned from the <a href="#week11">week 11</a> above/below .500 graph. When it came to the SUP comparisons we saw a clear split between the actual game sources and the "coin flip".
 
@@ -66,9 +66,11 @@ Of course we could not possibly sign off without one final mention of the Brier 
 <img src="/gallery/2016/football-picks/wk17_bump_chart_BS.PNG" alt="wk17_bump_chart_BS" align="middle"/><br>
 <sub>Data Source: <a href="http://www.cbssports.com/nfl/features/writers/expert/picks/straight-up/7" target="_blank">CBS</a>, <a href="http://www.espn.com/nfl/picks" target="_blank">ESPN</a>, <a href="http://projects.fivethirtyeight.com/2016-nfl-predictions/" target="_blank">FiveThirtyEight</a> & <a href="http://www.foxsports.com/nfl/predictions" target="_blank">FOX</a></sub>
 
-Any big surprises? Tough to say after 17 weeks of being submerged in the process. While it may take some time to fully appreciate what to make of all this I fully acknowledge how difficult the picking of games correctly is. This was especially underscored by no one model running away with the season. There were moments when that looked like it would happen but as far as this season playing out the breakout never occurred.
+All in all FiveThirtyEight held tough and proved the most trusted source of game picks on a number of different metrics. It was close all the way through, however. 
 
-A quick look ATS, where the random model did considerably better, with a wrinkle. 
+Any big surprises? Tough to say after 17 weeks of being submerged in the process. While it may take some time to fully appreciate what to make of all this I fully acknowledge how difficult the picking of games is. This was especially underscored by no one model running away with the season. There were moments when that looked like it would happen but as far as this season playing out the breakout never occurred.
+
+A quick look at ATS, where the random model did considerably better (with a wrinkle). 
 
 |Source|W-L-D|win%|ATS BS|
 |---|---|---|---|
@@ -77,7 +79,7 @@ A quick look ATS, where the random model did considerably better, with a wrinkle
 |538|114-118-8, no pick: 28|.475|n/a, <a href="#week6">week 6 arbitrage</a>|
 |RAN|121-127-8|.473|0.337|
 
-Though the random selection of ATS games turned out more correct picks than either FiveThirtyEight or FOX, it did so at a lower percentage. This was due to spreads sometimes matching those estimated by FiveThirtyEight and/or FOX, resulting in "no picks" on those occassions for those sources. As a result the random choices turned up _both_ more wins _and_loses.
+Though the random selection of ATS games turned out more correct picks than either FiveThirtyEight or FOX, it did so at a lower percentage. This was due to spreads sometimes matching those estimated by FiveThirtyEight and/or FOX, resulting in "no picks" on those occassions for those sources. As a result the random choices turned up _both_ more wins _and_ more loses.
 
 Going back to fully appreciating what this entire effort has meant, I think it is safe to say that the findings are full or wrinkles, like I just said, and nuances. I will be updating all of the below graphs over the coming weeks with full season numbers, some new commentary, and additional charts as a PDF file [sign up for update link].
 
