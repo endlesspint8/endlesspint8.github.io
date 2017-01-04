@@ -43,7 +43,9 @@ The  craft  beer  bar  inspection  average  of  12.89 just  qualifies  for  an a
 <img src="/gallery/2016/health-insp/diff_hist.png" alt="diff_hist" align="middle" /><br>
 <sub>Data Source: <a href="https://nycopendata.socrata.com/" target="_blank">NYC Open Data</a></sub>
 
-On  top  of  this  being a 10%  difference  it  is  a  statistically  significant  one as well.  This  was  established  via  a  ho-hum t-test  and  by  running  a shuffling  and sampling of  the  two  populations.  Not  only  are  you  much more  likely  to  find  better  beer  at  these  establishments  than at  a  random  place  but  you're  also  more  likely  to  find  a  cleaner  kitchen.  I  am  <a href="https://www.youtube.com/watch?v=xdXO52ZMcCM" target="_blank">Jack's  clear  conscience</a>.
+On  top  of  this  being a 10%  difference  it  is  a  statistically  significant  one as well.  This  was  established  via  a  ho-hum t-test  and  by  running  a <a href="https://gist.github.com/endlesspint8/f7e919572db35013cf9cfe347e348c2a#file-1_eg_shuff_samp-py" target="_blank">shuffling  and sampling</a> of  the  two  populations.  Not  only  are  you  much more  likely  to  find  better  beer  at  these  establishments  than at  a  random  place  but  you're  also  more  likely  to  find  a  cleaner  kitchen.  
+
+I  am  <a href="https://www.youtube.com/watch?v=xdXO52ZMcCM" target="_blank">Jack's  clear  conscience</a>.
 
 Below is a timeline of the 30 craft beer bars considered. Each horizontal line and their attending dots represent one establishment. The occurrence of the dots appear at specific times (x-axis), may be multiple for an inspection, and are colored as to their severity (red for critical, yellow for not critical, and gray for not applicable). The lines themselves stretch from the earliest inspection date recorded to the most recent. In the couple of instances of there being only one inspection to date no line is present. 
 
