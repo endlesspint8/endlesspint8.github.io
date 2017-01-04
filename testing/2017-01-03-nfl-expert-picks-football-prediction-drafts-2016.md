@@ -72,10 +72,12 @@ A quick look ATS, where the random model did considerably better, with a wrinkle
 
 1. W-L-D; 2. BS
 
-CBS: 128-120-8
-538: 114-118-8, no pick: 28
-FOX: 119-122-8, no pick: 18
-RAN: 121-127-8
+|Source|W-L-D|ATS BS|
+|---|---|---|
+|CBS|128-120-8|0.302|
+|538|114-118-8, no pick: 28|n/a, <a href="#week6">week 6 arbitrage</a>|
+|FOX|119-122-8, no pick: 18|n/a, <a href="#week6">week 6 arbitrage</a>|
+|RAN|121-127-8|0.337|
 
 Though the random selection of ATS games turned out more correct picks, it did so at a lower percentage than ... this due to spreads sometimes matching those estimated by FiveThirtyEight and/or FOX, resulting in "no picks" on those occassions.
 
@@ -360,7 +362,7 @@ That low chance of survival is slightly overly optimistic due to the naive repre
 _Maybe you're in the <a href="https://www.youtube.com/watch?v=HSfxl1KI6y8" target="_blank">middle of a storm</a>, the sky is falling in on your head, the waves are crashing over your little boat, the oars are about to snap..._
 
 
-## Week 6 - Arbitrage (maybe)
+<h2 id="week11">Week 6 - Arbitrage (maybe)</h2>
 <p align="right"><sub><b>Share <a href="" target="_blank" title="Share on Twitter">Week 6</a></b></sub></p>
 
 Most of the previous posts have had to do with wins and loses straight up (SUP). There was a brief dipping of the toes into performance against the spread (ATS) back in week 3 but that had more to do with home team performances by conference and did not look at predictions. Today we take more of a dip into predictions ATS and evaluate performances to date. 
