@@ -3,7 +3,7 @@ layout: post
 title: Did you tap that?
 subtitle: NYE Weekend Kegs (2017)
 tags: ["craftbeer", "dataviz", "map", "geocoding"]
-shortlink: 
+shortlink: http://bit.ly/2j8gNYE
 twitimg: pic.twitter.com/992aHPZZDx
 ---
 
@@ -27,7 +27,9 @@ Having a suitable target identified I pulled the New Year's Eve weekend statuses
 <img src="/gallery/2017/digitalpour-nye/intensity.png" alt="intensity" align="middle" width="800" /><br>
 <sub>Data Source: <a href="https://twitter.com/" target="_blank">Twitter</a></sub>
 
-Feelings? Some relief and a small sense of accomplishment for jumping through all the hoops. Also a bit of disappointment for there being far fewer bars using and posting their Digital Pour info than I expected. This will not preclude future analysis though. Stay tuned.
+Feelings? Some relief and a small sense of accomplishment for jumping through all the hoops. Also a bit of disappointment for there being far fewer bars using and posting their DigitalPour info than I expected. This will not preclude future analysis though. 
+
+Stay tuned.
 
 <img src="/gallery/2017/digitalpour-nye/cluster_chart2.png" alt="cluster_chart" align="middle" width="800" /><br>
 <sub>Data Source: <a href="https://twitter.com/" target="_blank">Twitter</a></sub>
