@@ -2,9 +2,9 @@
 layout: post
 title: Did you tap that?
 subtitle: NYE Weekend Kegs (2017)
-tags: ["", ""]
+tags: ["craftbeer", "dataviz", "map", "geocoding"]
 shortlink: 
-twitimg: 
+twitimg: pic.twitter.com/992aHPZZDx
 ---
 
 ## What's Popping?
