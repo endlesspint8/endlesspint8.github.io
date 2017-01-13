@@ -8,7 +8,14 @@ subtitle: Visualizations at a Glance
 
 <br>
 
-### [Data Guide for the Beer Perplexed II]()
+### [Did you tap that?]()
+> 
+> * Mapping NYE Weekend Kegs (2017) <br>
+
+<img src="/gallery/2017/digitalpour-nye/nye_popping.gif" align="middle"> <br>
+<sub>Data source: Twitter </sub>
+
+### [Data Guide for the Beer Perplexed II](/2016-11-18-beer-introductions-2)
 > 
 > * R Shiny boxplot and scatter plot dashboard visualizations<br>
 
@@ -20,7 +27,7 @@ Scraping Template: <a href="https://github.com/cs109/content/blob/master/labs/la
 >
 > * Mapping with QGis and Carto
 
-<img src="/gallery/2016/suds-city/WHvTJvor.gif"> <br>
+<img src="/gallery/2016/suds-city/WHvTJvor.gif" align="middle"> <br>
 <sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/Kmm6NGhFeB Closest Big Box Yuppie Stores in Manhattan&url=http://bit.ly/2eH2bVr&via=endlesspint8&hashtags=beer,dataviz" target="_blank" title="Share on Twitter">Whole Foods v. Trader Joe's Voronoi</a></b></sub>
 
 ### [Data Guide for the Beer Perplexed](/2016-10-10-beer-introductions-1)
