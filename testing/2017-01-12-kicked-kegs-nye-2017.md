@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What comes before part 'B'?
-subtitle: Kicked Kegs of NYE Weekend (2017)
+title: Did you tap that?
+subtitle: NYE Weekend Kegs (2017)
 tags: ["", ""]
 shortlink: 
 twitimg: 
