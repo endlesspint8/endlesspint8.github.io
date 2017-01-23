@@ -819,7 +819,7 @@ cnt = Counter()
 for i in range(41):
 
     xfeat_tfidf = zip([vectorizer.get_feature_names()[idx] for idx in [vectorized.toarray()[i].nonzero()][0][0]],
-                      vectorized.toarray()[0][vectorized.toarray()[0].nonzero()])
+                      vectorized.toarray()[i][vectorized.toarray()[0].nonzero()])
 
 
     stuff = [t[0] for t in xfeat_tfidf]
