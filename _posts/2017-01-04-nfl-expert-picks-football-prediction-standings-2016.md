@@ -5,7 +5,7 @@ subtitle: We'll Put Their Name to the <a href="https://www.youtube.com/watch?v=s
 tags: ["dataviz", "nflpicks"]
 shortlink: http://bit.ly/2dLdFb6
 twitimg: pic.twitter.com/nTFzCRSFT8
-image: http://endlesspint.com/gallery/2016/football-picks/wk13_donut_sup2.PNG
+image: http://endlesspint.com/gallery/2016/football-picks/wk08_10k_sim_FOX.gif
 sideof: ["End of season", "http://eepurl.com/cj8urH", "visualizations, updated and accompanied with new content."]
 ---
 
