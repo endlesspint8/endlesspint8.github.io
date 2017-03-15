@@ -5,6 +5,7 @@ subtitle: NYE Weekend Kegs (2017)
 tags: ["craftbeer", "dataviz", "map", "geocoding"]
 shortlink: http://bit.ly/2j8gNYE
 twitimg: pic.twitter.com/992aHPZZDx
+image: http://endlesspint.com/gallery/2017/digitalpour-nye/cluster_chart2.png
 ---
 
 ## What's Popping?
