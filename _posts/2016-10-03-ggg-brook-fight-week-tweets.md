@@ -5,6 +5,7 @@ subtitle: Basic Analysis of Fight Week Tweets
 tags: ["boxing", "dataviz"]
 shortlink: http://bit.ly/2g8yGGG
 twitimg: pic.twitter.com/f5C2qWMxaq
+image: http://endlesspint.com/gallery/2016/boxing/ggg-brook/golovkin-stevens2[1].gif
 sideof: ["Meandering Twitter analysis", "http://eepurl.com/cj8urH", " "]
 ---
 
