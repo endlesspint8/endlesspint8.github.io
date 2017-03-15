@@ -5,6 +5,7 @@ subtitle: The Cleanliness of NYC Craft Beer Bar Kitchens
 tags: ["HealthInspection", "OpenData", "311", "NYC"]
 shortlink: http://bit.ly/2hgUhFU
 twitimg: pic.twitter.com/Jt994Wfm9p
+image: http://endlesspint.com/gallery/2016/health-insp/grade_timeline.png
 sideof: ["Table listing", "http://eepurl.com/cj8urH", "of Craft Bar inspection results."]
 ---
 
