@@ -325,6 +325,10 @@ footer .theme-by {
   font-weight: 800;
 }
 
+.post-entry-container {
+  display: inline-block;
+  width: 100%;
+}
 .post-image {
   float: right;
   height: 192px;
