@@ -5,6 +5,7 @@ subtitle: Part I - Looking at Beer Style Connections
 tags: ["D3", "BokehPlots", "link & node"]
 shortlink: http://bit.ly/prplxd1
 twitimg: pic.twitter.com/2bXhMn2QHD
+image: http://endlesspint.com/gallery/2016/beer-prplxd/link_node.gif
 ---
 
 ## Whole Lotta Beers Out There
