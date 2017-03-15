@@ -5,6 +5,7 @@ subtitle: Three Data Approaches to a Controversial Decision
 tags: ["KovalevWard", "dataviz"]
 shortlink: http://bit.ly/KovWrdep
 twitimg: pic.twitter.com/I4duoYZyjC
+image: http://endlesspint.com/gallery/2016/boxing/kov-ward/fight_hour_tweets.PNG
 ---
 
 ## Still too Close to Call
