@@ -325,6 +325,22 @@ footer .theme-by {
   font-weight: 800;
 }
 
+.post-image {
+  float: right;
+  height: 192px;
+  width: 192px;
+  margin-top: -13px;
+  filter: grayscale(90%);
+}
+.post-image:hover {
+  filter: grayscale(0%);
+}
+.post-image img {
+  border-radius: 100px;
+  height: 192px;
+  width: 192px;
+}
+
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
     font-size: 36px;
