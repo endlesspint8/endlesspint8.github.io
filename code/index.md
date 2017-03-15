@@ -4,8 +4,6 @@ title: Code & Vis Samples
 subtitle: For those who still can't get their fill.
 ---
 
-# Brewing... Also
-
 <br>
 
 ### [Did you tap that?](/2017-01-12-kicked-kegs-nye-2017)
