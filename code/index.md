@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code Samples
+title: Code & Vis Samples
 subtitle: For those who still can't get their fill.
 ---
 
@@ -101,6 +101,9 @@ Vis Code: <a href="http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html" 
 
 ### [Exploring US Brewery Historical Data](/2016-04-01-continue)
 > An Rmd file showing [some EDA and plots](us_breweries_bj) related to United States brewery counts, 1887 - 2012.
+>
+> And a couple of not overly sophisticated/impressive D3 plots for [Brewery Totals Over Time](/gallery/usb_d3_barchart1) and [Brewery Count Percentage Change Year-Over-Year](/gallery/usb_d3_posneg)
+>
 
 <img src="/gallery/2016/us_breweries_historic.png" alt="US Breweries" />
 <sub>Data Source: <a href="http://www.beerinstitute.org/" target="_blank">Beer Institute</a></sub>
