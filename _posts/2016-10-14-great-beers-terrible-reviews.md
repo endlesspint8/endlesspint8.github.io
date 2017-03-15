@@ -5,6 +5,7 @@ subtitle: Ten Great Beers get <a href="https://youtu.be/IcjSDZNbOs0" target="_bl
 tags: ["BeerReviews", "NotImpressed"]
 shortlink: http://bit.ly/2ecdAgk
 twitimg: pic.twitter.com/d5q3dwTmzE
+image: http://endlesspint.com/gallery/2016/poor-reviews/output_003.gif
 sideof: ["Slopegraph", "http://eepurl.com/cj8urH", "of below beers and their ratings."]
 ---
 
