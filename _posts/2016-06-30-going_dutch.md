@@ -5,6 +5,7 @@ subtitle: Learning a Language with Modern Tools
 tags: ["PySpark", "ngrams", "tf-idf", "bag of words"]
 shortlink: http://bit.ly/ep8GoingDutch
 twitimg: pic.twitter.com/p3ajkdNEnj
+image: http://endlesspint.com/gallery/2016/dutch/tf_idf9.png
 ---
 
 <img src="/gallery/2016/dutch/tf_idf9.png">
