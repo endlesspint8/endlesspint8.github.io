@@ -4,6 +4,7 @@ title: When you come to a fork in the road, keep moving
 subtitle: Endless Routes to Your Pint?
 tags: ["projecteuler", "lattice", "D3"]
 shortlink: http://bit.ly/2dzWF7W
+image: http://endlesspint.com/gallery/2016/projeul/pe_congrats_015.PNG
 ---
 
 ## So, where do you wanna meet up?
