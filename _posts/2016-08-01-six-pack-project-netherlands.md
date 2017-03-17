@@ -5,6 +5,7 @@ subtitle: My Contribution to Bryan Roth's <a href="https://thisiswhyimdrunk.word
 tags: ["knn", "mle", "dutch beers", "kmeans"]
 shortlink: http://bit.ly/6ppEp8
 twitimg: pic.twitter.com/RITGEsVy35
+image: http://endlesspint.com/gallery/2016/sixpack/tij_matrix.gif
 ---
 
 ## The Dutch Know Beer
