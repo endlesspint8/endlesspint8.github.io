@@ -24,7 +24,7 @@ description: Data has a story to tell, often more than one, and I hope to reveal
 # List of links in the navigation bar
 navbar-links:
   Pints: ""
-  Flights: "gallery"
+  Flights: "flights"
   Bytes: "code"
   Mights: "todo"
 
