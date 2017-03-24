@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Code & Vis Samples
-subtitle: For those who still can't get their fill.
+title: Code & Vis Gallery
+subtitle: Visualizations at a Glance with Code Samples
 ---
 
 <br>
