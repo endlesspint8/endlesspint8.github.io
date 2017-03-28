@@ -15,7 +15,7 @@ Under construction but no reason not to add the first Mix Six:
 And some of the Sides:
 <br><br>
 
-**From**: <i>[The Cleanliness of NYC Craft Beer Bar Kitchens](/2016-12-23-clean-food-please)</i>
+**From**: [The Cleanliness of NYC Craft Beer Bar Kitchens](/2016-12-23-clean-food-please)
 
 <p align="center">
   <b>New York City (Craft Beer) Restaurant Inspection Results</b><br><br>
