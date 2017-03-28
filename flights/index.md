@@ -30,7 +30,7 @@ And some of the Sides:
 <p align="center">
   <b>BA & RB Rank Mapping via Slopegraph</b><br><br>
   <a href="https://drive.google.com/open?id=0B-sLXgINK1HKZmZVWG02Vl9Mems" target="_blank">
-    <img src="/gallery/sides/ba_rb_slope.PNG" width=600>
+    <img src="/gallery/sides/ba_rb_slope.PNG">
   </a>
   <br><br>
 </p>
