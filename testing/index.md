@@ -8,6 +8,7 @@ shortlink: http://bit.ly/2dxLtd9
 sideof: ["End of season", "http://eepurl.com/cj8urH", "visualizations, updated and accompanied with new content."]
 ---
 
+[2017-05-12-beer-introductions-3](2017-05-12-beer-introductions-3)
 
 ## Week 14 - Slippery Slope 
 
