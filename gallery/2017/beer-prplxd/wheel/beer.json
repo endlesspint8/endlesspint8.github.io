@@ -1,0 +1,798 @@
+{
+ "name": "beer", 
+ "children": [
+  {
+   "name": "sweet", 
+   "children": [
+    {
+     "name": "fruity", 
+     "children": [
+      {
+       "name": "cloudy", 
+       "children": [
+        {
+         "name": "phenolic", 
+         "children": [
+          {
+           "name": "Rauchbier", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }, 
+  {
+   "name": "bitter", 
+   "children": [
+    {
+     "name": "dry", 
+     "children": [
+      {
+       "name": "copper", 
+       "children": [
+        {
+         "name": "fruity-ester", 
+         "children": [
+          {
+           "name": "Altbier", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "pale", 
+       "children": [
+        {
+         "name": "sulfur", 
+         "children": [
+          {
+           "name": "English IPA", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }, 
+    {
+     "name": "caramel", 
+     "children": [
+      {
+       "name": "dark", 
+       "children": [
+        {
+         "name": "brettanomyces", 
+         "children": [
+          {
+           "name": "Adambier", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "brown", 
+       "children": [
+        {
+         "name": "diacetyl", 
+         "children": [
+          {
+           "name": "Amber", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "fruity-ester", 
+         "children": [
+          {
+           "name": "Double Red", 
+           "size": 1
+          }, 
+          {
+           "name": "American Brown", 
+           "size": 1
+          }, 
+          {
+           "name": "Imperial Red", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "pale", 
+       "children": [
+        {
+         "name": "fruity-ester", 
+         "children": [
+          {
+           "name": "English Pale", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "golden", 
+       "children": [
+        {
+         "name": "diacetyl", 
+         "children": [
+          {
+           "name": "Scottish Light", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }, 
+    {
+     "name": "fruity", 
+     "children": [
+      {
+       "name": "amber", 
+       "children": [
+        {
+         "name": "brettanomyces", 
+         "children": [
+          {
+           "name": "Saison", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "California Common", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "copper", 
+       "children": [
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "American Amber Lager", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "straw", 
+       "children": [
+        {
+         "name": "sulfur", 
+         "children": [
+          {
+           "name": "Helles", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "American Low-Carb Lager", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "dark", 
+       "children": [
+        {
+         "name": "brettanomyces", 
+         "children": [
+          {
+           "name": "American/Belgian Dark", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "Dry Irish Stout", 
+           "size": 1
+          }, 
+          {
+           "name": "Oatmeal Stout", 
+           "size": 1
+          }, 
+          {
+           "name": "American Dark Lager", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "haze", 
+       "children": [
+        {
+         "name": "brettanomyces", 
+         "children": [
+          {
+           "name": "American/Belgian Pale", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "American Light Lager", 
+           "size": 1
+          }, 
+          {
+           "name": "Tropical Light Lager", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "vanillin", 
+         "children": [
+          {
+           "name": "Mixed Brett", 
+           "size": 1
+          }, 
+          {
+           "name": "Brett", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "pale", 
+       "children": [
+        {
+         "name": "phenolic", 
+         "children": [
+          {
+           "name": "Belgian Pale", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "Imperial IPA", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "diacetyl", 
+         "children": [
+          {
+           "name": "American Strong Pale", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "fruity-ester", 
+         "children": [
+          {
+           "name": "American Pale", 
+           "size": 1
+          }, 
+          {
+           "name": "International Pale", 
+           "size": 1
+          }, 
+          {
+           "name": "American IPA", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }, 
+  {
+   "name": "bitter & sweet", 
+   "children": [
+    {
+     "name": "mild", 
+     "children": [
+      {
+       "name": "straw", 
+       "children": [
+        {
+         "name": "dimethylsulfide", 
+         "children": [
+          {
+           "name": "English Summer Ale", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "copper", 
+       "children": [
+        {
+         "name": "fruity-ester", 
+         "children": [
+          {
+           "name": "Special Bitter", 
+           "size": 1
+          }, 
+          {
+           "name": "Bitter", 
+           "size": 1
+          }, 
+          {
+           "name": "ESB", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "pale", 
+       "children": [
+        {
+         "name": "diacetyl", 
+         "children": [
+          {
+           "name": "Belgian Table Beer", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }, 
+    {
+     "name": "fruity", 
+     "children": [
+      {
+       "name": "amber", 
+       "children": [
+        {
+         "name": "brettanomyces", 
+         "children": [
+          {
+           "name": "Contemporary Gose", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "Doppelbock", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "brown", 
+       "children": [
+        {
+         "name": "brettanomyces", 
+         "children": [
+          {
+           "name": "Bi\u00c3\u00a8re de Garde", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "Brown Porter", 
+           "size": 1
+          }, 
+          {
+           "name": "Vienna Lager", 
+           "size": 1
+          }, 
+          {
+           "name": "Smoke Porter", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "golden", 
+       "children": [
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "Oktoberfest", 
+           "size": 1
+          }, 
+          {
+           "name": "American Oktoberfest", 
+           "size": 1
+          }, 
+          {
+           "name": "Scottish Heavy", 
+           "size": 1
+          }, 
+          {
+           "name": "M\u00c3\u00a4rzen", 
+           "size": 1
+          }, 
+          {
+           "name": "Blonde", 
+           "size": 1
+          }, 
+          {
+           "name": "K\u00c3\u00b6lsch", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "straw", 
+       "children": [
+        {
+         "name": "sulfur", 
+         "children": [
+          {
+           "name": "Helles Rauchbier", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "American Premium Lager", 
+           "size": 1
+          }, 
+          {
+           "name": "Dortmunder", 
+           "size": 1
+          }, 
+          {
+           "name": "Maibock", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "dimethylsulfide", 
+         "children": [
+          {
+           "name": "American Pilsener", 
+           "size": 1
+          }, 
+          {
+           "name": "German Pilsener", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "pale", 
+       "children": [
+        {
+         "name": "phenolic", 
+         "children": [
+          {
+           "name": "Belgian Tripel", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "American Ice Lager", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "dimethylsulfide", 
+         "children": [
+          {
+           "name": "Cream Ale", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "dark", 
+       "children": [
+        {
+         "name": "phenolic", 
+         "children": [
+          {
+           "name": "Belgian Dark Strong", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "Scotch Ale", 
+           "size": 1
+          }, 
+          {
+           "name": "Export Stout", 
+           "size": 1
+          }, 
+          {
+           "name": "American Stout", 
+           "size": 1
+          }, 
+          {
+           "name": "Stout", 
+           "size": 1
+          }, 
+          {
+           "name": "Schwarzbier", 
+           "size": 1
+          }, 
+          {
+           "name": "Euro Dark", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "haze", 
+       "children": [
+        {
+         "name": "phenolic", 
+         "children": [
+          {
+           "name": "M\u00c3\u00a4rzen Rauchbier", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "sulfur", 
+         "children": [
+          {
+           "name": "Leichtbier", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "Belgian Dubbel", 
+           "size": 1
+          }, 
+          {
+           "name": "American Lager", 
+           "size": 1
+          }, 
+          {
+           "name": "Dry Lager", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "vanillin", 
+         "children": [
+          {
+           "name": "Sour", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "copper", 
+       "children": [
+        {
+         "name": "phenolic", 
+         "children": [
+          {
+           "name": "Bock Rauchbier", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "esters", 
+         "children": [
+          {
+           "name": "Eisbock", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }, 
+    {
+     "name": "malty", 
+     "children": [
+      {
+       "name": "amber", 
+       "children": [
+        {
+         "name": "dimethylsulfide", 
+         "children": [
+          {
+           "name": "Wheatwine", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "fruity-ester", 
+         "children": [
+          {
+           "name": "American Barleywine", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "brown", 
+       "children": [
+        {
+         "name": "fruity-ester", 
+         "children": [
+          {
+           "name": "Strong Ale", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "golden", 
+       "children": [
+        {
+         "name": "fruity-ester", 
+         "children": [
+          {
+           "name": "Scottish Export", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "cloudy", 
+       "children": [
+        {
+         "name": "phenolic", 
+         "children": [
+          {
+           "name": "Dunkelweizen", 
+           "size": 1
+          }, 
+          {
+           "name": "Bernsteinfarbenesweizen", 
+           "size": 1
+          }, 
+          {
+           "name": "Weizenbock", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "dark", 
+       "children": [
+        {
+         "name": "vanillin", 
+         "children": [
+          {
+           "name": "Old Ale", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "dimethylsulfide", 
+         "children": [
+          {
+           "name": "Bohemian Pilsener", 
+           "size": 1
+          }
+         ]
+        }, 
+        {
+         "name": "fruity-ester", 
+         "children": [
+          {
+           "name": "British Imperial Stout", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }, 
+      {
+       "name": "copper", 
+       "children": [
+        {
+         "name": "fruity-ester", 
+         "children": [
+          {
+           "name": "British Barleywine", 
+           "size": 1
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
