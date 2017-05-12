@@ -42,15 +42,9 @@ The resulting charts come from several tweaks and variations on the following: I
 
 ## Start Broad, Go Narrow
 
-Having created a dictionary of beer styles and respective parts of speech and filtered out nouns and adjectives to the exclusion of all other terms I attempted some approaches to mixed success. There was bag of words, bigrams, and term frequency. The results were for the most part unsatisfying in the sense that no simple function/approach provided me with a quick and dirty solution. I am nothing if not lazy. I harnessed this laziness in an effort to come up with a creative solution. Ultimately I decided on a naïve approach. 
+Having created a dictionary of beer styles and respective parts of speech, filtering on nouns and adjectives to the exclusion of all other terms, I attempted several approaches to mixed success. There was bag of words, bigrams, and term frequency. The results were for the most part unsatisfying in the sense that no simple function/approach provided me with a quick and dirty solution. I am nothing if not lazy. I harnessed this laziness in an effort to come up with a creative solution. Ultimately I decided on a naïve approach. 
 
-Identified all nouns or verbs that appeared in at least 10 styles. I did a human review of worthless labels and tossed those out. With the remaining data I…. Technically naïve but colored with subject matter expertise (hey mom!). 
-
-This exercise turned into a two-pronged approach, one for the beer categories and the second for the underlying styles. Have you identified the most current and relevant nouns and adjectives to a compilation of algorithms and human sifting I don't realize the terms and group them according to what they described. I settled on what is presented in the table along the horizontal axis. Using this breakdown and grouping of descriptors should make it more manageable to search for a future of choice. The table could've been extended to the hundred plus beer styles that would've been unwieldy, besides the flavor we all had already firmly entrenched itself in my consciousness. 
-
-Using yet again the combination of computer and human approaches I narrowed the terms to the following for description categories, in increasing order of specificity or nesting: taste, flavor, appearance and chemical compound, followed finally by the respective beer style matching all of the relevant criteria. 
-
-The resulting flavor wheel can be used into primary ways: from the center out and from the outside in. The former provides an opportunity to ask yourself which among the several choices you prefer and a step further until arriving at a style. The latter approach allows you to dig into the beer style characteristics and see what styles are adjacent at each step of the way. A few things are missing which could've made this a bit more user-friendly, such as your category specific colors and of course labels for the terms and beer styles, especially if you're using this in the hair of the dog moment, but I think he gets the message across and serves to further our understanding of beers.
+The exercise turned into a two-pronged approach, one for the beer categories and the second for the underlying styles. Having identified the most common and relevant nouns and adjectives through a combination of algorithms and human sifting I then categorized the terms and grouped them according to the object they described. I settled on what is presented in the table below along the horizontal axis. Using this breakdown and grouping of descriptors should make it more manageable to search for a feature of choice. The table could've been extended to the 100+ beer styles but that would've been unwieldy, besides the flavor wheel had already firmly entrenched itself in my consciousness. 
 
 <!-- img src="/gallery/2017/beer-prplxd/bertifier_Matrix (3).svg" width="800"-->
 
@@ -58,6 +52,16 @@ The resulting flavor wheel can be used into primary ways: from the center out an
   Your browser does not support SVG
 </object>
 <sub>Data: <a href="http://www.brewerydb.com/" target="_blank">BreweryDB</a> / Vis Creation: <a href="http://www.bertifier.com/" target="_blank">BERTIFIER</a></sub>
+
+Identified all nouns or verbs that appeared in at least 10 styles. I did a human review of worthless labels and tossed those out. With the remaining data I…. Technically naïve but colored with subject matter expertise (hey mom!). 
+
+Using yet again the combination of computer and human approaches I narrowed the terms to the following for description categories, in increasing order of specificity or nesting: taste, flavor, appearance, and chemical compound, followed finally by the respective beer style matching all of the relevant criteria. 
+
+The resulting flavor wheel appearing at the top of this piece can be used in two primary ways: from the center out and from the outside in. The former provides an opportunity to ask yourself which among the several choices you prefer and step further until arriving at a style. A sort of chose your own adventure, beer edition. The latter approach allows you to dig into the beer style characteristics and see what styles are adjacent at each step of the way. A few things are missing which could've made this a bit more user-friendly, such as beer category specific colors and of course labels for the terms and beer styles being present without having to hover, especially if you're using this in an hair of the dog moment, but I think it gets the message across and serves to further our understanding of beers.
+
+Getting closer to mastery, one sip at a time. 
+
+
 
 
 Perhaps the limitations of time, skill or energy conspired against my automating the entire process. At the same time I'm trying to focus more on the output and not getting bogged down in the process of any one project. Each of the projects will contribute to a broader and deeper appreciation of the process, however askance or exaptive. Ultimately I relied on a visual process/cue to get to the final visualization. 
