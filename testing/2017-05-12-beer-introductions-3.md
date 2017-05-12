@@ -55,22 +55,11 @@ The exercise turned into a two-pronged approach, one for the beer categories and
 
 Identified all nouns or verbs that appeared in at least 10 styles. I did a human review of worthless labels and tossed those out. With the remaining data I…. Technically naïve but colored with subject matter expertise (hey mom!). 
 
-Using yet again the combination of computer and human approaches I narrowed the terms to the following for description categories, in increasing order of specificity or nesting: taste, flavor, appearance, and chemical compound, followed finally by the respective beer style matching all of the relevant criteria. 
+Using yet again the combination of computer and human approaches I narrowed the terms to the following for description categories, in increasing order of specificity or nesting: taste, flavor, appearance, and chemical compound (this one is for the real beer nerds out there), followed finally by the respective beer style matching all of the relevant criteria. 
 
 The resulting flavor wheel appearing at the top of this piece can be used in two primary ways: from the center out and from the outside in. The former provides an opportunity to ask yourself which among the several choices you prefer and step further until arriving at a style. A sort of chose your own adventure, beer edition. The latter approach allows you to dig into the beer style characteristics and see what styles are adjacent at each step of the way. A few things are missing which could've made this a bit more user-friendly, such as beer category specific colors and of course labels for the terms and beer styles being present without having to hover, especially if you're using this in an hair of the dog moment, but I think it gets the message across and serves to further our understanding of beers.
 
-<p alighn="center">
-<img src="/gallery/2017/beer-prplxd/wheel_spin.gif" width="600">
-</p>
+<img src="/gallery/2017/beer-prplxd/wheel_spin.gif" width="600" align="middle">
+<sub>Data: <a href="http://www.brewerydb.com/" target="_blank">BreweryDB</a> / Vis Source: <a href="https://bl.ocks.org/mbostock/4348373" target="_blank">Mike Bostock</a></sub>
 
 Getting closer to mastery, one sip at a time. 
-
-
-
-
-Perhaps the limitations of time, skill or energy conspired against my automating the entire process. At the same time I'm trying to focus more on the output and not getting bogged down in the process of any one project. Each of the projects will contribute to a broader and deeper appreciation of the process, however askance or exaptive. Ultimately I relied on a visual process/cue to get to the final visualization. 
-
-I could use an online resource to further this exploration. The process was imperfect due to the large, relative, count of terms and styles but forgiving. If this were science, even data science, it would be a bad way of proceeding. I forced the data into a visual representation, pruning as needed. I knew what I was looking for and I made the evidence match it: bad science. 
-
-I am able to sleep at night by reminding myself that the whole point was to develop an instructive tool and not necessarily an exhaustive one. The entire process is an abstraction of sorts and not meant to, or give the illusion of, representing the ground truth. Far from it. Besides the Bertin matrix representation I also used chaining of styles depending on the terms they contained, a sort of longest path for each style through the term deemed most relevant to the task of visually representing sight and taste characteristics. This longest path approach will be revisited and more effectively implemented later on (stay tuned for upcoming guides). 
-
