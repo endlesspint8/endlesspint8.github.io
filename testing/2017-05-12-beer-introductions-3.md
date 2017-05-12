@@ -10,6 +10,9 @@ image: http://endlesspint.com/gallery/2016/beer-prplxd/beer_prplxd2.gif
 
 ## What's in a style?
 
+<iframe src="http://endlesspint.com/gallery/2016/projeul/lattice.html" width="900" height="600" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
+<sub>Data: <a href="http://www.brewerydb.com/" target="_blank">BreweryDB</a> / Vis Source: <a href="https://bl.ocks.org/mbostock/4348373" target="_blank">Mike Bostock</a></sub>
+
 Capture motivation/inspiration: 
 
 Many who will begin their beer adventures and step outside the comfort of the golden piss pushed by the global players, most especially the males amongst them, get carried away by the statistics of the beers, as witnessed in part by the explosion of IPA as a category. For many the style is a gateway, the steady go-to, or just something to fall back on when inspiration is lacking (especially if it is the only alternative style a venue will carry). It is a fine style and one of the primary ones that also got me going but the sooner we quit chasing the hop bombs, the sooner we grew up a bit and leave the scalp collecting to others, the better served we will be in finding, or confirming, the right style for ourselves. This is an exploration versus exploitation  scenario. 
