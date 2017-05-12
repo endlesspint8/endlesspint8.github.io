@@ -35,7 +35,9 @@ The resulting charts come from several tweaks and variations on the following: I
 
 ## Start Broad, Go Narrow
 
-Having created a dictionary of beer styles and respective parts of speech and having filtered out nouns and adjectives to the exclusion of all other terms I attempted some approaches to mixed success. There was bag of words, bigrams, and term frequency. The results were for the most part unsatisfying in the sense that no simple function/approach provided me with a quick and dirty solution. I am nothing if not lazy. I harnessed this laziness in an effort to come up with a creative solution. Ultimately I decided on a very naïve approach. Identified all nouns or verbs that appeared in at least 10 styles. I did a human review of worthless labels and tossed those out. With the remaining data I…. Technically naïve but colored with subject matter expertise (hey mom!). 
+Having created a dictionary of beer styles and respective parts of speech and filtered out nouns and adjectives to the exclusion of all other terms I attempted some approaches to mixed success. There was bag of words, bigrams, and term frequency. The results were for the most part unsatisfying in the sense that no simple function/approach provided me with a quick and dirty solution. I am nothing if not lazy. I harnessed this laziness in an effort to come up with a creative solution. Ultimately I decided on a naïve approach. 
+
+Identified all nouns or verbs that appeared in at least 10 styles. I did a human review of worthless labels and tossed those out. With the remaining data I…. Technically naïve but colored with subject matter expertise (hey mom!). 
 
 
 <!-- img src="/gallery/2017/beer-prplxd/bertifier_Matrix (3).svg" width="800"-->
@@ -43,15 +45,11 @@ Having created a dictionary of beer styles and respective parts of speech and ha
 <object type="image/svg+xml" data="/gallery/2017/beer-prplxd/bertifier_Matrix (3).svg">
   Your browser does not support SVG
 </object>
+<sub>Data: <a href="http://www.brewerydb.com/" target="_blank">BreweryDB</a> / Vis Creation: <a href="http://www.bertifier.com/" target="_blank">BERTIFIER</a></sub>
 
-Perhaps the limitations of time, skill or energy conspired against my automating the entire process. At the same time I'm trying to focus more on the output and not getting bogged down in the process of any one project. Each of the projects will contribute to a broader and deeper appreciation of the process, however askance or exaptive. Ultimately I relied on a visual process/cue to get to the final visualization. Using an Excel file and pivoting the key terms with the styles and coloring in the intersections I was able to get an idea of where to go and how to proceed. 
+Perhaps the limitations of time, skill or energy conspired against my automating the entire process. At the same time I'm trying to focus more on the output and not getting bogged down in the process of any one project. Each of the projects will contribute to a broader and deeper appreciation of the process, however askance or exaptive. Ultimately I relied on a visual process/cue to get to the final visualization. 
 
-This was a low sophisticated but higher tech version of a Berion matrix (link). which reminded me that I could use an online resource to further this exploration. The process was in perfect but forgiving due to the large, relative, count of terms and styles. If this were science, even data science, it would be a bad way of proceeding. I forced the data into a visual representation, pruning as needed. I knew what I was looking for and I made the evidence to match it: bad science. I am able to sleep at night by reminding myself that the whole point was to develop an instructive tool and not necessarily an exhaustive one. The entire process is an abstraction of sorts and not meant to, or have an illusion of, representing A ground truth. Far from it. Besides the Excel representation I also used chaining of styles depending on the terms they contained, a sort of longest path for each style through the term is deemed most relevant to the task of visually representing site and taste characteristics of beer styles. This longest path approach will be revisited and more effectively implemented later on (stay tuned). 
+I could use an online resource to further this exploration. The process was imperfect due to the large, relative, count of terms and styles but forgiving. If this were science, even data science, it would be a bad way of proceeding. I forced the data into a visual representation, pruning as needed. I knew what I was looking for and I made the evidence match it: bad science. 
 
-
-# Poo-poo
-
-a word wheel visualization via D3 with a possible heat map/sparse matrix for the styles and corresponding word stems as an intermediary visualization. 
-
-Why? To better know what you want to drink. Why no anything? Knowledge of the world is determined by how close of an approximation or mental model is to reality. If you want a good beer, Job, friend you need to first know yourself-I'm not going to be helping you with that part, not here at least-and match that up with an idea of the target. Then use your reason to get a best guesstimate as to whether or not things are likely to work out.  Some beers were dropped for the sake of the visualization [footnote: there were…]. 
+I am able to sleep at night by reminding myself that the whole point was to develop an instructive tool and not necessarily an exhaustive one. The entire process is an abstraction of sorts and not meant to, or give the illusion of, representing the ground truth. Far from it. Besides the Bertin matrix representation I also used chaining of styles depending on the terms they contained, a sort of longest path for each style through the term deemed most relevant to the task of visually representing sight and taste characteristics. This longest path approach will be revisited and more effectively implemented later on (stay tuned). 
 
