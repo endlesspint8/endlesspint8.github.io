@@ -10,6 +10,7 @@ image: http://endlesspint.com/gallery/2016/beer-prplxd/beer_prplxd2.gif
 
 ## How would you describe this?
 
+
 <iframe src="http://endlesspint.com/gallery/2017/beer-prplxd/wheel/index.html" width="800" height="800" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
 <sub>Data: <a href="http://www.brewerydb.com/" target="_blank">BreweryDB</a> / Vis Source: <a href="https://bl.ocks.org/mbostock/4348373" target="_blank">Mike Bostock</a></sub>
 
@@ -28,17 +29,19 @@ Friends of mine went to the most recent GABF (https://www.greatamericanbeerfesti
 
 ## Original Goal 
 
-Understand the problem: to identify the key descriptive terms for each your style, to find a descriptive terms most common across styles so as to create some form of context, and to order this data into a meaningful visualization. as it turns out I would not be inventing the wheel (pun!), as this idea and approach had been previously developed for both wine and beer enthusiasts. The original thinking was to process the descriptive text by word into parts of speech.
+To identify the key descriptive terms for each beer style, find descriptive terms common across styles so as to create some form of context, and to order this data into a meaningful visualization. In searching of an appropriate visual idiom I was hoping not to reinvent the wheel (pun!). Lo and behold I did not have to. There is already a precedent for categorizing flavors along, you guessed it, a flavor wheel for wine (link), beer (link) and coffee (https://www.jasondavies.com/coffee-wheel/). The most common descriptors are at the center with refinements and distinctions radiating out. In truth, this is like a decision tree with branches spreading out. At least you can use that metaphor to help navigate the many layers and interlocking of descriptors. After identifying the data source for this exercise I experimented with different approaches. 
 
-a word wheel visualization via D3 with a possible heat map/sparse matrix for the styles and corresponding word stems as an intermediary visualization. In searching for an appropriate visual idiom I was hoping not to reinvent the wheel. Lo and behold I did not have to. There is already a precedent  of categorizing flavors along, you guessed it, a flavor wheel. The most common descriptors are at the center with refinements and distinctions radiating out. In truth, this is like a decision tree with branches standing out. At least you can use that metaphor to help navigate the many layers and interlocking of descriptors. After identifying the data source for this exercise I experimented with different approaches. 
-
-The resulting chart comes from several tweaks and variations on the following. I read in each style in their respective descriptions, these descriptions were typically 3 to 4 sentences long with an average of X words. I ran each description through a natural language package to determine parts of speech. Specifically I wanted to isolate the nouns and adjectives of each style. Intuiting these being the most appropriate kinds of terms to work with for our purpose. 
+The resulting charts come from several tweaks and variations on the following: I read in each beer style's descriptions, ran each description through a natural language package (nltk link) to determine parts of speech and isolated the nouns and adjectives of each style, intuiting these being the most appropriate kinds of terms to work with for our purpose. 
 
 ## Start Broad, Go Narrow
 
-Having created a dictionary of beer styles and respective parts of speech and having filtered out nouns and adjectives to the exclusion of all other terms I attempted some approaches to mixed success. There was bag of words, bigrams, and term frequency. The results where for the most part unsatisfying in the sense that no simple function/approach provided me with a quick and dirty solution. I am nothing if not lazy. I harnessed this laziness in an effort to come up with a creative solution. Ultimately I decided on a very naïve approach. Identified all nouns or verbs that appeared in at least 10 styles. I did a human review of worthless labels and tossed those out. With the remaining data I…. Technically naïve but colored with subject matter expertise (hey mom!). 
+Having created a dictionary of beer styles and respective parts of speech and having filtered out nouns and adjectives to the exclusion of all other terms I attempted some approaches to mixed success. There was bag of words, bigrams, and term frequency. The results were for the most part unsatisfying in the sense that no simple function/approach provided me with a quick and dirty solution. I am nothing if not lazy. I harnessed this laziness in an effort to come up with a creative solution. Ultimately I decided on a very naïve approach. Identified all nouns or verbs that appeared in at least 10 styles. I did a human review of worthless labels and tossed those out. With the remaining data I…. Technically naïve but colored with subject matter expertise (hey mom!). 
 
 <img src="/gallery/2017/beer-prplxd/bertifier_Matrix (3).svg" width="100%">
+
+<object type="image/svg+xml" data="/gallery/2017/beer-prplxd/bertifier_Matrix (3).svg">
+  Your browser does not support SVG
+</object>
 
 Perhaps the limitations of time, skill or energy conspired against my automating the entire process. At the same time I'm trying to focus more on the output and not getting bogged down in the process of any one project. Each of the projects will contribute to a broader and deeper appreciation of the process, however askance or exaptive. Ultimately I relied on a visual process/cue to get to the final visualization. Using an Excel file and pivoting the key terms with the styles and coloring in the intersections I was able to get an idea of where to go and how to proceed. 
 
@@ -46,6 +49,8 @@ This was a low sophisticated but higher tech version of a Berion matrix (link). 
 
 
 # Poo-poo
+
+a word wheel visualization via D3 with a possible heat map/sparse matrix for the styles and corresponding word stems as an intermediary visualization. 
 
 Why? To better know what you want to drink. Why no anything? Knowledge of the world is determined by how close of an approximation or mental model is to reality. If you want a good beer, Job, friend you need to first know yourself-I'm not going to be helping you with that part, not here at least-and match that up with an idea of the target. Then use your reason to get a best guesstimate as to whether or not things are likely to work out.  Some beers were dropped for the sake of the visualization [footnote: there were…]. 
 
