@@ -5,7 +5,7 @@ subtitle: Part III - Beer Descriptors
 tags: ["BertinMatrix", "D3"]
 shortlink: http://bit.ly/prplxd2
 twitimg: pic.twitter.com/NKltUlWk71
-image: http://endlesspint.com/gallery/2016/beer-prplxd/beer_prplxd2.gif
+image: http://endlesspint.com/gallery/2017/beer-prplxd/wheel_spin.gif
 ---
 
 ## How would you describe this?
@@ -58,6 +58,10 @@ Identified all nouns or verbs that appeared in at least 10 styles. I did a human
 Using yet again the combination of computer and human approaches I narrowed the terms to the following for description categories, in increasing order of specificity or nesting: taste, flavor, appearance, and chemical compound, followed finally by the respective beer style matching all of the relevant criteria. 
 
 The resulting flavor wheel appearing at the top of this piece can be used in two primary ways: from the center out and from the outside in. The former provides an opportunity to ask yourself which among the several choices you prefer and step further until arriving at a style. A sort of chose your own adventure, beer edition. The latter approach allows you to dig into the beer style characteristics and see what styles are adjacent at each step of the way. A few things are missing which could've made this a bit more user-friendly, such as beer category specific colors and of course labels for the terms and beer styles being present without having to hover, especially if you're using this in an hair of the dog moment, but I think it gets the message across and serves to further our understanding of beers.
+
+<p alighn="center">
+<img src="/gallery/2017/beer-prplxd/wheel_spin.gif" width="600">
+</p>
 
 Getting closer to mastery, one sip at a time. 
 
