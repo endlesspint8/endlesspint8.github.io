@@ -38,13 +38,7 @@ The resulting charts come from several tweaks and variations on the following: I
 Having created a dictionary of beer styles and respective parts of speech and having filtered out nouns and adjectives to the exclusion of all other terms I attempted some approaches to mixed success. There was bag of words, bigrams, and term frequency. The results were for the most part unsatisfying in the sense that no simple function/approach provided me with a quick and dirty solution. I am nothing if not lazy. I harnessed this laziness in an effort to come up with a creative solution. Ultimately I decided on a very naïve approach. Identified all nouns or verbs that appeared in at least 10 styles. I did a human review of worthless labels and tossed those out. With the remaining data I…. Technically naïve but colored with subject matter expertise (hey mom!). 
 
 
-<!-- SVG code -->
-<svg width="300px" height="300px" 
-  xmlns="/gallery/2017/beer-prplxd/bertifier_Matrix (3).svg">
-  <text x="10" y="50" font-size="30">My SVG</text>
-</svg>
-
-<img src="/gallery/2017/beer-prplxd/bertifier_Matrix (3).svg" width="800">
+<!-- img src="/gallery/2017/beer-prplxd/bertifier_Matrix (3).svg" width="800"-->
 
 <object type="image/svg+xml" data="/gallery/2017/beer-prplxd/bertifier_Matrix (3).svg">
   Your browser does not support SVG
