@@ -4,7 +4,7 @@ title: Data Guide for the Beer Perplexed III
 subtitle: Part III - Beer Descriptors 
 tags: ["BertinMatrix", "D3"]
 shortlink: http://bit.ly/prplxd2
-twitimg: pic.twitter.com/NKltUlWk71
+twitimg: pic.twitter.com/nqGsQDvTWQ
 image: http://endlesspint.com/gallery/2017/beer-prplxd/wheel_spin.gif
 ---
 
@@ -59,7 +59,7 @@ Using yet again the combination of computer and human approaches I narrowed the 
 
 The resulting flavor wheel appearing at the top of this piece can be used in two primary ways: from the center out and from the outside in. The former provides an opportunity to ask yourself which among the several choices you prefer and step further until arriving at a style. A sort of chose your own adventure, beer edition. The latter approach allows you to dig into the beer style characteristics and see what styles are adjacent at each step of the way. A few things are missing which could've made this a bit more user-friendly, such as beer category specific colors and of course labels for the terms and beer styles being present without having to hover, especially if you're using this in an hair of the dog moment, but I think it gets the message across and serves to further our understanding of beers.
 
-<img src="/gallery/2017/beer-prplxd/wheel_spin.gif" width="600" align="middle">
+<img src="/gallery/2017/beer-prplxd/wheel_spin.gif" width="600" align="middle"><br>
 <sub>Data: <a href="http://www.brewerydb.com/" target="_blank">BreweryDB</a> / Vis Source: <a href="https://bl.ocks.org/mbostock/4348373" target="_blank">Mike Bostock</a></sub>
 
 Getting closer to mastery, one sip at a time. 
