@@ -10,8 +10,10 @@ image: http://endlesspint.com/gallery/2016/beer-prplxd/beer_prplxd2.gif
 
 ## What's in a style?
 
-<iframe src="http://endlesspint.com/gallery/2016/projeul/lattice.html" width="900" height="600" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
+<iframe src="http://endlesspint.com/gallery/2017/beer-prplxd/wheel/index.html" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
 <sub>Data: <a href="http://www.brewerydb.com/" target="_blank">BreweryDB</a> / Vis Source: <a href="https://bl.ocks.org/mbostock/4348373" target="_blank">Mike Bostock</a></sub>
+
+ width="900" height="600" 
 
 Capture motivation/inspiration: 
 
