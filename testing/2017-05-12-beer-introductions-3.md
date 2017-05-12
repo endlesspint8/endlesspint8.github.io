@@ -10,7 +10,7 @@ image: http://endlesspint.com/gallery/2016/beer-prplxd/beer_prplxd2.gif
 
 ## How would you describe this?
 
-<iframe src="http://endlesspint.com/gallery/2017/beer-prplxd/wheel/index.html" width="600" height="600" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
+<iframe src="http://endlesspint.com/gallery/2017/beer-prplxd/wheel/index.html" width="800" height="800" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
 <sub>Data: <a href="http://www.brewerydb.com/" target="_blank">BreweryDB</a> / Vis Source: <a href="https://bl.ocks.org/mbostock/4348373" target="_blank">Mike Bostock</a></sub>
 
 Many who will begin their beer adventures and step outside the comfort of the golden piss pushed by the global players, most especially the males amongst them, get carried away by the statistics of the beers, as witnessed in part by the explosion of IPA as a category. For many the style is a gateway, the steady go-to, or just something to fall back on when inspiration is lacking (especially if it is the only alternative style a venue will carry). It is a fine style and one of the primary ones that also got me going but the sooner we quit chasing the hop bombs, the sooner we grew up a bit and leave the scalp collecting to others, the better served we will be in finding, or confirming, the right style for ourselves. This is an exploration versus exploitation scenario. 
@@ -21,7 +21,10 @@ It can be shown that given a long time frame, which undoubtedly we all hope our 
 
 Thus far we only looked at the relationship [between beer styles](/2016-10-10-beer-introductions-1) and certain [characteristics of those styles](/2016-11-18-beer-introductions-2), the latter based on alcohol, bitterness, and color. We now take a more direct approach at defining what goes into a style, further helping place the many beers into context. For this third installment of the guide we are going to leverage the style descriptions to help categorize and group the 100+ beers available.
 
-Friends of mine went to the most recent GABF (https://www.greatamericanbeerfestival.com/) and while staying in touch I was prompted to look up the official festival app. I never got around to downloading it because I was distracted by the API source, from <a href="http://www.brewerydb.com/" target="_blank">BreweryDB</a>. It was just as mentioned on the GABF app and as I had hoped for, the beer descriptions came from BreweryDB and were one API pull away. Once I had that info I tried to see what could be done with what was on offer. Besides the paragraph long descriptions there was additional information about the category and beer numbers related to ABV, etc. That had already been taken care of in [an earlier guide]((/2016-11-18-beer-introductions-2)) but I fooled around and made a bubble chart all the same.
+Friends of mine went to the most recent GABF (https://www.greatamericanbeerfestival.com/) and while staying in touch I was prompted to look up the official festival app. I never got around to downloading it because I was distracted by the API source from <a href="http://www.brewerydb.com/" target="_blank">BreweryDB</a>. It was just as mentioned on the GABF app and as I had hoped for, paragraph long descriptions were one API pull away. Once I had that info I tried to see what could be done with what was on offer. Besides the descriptions there was additional information about the category and beer numbers related to ABV, etc. That had already been taken care of in [an earlier guide](/2016-11-18-beer-introductions-2) but I fooled around and made a bubble chart all the same.
+
+<img src="/gallery/2017/beer-prplxd/style_stn.png" alt="style_stn_bubble" align="middle" width="800" /><br>
+<sub>Data Source: <a href="http://www.brewerydb.com/" target="_blank">BreweryDB</a></sub>
 
 ## Original Goal 
 
