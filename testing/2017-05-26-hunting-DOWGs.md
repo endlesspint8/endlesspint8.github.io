@@ -11,4 +11,4 @@ sideof: ["Bubble chart", "http://eepurl.com/cj8urH", "of beer style features."]
 
 ## Reading...
 
-<iframe src="http://endlesspint.com/gallery/2017/books/dowgs/Parallel Sets_TIME100.html" width="800" height="800" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
+<iframe src="http://endlesspint.com/gallery/2017/books/dowgs/Parallel Sets_TIME100.html" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
