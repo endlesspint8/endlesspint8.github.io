@@ -13,7 +13,7 @@ sideof: ["Bubble chart", "http://eepurl.com/cj8urH", "of beer style features."]
  
 I am a boxing fan, someone who appreciates beer, and a lover of books. I could not tell you why it has taken me such an inexcusably long time to do a piece on books. Maybe I'm just fashionably late, even to my own party. This comes as no surprise to myself or anyone who knows me. ‘Better late than never’ will be my next tattoo, if i ever get around to it. Be that as it may we are here now.
  
-An intuitive analysis of books would deal with something text or natural language related but I am leaving that for another time. Instead I am going to do a simple feature analysis of certain titles. Two separate influences got me started down this path. The first is the Jason Davies parallel set visualization I have appropriated below. The second, which came about in search of a data set to use the vis on, and in the reverse order of how a conscientious data scientist would behave, is Out of Print clothing [link], a company that primarily sells t-shirts emblazoned with excellent book covers, both in writing quality and cover art. This potential data source got me going even more so than the visualization. 
+An intuitive analysis of books would deal with something text or natural language related but I am leaving that for another time. Instead I am going to do a simple feature analysis of certain titles. Two separate influences got me started down this path. The first is the Jason Davies parallel set visualization I have appropriated below. The second, which came about in search of a data set to use the vis on, and in the reverse order of how a conscientious data scientist would behave, is <a href="https://www.outofprintclothing.com/" target="_blank">Out of Print</a> clothing, a company that primarily sells t-shirts emblazoned with excellent book covers, both in writing quality and cover art. This potential data source got me going even more so than the visualization. 
  
 I love books, beer, and boxing. Somewhere in there, and certainly not far behind, is my fondness for t-shirts. In fact, I love mixing t-shirts with these other areas of interest, so you bet your ass I have brewery t-shirts and shirts from this company.<sup id="a1">[1](#f1)</sup> I don't have any boxing shirts at the moment, maybe that's also something I'll end up getting around to, just like this piece. <a href="https://www.rootsoffight.com/collections/mike-tyson" target="_blank">Iron Mike, anyone</a>?
 
@@ -23,26 +23,25 @@ Like many late 20th century males I have too many of these cultural indicators, 
 
 ## Deliberate consumption
  
-Only wear the shirts of books I've read, only wear the shirts of breweries I've been to. The desire to have a more intimate relationship with a book or brewery than just the image or idea of the thing. It is very easy to glom on to the most salient features or the ones served up to us. However, every time we take things at face value we abdicate a bit of her own authority to others. Much of this is inevitable. For instance I am not going to go back myself and verify all of the research findings in a certain field. I rely on the scientific method, the scientific community, and the peer review process. Other subjects are not as well grounded but yet we, in our better moments, attempt to identify trustworthy authorities in a given field and defer to their judgment. Occasionally, either through interest or expert training, we can delve a bit deeper ourselves and develop a more than passing judgment, we can be the aforementioned authorities through developing our subject matter expertise. I would like nothing more but to continue along this path with respect to books, beer, and boxing. I wish the same for others, though of course not for necessarily the same subjects but topics of their choosing.
- 
-I wanted to see how their t-shirt collection stacked up on several categories and realized I could easily do such a thing, thereby scratching a few itches: web scraping, visualization, and a little analysis. Like a good bookworm I collect more than I can possibly read. This used to be physical, then it switched to digital, but like the t-shirts I'm cutting back. 
+I prefer to only wear the shirts of books I've read, and only the shirts of breweries I've been to. The desire to have a more intimate relationship with a book or brewery than just the image or idea of the thing rests behind this decision. It is very easy to glom on to the most salient features or the ones served up to us. However, every time we take things at face value we abdicate a bit of her own authority to others. Much of this is inevitable. For instance I am not going to go back myself and verify all of the research findings in a certain field. I rely on the scientific method, the scientific community, and the peer review process. Other subjects are not as well grounded but yet we, in our better moments, attempt to identify trustworthy authorities in a given field and defer to their judgment. 
 
-With a visualization in hand and an appealing target it was now a matter of deciding on the actual features to map onto. In keeping with the Titanic data set [link], which this is based on, I also limited my exploration to four categorical dimensions [link to different measurement types]. Perhaps it is the identity politics in the air, the national retrenchment we are seeing around the globe, or just a hangover from the 90’s political correct movement but whatever the influence I settled on identifying the dead old white guys.
+Occasionally, either through interest or expert training, we can delve a bit deeper ourselves and develop a more than passing judgment, we can be the aforementioned authorities through developing our subject matter expertise. I would like nothing more but to continue along this path with respect to books, beer, and boxing. I wish the same for others, though of course not for necessarily the same subjects but topics of their choosing.
+ 
+I wanted to see how the Out of Print t-shirt collection stacked up on several categories and realized I could easily do such a thing, thereby scratching a few itches: web scraping, visualization, and a little analysis. Like a good bookworm I collect more than I can possibly read. This used to be physical, then it switched to digital, but like the t-shirts I'm cutting back. 
+
+With a visualization in hand and an appealing target it was now a matter of deciding on the actual features to map onto. In keeping with the <a href="https://www.kaggle.com/c/titanic" target="_blank">Titanic data set</a>, which this is based on, I also limited my exploration to four <a href="https://stats.stackexchange.com/questions/206/what-is-the-difference-between-discrete-data-and-continuous-data" target="_blank">categorical dimensions</a>. Perhaps it is the identity politics in the air, the national retrenchment we are seeing around the globe, or just a hangover from the 90’s political correct movement but whatever the influence I settled on identifying the dead old white guys.
 
 ## Pivot TIME
  
 I realize this is a sensitive topic for a variety of reasons across an uneven spectrum of validity. I do not wish to get more embroiled in the topic than I am already stupidity doing. Thus I will limit the best I can the dumb things I say. Even so, the decision to proceed is my own. It might be unfair to make the same decision for another, including the Out of Print clothing company, since I am not looking to single out anyone player, I just happened to be familiar with one company’s connection to books in particular. As such I decided to find a different data source, one that could and has taken its lumps. 
  
-Back in the dark days of the early 21st century, all the way back in 2005, when magazines were still mostly physical items, a little publication called TIME put out a list of the top 100 English-language novels of the 20th century [link]. Not quite the entire 20th century but starting in 1923, the year the publication got started, incidentally leaving off Ulysses from the list, and a little into the new millennium up until the list was published.
+Back in the dark days of the early 21st century, all the way back in 2005, when magazines were still mostly physical items, a little publication called TIME put out a list of <a href="http://entertainment.time.com/2005/10/16/all-time-100-novels/" target="_blank">the top 100 English-language novels of the 20th century</a>. Not quite the entire 20th century but starting in 1923, the year the publication got started, incidentally leaving off Ulysses from the list, and a little into the new millennium up until the list was published.
  
 As opposed to the generic clickbait and superficial listicles of their current website this collection actually had substance.<sup id="a2">[2](#f2)</sup> Whatever happened to this outlet, CNN also? I remember looking up with reverence to these sources of information. Then again I was a teenager. Perhaps my reading comprehension went up but I have a sneaking suspicion they more than met me halfway. A bit sad really. Then again, what can you expect? These sources of temporary information don't really, and shouldn't be relied on to, bring the wisdom to the fore. That is what books are for and just like that we are back.
  
 Switching to the TIME booklist was actually a boon to the data collection process. We are not talking about large data sets in any case but there are different degrees of workable or friendly data sets. Out of Print provides only the book titles of the shirts it sells. No author name and no publication date. Those are crucial pieces of information in determining the novelist’s characteristics.
- 
- 
 
- 
-Definition of each feature
+## Definition of Features
  
 Let's define the categories in order so as to be clear about what is being tabulated. 
  
@@ -65,19 +64,17 @@ G - The sex of the novelist, with all due respect to any future claims by transh
  
 
  
-Data
+## Data, What it is and is not
   
 [gist link for wiki pull; include screen shot of wiki donation]
  
-Data is an important step toward a better understanding of a subject. Setting aside concerns about measuring tools and inherent biases, operational, institutional, or social [link Raw data is an oxymoron] data models can oftentimes be viewed through a particular framework to better understand what specifically is being presented and what can reasonably be expected to be done. It is worthwhile to keep this analytical framework in mind when looking at the data in this piece. 
+Data is an important step toward a better understanding of a subject. Setting aside concerns about measuring tools, inherent biases, what can and cannot be reduced to data, and other <a href="https://mitpress.mit.edu/books/raw-data-oxymoron" target="_blank">raw data oxymorons</a>, analytic models can be viewed through a four stage process. This framework can help better orient what specifically is being presented and what can reasonably be expected to be done. It is worthwhile to keep this analytical framework in mind when looking at the data in this piece. 
  
-[decision or recommendation]
- 
-The framework looks to the use of data as being descriptive, diagnostic, predictive, and/or prescriptive. Descriptive models lay out what is being measured. Diagnostic models detail causes or how a situation occurred. Predictive models outline probabilities of outcomes. Prescriptive models provide suggestions on what to do. What we have here, as far as the data is concerned, is only the first step of analytical sophistication, descriptive. Though the least sophisticated of the data analytics models it is a critical first step. How things worked out to this situation is outside the purview of this data set and any conjectures would be speculative without additional sources and references, narrative or numeric.
+The framework looks to the use of data as <a href="http://leadtime.com/blog/data-analytics-101-descriptive-diagnostic-predictive-and-prescriptive" target="_blank">descriptive, diagnostic, predictive, and/or prescriptive</a>. Descriptive models lay out _what_ happened. Diagnostic models detail causes or _why_ it happened. Predictive models outline probabilities of what _will_ happen. Prescriptive models provide suggestions on _what to do_. What we have here, as far as the data is concerned, is the first step, descriptive. Though the least sophisticated of the data analytic models it is a critical first step. How things worked out to get to this situation or what to do concretely is outside the purview of this data set and any conjectures would be speculative without additional sources and references, narrative or numeric.
  
  <iframe src="http://endlesspint.com/gallery/2017/books/dowgs/Parallel Sets_TIME100.html" width="1152" height="720" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
  
-Lists
+## List This
  
 What is the point of having lists? Is it that we cannot help ourselves as humans to weigh, measure, and tabulate things? Certainly that is part of it and I know I feel the pull. Aside from books I enjoy talking boxing, about who could beat who, who should be considered better than another fighter, and so on (ad nauseam, my lady would add). Pre-fight prognostications are tantalizingly interesting and post bout breakdowns are also welcome and appreciated. List creation no doubt has to do with our drive for meaning and understanding, two complimentary though not identical things. 
  
@@ -89,9 +86,7 @@ I have used the TIME list as a resource when I have run out of inspiration or si
  
 I come to the list for a bit of purchase. There is so much to choose from it can be quite helpful to have a place to stand on and scan the surroundings. This is helpful even if you disagree with the resource. You have at least delineated a set of items you wish to consider or exclude. From here you can appraise the criteria that makes the most sense to you. This is a sort of unsupervised learning [link] on a personal and human level. You identify books you are interested in, without judgments or preconceived notions, and with a good number in hand you take a look to see what similarities or themes emerge among them, if any. Perhaps you have discovered an interest in World War I history, Harlem Renaissance fiction, or existentialist philosophy [links]. Whatever it may be you now have some categories to work with: to group like titles together, see where they fit with respect to each other and the larger cannon. Now you can delve deeper and take a step closer to becoming that subject matter expert, that authority. But you have to get in there and do the work. Simply looking at the list is a false exercise.
  
-
- 
-Content v Image
+## Content v Image
  
 The demographics are disappointingly disproportionate. One might even add predictably so. After all human history is studded with instances of inclusiveness that are the exception rather than the rule. Yet I would advise against the knee-jerk reaction of tearing down the images presented for no other reason then the disparity in the numbers. We should discard these images, and better yet replace them, on the basis of excellence, backed by an intimacy with the works.
  
@@ -99,10 +94,7 @@ The demographics are disappointingly disproportionate. One might even add predic
  
 We would all be better served in dealing with the substance and putting the images in perspective, because while we argue about what is on the wall we may be overlooking who owns the wall and controls the framing. Arguably the numbers are a symptom more than a root cause. If we are going to be more concerned about ownership of the wall we can take encouragement from the education numbers related to women and horrified by the incarceration disparities [the Atlantic video]. Let’s target facts on the ground, not books on a list. 
  
- 
-
- 
-Deliberate & Detailed Criticism
+## Deliberate & Detailed Criticism
  
  
 Again I do not care to dispute this list’s specific standards one way or another but it does entice me to seek out the voices I am not hearing from and have also been highly regarded. The disparities should attract our attention and perhaps receive extra interest to make sure we hear the voices of the underrepresented. 
