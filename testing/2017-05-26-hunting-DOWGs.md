@@ -32,7 +32,7 @@ Occasionally, either through interest or expert training, we can delve a bit dee
  
 I wanted to see how the Out of Print t-shirt collection stacked up on several categories and realized I could easily do such a thing, thereby scratching a few itches: web scraping, visualization, and a little analysis. Like a good bookworm I collect more than I can possibly read. This used to be physical, then it switched to digital, but like the t-shirts I'm cutting back. 
 
-With a visualization in hand and an appealing target it was now a matter of deciding on the actual features to map onto. In keeping with the <a href="https://www.kaggle.com/c/titanic" target="_blank">Titanic data set</a>, which this is based on, I also limited my exploration to four <a href="https://stats.stackexchange.com/questions/206/what-is-the-difference-between-discrete-data-and-continuous-data" target="_blank">categorical dimensions</a>. Perhaps it is the identity politics in the air, the national retrenchment we are seeing around the globe, or just a hangover from the 90’s political correct movement but whatever the influence I settled on identifying the dead old white guys.
+With a visualization in hand and an appealing target it was now a matter of deciding on the actual features to map onto. In keeping with the <a href="https://www.kaggle.com/c/titanic" target="_blank">Titanic data set</a>, which this is based on, I also limited my exploration to four <a href="https://stats.stackexchange.com/questions/206/what-is-the-difference-between-discrete-data-and-continuous-data" target="_blank">categorical dimensions</a>. Perhaps it is the identity politics in the air, the national retrenchment we are seeing around the globe, or just a hangover from the 90’s political correct movement but whatever the influence I settled on identifying the dead old white guys (DOWG's).
 
 ## Pivot TIME
  
@@ -48,27 +48,25 @@ Switching to the TIME booklist was actually a boon to the data collection proces
  
 Let's define the categories in order so as to be clear about what is being tabulated. 
  
-D - Shit, I guess the transhumance or religious folk can get on me about this and I suppose this may turn out to be the touches the ball topics. For our purposes and author would be considered pushing daisies if they were deceased at the time of the creation of the list (2005). [Princess Bride, <a href="https://youtu.be/xbE8E1ez97M" target="_blank">mostly dead</a>]
+D - With all due respect to Miracle Max we are making this a binary choice between the living and the dead. Gone is the miscellaneous option of "<a href="https://youtu.be/xbE8E1ez97M" target="_blank">mostly dead</a>". For our purposes an author is considered to be pushing daisies if they were deceased at the time of the creation of the list (2005).
 
 <img src="/gallery/2017/books/dowgs/TIME100_percAlive2.PNG" alt="TIME100_alive" /><br />
 <sub>Data Source: <a href="http://entertainment.time.com/2005/10/16/all-time-100-novels/" target="_blank">TIME Magazine</a></sub>
  
-O - Every few years we hear Y is the new X but using commonsense and the influences from nip tuck, Louis CK, and even The Bard himself as guides, I have settled on 45 as a compromise. Any author over 45 at the time of the book and questions publication would be categorized as "old". Finally, the dead. [<a href="https://youtu.be/ohOOcHA3q6I" target="_blank">Louis CK, "as soon as you're 50 you're a candidate"</a>]
+O - Every few years we hear Y is the new X but using commonsense and the influences from nip tuck (identity issues arising from turning 40), Louis CK ("<a href="https://youtu.be/ohOOcHA3q6I" target="_blank">as soon as you're 50 you're a candidate</a>" [... for the previous section]), and even <a href="https://genius.com/William-shakespeare-the-seven-ages-of-man-all-the-worlds-a-stage-annotated" target="_blank">The Bard</a> himself as guides, I have settled on 45 as a compromise. Any author 45 or older at the time of the book's publication would be categorized as "old".
 
 <img src="/gallery/2017/books/dowgs/TIME100_median.PNG" alt="TIME100_median" /><br />
 <sub>Data Source: <a href="http://entertainment.time.com/2005/10/16/all-time-100-novels/" target="_blank">TIME Magazine</a></sub>
  
-W - You can make a more easy argument about the social construction of race that even sex, right? yet once again I'm going to go out with my commonsense understanding and how I might describe the respective writers: black dude, white chick, Hispanic guy. Make sense? I think you get the idea [<a href="https://youtu.be/XIoCHuG2pBw" target="_blank">Mo’nique</a> (// Race is a sensitive and moving target (Domino) ) & Chris Rock, "<a href="https://youtu.be/kkwB76o-3Go" target="_blank">ain't got time to dice white people up into little groups</a>"]
+W - Race is a sensitive and moving target, one that is in strong part social constructed. What is a race has changed over time and is still evolving as <a href="https://youtu.be/XIoCHuG2pBw" target="_blank">Mo’nique</a> could detail for you with a flow chart. For our purposes we are creating two broad buckets, white and not. You can of course be more precise regarding nationalities and ethnicities but in the words of one of our famous observational phiolosophers we "<a href="https://youtu.be/kkwB76o-3Go" target="_blank">ain't got time to dice white people up into little groups</a>."
 
 <img src="/gallery/2017/books/dowgs/TIME100_demo.PNG" alt="TIME100_demo" /><br />
 <sub>Data Source: <a href="http://entertainment.time.com/2005/10/16/all-time-100-novels/" target="_blank">TIME Magazine</a></sub>	
  
-G - The sex of the novelist, with all due respect to any future claims by transhumant and or transgender persons of the future, remain a binary description.. 
+G - Finally, with all due respect to any future claims by transhuman and or transgender persons, we made this also a binary option. 
  
 ## Data, What it is and is not
   
-[gist link for wiki pull; include screen shot of wiki donation]
- 
 Data is an important step toward a better understanding of a subject. Setting aside concerns about measuring tools, inherent biases, what can and cannot be reduced to data, and other <a href="https://mitpress.mit.edu/books/raw-data-oxymoron" target="_blank">raw data oxymorons</a>, analytic models can be viewed through a four stage process. This framework can help better orient what specifically is being presented and what can reasonably be expected to be done. It is worthwhile to keep this analytical framework in mind when looking at the data in this piece. 
  
 The framework looks to the use of data as <a href="http://leadtime.com/blog/data-analytics-101-descriptive-diagnostic-predictive-and-prescriptive" target="_blank">descriptive, diagnostic, predictive, and/or prescriptive</a>. Descriptive models lay out _what_ happened. Diagnostic models detail causes or _why_ it happened. Predictive models outline probabilities of what _will_ happen. Prescriptive models provide suggestions on _what to do_. What we have here, as far as the data is concerned, is the first step, descriptive. Though the least sophisticated of the data analytic models it is a critical first step. How things worked out to get to this situation or what to do concretely is outside the purview of this data set and any conjectures would be speculative without additional sources and references, narrative or numeric.
