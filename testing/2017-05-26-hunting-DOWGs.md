@@ -17,7 +17,10 @@ An intuitive analysis of books would deal with something text or natural languag
  
 I love books, beer, and boxing. Somewhere in there, and certainly not far behind, is my fondness for t-shirts. In fact, I love mixing t-shirts with these other areas of interest, so you bet your ass I have brewery t-shirts and shirts from this company.<sup id="a1">[1](#f1)</sup> I don't have any boxing shirts at the moment, maybe that's also something I'll end up getting around to, just like this piece. <a href="https://www.rootsoffight.com/collections/mike-tyson" target="_blank">Iron Mike, anyone</a>?
 
-https://www.flickr.com/photos/rvthomas67/ Russell Thomas
+<p align="center">
+  <img src="/gallery/2017/books/dowgs/flickr_rvthomas67_mtyson.jpg" alt="flickr_rvthomas67_mtyson" /><br />
+  <sub>Data Source: <a href="https://www.flickr.com/photos/rvthomas67/" target="_blank">Russell Thomas</a></sub>
+</p>
  
 Like many late 20th century males I have too many of these cultural indicators, though I have cut back and I'm only holding onto the essentials. The shirts are comfortable and fit well, the titles are top shelf, and the covers selected are of eye-catching designs that translate well to many accessories, clothing included, t-shirts specifically. 
 
