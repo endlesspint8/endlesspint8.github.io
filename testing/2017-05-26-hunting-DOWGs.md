@@ -45,24 +45,22 @@ Switching to the TIME booklist was actually a boon to the data collection proces
  
 Let's define the categories in order so as to be clear about what is being tabulated. 
  
-D - Shit, I guess the transhumance or religious folk can get on me about this and I suppose this may turn out to be the touches the ball topics. For our purposes and author would be considered pushing daisies if they were deceased at the time of the creation of the list (2005). [Princess Bride]
+D - Shit, I guess the transhumance or religious folk can get on me about this and I suppose this may turn out to be the touches the ball topics. For our purposes and author would be considered pushing daisies if they were deceased at the time of the creation of the list (2005). [Princess Bride, <a href="https://youtu.be/xbE8E1ez97M" target="_blank">mostly dead</a>]
 
 <img src="/gallery/2017/books/dowgs/TIME100_percAlive2.PNG" alt="TIME100_alive" /><br />
 <sub>Data Source: <a href="http://entertainment.time.com/2005/10/16/all-time-100-novels/" target="_blank">TIME Magazine</a></sub>
  
-O - Every few years we hear Y is the new X but using commonsense and the influences from nip tuck, Louis CK, and even The Bard himself as guides, I have settled on 45 as a compromise. Any author over 45 at the time of the book and questions publication would be categorized as "old". Finally, the dead. [Louis CK]
+O - Every few years we hear Y is the new X but using commonsense and the influences from nip tuck, Louis CK, and even The Bard himself as guides, I have settled on 45 as a compromise. Any author over 45 at the time of the book and questions publication would be categorized as "old". Finally, the dead. [<a href="https://youtu.be/ohOOcHA3q6I" target="_blank">Louis CK, "as soon as you're 50 you're a candidate"</a>]
 
 <img src="/gallery/2017/books/dowgs/TIME100_median.PNG" alt="TIME100_median" /><br />
 <sub>Data Source: <a href="http://entertainment.time.com/2005/10/16/all-time-100-novels/" target="_blank">TIME Magazine</a></sub>
  
-W - You can make a more easy argument about the social construction of race that even sex, right? yet once again I'm going to go out with my commonsense understanding and how I might describe the respective writers: black dude, white chick, Hispanic guy. Make sense? I think you get the idea [Mo’nique (// Race is a sensitive and moving target (Domino) ) & Chris Rock]
+W - You can make a more easy argument about the social construction of race that even sex, right? yet once again I'm going to go out with my commonsense understanding and how I might describe the respective writers: black dude, white chick, Hispanic guy. Make sense? I think you get the idea [<a href="https://youtu.be/XIoCHuG2pBw" target="_blank">Mo’nique</a> (// Race is a sensitive and moving target (Domino) ) & Chris Rock, "<a href="https://youtu.be/kkwB76o-3Go" target="_blank">ain't got time to dice white people up into little groups</a>"]
 
 <img src="/gallery/2017/books/dowgs/TIME100_demo.PNG" alt="TIME100_demo" /><br />
 <sub>Data Source: <a href="http://entertainment.time.com/2005/10/16/all-time-100-novels/" target="_blank">TIME Magazine</a></sub>	
  
 G - The sex of the novelist, with all due respect to any future claims by transhumant and or transgender persons of the future, remain a binary description.. 
- 
-
  
 ## Data, What it is and is not
   
@@ -90,9 +88,9 @@ I come to the list for a bit of purchase. There is so much to choose from it can
  
 The demographics are disappointingly disproportionate. One might even add predictably so. After all human history is studded with instances of inclusiveness that are the exception rather than the rule. Yet I would advise against the knee-jerk reaction of tearing down the images presented for no other reason then the disparity in the numbers. We should discard these images, and better yet replace them, on the basis of excellence, backed by an intimacy with the works.
  
-[Biases, cultural or otherwise, are important for us to be aware of and acknowledge. Their ramifications have hard implications now and moving into the future as they become imbedded into our institutions and with increasing frequency into the machines and algorithms we will be depending on moving forward. These biases may be picked up from within language itself and the data sets we create to the detriment of already vulnerable populations. ]
+Biases, cultural or otherwise, are important for us to be aware of and acknowledge. Their ramifications have hard implications now and moving into the future as they become imbedded into our institutions and with increasing frequency into the machines and algorithms we will be depending on moving forward. These biases may be picked up from <a href="http://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/ai-learns-gender-and-racial-biases-from-language" target="_blank">within language</a> itself and the <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing" target="_blank">data sets</a> we create to the detriment of already vulnerable populations.
  
-We would all be better served in dealing with the substance and putting the images in perspective, because while we argue about what is on the wall we may be overlooking who owns the wall and controls the framing. Arguably the numbers are a symptom more than a root cause. If we are going to be more concerned about ownership of the wall we can take encouragement from the education numbers related to women and horrified by the incarceration disparities [the Atlantic video]. Let’s target facts on the ground, not books on a list. 
+We would all be better served in dealing with the substance and putting the images in perspective, because while we argue about <a href="https://youtu.be/HbA1YOueC_A" target="_blank">what is on the wall</a> we may be overlooking who owns the wall and controls the framing. Arguably the numbers are a symptom more than a root cause. If we are going to be more concerned about ownership of the wall we can take encouragement from the <a href="http://www.intelligencesquaredus.org/debates/men-are-finished" target="_blank">education numbers related to women</a> and horrified by the <a href="https://www.theatlantic.com/magazine/archive/2015/10/the-black-family-in-the-age-of-mass-incarceration/403246/" target="_blank">incarceration disparities suffered by black families</a>. Let’s target facts on the ground, not books on a list. 
  
 ## Deliberate & Detailed Criticism
  
@@ -101,7 +99,7 @@ Again I do not care to dispute this list’s specific standards one way or anoth
  
 [this offers another opportunity to insert a bit of data talk: exploration v exploitation]
  
-I have routinely made a conscious effort to read non-DOWG authors. On occasion the differences have been negligible but more often than not I have been confronted by a different sensibility than the more commonly available one. I believe these experiences benefit anyone who exposes themselves to them, challenging the regular everyday presentation of reality. We take in our common cultural settings by default, very often never noticing the default we encounter as a choice. A choice that has oftentimes been made ahead of time by others and that we live with unreflectively, like fish in water [DFW link], oblivious to our own surroundings.
+I have routinely made a conscious effort to read non-DOWG authors. On occasion the differences have been negligible but more often than not I have been confronted by a different sensibility than the more commonly available one. I believe these experiences benefit anyone who exposes themselves to them, challenging the regular everyday presentation of reality. We take in our common cultural settings by default, very often never noticing the default we encounter as a choice. A choice that has oftentimes been made ahead of time by others and that we live with unreflectively, <a href="https://www.theguardian.com/books/2008/sep/20/fiction" target="_blank">like fish in water</a>, oblivious to our own surroundings.
  
  
 <br>
