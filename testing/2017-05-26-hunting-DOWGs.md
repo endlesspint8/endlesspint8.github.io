@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why are there no brothers on the wall?
-subtitle: Forget the Images, We Own the Wall 
+subtitle: Forget the Images, Let's Own the Wall 
 tags: ["ParallelSets", "D3"]
 shortlink: http://bit.ly/prplxd3
 twitimg: pic.twitter.com/nqGsQDvTWQ
@@ -9,37 +9,27 @@ image: http://endlesspint.com/gallery/2017/beer-prplxd/wheel_spin.gif
 sideof: ["Bubble chart", "http://eepurl.com/cj8urH", "of beer style features."]
 ---
 
-## Reading...
-
-Motivation
- 
+## Motivation 
  
 I am a boxing fan, someone who appreciates beer, and a lover of books. I could not tell you why it has taken me such an inexcusably long time to do a piece on books. Maybe I'm just fashionably late, even to my own party. This comes as no surprise to myself or anyone who knows me. ‘Better late than never’ will be my next tattoo, if i ever get around to it. Be that as it may we are here now.
  
 An intuitive analysis of books would deal with something text or natural language related but I am leaving that for another time. Instead I am going to do a simple feature analysis of certain titles. Two separate influences got me started down this path. The first is the Jason Davies parallel set visualization I have appropriated below. The second, which came about in search of a data set to use the vis on, and in the reverse order of how a conscientious data scientist would behave, is Out of Print clothing [link], a company that primarily sells t-shirts emblazoned with excellent book covers, both in writing quality and cover art. This potential data source got me going even more so than the visualization. 
  
-I love books, beer, and boxing. Somewhere in there, and certainly not far behind, is my fondness for t-shirts. In fact, I love mixing t-shirts with these other areas of interest, so you bet your ass I have brewery t-shirts and shirts from this company.<sup id="a1">[1](#f1)</sup> I don't have any boxing shirts at the moment, maybe that's also something I'll end up getting around to, just like this piece. Iron Mike, anyone? [img]
+I love books, beer, and boxing. Somewhere in there, and certainly not far behind, is my fondness for t-shirts. In fact, I love mixing t-shirts with these other areas of interest, so you bet your ass I have brewery t-shirts and shirts from this company.<sup id="a1">[1](#f1)</sup> I don't have any boxing shirts at the moment, maybe that's also something I'll end up getting around to, just like this piece. <a href="https://www.rootsoffight.com/collections/mike-tyson" target="_blank">Iron Mike, anyone</a>?
+
+https://www.flickr.com/photos/rvthomas67/ Russell Thomas
  
 Like many late 20th century males I have too many of these cultural indicators, though I have cut back and I'm only holding onto the essentials. The shirts are comfortable and fit well, the titles are top shelf, and the covers selected are of eye-catching designs that translate well to many accessories, clothing included, t-shirts specifically. 
- 
- 
- 
 
- 
-Deliberate consumption
+## Deliberate consumption
  
 Only wear the shirts of books I've read, only wear the shirts of breweries I've been to. The desire to have a more intimate relationship with a book or brewery than just the image or idea of the thing. It is very easy to glom on to the most salient features or the ones served up to us. However, every time we take things at face value we abdicate a bit of her own authority to others. Much of this is inevitable. For instance I am not going to go back myself and verify all of the research findings in a certain field. I rely on the scientific method, the scientific community, and the peer review process. Other subjects are not as well grounded but yet we, in our better moments, attempt to identify trustworthy authorities in a given field and defer to their judgment. Occasionally, either through interest or expert training, we can delve a bit deeper ourselves and develop a more than passing judgment, we can be the aforementioned authorities through developing our subject matter expertise. I would like nothing more but to continue along this path with respect to books, beer, and boxing. I wish the same for others, though of course not for necessarily the same subjects but topics of their choosing.
  
 I wanted to see how their t-shirt collection stacked up on several categories and realized I could easily do such a thing, thereby scratching a few itches: web scraping, visualization, and a little analysis. Like a good bookworm I collect more than I can possibly read. This used to be physical, then it switched to digital, but like the t-shirts I'm cutting back. 
- 
 
- 
- 
 With a visualization in hand and an appealing target it was now a matter of deciding on the actual features to map onto. In keeping with the Titanic data set [link], which this is based on, I also limited my exploration to four categorical dimensions [link to different measurement types]. Perhaps it is the identity politics in the air, the national retrenchment we are seeing around the globe, or just a hangover from the 90’s political correct movement but whatever the influence I settled on identifying the dead old white guys.
- 
 
- 
-Pivot to TIME 100
+## Pivot TIME
  
 I realize this is a sensitive topic for a variety of reasons across an uneven spectrum of validity. I do not wish to get more embroiled in the topic than I am already stupidity doing. Thus I will limit the best I can the dumb things I say. Even so, the decision to proceed is my own. It might be unfair to make the same decision for another, including the Out of Print clothing company, since I am not looking to single out anyone player, I just happened to be familiar with one company’s connection to books in particular. As such I decided to find a different data source, one that could and has taken its lumps. 
  
