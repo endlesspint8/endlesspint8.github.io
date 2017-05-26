@@ -12,3 +12,8 @@ sideof: ["Bubble chart", "http://eepurl.com/cj8urH", "of beer style features."]
 ## Reading...
 
 <iframe src="http://endlesspint.com/gallery/2017/books/dowgs/Parallel Sets_TIME100.html" width="960" height="600" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
+
+
+## Take 2
+
+$('#vis').load('/gallery/2017/books/dowgs/Parallel Sets_TIME100.html');
