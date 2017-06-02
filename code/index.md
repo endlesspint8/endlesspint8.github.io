@@ -6,6 +6,13 @@ subtitle: Visualizations at a Glance with Code Samples
 
 <br>
 
+### [Data Guide for the Beer Perplexed III](/2017-05-12-beer-introductions-3)
+> 
+> * D3 sunburst flavor wheel<br>
+
+<img src="/gallery/2017/beer-prplxd/wheel_spin.gif" width="600" align="middle"><br>
+<sub>Data: <a href="http://www.brewerydb.com/" target="_blank">BreweryDB</a> / Vis Source: <a href="https://bl.ocks.org/mbostock/4348373" target="_blank">Mike Bostock</a></sub>
+
 ### [Did you tap that?](/2017-01-12-kicked-kegs-nye-2017)
 > 
 > * Mapping NYE Weekend Kegs (2017) <br>
@@ -20,6 +27,16 @@ subtitle: Visualizations at a Glance with Code Samples
 <img src="/gallery/2016/beer-prplxd/beer_prplxd2.gif"> <br>
 <sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> / 
 Scraping Template: <a href="https://github.com/cs109/content/blob/master/labs/lab2/Lab_2_A_Live.ipynb" target="_blank">CS109</a> / <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/mT5QiQ9Ncz Data Guide for the Beer Perplexed, Part 1&url=http://bit.ly/prplxd1&via=endlesspint8&hashtags=D3,beer,dataviz" target="_blank" title="Share on Twitter">Hairball</a></b></sub>
+
+### [Still Razor Thin](/2016-11-25-kovalev-ward-post-fight-data-analysis)
+> Three part breakdown to a tight fight: <br>
+>
+> * [round scoring simulation](kov_ward_sim_bouts) based on Twitter user scores; <br>
+> * [round features & judges' scores](kov_ward_rd_feat) analysis; <br>
+> * [ELO ratings], before and after <br>
+
+<img src="/gallery/2016/boxing/kov-ward/kov_rnd_twt_scoring.PNG" alt="kov_rnd_twt_scoring" align="middle" /><br>
+<sub>Data Source: Twitter</sub>
 
 ### [Suds in the City](/2016-11-04-whole-foods-trader-joes-beer)
 >
@@ -44,14 +61,11 @@ Vis Code: <a href="http://bl.ocks.org/mbostock/4062045" target="_blank">Force-Di
 Vis Inspiration: <a href="https://bost.ocks.org/mike/miserables/" target="_blank">D3 Les Misérables</a> / 
 Vis Code: <a href="http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html" target="_blank">Bokeh Les Mis Occurrences</a> / <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/2bXhMn2QHD Data Guide for the Beer Perplexed, Part 1&url=http://bit.ly/prplxd1&via=endlesspint8&hashtags=Bokeh,beer,dataviz" target="_blank" title="Share on Twitter">Grid</a></b></sub>
 
-### [Still Razor Thin](/2016-11-25-kovalev-ward-post-fight-data-analysis)
-> Three part breakdown to a tight fight: <br>
+### [It was all GGGood just a week ago](/2016-10-03-ggg-brook-fight-week-tweets)
 >
-> * [round scoring simulation](kov_ward_sim_bouts) based on Twitter user scores; <br>
-> * [round features & judges' scores](kov_ward_rd_feat) analysis; <br>
-> * [ELO ratings], before and after <br>
+> * Fight Hour Tweets
 
-<img src="/gallery/2016/boxing/kov-ward/kov_rnd_twt_scoring.PNG" alt="kov_rnd_twt_scoring" align="middle" /><br>
+<img src="/gallery/2016/boxing/ggg-brook/fight_hour_tweets.PNG" alt="fight_hour_tweets" /><br>
 <sub>Data Source: Twitter</sub>
 
 ### [Six-Pack Project: The Netherlands](/2016-08-01-six-pack-project-netherlands)
