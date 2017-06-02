@@ -26,7 +26,7 @@ subtitle: Visualizations at a Glance with Code Samples
 
 <img src="/gallery/2016/beer-prplxd/beer_prplxd2.gif"> <br>
 <sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> / 
-Scraping Template: <a href="https://github.com/cs109/content/blob/master/labs/lab2/Lab_2_A_Live.ipynb" target="_blank">CS109</a> / <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/mT5QiQ9Ncz Data Guide for the Beer Perplexed, Part 1&url=http://bit.ly/prplxd1&via=endlesspint8&hashtags=D3,beer,dataviz" target="_blank" title="Share on Twitter">Hairball</a></b></sub>
+Scraping Template: <a href="https://github.com/cs109/content/blob/master/labs/lab2/Lab_2_A_Live.ipynb" target="_blank">CS109</a> / <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/NKltUlWk71 Data Guide for the Beer Perplexed, Part 2&url=http://bit.ly/prplxd2&via=endlesspint8&hashtags=RShiny,dataviz" target="_blank" title="Share on Twitter">Beer Dimensions</a></b></sub>
 
 ### [Still Razor Thin](/2016-11-25-kovalev-ward-post-fight-data-analysis)
 > Three part breakdown to a tight fight: <br>
