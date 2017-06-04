@@ -8,7 +8,7 @@ shortlink: http://bit.ly/2dxLtd9
 sideof: ["End of season", "http://eepurl.com/cj8urH", "visualizations, updated and accompanied with new content."]
 ---
 
-[latest and greatest](2017-05-26-hunting-DOWGs)
+[latest and greatest](2017-06-23-summer-bummer-2016)
 
 ## Week 14 - Slippery Slope 
 
