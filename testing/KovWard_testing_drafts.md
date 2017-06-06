@@ -7,6 +7,39 @@ shortlink: http://bit.ly/KovWrdep
 twitimg: 
 ---
 
+## ELO Time
+
+We have taken a look at the live in-fight viewer impressions based on tweet reactions and reviewed the fight/round features as they stacked up with the official judges. It is now time to wrap this piece up by going back to the beginning and asking what the fight records of Kovalev and Ward told us coming into the fight. 
+
+[Introduce ELO and bout history capture] [more info? click on link for details/bait]
+
+**ELO over time**
+
+- DONE: chart
+
+**current form: Last 5 opponents' records and ELO ratings**
+
+- deliverables: table
+
+**chart each fighters' opponents' ELO as indexed by fight number**
+
+- deliverables: line
+
+**chart each fighters' opponents' ELO as indexed by date**
+
+- deliverables: timeseries
+
+**bad moon rising: quickest 2-year rise/toughest competition**
+
+- how far removed is either from their toughest, consistent competition
+
+
+
+**ELO as predictor versus results**
+
+- caveats: no discount for time lag
+
+
 ## Round Features v. Judges' Cards
 
 Having seen how the Twitter folk saw the fight we now turn our attention to the ringside judges. To help give us context regarding _what_ people were seeing we bring in the fight numbers as measured by CompuBox.
