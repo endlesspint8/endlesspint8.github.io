@@ -81,7 +81,7 @@ Until the rematch. Let’s see if it settles things more decisively than what we
 
 FN: Kovalev's hist in red/orange peaks at a lower opponent ELO rating and skews right. The opposite can be loosely said for Ward:
 
-<img src="/gallery/2016/boxing/kov-ward/elo_opp_hist.PNG" alt="elo_opp_hist" align="middle" width=600 /><br>
+<img src="/gallery/2016/boxing/kov-ward/elo_opp_hist.PNG" alt="elo_opp_hist" align="middle" width="600" /><br>
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
 
 
