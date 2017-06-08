@@ -45,28 +45,31 @@ In order to develop a quantified judgement of the bout favorite and fighters’ 
  
 I wish to start big picture and drill down further from there [link: "that's what she said"]. In the first chart we plot out every fighter's bout-ending ELO for the relevant time spent. The ELO dots for Kovalev and Ward are color-coded, start towards the middle of the chart, and are, naturally the terminating points of the timeline. The chart is not high resolution but you can still see a slight edge with respect to ELO for Ward. Even so it is pretty clear that this was approaching a dead heat. What is also obvious is the shorter, more compact, and more rapid ascendancy of Kovalev. You can describe Ward’s trajectory as a slowburn, while Kovalev’s as one that has been cooking at a higher temperature.
  
-
+<img src="/gallery/2016/boxing/kov-ward/elo_ratings_timeline.PNG" alt="elo_ratings_timeline" align="middle" /><br>
+<sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
  
 If you are not a fight freak and or you did not bother to tally the dots let me inform you that both Kovalev and Ward had 30 professional flights coming into their original showdown. They were both undefeated but Kovalev had one blemish by way of a draw. With the same number of fights but a different length of time it is clear who has been the more active fighter. Activity is one thing, and we will touch upon it again, but what was the standard of each fighter's level of competition? 
  
-
+<img src="/gallery/2016/boxing/kov-ward/elo_strengthOfComp.PNG" alt="elo_strengthOfComp" align="middle" /><br>
+<sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
  
 An equal number of bouts was a convenient coincidence in preparing the above chart. Here we plotted the level of competition by noting the opponent ELO rating at each fighter's respective professional bout. We see an overall advantage for Ward, and the numbers bear out his having tougher competition, but not recently. At the tail end of the chart we see Kovalev’s opponents matching and generally surpassing Ward’s opposition. The numbers bear this out as well. 
  
-
+<img src="/gallery/2016/boxing/kov-ward/elo_last5.PNG" alt="elo_last5" align="middle" /><br>
+<sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
  
 Looking strictly at each fighter's last five opponents, to get an idea of current form, we see more clearly the tougher competition for Kovalev, and in less than half the amount of time (under two years for Kovalev to Ward’s nearly 4 years to get through the same number of flights). If we extend Kovalev’s recent history to a comparable 45 months we see an activity advantage of 12 fights to 5.
  
-
+<img src="/gallery/2016/boxing/kov-ward/elo_kov45mo.PNG" alt="elo_kov45mo" align="middle" /><br>
+<sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
  
 Before divulging the ELO ratings and quantitative verdict, let’s look at how the model fared across the 24,000 bouts. I have plotted the actual win percentage against the ELO win probabilities. The 45° line would represent a perfect match, with any misalignment indicating a deviation from actual results. 
  
-
+<img src="/gallery/2016/boxing/kov-ward/elo_v_winperc.PNG" alt="elo_v_winperc" align="middle" /><br>
+<sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
  
 The model is reasonably reliable [FN: I messed around with various “K” parameters and the resulting was the best given a non-exhaustive search.] though some caveats are in order. I have not given extra points to bouts early in a fighter's career nor varied the “K” depending on ELO rating level reached (a commonly accepted practice for chess [link]). There is no "time off" discounting. Fighters kept their last achieved ELO rating regardless of how long they went between fights. Though the majority of the fighters hover around the super middleweight and light heavyweight divisions I have taken no special steps to account for ELO points across weight classes. Additionally, no extra consideration was given for how a fighter won or lost. It did not matter if it was by KO, TKO, decision (unanimous, majority, or split), nor what round the fight ended in. Finally, well at least the last limitation of my approach I wish to admit to at this point, is my not awarding any extra points to fighters in championship bouts. This is quite a list of possible weaknesses to the model as currently constructed, but I felt it still provided some guidance.
- 
- 
- 
+
 So who has the advantage? The final ELO ratings were [FN: there were many runs but I am only using here a representative sample run; basically a 30 point ELO difference persisted in Ward’s favor.] 1884 for Kovalev and 1914 for Ward. Using solely the ratings, Ward was favored and given a 54% chance of victory. However, keep in mind the qualifications above plus the greater Kovalev activity, tougher recent competition, high knock out rate, and Ward moving up in weight. 
  
 With the numbers in hand I felt no more confident about making a decision one way or another. Like the fight itself would play out, it seems any which way you cut it and analyze these two fighters against one another you have a tossup, with adequate reasons to favor one fighter over the other, regardless of who you chose.
