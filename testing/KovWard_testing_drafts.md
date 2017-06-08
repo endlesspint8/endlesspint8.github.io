@@ -79,7 +79,7 @@ This has been a fortuitous bout to analyze for the reasons written about here an
 Until the rematch. Let’s see if it settles things more decisively than what we have to date.
 
 
-FN: Kovalev's hist in red/orange peaks at a lower opponent ELO rating and skews right. The opposite can be loosely said for Ward:
+FN: Kovalev's hist in red/orange peaks at a lower opponent ELO rating and skews right. Meanwhile, Ward has a more evenly/normally distributed group of opponents and higher median:
 
 <img src="/gallery/2016/boxing/kov-ward/elo_opp_hist.PNG" alt="elo_opp_hist" align="middle" width="600" /><br>
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
