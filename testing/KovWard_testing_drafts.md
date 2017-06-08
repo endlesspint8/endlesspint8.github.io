@@ -53,7 +53,7 @@ If you are not a fight freak and or you did not bother to tally the dots let me 
 <img src="/gallery/2016/boxing/kov-ward/elo_strengthOfComp.PNG" alt="elo_strengthOfComp" align="middle" /><br>
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
  
-An equal number of bouts was a convenient coincidence in preparing the above chart. Here we plotted the level of competition by noting the opponent ELO rating at each fighter's respective professional bout. We see an overall advantage for Ward, and the numbers bear out his having tougher competition, but not recently. At the tail end of the chart we see Kovalev’s opponents matching and generally surpassing Ward’s opposition. The numbers bear this out as well. 
+An equal number of bouts was a convenient coincidence in preparing the above chart. Here we plotted the level of competition by noting the opponent ELO rating at each fighter's respective professional bout. We see an overall advantage for Ward, and the numbers bear out his having tougher competition, [FN: hist] but not recently. At the tail end of the chart we see Kovalev’s opponents matching and generally surpassing Ward’s opposition. The numbers bear this out as well. 
  
 <img src="/gallery/2016/boxing/kov-ward/elo_last5.PNG" alt="elo_last5" align="middle" /><br>
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
@@ -77,6 +77,12 @@ With the numbers in hand I felt no more confident about making a decision one wa
 This has been a fortuitous bout to analyze for the reasons written about here and the many more elsewhere. The high quality skillset, contrasting styles, tale of two fights with a knockdown early on and a Ward resurgence in the latter half, and controversial though not indefensible decision, gave us a bout that will go down with other fights (ahem, Hagler/Leonard) that people will debate for a long time to come. 
  
 Until the rematch. Let’s see if it settles things more decisively than what we have to date.
+
+
+FN: Kovalev's hist in red/orange peaks at a lower opponent ELO rating and skews right. The opposite can be loosely said for Ward:
+
+<img src="/gallery/2016/boxing/kov-ward/elo_opp_hist.PNG" alt="elo_opp_hist" align="middle" width=600 /><br>
+<sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
 
 
 ---
