@@ -15,10 +15,12 @@ Under construction but no reason not to add the first Mix Six:
 And some of the Sides:
 <br><br>
 
+
+<h4 align="center" id="bubble">Beer Style Bubble Charts</h4>
+
 **From**: _[Data Guide for the Beer Perplexed, Part III - Beer Descriptors](/2017-05-12-beer-introductions-3)_
 
 <p align="center">
-  <h4 align="center" id="bubble">Beer Style Bubble Charts</h4>
   <a href="https://drive.google.com/open?id=0B-sLXgINK1HKZEdjd2twbFdib3c" target="_blank">
     <img src="/gallery/sides/beer_prplxd_III.PNG">
   </a>
