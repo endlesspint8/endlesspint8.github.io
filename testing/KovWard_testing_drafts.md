@@ -23,7 +23,7 @@ If you are not a fight freak and/or did not bother to tally the dots let me info
 <img src="/gallery/2016/boxing/kov-ward/elo2_strengthOfComp.PNG" alt="elo_strengthOfComp" align="middle" /><br>
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
  
-A comparable number of bouts was a convenient coincidence in preparing the above chart. Here we plotted the level of competition by noting the opponent ELO rating at each fighter's respective professional bout. We see an overall advantage for Ward, and the numbers bear out his having tougher competition, [FN: hist] but not recently. At the tail end of the chart we see Kovalev’s opponents matching and generally surpassing Ward’s opposition. The numbers bear this out as well. 
+A comparable number of bouts was a convenient coincidence in preparing the above chart. Here we plotted the level of competition by noting the opponent ELO rating at each fighter's respective professional bout. We see an overall advantage for Ward, and the numbers bear out his having tougher competition, but not recently.<sup id="a4">[4](#f4)</sup> At the tail end of the chart we see Kovalev’s opponents matching and generally surpassing Ward’s opposition. The numbers bear this out as well. 
  
 <img src="/gallery/2016/boxing/kov-ward/elo2_last5.PNG" alt="elo_last5" align="middle" /><br>
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
@@ -38,7 +38,7 @@ Before divulging the ELO ratings and quantitative verdict, let’s look at how t
 <img src="/gallery/2016/boxing/kov-ward/elo3_v_winperc.PNG" alt="elo_v_winperc" align="middle" /><br>
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
 
-The model works reasonably well, showing <a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">decent accuracy and better precision</a>, though some caveats are in order. [FN: I messed around with various “K” and win expectancy parameters and the resulting model was the best fit (RMSE against 50/50 line and trend v. actuals) given a non-exhaustive search.]
+The model works reasonably well, showing <a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">decent accuracy and better precision</a>, though some caveats are in order.<sup id="a5">[5](#f5)</sup> 
  
 * I have not given extra points to bouts early in a fighter's career nor varied the “K” depending on ELO rating level reached (a commonly accepted practice for <a href="https://en.wikipedia.org/wiki/Elo_rating_system#Most_accurate_K-factor" target="_target">chess</a>). 
 * There is no "time off" discounting. Fighters kept their last achieved ELO rating regardless of how long they went between fights. 
@@ -48,26 +48,32 @@ The model works reasonably well, showing <a href="https://en.wikipedia.org/wiki/
 
 This is quite a list of possible weaknesses but I remain confident the model as currently constructed still provides some guidance.
 
-So who had the advantage? The final ELO ratings were 2083 for Kovalev and 2121 for Ward.[FN: there were many runs but I am only using here a representative sample run; basically ~40 point ELO difference persisted in Ward’s favor.] The difference in ratings made Ward the favorite and gave him a 59% chance of victory (the margin grew to 62% when "correcting" with the trend line). However, keep in mind the qualifications above and how they might balcance against the greater Kovalev activity, tougher recent competition, high knock out rate, and Ward moving up in weight. 
+So who had the advantage? The final ELO ratings were 2083 for Kovalev and 2121 for Ward.<sup id="a6">[6](#f6)</sup> The difference in ratings made Ward the favorite and gave him a 59% chance of victory (the margin grew to 62% when "correcting" with the trend line). However, keep in mind the qualifications above and how they might balcance against the greater Kovalev activity, tougher recent competition, high knock out rate, and Ward moving up in weight. 
  
 With the numbers in hand I felt no more confident about making a decision one way or another. Like the fight itself would play out, it seems any which way you cut it and analyze these two fighters against one another you had a tossup, with adequate reasons to favor one fighter over the other, regardless of who you chose.
  
 This has been a fortuitous bout to analyze for the reasons written about here and the many more elsewhere. The high quality skillset, contrasting styles, tale of two fights with a knockdown early on and a Ward resurgence in the latter half, and controversial though not indefensible decision, gave us a bout that will go down with other fights (ahem, Hagler/Leonard) as one people will debate for a long time to come. 
  
-Until the rematch. Let’s see if it settles things more decisively than what we have to date. [FN: post fight ELO: , but what if you thought Kov won? Then an alternate: ]
+Until the rematch. Let’s see if it settles things more decisively than what we have to date.<sup id="a7">[7](#f7)</sup> 
 
-
-FN: Kovalev's hist in red/orange/<a href="https://youtu.be/6SuTLMp6Ytw" target="_target">tangerine</a> peaks at a lower opponent ELO rating and skews right. Meanwhile, Ward has a more evenly/normally distributed group of opponents and higher median:
-
-<img src="/gallery/2016/boxing/kov-ward/elo2_opp_hist.PNG" alt="elo_opp_hist" align="middle" width="600" /><br>
-<sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
-
-FN: Depending on how you saw the first fight ELO has a suggestion on how to see the rematch. I threw in a draw result (difficult to manage in reality with a 10-8 round but...) to split the difference. 
-
-<img src="/gallery/2016/boxing/kov-ward/elo2_pre_post_fight.PNG" alt="elo2_pre_post_fight" align="middle" width="600" /><br>
-<sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
 
 **notes**
+
+<b id="f4">4</b> Kovalev's hist in red/orange/<a href="https://youtu.be/6SuTLMp6Ytw" target="_target">tangerine</a> peaks at a lower opponent ELO rating and skews right. Meanwhile, Ward has a more evenly/normally distributed group of opponents and higher median:
+
+<img src="/gallery/2016/boxing/kov-ward/elo2_opp_hist.PNG" alt="elo_opp_hist" align="middle" width="600" /><br>
+<sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub> 
+<br> [↩](#a4) <br>
+<b id="f5">5</b> I messed around with various “K” and win expectancy parameters and the resulting model was the best fit (RMSE against 45° line & trend v. actuals) given a non-exhaustive search. [↩](#a5) <br>
+<b id="f6">6</b> There were many runs but I am only illustrating with a representative sample run; basically a ~40 point ELO difference persisted in Ward’s favor.  [↩](#a6) <br>
+<b id="f7">7</b> Depending on how you saw the first fight ELO has a suggestion on how to view the rematch. I threw in a draw result to split the difference (difficult to manage in reality with a 10-8 round but...). 
+
+<img src="/gallery/2016/boxing/kov-ward/elo3_pre_post_fight.PNG" alt="elo2_pre_post_fight" align="middle" width="600" /><br>
+<sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub> 
+<br> [↩](#a7) <br>
+
+
+**misc**
 
 [Introduce ELO and bout history capture] [more info? click on link for details/bait]
 
