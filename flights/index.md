@@ -15,7 +15,7 @@ Under construction but no reason not to add the first Mix Six:
 And some of the Sides:
 <br><br>
 
-**From**: _[Data Guide for the Beer Perplexed, Part III - Beer Descriptors](/2017-05-12-beer-introductions-3)_
+<b id="bubble">From</b>: _[Data Guide for the Beer Perplexed, Part III - Beer Descriptors](/2017-05-12-beer-introductions-3)_
 
 <p align="center">
   <b>Beer Style Bubble Charts</b><br><br>
@@ -35,7 +35,7 @@ And some of the Sides:
   <br><br>
 </p>
 
-**From**: _[Then there is no pleasing you - Ten Great Beers get Bizzaro Appreciation](/2016-10-14-great-beers-terrible-reviews)_
+<b id="slope">From</b>: _[Then there is no pleasing you - Ten Great Beers get Bizzaro Appreciation](/2016-10-14-great-beers-terrible-reviews)_
 
 <p align="center">
   <b>BA & RB Rank Mapping via Slopegraph</b><br><br>
