@@ -33,10 +33,12 @@ Looking strictly at each fighter's last five opponents, to get an idea of curren
 <img src="/gallery/2016/boxing/kov-ward/elo2_kov45mo.PNG" alt="elo_kov45mo" align="middle" /><br>
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
  
-Before divulging the ELO ratings and quantitative verdict, let’s look at how the model fared across the 24,000 bouts. I have plotted the actual win percentage against the ELO win probabilities. The 45° line would represent a perfect match, with any misalignment indicating a deviation from actual results. The dots fall consistently above the diagonal line but are grouped fairly tightly together. I added a trend line to better accentuate this. The model works reasonably well, showing <a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">decent accuracy and better precision</a>, though some caveats are in order. [FN: I messed around with various “K” and win expectancy parameters and the resulting model was the best fit (RMSE) given a non-exhaustive search.]
+Before divulging the ELO ratings and quantitative verdict, let’s look at how the model fared across the 24,000 bouts. I have plotted the actual win percentage against the ELO win probabilities. The 45° line would represent a perfect match, with any misalignment indicating a deviation from actual results. The dots fall consistently above the diagonal line but are grouped fairly tightly together. I added a trend line to better accentuate this. 
  
 <img src="/gallery/2016/boxing/kov-ward/elo2_v_winperc.PNG" alt="elo_v_winperc" align="middle" /><br>
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
+
+The model works reasonably well, showing <a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">decent accuracy and better precision</a>, though some caveats are in order. [FN: I messed around with various “K” and win expectancy parameters and the resulting model was the best fit (RMSE) given a non-exhaustive search.]
  
 * I have not given extra points to bouts early in a fighter's career nor varied the “K” depending on ELO rating level reached (a commonly accepted practice for <a href="https://en.wikipedia.org/wiki/Elo_rating_system#Most_accurate_K-factor" target="_target">chess</a>). 
 * There is no "time off" discounting. Fighters kept their last achieved ELO rating regardless of how long they went between fights. 
