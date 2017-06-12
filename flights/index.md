@@ -11,10 +11,12 @@ Under construction but no reason not to add the first Mix Six:
 
 * [Yeast & Hops are Wild](17_1/001 Yeast & Hops are Wild.html)
 
+<br>
+
 ---
 
 <br><br>
-And some of the Sides:
+## And some of the Sides:
 <br><br>
 
 
@@ -29,6 +31,9 @@ And some of the Sides:
   <br><br>
 </p>
 
+---
+<br>
+
 <h4 align="center" id="clean">New York City (Craft Beer) Restaurant Inspection Results</h4>
 
 **From**: _[The Cleanliness of NYC Craft Beer Bar Kitchens](/2016-12-23-clean-food-please)_
@@ -39,6 +44,9 @@ And some of the Sides:
   </a>
   <br><br>
 </p>
+
+---
+<br>
 
 <h4 align="center" id="slope">BA & RB Rank Mapping via Slopegraph</h4>
 
