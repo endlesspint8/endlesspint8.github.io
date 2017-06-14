@@ -9,7 +9,7 @@ subtitle: aka Past Newsletters and Extra Material
 
 Under construction but no reason not to add the first Mix Six:
 
-* [Yeast & Hops are Wild](17_1/001 Yeast & Hops are Wild.html)
+* _[Yeast & Hops are Wild](17_1/001 Yeast & Hops are Wild.html)_
 
 <br>
 
