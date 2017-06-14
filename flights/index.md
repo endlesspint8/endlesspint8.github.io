@@ -6,6 +6,7 @@ subtitle: aka Past Newsletters and Extra Material
 
 # Always brewing...
 
+<a href="http://eepurl.com/cj8urH" target="_blank">Sign up</a> for the latest batch of data-related beer pieces and miscellany straight to your inbox. Otherwise circle back to this page for incidental updates.
 
 Under construction but no reason not to add the first Mix Six:
 
