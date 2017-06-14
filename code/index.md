@@ -33,10 +33,13 @@ Scraping Template: <a href="https://github.com/cs109/content/blob/master/labs/la
 >
 > * [round scoring simulation](kov_ward_sim_bouts) based on Twitter user scores; <br>
 > * [round features & judges' scores](kov_ward_rd_feat) analysis; <br>
-> * [ELO ratings], before and after <br>
+> * [ELO ratings](http://endlesspint.com/2016-11-25-kovalev-ward-post-fight-data-analysis/#well-hello-elo), before and after <br>
 
 <img src="/gallery/2016/boxing/kov-ward/kov_rnd_twt_scoring.PNG" alt="kov_rnd_twt_scoring" align="middle" /><br>
 <sub>Data Source: Twitter</sub>
+
+<img src="/gallery/2016/boxing/kov-ward/elo2_ratings_timeline.PNG" alt="elo_ratings_timeline" align="middle" /><br>
+<sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a></sub>
 
 ### [Suds in the City](/2016-11-04-whole-foods-trader-joes-beer)
 >
