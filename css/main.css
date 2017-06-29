@@ -507,6 +507,15 @@ footer .theme-by {
   margin-bottom: 30px;
 }
 
+/* --- Blog post sign-off --- */
+
+.post-sign-off{
+   display: inline-block;
+   width:   18px;
+   height:  18px;
+   background-image: url("/apple-icon-57x57.png");
+}
+
 /* --- Pager --- */
 
 .pager li a {
