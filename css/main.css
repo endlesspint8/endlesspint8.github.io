@@ -511,8 +511,8 @@ footer .theme-by {
 
 .post-sign-off{
    display: inline-block;
-   width:   18px;
-   height:  18px;
+   width:   "18";
+   height:  "18";
    background-image: url("/apple-icon-57x57.png");
 }
 
