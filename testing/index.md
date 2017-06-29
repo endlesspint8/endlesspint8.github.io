@@ -10,7 +10,7 @@ sideof: ["End of season", "http://eepurl.com/cj8urH", "visualizations, updated a
 
 [latest and greatest](2017-06-23-summer-bummer-2016)
 
-[KovWard wrap](KovWard_testing_drafts)
+[post prep](post-prep)
 
 ## Week 14 - Slippery Slope 
 
