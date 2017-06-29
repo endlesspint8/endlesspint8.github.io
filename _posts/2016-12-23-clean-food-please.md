@@ -9,7 +9,7 @@ image: http://endlesspint.com/gallery/2016/health-insp/grade_timeline.png
 sideof: ["Table listing", "http://eepurl.com/cj8urH", "of Craft Bar inspection results."]
 ---
 
-Much is asked of New Yorkers, from high rent, congestion, overstuffed subway cars, and extreme weather conditions, to crowded tourist traps, inconsiderate assess who stand in front of subway doors, and dealing with being attached to a country that is determined to repeatedly vote against its own interests. For this it is fair that we ask and receive some things in return. 
+Much is asked of New Yorkers, from high rent, congestion, overstuffed subway cars, and extreme weather conditions, to crowded tourist traps, inconsiderate asses who stand in front of subway doors, and dealing with being attached to a country that is determined to repeatedly vote against its own interests. For this it is fair that we ask and receive some things in return. 
 
 We ask these things as citizens, family members, customers and as members of various groups. When forking over that hard earned cash that's made just a bit more discretionary by subjecting ourselves to living with perfect strangers it is right and fair that we receive in return something of value and quality. Perhaps a steal is too much to ask for but a fair deal nonetheless. 
 
