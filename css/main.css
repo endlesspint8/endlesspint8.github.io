@@ -511,9 +511,10 @@ footer .theme-by {
 
 .post-sign-off{
    display: inline-block;
-   width:   100px;
-   height:  100px;
+   width:   18px;
+   height:  18px;
    background-image: url("/apple-icon-57x57.png");
+   background-size: 18px;
 }
 
 /* --- Pager --- */
