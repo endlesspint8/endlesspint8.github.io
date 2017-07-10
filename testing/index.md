@@ -8,7 +8,7 @@ shortlink: http://bit.ly/2dxLtd9
 sideof: ["End of season", "http://eepurl.com/cj8urH", "visualizations, updated and accompanied with new content."]
 ---
 
-[latest and greatest](2017-06-23-summer-bummer-2016)
+[latest and greatest](2017-07-14-ted-squared-okay-to-fear-superintelligent-ai)
 
 [post prep](post-prep)
 
