@@ -1,8 +1,8 @@
 ---
 layout: post
-title: TED<sup>2</sup> - AI, It's okay to start freaking out now.
-subtitle: A Fabricated Debate Around AI Worries
-tags: ["GiniIndex", "PublicDrinking"]
+title: TED<sup>2</sup> - It's okay to start freaking out about AI
+subtitle: Constructing a Debate Around AI Worries
+tags: ["superintelligence", "BuggingOut"]
 shortlink: 
 twitimg: 
 image: 
