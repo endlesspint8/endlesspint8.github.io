@@ -1,7 +1,7 @@
 ---
 layout: post
-title: TED<sup>2</sup> - It's okay to start freaking out about AI
-subtitle: Constructing a Debate Around AI Worries
+title: TED<sup>2</sup> - It's okay to start freaking out about AI, like yesterday
+subtitle: Constructing a Debate Around AI Concerns & Lack Thereof
 tags: ["superintelligence", "BuggingOut"]
 shortlink: 
 twitimg: 
