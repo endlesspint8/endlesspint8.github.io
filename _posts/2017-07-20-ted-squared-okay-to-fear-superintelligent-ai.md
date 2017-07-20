@@ -45,7 +45,7 @@ Should we create an entity of viable artificial general intelligence (AGI), give
 The prospect of such a resource raises concerns for a number of different areas: economic winner-take-all scenarios, political oppression, and possible rival country first strikes to suppress AGI release, to name just the near term human created concerns. Beyond this is the worry of an AGI that does not share our values and possibly does not recognize our "worth". Any divergence in interests could resemble the relationship between a building developer and an anthill with humans in the role of the ants. 
 
 
-## SALIENT POINTS
+## Salient Points
 
 **Major Pollyana points**: 
 
@@ -67,7 +67,7 @@ The prospect of such a resource raises concerns for a number of different areas:
 - Divergence in values or view on our worth could be catastrophic to humanity
 
 
-## CONVERGENCE
+## Convergence
 
 Before getting contentious I will outline the points of agreement between the two presentations. 
 
@@ -79,7 +79,7 @@ Before getting contentious I will outline the points of agreement between the tw
 <li>The final point on which I see convergence is the recognition that the path to AI is already impacting us today and some versions of what the future may look like can be glimpsed by looking at the <a href="https://www.youtube.com/watch?v=xEwtM0pKOV0" target="_blank">labor disruption</a> and <a href="https://www.brookings.edu/book/dream-hoarders/" target="_blank">capital/resource concentration</a> currently occurring and expected to accelerate if unimpeded. </li>
 </ol>
 
-## “ATTACK” ON HARRIS
+## “ATTACK” on Harris
 
 I found myself agreeing with the Harris position before coming across these two talks. It is important to put that out there to clearly state any potential bias, but it is not as if I have not been convinced to back off of my “eccentric” worries (Agar 2016) in granting too much volition to our machines (Brooks 2014) by some of the other resources I looked into in preparation for this piece.
 
@@ -90,7 +90,7 @@ Each of these assumptions require their own set of arguments to substantiate, mo
 Harris is so well spoken, measured and logical the listener is left wondering if we are not already in the presence of an artificial intelligence. His presentation is well thought out and succinct, hitting on many relevant and frightening issues with an economy of words and time. If this is how AI is going to be it’s not so bad. However, if you want to see the subtle ways machines are still far below our capabilities we need look to our other speaker, who through verbal misdirection does an even more impressive job of instilling fear of artificial general intelligence.
 
 
-## WELL, HAND ME A BADGE AND CALL ME AGENT KUJAN
+## Well, Hand me a badge and call me Agent Kujan
 
 The intention of this piece was to bring in two presentations for an interrogation of their positions and determine who proved the more reliable witness. By bringing in opposing views we might better triangulate what our proper level of AI concern should be. 
 
@@ -111,7 +111,7 @@ When you step back to see what he has laid out and the picture he's painted you 
 Don’t believe me? Let’s tie up those loose ends together.
 
 
-## THE GREATEST TRICK THE DEVIL EVER PULLED…
+## The Greatest Trick the Devil ever Pulled…
 
 
 **_The way i hear it..._** (Incomplete)
