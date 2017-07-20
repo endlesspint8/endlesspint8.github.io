@@ -90,7 +90,7 @@ Each of these assumptions require their own set of arguments to substantiate, mo
 Harris is so well spoken, measured and logical the listener is left wondering if we are not already in the presence of an artificial intelligence. His presentation is well thought out and succinct, hitting on many relevant and frightening issues with an economy of words and time. If this is how AI is going to be it’s not so bad. However, if you want to see the subtle ways machines are still far below our capabilities we need look to our other speaker, who through verbal misdirection does an even more impressive job of instilling fear of artificial general intelligence.
 
 
-## Well, Hand me a badge and call me Agent Kujan
+## Well, hand me a badge and call me Agent Kujan
 
 The intention of this piece was to bring in two presentations for an interrogation of their positions and determine who proved the more reliable witness. By bringing in opposing views we might better triangulate what our proper level of AI concern should be. 
 
@@ -111,7 +111,7 @@ When you step back to see what he has laid out and the picture he's painted you 
 Don’t believe me? Let’s tie up those loose ends together.
 
 
-## The Greatest Trick the Devil ever Pulled…
+## The greatest trick the Devil ever pulled…
 
 
 **_The way i hear it..._** (Incomplete)
