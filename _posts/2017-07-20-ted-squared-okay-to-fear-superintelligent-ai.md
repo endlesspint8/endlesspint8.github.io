@@ -5,7 +5,7 @@ subtitle: Keyser Söze Derails a Constructed Debate Around AI & Makes Things Emo
 tags: ["superintelligence", "BuggingOut"]
 shortlink: 
 twitimg: 
-image: 
+image: http://endlesspint.com/gallery/2017/ai_fears/kobayashi-mug-from-the-usual-suspects-1814[1].jpg
 sideof: []
 ---
 
