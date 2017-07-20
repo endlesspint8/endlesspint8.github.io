@@ -9,15 +9,11 @@ image:
 sideof: []
 ---
 
-## Whatchya got
-
-SUBTITLE
+## SUBTITLE
 
 A constructed debate goes off the rails when one of the tapped presenters pulls a Keyser Söze on the subject of AI and we are left with both rational and emotional reasons to be concerned. 
 
-
-
-INTRO 
+## INTRO 
 
 AI development has reached a point where it is no longer the concern solely of researchers, this paper being a case in point. The impacts of greater information processing, robotics, automation and autonomous systems have far reaching consequences that extend to all present societies and likely all future generations. The ability of citizens to inform themselves and speak intelligently on the matter is crucial for devising inclusive policy responses to changes in economics, politics and culture. Consider this just one more crank’s foray into an increasingly fashionable field. [Bostrom (2014, 376)]
 
@@ -27,13 +23,11 @@ What follows is a summarization of the two viewpoints, a listing of salient argu
 
 That was the plan in any case. Things got interesting the further we dug into one of the talks.
 
+## SUMMARY POSITIONS
 
+**Pollyanna** - [Grady Booch](https://en.wikipedia.org/wiki/Grady_Booch); [Don't fear superintelligent AI](https://www.ted.com/talks/grady_booch_don_t_fear_superintelligence)
 
-SUMMARY POSITIONS
-
-Pollyanna - [Grady Booch](https://en.wikipedia.org/wiki/Grady_Booch); [Don't fear superintelligent AI](https://www.ted.com/talks/grady_booch_don_t_fear_superintelligence)
-
-Summary: Modern movies have played on "our fears of being subjugated by some unfeeling, artificial intelligence who is indifferent to our humanity." Grady Booch believes "such fears are unfounded." The advance in computing has provided him with the confidence that AI can be built. The list of activities and abilities are large, growing in sophistication, and ever expanding. Systems are able to input data from millions of devices and predict failure, communicate with humans in natural language, "recognize objects, identify emotions,… set goals,… and learn along the way.” A theory of mind is not far behind and "we must learn how to [build systems that have an ethical and moral foundation]". 
+_Summary_: Modern movies have played on "our fears of being subjugated by some unfeeling, artificial intelligence who is indifferent to our humanity." Grady Booch believes "such fears are unfounded." The advance in computing has provided him with the confidence that AI can be built. The list of activities and abilities are large, growing in sophistication, and ever expanding. Systems are able to input data from millions of devices and predict failure, communicate with humans in natural language, "recognize objects, identify emotions,… set goals,… and learn along the way.” A theory of mind is not far behind and "we must learn how to [build systems that have an ethical and moral foundation]". 
 
 New technologies incite trepidation that so far have proven overblown when applied to cars, telephones, and the written word. There has been some degree of truth to our fears but more often “these technologies brought to us things that extended the human experience in some profound ways." 
 
@@ -44,9 +38,9 @@ Two overblown concerns revolve around rogue agents, who cannot possibly misuse A
 We are part of "an incredible journey of co-evolution with our machines" which will further extend human experience. AI/superintelligence worries are a dangerous distraction from very real issues here with us today having to do with a decline in human labor needs, the sensibility needed when aiming to educate the world but at the same time respecting our differences, extending and expanding human life, and quite possibly solving how to "take us to the stars." It is an exciting time and we are just at the beginning.
 
 
-Cassandra - [Sam Harris](https://www.samharris.org/); [Can we build AI without losing control over it?](https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it)
+**Cassandra** - [Sam Harris](https://www.samharris.org/); [Can we build AI without losing control over it?](https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it)
 
-Summary: The two scenarios are we continue to work on and improve artificial intelligence or we stop. The thought of what would be required for the latter to happen, given the importance, power, and desirability of more intelligence, would be quite frightening and likely entail serious derailment to our society/civilization. Assuming we do not destroy or irreversibly setback our civilization we will continue to press forward. However, this alternative is not necessarily a cheery one. 
+<u>Summary</u>: The two scenarios are we continue to work on and improve artificial intelligence or we stop. The thought of what would be required for the latter to happen, given the importance, power, and desirability of more intelligence, would be quite frightening and likely entail serious derailment to our society/civilization. Assuming we do not destroy or irreversibly setback our civilization we will continue to press forward. However, this alternative is not necessarily a cheery one. 
 
 Based on intelligence being nothing more than information processing, having machines capable of such processing, a continued effort to improve this mechanism, and the likelihood that we are not the pinnacle of intelligence, it would seem that it is only a matter of time before we bring about superintelligence. 
 
@@ -55,30 +49,29 @@ Should we create an entity of viable artificial general intelligence (AGI), give
 The prospect of such a resource raises concerns for a number of different areas: economic winner-take-all scenarios, political oppression, and possible rival country first strikes to suppress AGI release, to name just the near term human created concerns. Beyond this is the worry of an AGI that does not share our values and possibly does not recognize our "worth". Any divergence in interests could resemble the relationship between a building developer and an anthill with humans in the role of the ants. 
 
 
-
-SALIENT POINTS
+## SALIENT POINTS
 
 Major Pollyana points: 
-AI will be built
-Values need to be installed so as to have our best interests in mind
-Rogue agents/lone wolves will not be able to unleash this capability
-Super knowing different from super doing
-AI will only have limited ability to manipulate the world
-AI would have to compete with us economically
-We can always unplug them
-AI/superintelligence worries are a dangerous distraction from the risks already here with us today
 
-Major Cassandra points:
-AI is coming; fast or slow, it’s just a matter of time
-Assuming we don’t destroy ourselves we will continue to push forward
+- AI will be built
+- Values need to be installed so as to have our best interests in mind
+- Rogue agents/lone wolves will not be able to unleash this capability
+- Super knowing different from super doing
+- AI would have to compete with us economically
+- We can always unplug them
+- AI/superintelligence worries are a dangerous distraction from the risks already here with us today
+
+**Major Cassandra points**:
+
+- AI is coming; fast or slow, it’s just a matter of time
+- Assuming we don’t destroy ourselves we will continue to push forward
 We are probably not the pinnacle of intelligence
 Only a matter of time before we have a self improving machine
 Impact of such an AI or its prospect: first strike attacks, hyper wealth concentration
 Divergence in values or view on our worth could be catastrophic to humanity
 
 
-
-CONVERGENCE
+## CONVERGENCE
 
 Before getting contentious I will outline the points of agreement between the two presentations. 
 
@@ -89,8 +82,7 @@ There appears to be a tacit agreement on the possibility of machines having supe
 The final point on which I see convergence is the recognition that the path to AI is already impacting us today and some versions of what the future may look like can be glimpsed by looking at the [labor disruption](https://www.youtube.com/watch?v=xEwtM0pKOV0) and [capital/resource concentration](https://www.brookings.edu/book/dream-hoarders/) currently occurring and expected to accelerate if unimpeded. 
 
 
-
-“ATTACK” ON HARRIS
+## “ATTACK” ON HARRIS
 
 I found myself agreeing with the Harris position before coming across these two talks. It is important to put that out there to clearly state any potential bias, but it is not as if I have not been convinced to back off of my “eccentric” worries (Agar 2016) in granting too much volition to our machines (Brooks 2014) by some of the other resources I looked into in preparation for this piece.
 
@@ -101,8 +93,7 @@ Each of these assumptions require their own set of arguments to substantiate, mo
 Harris is so well spoken, measured and logical the listener is left wondering if we are not already in the presence of an artificial intelligence. His presentation is well thought out and succinct, hitting on many relevant and frightening issues with an economy of words and time. If this is how AI is going to be it’s not so bad. However, if you want to see the subtle ways machines are still far below our capabilities we need look to our other speaker, who through verbal misdirection does an even more impressive job of instilling fear of artificial general intelligence.
 
 
-
-WELL, HAND ME A BADGE AND CALL ME AGENT KUJAN
+## WELL, HAND ME A BADGE AND CALL ME AGENT KUJAN
 
 The intention of this piece was to bring in two presentations for an interrogation of their positions and determine who proved the more reliable witness. By bringing in opposing views we might better triangulate what our proper level of AI concern should be. 
 
@@ -123,11 +114,10 @@ When you step back to see what he has laid out and the picture he's painted you 
 Don’t believe me? Let’s tie up those loose ends together.
 
 
+## THE GREATEST TRICK THE DEVIL EVER PULLED…
 
-THE GREATEST TRICK THE DEVIL EVER PULLED…
 
-
-The way i hear it... (Incomplete)
+**_The way i hear it..._** (Incomplete)
 
 Let's start with the big one which coincidently occurs early on in the talk. Booch enumerates the many things computers can and will be able to do. The rattling off of tasks and services serves to illustrate the awesome array of activities that we see and can reasonably expect to be exposed to. The wrapup rhetorical questions to this list culminates with the big one of building systems with an ethical and moral foundation. The punchline: “this we must learn to do." While previous examples are in the bag, illustrating the (cognitive-like) capabilities and expected increasing abilities the question of whether these machines are aligned with our values is open ended. 
 
@@ -138,16 +128,15 @@ A statement that we will return to in its fuller context, but whose spirit is re
 The speaker celebrates the progress of humanity through time by way of certain technologies. He references previous fears met with and partially realized but overall eclipsed by the increase in human experience and overall well-being. AI would undeniably have some of the same mixed results but the scale, sophistication, and speed of this latest advance is so different as to possibly not follow the previous outcomes of past technologies (Bostrom 2013), which while monumental in their own right played out in slower, more localized, uneven ways. There was time to digest and readjust. We may have no chance to do either this time.
 
 
-
-Back when I was picking beans in Guatemala (Misleading)
+**_Back when I was picking beans in Guatemala_ (Misleading)**
 
 In this section we witness two primary tricks by which the presenter misdirects the audience. The first is with the flexible use of the terms AI and superintelligence. The title of the talk mentions superintelligence directly and toward the end of the talk Bostrom is referenced by name. Additionally, there are some details sprinkled throughout that suggest Booch has this concept in mind, at times. At other times he steps away from an AGI/superintelligence framework and instead describes something a bit more narrow, apparently vacillating as it suits his argument.
 
-Inconsistent
+_Inconsistent_
 
 The first hint at this tactic is when he refers to "a hard engineering problem with elements of AI". If we are talking about just more powerful computers, more clever algorithms, or access to more data, differences in quantity and not quality, then we may be sure that we have narrow AI in mind (Brooks 2014). This is hardly the foremost concern in people's mind, especially after the speaker references movies such as "The Terminator" and "The Matrix" to set the stage. This is a subtle case of [bait and switch](https://www.theatlantic.com/technology/archive/2017/03/what-is-artificial-intelligence/518547/). The title grabs you, the intro primes you, and then we are talking about flower classifications and more friendly-tuned personal assistants that we can take on our journey to Mars. None of these near term narrow AI issues and challenges are of direct interest or concern to the work of Bostrom [in dealing with superintelligence](https://itunes.apple.com/nl/podcast/hardtalk/id494517111?l=en&mt=2&i=1000352184804).
 
-Irrelevant
+_Irrelevant_
 
 The second way that we are misled is in the descriptions of what would be required for an AI (presumably AGI now) to have the abilities that are at the root of our "fears". In an effort to put us at ease and gain some perspective we are reassured that "[w]e are not building AI’s that control the weather, that direct the tides, that command us capricious, chaotic humans." Huh? I am not sure where Booch gets this picture from. I do not recognize it from either the movies he mentions or Bostrom’s book. This line of argument appears to be a red herring and an unnecessary distraction (like the second half of this sentence). 
 
@@ -156,9 +145,7 @@ Booch gets a bit more specific when he revisits this premise and outlines what w
 Booch retains his confidence and easy manner throughout, almost doing a [Jedi mindtrick](https://youtu.be/GO_xfR64qSk).
 
 
-
-
-A rumor's not a rumor that doesn't die… (Contradictory)
+**_A rumor's not a rumor that doesn't die…_ (Contradictory)**
 
 Loosely tying together the previous two sections we have elements of each combined to raise an issue regarding consistency. At least “consistency” as a theme and how it introduces contradictions. Several times we are told about eventual value embedding and that through exposure to our legal system “a sense of our values” will also come along for the ride. That hardly seems to be in question or worth arguing about. How much, what combination, and will it be sufficient are more interesting topics (Russell 2015).
 
@@ -174,8 +161,7 @@ Human history is chock full of oppression, abuse, coercion and exploitation. Unf
 To highlight again the contradiction of the position, consider also the standards being applied. It would appear far more likely that a superintelligence would be able to abuse and take advantage of us, purposefully or incidentally ([paper clips, anyone](https://youtu.be/RSknP0Y9WCo)?), than for it to be in line with our values as we would wish for them to be interpreted and applied against us now that we are in a less advantageous role. Let us also remember, and while this is not a direct counter to the presentation, it is inline with the theme of contradictions, that our actions as humans are very often at odds with the things we profess to stand for (see: [Zambrano, Lucifer Effect](http://www.prisonexp.org/book/)). Many of us (past, present, in the future no doubt, collectively and as individuals) have played lip service to our higher standards and aspirations, truly only holding strong to them when found in a wanting position but having no qualms in setting aside those very same ideals and laws when it has suited our needs and proven expeditious to our desires. To circle back to the presentation, have we not provided a machine intelligence with ample evidence of how to subjugate us humans by simply teaching it our history?
 
 
-
-A man can convince anyone he's somebody else, but never himself. (Superficial)
+**_A man can convince anyone he's somebody else, but never himself._ (Superficial)**
 
 And now we are at the most fun and lighthearted of the sections of objections. Why should we be any more somber with our criticism than the speaker is about his topic? This may prove to be a serious subject, perhaps the most consequential of the 21st century as Bostrom reminds us, [though Mother Nature and our change of the climate may have something to say about that](https://youtu.be/WmVLcj-XKnM), but there is no reason to take ourselves too seriously here. 
 
@@ -194,10 +180,7 @@ The most quixotic statement has to be about AI “hav[ing] to compete with human
 Lastly, “don’t tell Siri this - we can always unplug them.” Another highly speculative and overly sanguine prediction. It is far more likely that even if we had the option to unplug such a system we may be in the predicament of having integrated it with other (critical) infrastructure and systems we depend on, leaving us in the fragile condition of the cure being as bad as the disease (all our systems [food, energy, water, transportation, trade, finance] grinding to a [temporary] halt).
 
 
-
-
-
-How do you shoot the devil in the back? What if you miss?
+## How do you shoot the devil in the back? What if you miss?
 
 And so there you have it. What should have been a constructed debate consisting of presentations of opposing views turned into an one-sided piece. I suppose we are still left with the option of deciding [who did it best](http://www.usmagazine.com/celebrity-style/who-wore-it-best). A matter of taste plays into the verdict but whether or not you prefer your arguments tightly presented, logically tied together and rationally delivered there is something to be said for the conniving manner of the other approach. When executed correctly it is difficult to argue that it is not more effective as a rhetorical device. After all, we are not discussing mathematical proofs here. This is where Booch appears to understand his audience better than Harris. 
 
@@ -208,39 +191,33 @@ At some point a sympathetic listener finds herself going from an unconscious nod
 Thank you Booch for your masterful work. Your final proposition might be honest [FN: AI Risk Denier (Pistono and Yampolskiy 2016).] or ironic but your method of building up to it is profoundly instructive. [FN: paraphrasing a William James endnote in The Varieties of Religious Experience]
 
 
-
-Final bulletin board scene
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BQpfa9RZbTk" frameborder="0" allowfullscreen></iframe>
 
 
+---
+
+**REFERENCES**
 
 
-REFERENCES
-
-Don’t Worry about Superintelligence
 Agar. N. 2016. Don’t Worry about Superintelligence. Journal of Evolution and Technology 26(1) (February): 73-82. Available at http://jetpress.org/v26.1/agar.htm (accessed April 14, 2017).
 Concrete Problems in AI Safety
+
 Amodei, D. et al. 2016. Concrete Problems in AI Safety. arXiv:1606.06565v2 [cs.AI]. Available at https://arxiv.org/abs/1606.06565 (accessed April 14, 2017).
 
 Bostrom, N. 2014. Superintelligence: Paths, dangers, strategies. Oxford: Oxford University Press.
 
-Ethical Issues in Advanced Artificial Intelligence
 Bostrom, N. 2003. Ethical Issues in Advanced Artificial Intelligence. Cognitive, Emotive and Ethical Aspects of Decision Making in Humans and in Artificial Intelligence 2(I): 12-17. Available at http://www.nickbostrom.com/ethics/ai.html#_ftn1 (accessed February 27, 2017).
 
 Brooks, R. 2014. Artificial intelligence is a tool, not a threat. Rethink Robotics (blog). http://www.rethinkrobotics.com/blog/artificial-intelligence-tool-threat/ (accessed June 6, 2017).
 
-Nine Ways to Bias Open-Source AGI Toward Friendliness
 Goertzel. B. and J. Pitt. 2012. Nine ways to bias open-source AGI toward friendliness. Journal of Evolution and Technology 22(1) (February): 116–31. Available at http://jetpress.org/v22/goertzel-pitt.pdf (accessed June 6, 2017).
 
 Horvitz, E., and B. Selman. 2009. Interim Report from the Panel Chairs. AAAI Presidential Panel on Long Term AI Futures. AAAI Panel held 21–22 February, Pacific Grove, CA. Available at www.aaai.org/Organization/Panel/panel-note.pdf (accessed July 20, 2017).
 
-WHY WE NEED FRIENDLY AI
 Muehlhauser, L. and N. Bostrom. 2014. WHY WE NEED FRIENDLY AI. Think, 13(36): 41-47 doi:10.1017/S1477175613000316. Available at http://journals.cambridge.org/abstract_S1477175613000316 (accessed March 2, 2017).
 
-Unethical Research: How to Create a Malevolent Artificial Intelligence
 Pistono. F. and R.V. Yampolskiy. 2016. Unethical Research: How to Create a Malevolent Artificial Intelligence. arXiv:1605.02817 [cs.AI]. Available at https://arxiv.org/abs/1605.02817 (accessed April 14, 2017).
 
-Research Priorities for Robust and Beneficial Artificial Intelligence 
 Russell, S., D. Dewey, and M. Tegmark. 2015. Research Priorities for Robust and Beneficial Artificial Intelligence. Association for the Advancement of Artificial Intelligence. Available at https://futureoflife.org/data/documents/research_priorities.pdf (accessed July 8, 2017).
 
 Yudkowsky, E. 2002. The AI Box Experiment. Webpage. Available at http://sysopmind.com/essays/aibox.html  (accessed July 13, 2017).
