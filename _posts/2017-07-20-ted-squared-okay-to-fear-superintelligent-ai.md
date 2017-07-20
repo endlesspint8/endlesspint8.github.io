@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TED<sup>2</sup> - It's okay to start freaking out about AI, like yesterday
-subtitle: Constructing a Debate Around AI Concerns & Lack Thereof
+subtitle: Keyser Söze Derails a Constructed Debate Around AI & Makes Things Emotional
 tags: ["superintelligence", "BuggingOut"]
 shortlink: 
 twitimg: 
@@ -9,13 +9,9 @@ image:
 sideof: []
 ---
 
-## SUBTITLE
+## Intro 
 
-A constructed debate goes off the rails when one of the tapped presenters pulls a Keyser Söze on the subject of AI and we are left with both rational and emotional reasons to be concerned. 
-
-## INTRO 
-
-AI development has reached a point where it is no longer the concern solely of researchers, this paper being a case in point. The impacts of greater information processing, robotics, automation and autonomous systems have far reaching consequences that extend to all present societies and likely all future generations. The ability of citizens to inform themselves and speak intelligently on the matter is crucial for devising inclusive policy responses to changes in economics, politics and culture. Consider this just one more crank’s foray into an increasingly fashionable field. [Bostrom (2014, 376)]
+AI development has reached a point where it is no longer the concern solely of researchers, this paper being a case in point. The impacts of greater information processing, robotics, automation and autonomous systems have far reaching consequences that extend to all present societies and likely all future generations. The ability of citizens to inform themselves and speak intelligently on the matter is crucial for devising inclusive policy responses to changes in economics, politics and culture. Consider this just one more crank’s foray into an increasingly fashionable field (Bostrom 2014, 376).
 
 Two presentations with different conclusions on the level of concern we should harbor regarding superintelligence got me thinking, which one should I trust. Really, which one should we all pay more heed to? In the spirit of mashups I took these two [TED talks](https://www.ted.com/talks) on the topic and pitt them in a fabricated debate, a al [Intelligence Squared](http://www.intelligencesquared.com/).
 
@@ -23,7 +19,7 @@ What follows is a summarization of the two viewpoints, a listing of salient argu
 
 That was the plan in any case. Things got interesting the further we dug into one of the talks.
 
-## SUMMARY POSITIONS
+## Summary Positions
 
 **Pollyanna** - [Grady Booch](https://en.wikipedia.org/wiki/Grady_Booch); [Don't fear superintelligent AI](https://www.ted.com/talks/grady_booch_don_t_fear_superintelligence)
 
@@ -176,7 +172,7 @@ Values are the crux of this whole thing. How to instantiate an agent with our we
 
 There be lone wolves and rogue nations out there but fear not for they can not possibly bring about AI on their own. However, the technical thresholds for implementing many machine learning and AI technologies are falling daily. What once required [the ability of a wunderkind](https://www.bloomberg.com/features/2015-george-hotz-self-driving-car/) is now [being taught in online courses](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013). There are presently a “wide availability of high-quality machine learning and scientific calculation libraries” (Bostrom 2014, 363) and we have good reason to believe this will continue to be the case, all just a git repo clone away. 
 
-The most quixotic statement has to be about AI “hav[ing] to compete with human economies, and thereby compete for resources with us.” I cannot tell if this a point for or against his argument. An AI advance enough to compete with us would dust us! I suppose I know one movie prequel Booch has missed, which speaks directly to this issue, The Animatrix "The Second Renaissance, Parts I and II". Spoiler: we lose. Beyond the intelligence horsepower and speed deficiency we also have to deal with contiguity of objectives concerns [Goal coordination (Bostrom 2014, 74)]. AI can far more easily align their/its actions. Meanwhile, we have people today willing to [sell nuclear weapons to extremists](https://www.csis.org/analysis/nuclear-smuggling-moldova-isis). Lenin may prove precient when it comes to a human-AI showdown when he suggested that the capitalists would [sell them the ropes they would be hung with](https://www.brainyquote.com/quotes/quotes/j/josephstal155812.html).
+The most quixotic statement has to be about AI “hav[ing] to compete with human economies, and thereby compete for resources with us.” I cannot tell if this a point for or against his argument. An AI advance enough to compete with us would dust us! I suppose I know one movie prequel Booch has missed, which speaks directly to this issue, _The Second Renaissance, Parts I and II_ of "The Animatrix". Spoiler alert: we lose. Beyond the intelligence horsepower and speed deficiency we also have to deal with contiguity of objectives concerns, aka goal coordination (Bostrom 2014, 74). AI can far more easily align their/its actions. Meanwhile, we have people today willing to [sell nuclear weapons to extremists](https://www.csis.org/analysis/nuclear-smuggling-moldova-isis). Lenin may prove precient when it comes to a human-AI showdown when he suggested that the capitalists would [sell them the ropes they would be hung with](https://www.brainyquote.com/quotes/quotes/j/josephstal155812.html).
 
 Lastly, “don’t tell Siri this - we can always unplug them.” Another highly speculative and overly sanguine prediction. It is far more likely that even if we had the option to unplug such a system we may be in the predicament of having integrated it with other (critical) infrastructure and systems we depend on, leaving us in the fragile condition of the cure being as bad as the disease (all our systems [food, energy, water, transportation, trade, finance] grinding to a [temporary] halt).
 
