@@ -65,22 +65,23 @@ The prospect of such a resource raises concerns for a number of different areas:
 
 - AI is coming; fast or slow, it’s just a matter of time
 - Assuming we don’t destroy ourselves we will continue to push forward
-We are probably not the pinnacle of intelligence
-Only a matter of time before we have a self improving machine
-Impact of such an AI or its prospect: first strike attacks, hyper wealth concentration
-Divergence in values or view on our worth could be catastrophic to humanity
+- We are probably not the pinnacle of intelligence
+- Only a matter of time before we have a self improving machine
+- Impact of such an AI or its prospect: first strike attacks, hyper wealth concentration
+- Divergence in values or view on our worth could be catastrophic to humanity
 
 
 ## CONVERGENCE
 
 Before getting contentious I will outline the points of agreement between the two presentations. 
 
-Both speakers believe that AI can be built. Harris adds the insightful caveat that given the importance of having more intelligence the alternative to not bringing about AI may very well be the result of societal collapse. 
-This is assuming that we have some general idea presently or in the near future on how to create increasingly smart machines. This would be the second point of agreement. Booch is bolstered by the technological advances he has seen and Harris points out that intelligence may very well be nothing more than information processing. 
-A third area of convergence is around the idea of imbuing these powerful machines with values aligned with our own. Booch is sanguine on this point believing it to be an extension of supervised learning. Harris does not disclose his level of optimism on this point, though this viewer was left feeling he was distinctly less confident, but conjures up the stakes involved by way of pointing out how we treat ants, neither with undue disdain nor comparable moral worth, and suggesting this relationship might fit an AI-human relationship should we misjudge. 
-There appears to be a tacit agreement on the possibility of machines having superior “knowledge” to humans. This seems uncontroversial even today in narrow ways (chess, Go, spreadsheets, etc) and for what appears to be around the corner (self driving cars helping to mitigate accident deaths). Booch at least entertains the idea by reassuring the audience that that capability does no outright translate into “super doing”, while Harris explicitly states the likelihood that we are not the pinnacle of intelligence, helping to further couch the stakes. 
-The final point on which I see convergence is the recognition that the path to AI is already impacting us today and some versions of what the future may look like can be glimpsed by looking at the [labor disruption](https://www.youtube.com/watch?v=xEwtM0pKOV0) and [capital/resource concentration](https://www.brookings.edu/book/dream-hoarders/) currently occurring and expected to accelerate if unimpeded. 
-
+<ol>
+<li>Both speakers believe that AI can be built. Harris adds the insightful caveat that given the importance of having more intelligence the alternative to not bringing about AI may very well be the result of societal collapse. </li>
+<li>This is assuming that we have some general idea presently or in the near future on how to create increasingly smart machines. This would be the second point of agreement. Booch is bolstered by the technological advances he has seen and Harris points out that intelligence may very well be nothing more than information processing. </li>
+<li>A third area of convergence is around the idea of imbuing these powerful machines with values aligned with our own. Booch is sanguine on this point believing it to be an extension of supervised learning. Harris does not disclose his level of optimism on this point, though this viewer was left feeling he was distinctly less confident, but conjures up the stakes involved by way of pointing out how we treat ants, neither with undue disdain nor comparable moral worth, and suggesting this relationship might fit an AI-human relationship should we misjudge. </li>
+<li>There appears to be a tacit agreement on the possibility of machines having superior “knowledge” to humans. This seems uncontroversial even today in narrow ways (chess, Go, spreadsheets, etc) and for what appears to be around the corner (self driving cars helping to mitigate accident deaths). Booch at least entertains the idea by reassuring the audience that that capability does no outright translate into “super doing”, while Harris explicitly states the likelihood that we are not the pinnacle of intelligence, helping to further couch the stakes. </li>
+<li>The final point on which I see convergence is the recognition that the path to AI is already impacting us today and some versions of what the future may look like can be glimpsed by looking at the [labor disruption](https://www.youtube.com/watch?v=xEwtM0pKOV0) and [capital/resource concentration](https://www.brookings.edu/book/dream-hoarders/) currently occurring and expected to accelerate if unimpeded. </li>
+</ol>
 
 ## “ATTACK” ON HARRIS
 
@@ -198,7 +199,7 @@ Thank you Booch for your masterful work. Your final proposition might be honest<
 **Notes**
 
 <b id="f1">1</b> To be clear, the idea of leveraging ML techniques/technology to help address the alignment problem is well supported. See: Russell 2015; Goertzel and Pitt 2012; Bostrom 2003 [↩](#a1) <br>
-<b id="f2">2</b> I believe our speaker has his stories mixed up. For total control see, [I Have No Mouth, and I Must Scream](https://en.wikipedia.org/wiki/I_Have_No_Mouth,_and_I_Must_Scream).  [↩](#a2) <br> 
+<b id="f2">2</b> I believe our speaker has his stories mixed up. For total control see, _[I Have No Mouth, and I Must Scream](https://en.wikipedia.org/wiki/I_Have_No_Mouth,_and_I_Must_Scream)_.  [↩](#a2) <br> 
 <b id="f3">3</b> Is this a reference to nano manufacturing and control (Bostrom 2013)? If so, the “commanding” need not come before the takeover but could follow just as easily afterward or, as I get into below, there might be no need for that level of control and/or intrusion. [↩](#a3) <br> 
 <b id="f4">4</b> AI Risk Denier (Pistono and Yampolskiy 2016). [↩](#a4) <br>
 <b id="f5">5</b> To paraphrase a William James endnote from _The Varieties of Religious Experience_. [↩](#a5) <br>
