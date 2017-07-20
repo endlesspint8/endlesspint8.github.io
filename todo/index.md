@@ -29,6 +29,7 @@ subtitle: A gentle reminder of sh-, <i>stuff</i>, that needs to get done
 * flight to [GABF](https://www.greatamericanbeerfestival.com/)
 * domain specific email ($5/mo; this is becoming less ambitious)
 * [GumRoad](https://gumroad.com) account ($10/mo)
+* [ShutterStock account](https://www.shutterstock.com/subscribe)
 * tbd after above
 
 ## Notes
