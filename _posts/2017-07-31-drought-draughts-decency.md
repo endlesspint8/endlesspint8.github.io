@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drought, Draughts and Decency
+title: Drought, Draughts, and Decency
 subtitle: Bar Stool Pontifications on Singer's FAM
 tags: ["utilitarianism", "PublicDrinking"]
 shortlink: 
@@ -101,7 +101,7 @@ Using the individual as the unit of measure for suffering and consideration of r
 
 I am willing to believe that such a collection of right acting people is preferable to Singer as well and in line with his prescription. Either way, the formulation of his rule, as stated, regardless of the spirit, is dangerously individualistic and ahistoric. It is a formulation for a simulation or video game and on its own would seem to steer away from communal/social behavior. There is an asymmetry in the analysis: there is a world of hurt, you as an individual must perform the following individual calculations and actions. No, there is a world of hurt, it requires a world of attention. 
 
-### Implicit dismissal of complex environment with complex beings; Complexity theory and developmental policy
+### Implicit dismissal of complex environment with complex beings
 
 The reducing of such complex arrangements to a simple formulaic model should have red flags waving in everyone's mind. Formulaic ethics as an example of a [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow).
 
@@ -155,7 +155,7 @@ There is little in a person’s life that would not be found lacking in the mora
 
 How to formulate a society that would behave more closely to this ideal is the real question. Singer asks of us not so much a sacrifice as an opportunity to claim our human decency, an invitation to further develop our human compassion and increase overall flourishing.<sup id="a9">[9](#f9)</sup> This is a task requiring efforts on multiple fronts, but primarily on the societal side. Saints, heroes, and other virtuous people are likely to be with and among us for as long as we survive but that is really not enough, neither in the moment and less so with the passage of time. 
 
-We need to develop institutions beyond our personal lives, whether it originally be with just one other friend, in order to create and sustain a change. The task of giving to and serving others who are less fortunate is based on our acknowledging the value of human life and the responsibility each of us has to that value. There is a human connection there that is being catered too. It is this connection again that we need to develop and bind moving forward. Despite our magnificent ability to view the universe from the center of our individual perspectives we each fall far short of what we can accomplish if isolated and left to ourselves, neglecting the opportunity to forge connections with others and overlooking their equally valid perspectives.
+We need to develop institutions beyond our personal lives, whether it originally be with just one other friend, in order to create and sustain a change. The task of giving to and serving others who are less fortunate is based on our acknowledging the value of human life and the responsibility each of us has to that value. There is a human connection there that is being catered too. It is this connection again that we need to develop and bind moving forward. Despite our magnificent ability to view the universe from the center of our individual perspectives we each fall far short of what we can accomplish if isolated and left to ourselves, neglecting the opportunity to forge connections with others and overlooking their equally valid perspectives.<sup id="a10">[10](#f10)</sup>
 
 
 ---
@@ -180,3 +180,4 @@ We need to develop institutions beyond our personal lives, whether it originally
 
 <b id="f9">9</b> I do like the idea of redrawing the distinction between charity and duty. This linguistic distinction could and should be one of the staging preparations in changing people's minds, expectations, and actions. [↩](#a9) <br>
 
+<b id="f10">10</b> Grab a friend, grab a pint, and grab ahold of your political responsibilities. [↩](#a10) <br>
