@@ -2,7 +2,7 @@
 layout: post
 title: Drought, Draughts, and Decency
 subtitle: Bar Stool Pontifications on Singer's FAM
-tags: ["utilitarianism", "PublicDrinking"]
+tags: ["utilitarianism", "ethics"]
 shortlink: 
 twitimg: 
 image: 
@@ -20,7 +20,7 @@ Singer's seminal essay deals with the affluence and responsibilities first world
 
 ## FAM Synopsis
 
-It is no longer possible in our modern and connected world to claim we are unaware of the suffering happening around world. With this suffering made present to our attention we would be acting unjustly in not doing everything we could to prevent these very bad things from happening, especially if not asked to sacrifice something of moral insignificance. Singer articulates two versions of this principle: “we should prevent bad things from happening unless in doing so we would be sacrificing something…” morally significant [moderate version] or... of comparable moral significance [strong version].
+It is no longer possible in our modern and connected world to claim we are unaware of the suffering happening around world. With this suffering made present to our attention we would be acting unjustly in not doing everything we could to prevent these very bad things from happening, especially if not asked to sacrifice something of moral significance. Singer articulates two versions of this principle: “we should prevent bad things from happening unless in doing so we would be sacrificing something…” morally significant [moderate version] or... of comparable moral significance [strong version].
 
 Singer prefers the strong version but provides the moderate alternative to show how far short we are  falling even under its lowered threshold. Singer introduces the thought experiment of a drowning child in a pond to further this argument: “if I am walking past a shallow pond and see a child drowning in it, I ought to wade in and pull the child out. This will mean getting my clothes muddy, but this is insignificant, while the death of the child would presumably be a very bad thing.” 
 
@@ -29,7 +29,7 @@ In acknowledging the suffering of others in the world and taking “no account o
 
 ## Unease
 
-When you’re told something inconvenient, something that might/should require you to change how you go about your days, it is understandable if you do not simply accept it like the rational being we all tell ourselves we are. No, you are a human and inconvenient information can be handled in an assortment of different ways, the least likely of which, it would seem with growing life experience, would be to consider consider it unemotionally. 
+When you’re told something inconvenient, something that might/should require you to change how you go about your days, it is understandable if you do not simply accept it like the rational being we all tell ourselves we are. No, you are a human and inconvenient information can be handled in an assortment of different ways, the least likely of which, it would seem with growing life experience, would be to consider it unemotionally. 
 
 First off, the information can be ignored or dismissed. After all, you are the arbiter of what you decide to believe (also too confident an assumption regarding our rational abilities). Barring, failing, or following this denial you may resort to anger. Nothing so well signals indignation to the tribe as a hot emotional response. In the face of unremitting facts this will not last long. Either the anger will dissipate or a blood vessel will burst, but either way you are likely to be bested by the new reality. This is when regressing still further brings us to begging and pleading to get us out of the situation. Moral indignation having proved ineffectual it is now time for a different manipulative ploy. 
 
