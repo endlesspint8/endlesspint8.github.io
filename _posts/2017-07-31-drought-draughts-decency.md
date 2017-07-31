@@ -71,7 +71,7 @@ Where are we left when we sacrifice all our desires and wishes for the sole bene
 
 ## Expensive
 
-“Civilization advances by extending the number of important operations which we can perform without thinking of them.” -Whitehead
+> “Civilization advances by extending the number of important operations which we can perform without thinking of them.” -Whitehead
 
 There is a limit to human willpower. If we are to run the math every time we compare our actions against a (too high) ideal we will be worn down and may end up “quitting”, in the long run doing less good than we could have under a different approach. To jump ahead a bit I would suggest now the desirability of carving out a bit of superfluous money/time/energy and diverting some of this toward benevolent causes. For individuals you would start small, grow in percentage overtime, and preferably find a way to automate the effort. With communities you would target like-minded people, pool resources, and act in concert. 
 
