@@ -9,16 +9,16 @@ image:
 sideof: []
 ---
 
-Neither Ignore nor Deny the Suffering in the World
+## Neither Ignore nor Deny the Suffering in the World
 
-Can we justify drinking beer, even quality fantastic beer, in a world of suffering or does this mark us out as negligent and indulgent people?<sup id="a1">[1](#f1)</sup>  I've had thematically similar questions come to mind from time to time but only recently has the idea of suffering coupled with drinking good beer come to a head. The reason being threefold, my enjoyment of good beer, a recent reading of Singers essay “Famine, Affluence and Morality” (FAM), and the very real [starvation of approximately 20 million people today](https://youtu.be/CvSW5Ez0koM) (see [World Food Program](http://www1.wfp.org/)). 
+Can we justify drinking beer, even quality fantastic beer, in a world of suffering or does this mark us out as negligent and indulgent people?<sup id="a1">[1](#f1)</sup>  I've had thematically similar questions come to mind from time to time but only recently has the idea of suffering coupled with drinking good beer come to a head. The reason being threefold, my enjoyment of good beer, a recent reading of Singers essay “_Famine, Affluence and Morality_” (FAM), and the very real [starvation of approximately 20 million people today](https://youtu.be/CvSW5Ez0koM) (see [World Food Program](http://www1.wfp.org/)). 
 
 As many a decent and innocent child, as I once was, has done since time immemorial, I have wondered how there could be so much suffering in the world and about its disparity. As I grew older I wondered if the things I enjoyed and quite often took for granted, except in said moments of introspection, were appropriately used vis-à-vis how someone with less available resources might have behaved in a similar position and even what they would prefer others to enjoy assuming their exclusion (I was weird on top of caring). The trifling luxuries that I've had at my disposal have been modest by first world standards. However, to only focus on the material benefits is to overlook the greatest privilege, the experience of living in a society that has afforded me these material advantages while providing a reasonable assurance that they would not be arbitrarily taken from me. Not only have I had access to resources but more importantly I have lived in enviable circumstances allowing me to enjoy them without undue fear of being deprived of access to them [Sen, _Development as Freedom_]. 
 
 Singer's seminal essay deals with the affluence and responsibilities first world societies have to the rest of the world, specifically the underprivileged and suffering. Through the linking and building up of simple assumptions Singer arrives at the conclusion that people with the resources commonly seen among the developed world have an obligation to use those resources to the benefit of those who suffer. I find myself agreeing superficially and generally with his conclusion, the kind and innocent child within not yet dead, but I am uncomfortable by the final prescription.
 
 
-FAM Synopsis
+## FAM Synopsis
 
 It is no longer possible in our modern world to claim we are unaware of the suffering happening around world. With this suffering made present to our attention we would be acting unjustly in not doing everything we could to prevent these very bad things from happening, especially if not asked to sacrifice something of moral insignificance. Singer articulates two versions of this principle: “we should prevent bad things from happening unless in doing so we would be sacrificing something…” morally significant [moderate version] or... of comparable moral significance [strong version].
 
@@ -27,7 +27,7 @@ Singer prefers the strong version but provides the moderate alternative to show 
 In acknowledging the suffering of others in the world and taking “no account of proximity or distance” we are doing the equivalent of allowing the child to drown when we spend our time and money on frivolities instead of in an effort to reduce suffering. Singer takes note of the percentages of wealthy country GNP’s (written in the 70’s) that could be redirected to attain such goals and that the citizens themselves could and should be aware of their partaking in a “consumer society, dependent as it is on people spending on trivia rather than giving to famine relief.”
 
 
-Unease
+## Unease
 
 When you’re told something inconvenient, something that might/should require you to change how you go about your days, it is understandable if you do not simply accept it like the rational being we all tell ourselves we are. No, you are a human and inconvenient information can be handled in an assortment of different ways, the least likely of which, it would seem with growing life experience, would be to take in the information and unemotionally consider it. 
 
@@ -49,14 +49,14 @@ Not all of our desires are as clear, noble, or without ulterior motives. I suppo
 
 Our ethics (mind) are running ahead of our bodies by thousands of years due to the difference in cultural versus biological evolution. If we hope to save our souls, metaphorically of course, we need to acknowledge that we are running 21st century software (some of us) on fifty thousand year old hardware.<sup id="a3">[3](#f3)</sup> 
 
-Where am I Headed? 
+## Where am I Headed? 
 
 That there are stupid things we spend our time and money on is of little argument, that we should do fewer of these things is without a doubt, and that we would all benefit for doing more for our fellow man is to a large extent uncontroversial. However, we have known these things from time immemorial (our written traditions, which are based on our oral traditions, which are in turn tied to our pre-verbal communal life indicate these virtues), so knowing these propositions has not been, and is likely to continue not being, enough. 
 
 I wish to look at the ways in which the strong formulation is lacking, despite its honorable intent. Perhaps in identifying the “trouble” with Singer’s prescription we can make suggestions at alternatives that address the underlying problem of suffering in a more holistic and pragmatic approach.<sup id="a4">[4](#f4)</sup> 
 
 
-Greedy
+## Greedy
 
 A [greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) looks to maximize its return based on immediately available information and expected returns. Given the choice between two options it will take the one with the highest immediate payout. This sounds good on the surface. Why wouldn’t you want the larger of two stacks? Because you may be passing up larger rewards later on. This may confuse the explication but let’s think of marshmallows. Doubtless most have heard of the “marshmallow test” by now. It seems to be making the rounds in popular social psychology books, articles, and talks. 
 
@@ -69,7 +69,7 @@ Moreover, there’s not much of an exaggeration needed in pointing out that few 
 Where are we left when we sacrifice all our desires and wishes for the sole benefit of others? May we not be collectively impoverished as a result? In addressing the immediate need we go for the quick reward but leave out so much more. Take this website as an example. My efforts in creating these posts should be forfeited and I will not even pretend to argue against that position (shit, there are plenty of good reasons beyond Singer’s to shut this down). However, there is a bizzaro-Reg out there. She is also putting up a shitty little site, as measured by traffic and general attention. One day this writer puts out the most important novel of her generation. Should she have stopped her writing to save others? Would we not have lost something? How about the case of a lifetime loser turned posthumous winner, e.g., Van Gogh?
 
 
-Expensive
+## Expensive
 
 “Civilization advances by extending the number of important operations which we can perform without thinking of them.” -Whitehead
 
@@ -78,16 +78,16 @@ There is a limit to human willpower. If we are to run the math every time we com
 Both of Singer’s points are “greedy” in subsuming nearly all activities to its purview. It is potentially short sighted and all consuming (though Singer never specifies that this is a calculation done at every turn it is hard to draw the conclusion that on some level the comparison must be made for all actions performed). No “ought” from an “is” but also no “ought” without grounding in “is”; reality today is the starting point. As such the prescription is unpalatable, raising a tension between breadth of ethical applicability and real world hedonistic tractability.<sup id="a5">[5](#f5)</sup> Speaking of which.
 
 
-Hedonistically Intractable
+## Hedonistically Intractable
 
 Also reductionist is the separation of actions to be weighed against the context of saving/helping someone from starvation. What, if any, mundane interest or desire could stand up to such scrutiny? Are we to bring our life low for another's benefit, even if we were to agree there would be no better reason to consider such a scenario? What about the desires of the one asked to be making the sacrifice? But what sacrifice can compare to the pain of another? Exactly, it all melts in front of such demands. The taking away of a good is troubling on at least two levels: there is the immediate loss of the good and, perhaps worse, almost certainly worse, the removal of the right to such things in the moment and possibly moving forward. Whether a good should be desired is certainly up for debate. Undoubtedly many examples Singer has in mind (fancy clothes, expensive vacations) can be dismissed as luxurious non-necessities when assessed on their own merit in counterpoint to what he is arguing is at stake but the same item/service has different meanings to different people (family heirlooms, cultural artifacts, personality disorders).
 
 I agree with the feeling (for the umpteenth time) but prefer a different approach. Let us all take stock of our standing, both in real and relative terms. Relative to neighbors, countrymen, ancestors, descendants to come, and of course the wretched of the earth. Let us be as honest, clear, and well informed about this standing as we can be and the general trend to the fortunes of our friends, the well-being of family, professional outlook, local and regional economy, world peace, etc. Being honest about essential needs, superfluous spending, whether it be in time, money or attention, and identifying the space in between, if any (some are not so lucky, regardless of place of birth), begin the process of cutting into this gap for the benefit of the less fortunate.<sup id="a6">[6](#f6)</sup> 
 
 
-Rational & Individualistic Fetishism
+## Rational & Individualistic Fetishism
 
-Separation from time, place, history and biology
+### Separation from time, place, history and biology
 
 Principles without prescription for individuals, community, and nation.
 
@@ -99,19 +99,19 @@ I am not suggesting giving to and helping the poor is likely to bring about soci
 
 In a country/society that wants to and does help the poor? Support that society moving forward in order to continue assisting the less fortunate moving forward. Put your own air mask on first, otherwise you are not helping anyone. 
 
-“our quality of life in the developed world is a fragile, fortunate exception to the global historical norm of toil, oppression, poverty, disease, and death.” - G. Miller, Spent<sup id="a7">[7](#f7)</sup> 
+> “our quality of life in the developed world is a fragile, fortunate exception to the global historical norm of toil, oppression, poverty, disease, and death.” - G. Miller, _Spent_<sup id="a7">[7](#f7)</sup> 
 
 Using the individual as the unit of measure for suffering and consideration of rights is a powerful scale but is inherently reductionist and has its limitations. There are two key shortcomings that are relevant for our discussion. First, you may be able to treat each individual equally but not make the group as a whole better off. Triage is an effective method for a reason. In order to do the most good you have to occasionally prioritize and by the very nature of the process, if not out right, pick losers, determining likely candidates for the unfortunate roles. The second and more relevant way in which the measure of individuals is short sighted is in implementing effective responses. It may not be necessary, desired, or prudent to have everyone behaving as a disassociated group of atomized individuals versus a community of people, in a proper sense. The former acts with little to no coordination and/or knowledge of the others. The latter may pool its resources together in order to effect the greatest change/good. [McKinsey, _Obligations to the Starving_]
 
 I am willing to believe that such a collection of right acting people is preferable to Singer as well and in line with his prescription. Either way, the formulation of his rule, as stated, regardless of the spirit, is dangerously individualistic and ahistoric. It is a formulation for a simulation or video game and on its own would seem to steer away from communal/social behavior. There is an asymmetry in the analysis: there is a world of hurt, you as an individual must perform the following individual calculations and actions. No, there is a world of hurt, it requires a world of attention. 
 
-Implicit dismissal of complex environment with complex beings; Complexity theory and developmental policy
+### Implicit dismissal of complex environment with complex beings; Complexity theory and developmental policy
 
 The reducing of such complex arrangements to a simple formulaic model should have red flags waving in everyone's mind. Formulaic ethics as an example of a [spherical cow](https://en.wikipedia.org/wiki/Spherical_cow).
 
 Must be forgiven for being literal/reductionist, this is the dance we were invited to, where something as complex as human desires, actions and repercussions are reduced to a couple of indexed statements meant to give the appearance of precision. Of course there dozen words or so have cleared all intricacies away like a jungle machete; [Gordian Knot](https://en.wikipedia.org/wiki/Gordian_Knot) is more like it. 
 
-Political neuter/silent-ist
+### Political neuter/silent-ist
 
 The balancing act of using the individual as the basis of measurement for rights, violations, duties, etc. while not isolating the individual to be the sole actor of political and economic behavior. Atomized citizens may result in societies that are without the interlocking structures, communities, and institutions required (or soon will be without them) of effective action. The thought experiment has the additional failure of couching the decision as an exclusively individual one. This ignores the drowning person everyday and the need to not make this an individual responsibility but a collective response. The argument is corrosive in its idealization of individual action and responsibility in the face of a societal failure requiring group mobilization and institutional ability. 
 
@@ -120,13 +120,13 @@ If you want to do the most good for the suffering head to Washington DC not Afri
 To the extent that we act in a politically limited way we are failing; either as a society for not providing the opportunities or as citizens in not exercising our responsibilities and protecting our privileges.
 
 
-Incomplete Thoughts
+## Incomplete Thoughts
 
 The thought experiment of the drowning child is ill conceived. It is certainly evocative and difficult to argue against it arising the reactions intended. However, its failing arises from not going far enough in scope and as a result failing to map sufficiently well onto the greater world tragedies [Gendler, _Thought Experiments and Intuition_]. The scenario can be multiplied in several ways to better get us to what we are up against. First, once you have saved the child and dried yourself, wrung out your socks and begun walking again you would not have travelled far before coming across another pond with yet another drowning child. You save this one as well, dry off and resume walking, only to come across a third pond, a fourth, etc., each with  a drowning child in them. This happens all day until you collapse from exhaustion and you get some fitful rest, no doubt tortured by the anxiety of the lives you are unable to rescue as a result of your sleeping. The next day the situation repeats itself. And the next, etc. 
 
 Another version of the same idea is having multiple children in each pond. You can multiply the varieties every which way you choose but I believe the overall story is clear.<sup id="a8">[8](#f8)</sup> You can go all day, every day, saving drowning children and you would never be done. Being in such a situation it would be fair to ask, “What the hell are you thinking?! Go tell some more people about what is going on.” Having recruited more people to the effort you stand a better shot but even so, for the foreseeable future you and your like minded, right-acting, co-conspirators would be addressing symptoms and not causes. Instead of only pulling these children out how about looking into preventing their falling in in the first place?
 
-Ethical Syntactic Sugar
+## Ethical Syntactic Sugar
 
 The internal complexity or simplicity of an argument should never be the ultimate criteria of determining whether it is better than another. The final verdict must be pronounced by facts and reality. What about Occam's razor? Well, quantum physics is by no means the likeliest of explanations, it just happens to be the most correct as far as we can tell [Deutsche, _The Fabric of Reality_].
 Knowing what is right is not always sufficient. Sometimes the knowledge of ‘What’ to do is more daunting than inspirational. A ‘How’ would prove empowering. A ‘Why’ would retain conviction.
@@ -140,9 +140,10 @@ To paraphrase Peter Baur, development requires many conditions. To the extent th
 Other forms of support which may help without undercutting the development of societal institutions and capabilities: researching diseases that disproportionately affect the poor; provide expert advice on infrastructure/services; supplement country capacity (e.g., provide supplemental legal representation in international negotiations); curb arms dealing; trade and lending practices (away from repressive regimes); rich country trade restrictions and subsidies hurt poor farmers; migration and remittances; temporary education migration (favoring citizens of poor nations) [Deaton, _The Great Escape_].
 
 
-engineering/classical physicist (deterministic) view versus ecological complex/dispositional view
 
-Biology NOT physics [title encountered in What Makes us Fat]
+## Biology NOT Physics
+
+engineering/classical physicist (deterministic) view versus ecological complex/dispositional view
 
 We need a systemic change; individual change is insufficient, inefficient, takes too long, and ignores or downplays the social aspect of our development (D. Snowden once again says it better than I can; “you can change people’s interactions and they can choose how they change”; “[we] evolved as community based intelligences, not as atomistic individuals”)
 
@@ -152,7 +153,7 @@ The formulaic approach to matters of human conduct are imperfect at best, oftent
 
 
 
-Conclusion
+## Conclusion
 
 A person should be spared avoidable suffering, no question, but to impose such a strict arithmetic as Singer would render the enjoyment of those who are able to help and pursue self actualization devoid of meaning above and beyond bare sustenance. For while he comes across as practical (see contribution of GDP and possibly withholding aid from nations unwilling to take necessary steps to foster change that aid is intended for [problematic on a coercive level but still indicative of some real world politik]) and NOT categorical there is little in a person’s life that would not be found lacking in the moral sense with respect to the suffering of another. 
 
