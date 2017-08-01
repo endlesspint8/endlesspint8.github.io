@@ -9,7 +9,7 @@ image: http://endlesspint.com/gallery/2017/fam/fatal complex.jpg
 sideof: []
 ---
 
-<img src="/gallery/2017/fam/fatal complex.jpg" alt="fatal complex" /><br />
+<img src="/gallery/2017/fam/fatal complex.jpg" alt="fatal complex" align="middle" width="800" /><br />
 <sub>Data Source: <a href="https://www.flickr.com/photos/danielgaudard/" target="_blank">danielgaudard</a></sub>
 
 ## Neither Ignore nor Deny the Suffering in the World
@@ -63,7 +63,7 @@ I wish to look at the ways in which the strong formulation is lacking, despite i
 
 A [greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) looks to maximize its return based on immediately available information and expected returns. Given the choice between two options it will take the one with the highest immediate payout. This sounds good on the surface. Why wouldn’t you want the larger of two stacks? Because you may be passing up larger rewards later on. This may confuse the explication but let’s think of marshmallows. Doubtless most have heard of the “marshmallow test” by now. It seems to be making the rounds in popular social psychology books, articles, and talks. 
 
-<img src="/gallery/2017/fam/Marshmallows.jpg" alt="Marshmallows" /><br />
+<img src="/gallery/2017/fam/Marshmallows.jpg" alt="Marshmallows" align="middle" width="800" /><br />
 <sub>Data Source: <a href="https://www.flickr.com/photos/aidanmorgan/" target="_blank">aidanmorgan</a></sub>
 
 Without getting into the long term ramifications of the study’s findings on deferred gratification let us just go through the structure of the experiment. Children were brought into an observation room individually, presented with a marshmallow on a plate and told they could have the treat now or if they held out for 10 minutes, for which the researcher would leave the room, they could have [two marshmallows later](https://youtu.be/QX_oy9614HQ). Let’s assume you’re not a monster, like one of these devious adults running this tortuous experiment on poor kids, and you like marshmallows. The choice at the moment is between zero and one marshmallow in the moment. Being greedy you eat the marshmallow. At the next step you are left with no more marshmallows. However, if you had been able to look out ahead, and you were given that information in this case, you could have chosen instead to maximize overall marshmallows and thus waited. You would have purposely chosen zero marshmallows followed by two at the next step, thus coming out ahead as far as these two approaches are concerned. What the hell do marshmallows and algorithms have to do with Singer’s strong principle? Two things, really. The first is related to consequences and the second is covered in the next section.
@@ -74,7 +74,7 @@ Moreover, there’s not much of an exaggeration needed in pointing out that few 
 
 Where are we left when we sacrifice all our desires and wishes for the sole benefit of others? May we not be collectively impoverished as a result? In addressing the immediate need we go for the quick reward but leave out so much more. Take this website as an example. My efforts in creating these posts should be forfeited and I will not even pretend to argue against that position (shit, there are plenty of good reasons beyond Singer’s to shut this down). However, there is a bizzaro-Reg out there. She is also putting up a shitty little site, as measured by traffic and general attention. One day this writer puts out the most important novel of her generation. Should she have stopped her writing to save others? Would we not have lost something? How about the case of a lifetime loser turned posthumous winner, e.g., Van Gogh?
 
-<img src="/gallery/2017/fam/Twee vrouwen in het veen.jpg" alt="Twee vrouwen in het veen" /><br />
+<img src="/gallery/2017/fam/Twee vrouwen in het veen.jpg" alt="Twee vrouwen in het veen" align="middle" width="800" /><br />
 <sub>Data Source: <a href="https://www.flickr.com/photos/jantito/" target="_blank">jantito</a></sub>
 
 ## Expensive
@@ -143,7 +143,7 @@ To paraphrase Peter Baur, development requires many conditions. To the extent th
 
 Other forms of support which may help without undercutting the development of societal institutions and capabilities: researching diseases that disproportionately affect the poor; provide expert advice on infrastructure/services; supplement country capacity (e.g., provide supplemental legal representation in international negotiations); curb arms dealing; trade and lending practices (away from repressive regimes); rich country trade restrictions and subsidies hurt poor farmers; migration and remittances; temporary education migration (favoring citizens of poor nations) [Deaton, _The Great Escape_].
 
-<img src="/gallery/2017/fam/fluffy chaos.jpg" alt="fluffy chaos" /><br />
+<img src="/gallery/2017/fam/fluffy chaos.jpg" alt="fluffy chaos" align="middle" width="800" /><br />
 <sub>Data Source: <a href="https://www.flickr.com/photos/xdxd_vs_xdxd/" target="_blank">xdxd_vs_xdxd</a></sub>
 
 ## Biology NOT Physics (nor Engineering)
@@ -166,7 +166,7 @@ How to formulate a society that would behave more closely to this ideal is the r
 
 We need to develop institutions beyond our personal lives, whether it originally be with just one other friend, in order to create and sustain a change. The task of giving to and serving others who are less fortunate is based on our acknowledging the value of human life and the responsibility each of us has to that value. There is a human connection there that is being catered too. It is this connection again that we need to develop and bind moving forward. Despite our magnificent ability to view the universe from the center of our individual perspectives we each fall far short of what we can accomplish if isolated and left to ourselves, neglecting the opportunity to forge connections with others and overlooking their equally valid perspectives.<sup id="a10">[10](#f10)</sup>
 
-<img src="/gallery/2017/fam/Turbulent Star-Making.jpg" alt="Turbulent Star-Making" /><br />
+<img src="/gallery/2017/fam/Turbulent Star-Making.jpg" alt="Turbulent Star-Making" align="middle" width="800" /><br />
 <sub>Data Source: <a href="https://www.flickr.com/photos/gsfc/" target="_blank">NASA gsfc</a></sub>
 
 ---
