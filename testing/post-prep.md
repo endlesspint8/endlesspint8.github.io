@@ -12,13 +12,13 @@
 
 **images**
 
-<img src="" alt="" /><br />
+<img src="" alt="" align="middle" width="800" /><br />
 <sub>Data Source: <a href="" target="_blank">ENTER TEXT</a></sub>
 
-<img src="" alt="" /><br />
+<img src="" alt="" align="middle" width="800" /><br />
 <sub>Data Source: <a href="" target="_blank">ENTER TEXT</a></sub>
 
-<img src="" alt="" /><br />
+<img src="" alt="" align="middle" width="800" /><br />
 <sub>Data Source: <a href="" target="_blank">ENTER TEXT</a></sub>
 
 <img src="" alt="" /><br />
