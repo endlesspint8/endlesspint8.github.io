@@ -15,4 +15,4 @@ sideof: ["End of season", "http://eepurl.com/cj8urH", "visualizations, updated a
 
 ## take 2
 
-<iframe src="https://docs.google.com/presentation/d/1mhjrXSGxzu8X98F8nvCLTK6MPUisyMlhd-OtVD2R1pU/embed?start=false&loop=false&delayms=3000" frameborder="0" width=100% allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1mhjrXSGxzu8X98F8nvCLTK6MPUisyMlhd-OtVD2R1pU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
