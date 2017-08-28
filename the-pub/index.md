@@ -8,7 +8,7 @@ subtitle: Public House & Publications
 
 <a href="http://www.datasciencecentral.com/" target="_blank">Data Science Central</a>
 
-<a href="http://www.datasciencecentral.com/profiles/blogs/what-s-that-beer-style-ask-a-neighbor-or-two?xg_source=activity" target="_blank">
+<a href="http://www.datasciencecentral.com/profiles/blog/list?user=3jocl4vsgidu7" target="_blank">
 <img src="/the-pub/img/dsc.png " alt="DSC-001" />
 </a>
 
