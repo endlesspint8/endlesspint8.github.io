@@ -5,7 +5,7 @@ subtitle: Part IV - Graphs and Paths
 header-img: "img/start.jpg"
 tags: ["test1", "urple", "erhe", "test2"]
 shortlink: http://bit.ly/2dxLtd9
-sideof: ["End of season", "http://eepurl.com/cj8urH", "visualizations, updated and accompanied with new content."]
+sideof: ["Longest path containing American style IPA", "http://eepurl.com/cj8urH", ", everyone's favorite."]
 ---
 
 [mess with iframe setting](https://www.smashingmagazine.com/2014/02/making-embedded-content-work-in-responsive-design/)
