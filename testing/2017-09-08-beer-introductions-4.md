@@ -11,6 +11,10 @@ sideof: ["Longest path containing American style IPA", "http://eepurl.com/cj8urH
 [mess with iframe setting](https://www.smashingmagazine.com/2014/02/making-embedded-content-work-in-responsive-design/)
 
 
+<img src="//gallery/2017/beer-prplxd/longestPath28_NetworkX.PNG" alt="longest path tipsy" align="middle" width="100%" /><br />
+<sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> 
+
+
 <iframe src="https://docs.google.com/presentation/d/1mhjrXSGxzu8X98F8nvCLTK6MPUisyMlhd-OtVD2R1pU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="498" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## take 2
