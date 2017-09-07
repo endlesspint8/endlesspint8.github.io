@@ -3,8 +3,9 @@ layout: post
 title: Data Guide for the Beer Perplexed IV
 subtitle: Part IV - Graphs and Paths 
 header-img: "img/start.jpg"
-tags: ["test1", "urple", "erhe", "test2"]
-shortlink: http://bit.ly/2dxLtd9
+tags: ["longestpath", "NetworkX"]
+shortlink: 
+image: http://endlesspint.com/gallery/2017/beer-prplxd/longestPath28_NetworkX.PNG
 sideof: ["Longest path containing American style IPA", "http://eepurl.com/cj8urH", ", everyone's favorite."]
 ---
 
@@ -18,7 +19,7 @@ There are standards of taste, of general principles available to all of us. Phys
 
 We need items to compare against one another in order to advance our observational abilities, to get an idea of common attributes and differences. Through comparison we may contrast features brought to our attention more clearly and forcefully. The difference between a stout and a light lager are clear, obvious, and mostly uninteresting. Perhaps when first starting out being made aware that two drinks so different in character are still considered the same type of drink might prove enlightening but the differences remain so great that we would be left with only the most pedestrian of observations moving forward. 
 
-Experiencing different styles that are closely related helps to reveal the nuances to the many attributes that go into a style. The experience touches all of our senses and each is enhanced in ability by working out the differences and similarities of approximate styles. By sharpening our observational capabilities we enhance and deepen our appreciation and experiences. This is the motivation for identifying the longest path across the 70+ styles as recommended in the data source.
+Experiencing different styles that are closely related helps to reveal the nuances to the many attributes that go into a style. The experience touches all of our senses and each is enhanced in ability by working out the differences and similarities of approximate styles. By sharpening our observational capabilities we enhance and deepen our appreciation and experiences. This is the motivation for identifying the longest path across the 70+ styles as recommended in the <a href="http://www.craftbeer.com/beer-styles" target="_blank">data source</a>.
 
 ## Data Process
 
@@ -42,7 +43,7 @@ What we see is an eclectic and cosmopolitan array of beers covering well known E
 
 Beer consumption is clearly an epicurean pursuit. From the drink itself to the surroundings, from the accompanying food to the company kept, discussing topics of interest but often of little significance, we find ample evidence to view the activity as trivial. Taken out of context imbibing is no serious matter. Family, community, and work are serious. However, with our responsibilities put to bed it is natural and healthy to unwind in order to provide some balance and a few moments of appreciation and reflection. The scarcity of these moments heighten their value providing even more reason to cherish and make the most of them. 
 
-> Leisure is essential to civilization, and in former times leisure for the few was only rendered possible by the labors of the many. But their labors were valuable, not because work is good, but because leisure is good.		- [Bertrand Russell, In Praise of Idleness](https://www.goodreads.com/work/quotes/1314555-in-praise-of-idleness-and-other-essays)
+> Leisure is essential to civilization, and in former times leisure for the few was only rendered possible by the labors of the many. But their labors were valuable, not because work is good, but because leisure is good.		- **Bertrand Russell**, [In Praise of Idleness](https://www.goodreads.com/work/quotes/1314555-in-praise-of-idleness-and-other-essays)
 
 Time spent drinking good beer is time well spent. As long as you keep an open mind you are bound to find styles that match best with you, a meal, or some specific occasion. There are a ton of styles and substyles with more coming and going each year, more so than ever with the craft beer craze. Having a grounding in the fundamentals will ensure a solid base from which to judge and appreciate the beers you come across. While [picking at random may be a better policy in choosing stocks over going with an actively managed account](http://www.telegraph.co.uk/finance/personalfinance/investing/9971683/Monkeys-beat-the-stock-market.html) you should have more luck and more fun, coupled by lower stress, selecting your own beers. With a list of recommended and chained styles you have the opportunity to see the “lay of the land” and better understand the context of flavor. 
 
@@ -57,4 +58,4 @@ Practice is good but it dawned on us long ago that [the right kind of practice](
 
 <b id="f2">2</b> Shout out, David Hume! More about our beloved Scot soon. [↩](#a2) <br>
 
-<b id="f3">3</b> I cannot claim for certain that this is the “final answer”, but feel free to apply the process yourself and let me know what you return and what you think [↩](#a3) <br>
+<b id="f3">3</b> I cannot claim for certain that this is the “final answer”, but feel free to apply the process yourself and let me know what you return and what you think. [↩](#a3) <br>
