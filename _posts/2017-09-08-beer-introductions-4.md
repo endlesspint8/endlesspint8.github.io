@@ -26,7 +26,7 @@ The recommendations from one beer style to another are not necessarily mutual. N
 
 <sub><a href="http://bit.ly/ep8_lngpth" target="_blank">Slides Link</a> 
   
-The first looked at all bi-directional relationships. With mutually recommending beer styles identified it was possible to choose at random a direction to drop and one to keep. The second pass stepped through the links, flagging when we returned to a previously seen beer style and ending the path. The starting point of each path was selected at random [need to look at code]. With mutual connections and loop/look backs identified and dropped, both at random, the longest path algorithm was run ten thousand times. This gave the greatest reassurance that whatever longest path was possible would be identified.<sup id="a3">[3](#f3)</sup> The end result was a list of 28 beer styles. 
+The first looked at all bi-directional relationships. With mutually recommending beer styles identified it was possible to choose at random a direction to drop and one to keep. The second pass stepped through the links, flagging when we returned to a previously seen beer style and ending the path. The starting point of each path was selected at random. With mutual connections and loop/look backs identified and dropped, both at random, the longest path algorithm was run ten thousand times. This gave the greatest reassurance that whatever longest path was possible would be identified.<sup id="a3">[3](#f3)</sup> The end result was a list of 28 beer styles. 
 
 ## List Graph
 
@@ -57,6 +57,6 @@ Practice is good but it dawned on us long ago that [the right kind of practice](
 
 <b id="f2">2</b> Shout out, David Hume! More about our beloved Scot soon. [↩](#a2) <br>
 
-<b id="f3">3</b> I cannot claim for certain that this is the “final answer”, but feel free to apply the process yourself and let me know what you return and what you think. [↩](#a3) <br>
+<b id="f3">3</b> I cannot claim for certain that this is the “final answer”, but feel free to [apply the process](/code/beer_prplxd_IV) yourself and let me know what you return and what you think. [↩](#a3) <br>
 
 <b id="f4">4</b> A deceptively obvious statement with [deeper significance](http://oll.libertyfund.org/titles/carus-on-the-nature-of-things). [↩](#a4) <br>
