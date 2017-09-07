@@ -6,11 +6,24 @@ subtitle: Visualizations at a Glance with Code Samples
 
 <br>
 
+### [Data Guide for the Beer Perplexed IV](/2017-09-08-beer-introductions-4)
+> 
+> * List graph of [longest path](beer_prplxd_IV)<br>
+
+<p align="center">
+  <img src="/gallery/2017/beer-prplxd/longestPath28_NetworkX.PNG" alt="longest path tipsy" align="middle" width="50%" /><br />
+</p> 
+
+<sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> 
+
 ### [Data Guide for the Beer Perplexed III](/2017-05-12-beer-introductions-3)
 > 
 > * D3 sunburst flavor wheel<br>
 
-<img src="/gallery/2017/beer-prplxd/wheel_spin.gif" width="600" align="middle"><br>
+<p align="center">
+  <img src="/gallery/2017/beer-prplxd/wheel_spin.gif" width="600" align="middle"><br>
+</p>   
+
 <sub>Data: <a href="http://www.brewerydb.com/" target="_blank">BreweryDB</a> / Vis Source: <a href="https://bl.ocks.org/mbostock/4348373" target="_blank">Mike Bostock</a></sub>
 
 ### [Did you tap that?](/2017-01-12-kicked-kegs-nye-2017)
