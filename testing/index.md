@@ -8,8 +8,6 @@ shortlink: http://bit.ly/2dxLtd9
 sideof: ["End of season", "http://eepurl.com/cj8urH", "visualizations, updated and accompanied with new content."]
 ---
 
-[latest and greatest](2017-09-08-beer-introductions-4)
-
 [causal](2017-09-22-causal)
 
 [post prep](post-prep)
