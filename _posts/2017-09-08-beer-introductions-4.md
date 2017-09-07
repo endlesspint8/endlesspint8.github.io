@@ -2,7 +2,6 @@
 layout: post
 title: Data Guide for the Beer Perplexed IV
 subtitle: Part IV - Graphs and Paths 
-header-img: "img/start.jpg"
 tags: ["longestpath", "NetworkX"]
 shortlink: 
 image: http://endlesspint.com/gallery/2017/beer-prplxd/longestPath28_NetworkX.PNG
@@ -41,7 +40,7 @@ What we see is an eclectic and cosmopolitan array of beers covering well known E
 
 ## A Spare Moment
 
-Beer consumption is an epicurean pursuit. From the drink itself to the surroundings, from the accompanying food to the company kept, discussing topics of interest but often of little significance, we find ample evidence to view the activity as trivial. Taken out of context imbibing is no serious matter. Family, community, and work are serious. However, with our responsibilities put to bed it is natural and healthy to unwind in order to provide some balance and a few moments of appreciation and reflection. The scarcity of these moments heighten their value providing even more reason to cherish and make the most of them. 
+Beer consumption is an epicurean pursuit.<sup id="a4">[4](#f4)</sup> From the drink itself to the surroundings, from the accompanying food to the company kept, discussing topics of interest but often of little significance, we find ample evidence to view the activity as trivial. Taken out of context imbibing is no serious matter. Family, community, and work are serious. However, with our responsibilities put to bed it is natural and healthy to unwind in order to provide some balance and a few moments of appreciation and reflection. The scarcity of these moments heighten their value providing even more reason to cherish and make the most of them. 
 
 > Leisure is essential to civilization, and in former times leisure for the few was only rendered possible by the labors of the many. But their labors were valuable, not because work is good, but because leisure is good.		- **Bertrand Russell**, [In Praise of Idleness](https://www.goodreads.com/work/quotes/1314555-in-praise-of-idleness-and-other-essays)
 
@@ -59,3 +58,5 @@ Practice is good but it dawned on us long ago that [the right kind of practice](
 <b id="f2">2</b> Shout out, David Hume! More about our beloved Scot soon. [↩](#a2) <br>
 
 <b id="f3">3</b> I cannot claim for certain that this is the “final answer”, but feel free to apply the process yourself and let me know what you return and what you think. [↩](#a3) <br>
+
+<b id="f4">4</b> A deceptively obvious statement with [deeper significance](http://oll.libertyfund.org/titles/carus-on-the-nature-of-things). [↩](#a4) <br>
