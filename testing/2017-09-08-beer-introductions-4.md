@@ -25,6 +25,8 @@ The recommendations from one beer style to another are not necessarily mutual. N
 
 <iframe src="https://docs.google.com/presentation/d/1mhjrXSGxzu8X98F8nvCLTK6MPUisyMlhd-OtVD2R1pU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+<sub><a href="http://bit.ly/ep8_lngpth" target="_blank">Slides Link</a> 
+  
 The first looked at all bi-directional relationships. With mutually recommending beer styles identified it was possible to choose at random a direction to drop and one to keep. The second pass stepped through the links, flagging when we returned to a previously seen beer style and ending the path. The starting point of each path was selected at random [need to look at code]. With mutual connections and loop/look backs identified and dropped, both at random, the longest path algorithm was run ten thousand times. This gave the greatest reassurance that whatever longest path was possible would be identified.<sup id="a3">[3](#f3)</sup> The end result was a list of 28 beer styles. 
 
 ## List Graph
@@ -37,9 +39,9 @@ The direction of the recommendations run top to bottom. The beer styles are clea
 What we see is an eclectic and cosmopolitan array of beers covering well known European centers of influence and no scarcity of American styles. On the list are Belgian, German, British, and the aforementioned American styles. We have ales and lagers, sweet beers (dubbels), sour beers, malt focused offerings, hop forward drinks, as well as fruit beers. It would be no exaggeration to say that someone familiar with these styles is  well on their way to becoming a connoisseur and developing a sophisticated palate. The recommendations on the graph are directional but our suggestion is not so parochial. With a nudge and a wink we recommend starting from either end of the list, even somewhere in the middle, and branching out at your pleasure. However, one thing is conspicuously missing for the modern craft drinker: IPA, specifically American style IPA. A close look at the list should provide sufficient clues as to where it would fit in (click [here](/flights/#longIPA)  if you give up). 
 
 
-## Wrap up
+## A Spare Moment
 
-Beer consumption is clearly an epicurean pursuit. From the drink itself to the surroundings, from the accompanying food to the company kept, discussing topics of interest but often of little significance, we find ample evidence to view the activity as trivial. Taken out of context imbibing is no serious matter. Family, community, and work are serious. However, with our responsibilities put to bed it is natural and healthy to unwind in order to provide some balance and a few moments of appreciation and reflection. The scarcity of these moments heighten their value providing even more reason to cherish and make the most of them. 
+Beer consumption is an epicurean pursuit. From the drink itself to the surroundings, from the accompanying food to the company kept, discussing topics of interest but often of little significance, we find ample evidence to view the activity as trivial. Taken out of context imbibing is no serious matter. Family, community, and work are serious. However, with our responsibilities put to bed it is natural and healthy to unwind in order to provide some balance and a few moments of appreciation and reflection. The scarcity of these moments heighten their value providing even more reason to cherish and make the most of them. 
 
 > Leisure is essential to civilization, and in former times leisure for the few was only rendered possible by the labors of the many. But their labors were valuable, not because work is good, but because leisure is good.		- **Bertrand Russell**, [In Praise of Idleness](https://www.goodreads.com/work/quotes/1314555-in-praise-of-idleness-and-other-essays)
 
