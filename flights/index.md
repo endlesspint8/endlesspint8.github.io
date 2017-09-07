@@ -26,7 +26,7 @@ Under construction but no reason not to add the first Mix Six:
 **From**: _[Data Guide for the Beer Perplexed, Part IV - Graphs and Paths](/2017-09-08-beer-introductions-4)_
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://drive.google.com/file/d/0B-sLXgINK1HKczFmRXhqMENZMVlGM01BdV8xVHhURmgwaWw0/view?usp=sharing" target="_blank">
     <img src="/gallery/sides/longestPath27_IPA_NetworkX.PNG" width="50%">
   </a>
   <br><br>
