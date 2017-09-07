@@ -21,6 +21,20 @@ Under construction but no reason not to add the first Mix Six:
 <br><br>
 
 
+<h4 align="center" id="longIPA">Longest Beer Style Recommendations Path (w/IPA)</h4>
+
+**From**: _[Data Guide for the Beer Perplexed, Part IV - ](/2017-09-08-beer-introductions-4)_
+
+<p align="center">
+  <a href="https://drive.google.com/open?id=0B-sLXgINK1HKZEdjd2twbFdib3c" target="_blank">
+    <img src="/gallery/sides/beer_prplxd_III.PNG">
+  </a>
+  <br><br>
+</p>
+
+---
+<br>
+
 <h4 align="center" id="bubble">Beer Style Bubble Charts</h4>
 
 **From**: _[Data Guide for the Beer Perplexed, Part III - Beer Descriptors](/2017-05-12-beer-introductions-3)_
