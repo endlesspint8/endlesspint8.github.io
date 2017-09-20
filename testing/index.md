@@ -8,7 +8,7 @@ shortlink: http://bit.ly/2dxLtd9
 sideof: ["End of season", "http://eepurl.com/cj8urH", "visualizations, updated and accompanied with new content."]
 ---
 
-[causal](2017-09-22-gabf-2016-causal-impact)
+[causal](2017-09-22-gabf-2016-causal-impact-not-so-much)
 
 [post prep](post-prep)
 
