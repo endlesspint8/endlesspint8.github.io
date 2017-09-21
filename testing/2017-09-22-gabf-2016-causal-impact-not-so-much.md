@@ -36,6 +36,8 @@ With the data frame in hand the time series was split into three parts: pre, dur
 **Global histogram**. By taking a pre and post trend average for each brewery we are able to create a ratio for searches run on each brewery. The post GABF average is divided by the pre GABF search average, which is itself altered just a bit by adding a tiny regularization constant (+ 0.000001) so as to avoid zero’s in the denominator. The end result is a median of under 1.0, meaning that more than half of the GABF medal winners saw a _**decline**_ in searches the month immediately following the festival versus the three months leading up to the competition.
 
 [insert hist]
+<img src="/gallery/2017/gabf/gabf16_ci_hist.png" alt="gabf16_ci_hist" align="middle" width="85%" /><br />	
+ 
 
 **Brewery Segmentation**. Having identified the brewery type for each medal winner, and flagged the multiple award winners, we are able to get a more interesting look at the numbers. What we see is a slight improvement for recipients of multiple medals, certainly better performances as a group than their single-medal winning counterparts. The three main categories we will focus on are Brewpubs, Micro, and Regional breweries.
 
@@ -102,13 +104,22 @@ Good Hops Brewing LLC; Preyer Brewing Company; Fortnight Brewing Company; Burial
 
 In five of the seven comparisons no statistically significant effect could be attributed to the intervention (GABF weekend). The positive effect could just as well “be the result of random fluctuations that are unrelated to the intervention.” It is also possible that the intervention period was too short and/or the comparison breweries did “not correlate well with the response variable [GABF winner] during the learning period.”<sup id="a4">[4](#f4)</sup> 
 
-The two instances where “the positive effect observed during the intervention period [was] statistically significant and unlikely to be due to random fluctuations” were for Georgetown Brewing Company and Brown Truck Brewery (them again!, what are the chances?).<sup id="a5">[5](#f5)</sup> Below are example graphs for the Brown Truck data set analysis:
+The two instances where “the positive effect observed during the intervention period [was] statistically significant and unlikely to be due to random fluctuations” were for Georgetown Brewing Company and Brown Truck Brewery (them again!, what are the chances?).<sup id="a5">[5](#f5)</sup> Below are example graphs for the Brown Truck data set analysis.
+
+The first plot shows overall performance for Brown Truck (in black) against the comparison Micro's of North Carolina.
+
+<img src="/gallery/2017/gabf/gabf16_ci_datatrend.png" alt="gabf16_ci_datatrend" align="middle" width="85%" /><br />	
+
+The second plot shows more clearly the peaks for Brown Truck, demarcated by the GABF weekend in vertical dashed lines and the predicted ranges in blue shading.  
+
+<img src="/gallery/2017/gabf/gabf16_ci_impact.png" alt="gabf16_ci_impact" align="middle" width="100%" /><br />
 
 ## Picking Nits
 
-Niche or not another possibility is that the craft beer consumer is very engaged, especially anyone willing to make the necessary arrangements and travel to Colorado for the event. It could be that the interest in breweries peaks ahead of the festival weekend as the entrants are announced. This would happen for a number of reasons, including being able to best plan afternoons of limited time, gut space, patience with long lines, both at beer stalls and bathroom stalls, and alcohol tolerance against what is effectively endless beer at the event. I am skeptical of this though I do not discount it. It is difficult to imagine all or even a majority of attendants looking up a majority of the breweries ahead of time. Additionally, we do not see any discernable consistent spike in the months ahead. This could be accounted for by the incremental release of information as breweries confirm their participation and uneven awareness among consumers. This uneven awareness may cut both ways and have a dampening effect on searches after the GABF weekend, helping explain less than impressive numbers the following month. 
+Niche or not another possibility is that the craft beer consumer is very engaged, especially anyone willing to make the necessary arrangements and travel to Colorado for the event. It could be that the interest in breweries peaks ahead of the festival weekend as the entrants are announced. This would happen for a number of reasons, including being able to best plan afternoons of limited time, gut space, patience with long lines, both at beer stalls and bathroom stalls, and alcohol tolerance against what is effectively endless beer at the event. I am skeptical of this since, aside from a few outlier peaks, we do not see any discernably consistent spike/trend in the months ahead of the event. This could be accounted for by the incremental release of information as breweries confirm their participation and uneven awareness among consumers. This uneven awareness may cut both ways and have a dampening effect on searches after the GABF weekend, helping explain less than impressive numbers the following month. 
 
-[time series plot of search activity, indexed to non-zero averages]
+<img src="/gallery/2017/gabf/gabf16_ci_ts.png" alt="gabf16_ci_ts" align="middle" width="100%" /><br />
+
 [that there were zero average searches cuts both ways, it suggests that the numbers are not so bad in not creating an uptick but is fairly sad in not being able to garner any interest for something that is hugely validating to the quality of the work done… hmmm…]
 
 My using Google Trends may also be an inappropriate data source or at least one that is less relevant than one of the three main beer resources currently in fashion: Beeradvocate (BA), Ratebeer (RB), and Untappd (UT). Moreover, there are the social media outlets to consider: Instagram, Twitter, Snapchat, and whatever else the children are using at the time of reading this and those aforementioned dinosaurs having been replaced. While Google is an ubiquitous search option for most people on most topics most of the time it is not always the answer. 
