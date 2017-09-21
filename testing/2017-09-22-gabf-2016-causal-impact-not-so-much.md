@@ -35,13 +35,23 @@ With the data frame in hand the time series was split into three parts: pre, dur
 
 **Global histogram**. By taking a pre and post trend average for each brewery we are able to create a ratio for searches run on each brewery. The post GABF average is divided by the pre GABF search average, which is itself altered just a bit by adding a tiny regularization constant (+ 0.000001) so as to avoid zero’s in the denominator. The end result is a median of under 1.0, meaning that more than half of the GABF medal winners saw a _**decline**_ in searches the month immediately following the festival versus the three months leading up to the competition.
 
-[insert hist]
 <img src="/gallery/2017/gabf/gabf16_ci_hist.png" alt="gabf16_ci_hist" align="middle" width="85%" /><br />	
- 
 
 **Brewery Segmentation**. Having identified the brewery type for each medal winner, and flagged the multiple award winners, we are able to get a more interesting look at the numbers. What we see is a slight improvement for recipients of multiple medals, certainly better performances as a group than their single-medal winning counterparts. The three main categories we will focus on are Brewpubs, Micro, and Regional breweries.
 
-[insert tables]
+|brewery_type|Count: One Medal|Search Change: One Medal|Count: Mult Medals|Search Change: Mult Medals|
+|---|---|---|---|---|
+|Micro|127|0,94|13|1,08|
+|Brewpub|59|0,73|10|0,98|
+|Regional|24|0,77|4|1,13|
+||||||
+|Large|6|0,91|2|1,15|
+|Contract|2|0,52| - | - |
+|Proprietor|1|2,19| -| - |
+|n/a * |1|0| - | - |
+
+
+* [Craft Brew Alliance](http://craftbrew.com/brands/); multiple breweries combined, not clear how to measure
 
 **Cherry Picking**. The three brewery types in combination with the split between single and multiple medal winners provided six categories to choose candidates from for the R CausalImpact analysis. Each of these six segments was sorted by search ratio in descending order, with the top three performers returned for a closer look. After a quick glance it became appealing to pick one brewery form each of the following traditional craft beer bastions: California ([Taps Fish House and Brewery](http://www.tapsfishhouse.com/)), Colorado ([12Degree Brewing](http://www.12degree.com/)), Oregon ([Logsdon Farmhouse Ales](http://www.farmhousebeer.com/)) and Washington ([Georgetown Brewing Company](https://georgetownbeer.com/)). 
 
@@ -52,55 +62,15 @@ Three more breweries were selected to round out the comparison, these included t
 Each of the selected GABF medal winners above, cherry picked to ensure some variation of medal counts, brewery size (Brewpubs, Micro, and Regional) and region, were partnered with four random breweries that met the criteria of being from the same state, matching in brewery type as categorized by the Brewers Association and not placing in the 2016 GABF (no digging was done to identify if they had entered). With this new data set in hand it was back to Google to gather trend information that would help determine whether or not the awards could be considered candidates for the increase in search engagement. 
 
 
-CI Candidate
-State
-Brewery Type
-GABF '16 Medals
-Trends Increase
-Comparison Breweries
-Taps Fish House and Brewery
-CA
-Brewpub
-1
-2.08
-Downtown Joes Brewery and Restaurant; Taplands Brewery; Woods Bar & Brewery; Miner's Alley Brewing Company
-12Degree Brewing
-CO
-Brewpub
-1
-4.22
-Oskar Blues Brewery - Lyons; Whistle Pig Brewing Company; Brix Taphouse and Brewery; Moonlight Pizza
-Logsdon Farmhouse Ales
-OR
-Micro
-1
-3.99
-Mazama Brewing Co; Siuslaw Brewing; Krauskis Brewskis / The Hoppy Brewer; Red Ox Brewing
-Georgetown Brewing Company
-WA
-Regional
-2
-1.79
-Fremont Brewing Co; Redhook Brewery; Mac and Jacks Brewery Inc; Iron Horse Brewery
-Uberbrew
-MT
-Brewpub
-4
-1.11
-Bridger Brewing Company; Cabinet Mountain Brewing Co; The Front Brewing Company; Backslope Brewing 
-Hardywood Park Craft Brewery
-VA
-Micro
-1
-5.5
-Lickinghole Creek Craft Brewery; Barrel Oak Farm Taphouse; Sunken City Brewing Co; New District Brewing Company
-Brown Truck Brewery
-NC
-Micro
-3
-2.89
-Good Hops Brewing LLC; Preyer Brewing Company; Fortnight Brewing Company; Burial Beer Co Forestry Camp
-
+|CI Candidate|State|Brewery Type|GABF '16 Medals|Trends Increase|Comparison Breweries|
+|---|---|---|---|---|---|
+|Taps Fish House and Brewery|CA|Brewpub|1|2.08|Downtown Joes Brewery and Restaurant; Taplands Brewery; Woods Bar & Brewery; Miner's Alley Brewing Company|
+|12Degree Brewing|CO|Brewpub|1|4.22|Oskar Blues Brewery - Lyons; Whistle Pig Brewing Company; Brix Taphouse and Brewery; Moonlight Pizza|
+|Logsdon Farmhouse Ales|OR|Micro|1|3.99|Mazama Brewing Co; Siuslaw Brewing; Krauskis Brewskis / The Hoppy Brewer; Red Ox Brewing|
+|Georgetown Brewing Company|WA|Regional|2|1.79|Fremont Brewing Co; Redhook Brewery; Mac and Jacks Brewery Inc; Iron Horse Brewery|
+|Uberbrew|MT|Brewpub|4|1.11|Bridger Brewing Company; Cabinet Mountain Brewing Co; The Front Brewing Company; Backslope Brewing|
+|Hardywood Park Craft Brewery|VA|Micro|1|5.5|Lickinghole Creek Craft Brewery; Barrel Oak Farm Taphouse; Sunken City Brewing Co; New District Brewing Company|
+|Brown Truck Brewery|NC|Micro|3|2.89|Good Hops Brewing LLC; Preyer Brewing Company; Fortnight Brewing Company; Burial Beer Co Forestry Camp|
 
 In five of the seven comparisons no statistically significant effect could be attributed to the intervention (GABF weekend). The positive effect could just as well “be the result of random fluctuations that are unrelated to the intervention.” It is also possible that the intervention period was too short and/or the comparison breweries did “not correlate well with the response variable [GABF winner] during the learning period.”<sup id="a4">[4](#f4)</sup> 
 
