@@ -8,7 +8,7 @@ subtitle: Visualizations at a Glance with Code Samples
 
 ### [Causal Impact, Not so Much](/2017-09-22-gabf-2016-causal-impact-not-so-much)
 > 
-> * A look at impact of GABF medals on [search engagement](gabf_CausalImpact)<br>
+> A look at impact of GABF medals on [search engagement](gabf_CausalImpact)<br>
 
 <p align="center">
   <img src="/gallery/2017/gabf/gabf16_ci_impact.png" alt="gabf16_ci_impact" align="middle" width="75%" /><br />
