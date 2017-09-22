@@ -5,6 +5,7 @@ subtitle: GABF Medals Bolster Reputations but not Search Interest
 header-img: "img/start.jpg"
 tags: ["GABF", "CausalImpact"]
 shortlink: 
+image: http://endlesspint.com/gallery/2017/gabf/gabf16_ci_impact.png
 sideof: 
 ---
 
@@ -86,7 +87,7 @@ The second plot shows more clearly the peaks for Brown Truck, demarcated by the 
 
 ## Picking Nits
 
-Niche or not, another possibility is that the craft beer consumer is already fully engaged, certainly anyone willing to make the necessary arrangements and travel to Colorado for the event need say no more about their level of commitment. It could be that the interest in breweries peaks ahead of the festival weekend as the entrants are announced. This could happen for a number of reasons, including being able to best plan afternoons of limited time, gut space, patience with long lines, both at beer stalls and bathroom stalls, and alcohol tolerance against what is effectively endless beer at the event. Despite a few outlier peaks the [interquartile range of the two aggregated time ranges] (notebook link to IQR), pre [161 / 192 / 232] and post [160 / 201 / 231] GABF, give us reason to be skeptical of this. Additionally, we do not see any discernably consistent spike/trend in the months ahead of the event. This could be accounted for by the incremental release of information as breweries confirm their participation and uneven awareness among consumers. This uneven awareness may cut both ways and have a dampening effect on searches after the GABF weekend, helping explain less than impressive numbers the following month. 
+Niche or not, another possibility is that the craft beer consumer is already fully engaged, certainly anyone willing to make the necessary arrangements and travel to Colorado for the event need say no more about their level of commitment. It could be that the interest in breweries peaks ahead of the festival weekend as the entrants are announced. This could happen for a number of reasons, including being able to best plan afternoons of limited time, gut space, patience with long lines, both at beer stalls and bathroom stalls, and alcohol tolerance against what is effectively endless beer at the event. Despite a few outlier peaks the [interquartile range of the two aggregated time ranges] (notebook link to IQR), pre [161 / 192 / 232] and post [160 / 201 / 231] GABF, give us reason to be skeptical of this. Additionally, we do not see any discernably consistent spike/trend in the months ahead of the event when [splitting the winners by medal type] (notebook to second IQR). This could be accounted for by the incremental release of information as breweries confirm their participation and uneven awareness among consumers. This uneven awareness may cut both ways and have a dampening effect on searches after the GABF weekend, helping explain less than impressive numbers the following month. 
 
 <img src="/gallery/2017/gabf/gabf16_ci_ts.png" alt="gabf16_ci_ts" align="middle" width="100%" /><br />
 
@@ -102,7 +103,7 @@ With no consistent search increase how about looking at the business end to dete
 
 ## Conclusion
 
-[adsfasdfads]
+[that there were zero average searches cuts both ways, it suggests that the numbers are not so bad in not creating an uptick but is fairly sad in not being able to garner any interest for something that is hugely validating to the quality of the work done… hmmm…]
 
 
 ---
