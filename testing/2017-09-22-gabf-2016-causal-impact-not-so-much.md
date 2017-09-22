@@ -17,13 +17,14 @@ The [Great American Beer Festival](https://www.greatamericanbeerfestival.com/) (
 
 Motivated by Google’s release of the [CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html) R package the intention was to track the impact of winning a GABF medal on internet searches. The naive expectation was that medals would drive more interest to winning breweries and that Google searches would work as a proxy for this measure. The process was as follows:
 
-Identify all [winning breweries](https://www.greatamericanbeerfestival.com/the-competition/winners/) (GABF).
-Gather Google Trends information three months prior and one month post festival.
-Merge and normalize trend numbers across multiple calls.
-Capture national brewery information from the [Brewers Association](https://www.brewersassociation.org/).
-Categorize winners as Brewpub, Micro, Regional, etc. by joining GABF & BA data.
-Choose several medal winners from each brewery type with greatest relative uptick in search trends.
-Compare these winners against a random set of non 2016 GABF winners from the same state and brewery category.
+* Identify all [winning breweries](https://www.greatamericanbeerfestival.com/the-competition/winners/) (GABF).
+* Gather Google Trends information three months prior and one month post festival.
+    - Merge and normalize trend numbers across multiple calls.
+* Capture national brewery information from the [Brewers Association](https://www.brewersassociation.org/).
+* Categorize winners as Brewpub, Micro, Regional, etc. by joining GABF & BA data.
+* Choose several medal winners from each brewery type with greatest relative uptick in search trends.
+* Compare these winners against a random set of non 2016 GABF winners from the same state and brewery category.
+
 
 ## Merge Trends
 
@@ -39,19 +40,18 @@ With the data frame in hand the time series was split into three parts: pre, dur
 
 **Brewery Segmentation**. Having identified the brewery type for each medal winner, and flagged the multiple award winners, we are able to get a more interesting look at the numbers. What we see is a slight improvement for recipients of multiple medals, certainly better performances as a group than their single-medal winning counterparts. The three main categories we will focus on are Brewpubs, Micro, and Regional breweries.
 
-|brewery_type|Count: One Medal|Search Change: One Medal|Count: Mult Medals|Search Change: Mult Medals|
+|Brewery Type|Count: One Medal|Search Change: One Medal|Count: Mult Medals|Search Change: Mult Medals|
 |---|---|---|---|---|
-|Micro|127|0,94|13|1,08|
-|Brewpub|59|0,73|10|0,98|
-|Regional|24|0,77|4|1,13|
+|Micro|127|0.94|13|1.08|
+|Brewpub|59|0.73|10|0.98|
+|Regional|24|0.77|4|1.13|
 ||||||
-|Large|6|0,91|2|1,15|
-|Contract|2|0,52| - | - |
-|Proprietor|1|2,19| -| - |
-|n/a * |1|0| - | - |
+|Large|6|0.91|2|1.15|
+|Contract|2|0.52| - | - |
+|Proprietor|1|2.19| -| - |
+|n/a(+) |1|0| - | - |
 
-
-* [Craft Brew Alliance](http://craftbrew.com/brands/); multiple breweries combined, not clear how to measure
+<sup align="right">(+) [Craft Brew Alliance](http://craftbrew.com/brands/); multiple breweries combined, not clear how to measure.</sup>
 
 **Cherry Picking**. The three brewery types in combination with the split between single and multiple medal winners provided six categories to choose candidates from for the R CausalImpact analysis. Each of these six segments was sorted by search ratio in descending order, with the top three performers returned for a closer look. After a quick glance it became appealing to pick one brewery form each of the following traditional craft beer bastions: California ([Taps Fish House and Brewery](http://www.tapsfishhouse.com/)), Colorado ([12Degree Brewing](http://www.12degree.com/)), Oregon ([Logsdon Farmhouse Ales](http://www.farmhousebeer.com/)) and Washington ([Georgetown Brewing Company](https://georgetownbeer.com/)). 
 
@@ -92,7 +92,7 @@ Niche or not another possibility is that the craft beer consumer is very engaged
 
 [that there were zero average searches cuts both ways, it suggests that the numbers are not so bad in not creating an uptick but is fairly sad in not being able to garner any interest for something that is hugely validating to the quality of the work done… hmmm…]
 
-My using Google Trends may also be an inappropriate data source or at least one that is less relevant than one of the three main beer resources currently in fashion: Beeradvocate (BA), Ratebeer (RB), and Untappd (UT). Moreover, there are the social media outlets to consider: Instagram, Twitter, Snapchat, and whatever else the children are using at the time of reading this and those aforementioned dinosaurs having been replaced. While Google is an ubiquitous search option for most people on most topics most of the time it is not always the answer. 
+My using Google Trends may also be an inappropriate data source or at least one that is less relevant than one of the three main beer resources currently in fashion: [BeerAdvocate](https://www.beeradvocate.com/) (BA), [RateBeer](https://www.ratebeer.com/) (RB), and [Untappd](https://untappd.com/) (UT). Moreover, there are the social media outlets to consider: Instagram, Twitter, Snapchat, and whatever else the children are using at the time of reading this and those aforementioned dinosaurs having been replaced. While Google is an ubiquitous search option for most people on most topics most of the time it is not always the answer. 
 
 I chose Google Trends for several reasons: ubiquity, data access and data summarization. With respect to social media not everyone has an account and not everyone has an active account on each platform. The splintering of posts across multiple social sites both downplays the overall interest and overstates the peak engagement when starting from a lower base rate on a particular/respective site. 
 
