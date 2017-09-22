@@ -100,7 +100,7 @@ head(trend.taps)
 
 
 <table>
-<thead><tr><th scope=col>Day</th><th scope=col>taps.fish.house.and.brewery</th><th scope=col>Downtown.Joes.Brewery.and.Restaurant</th><th scope=col>Taplands.Brewery</th><th scope=col>Woods.Bar...Brewery</th><th scope=col>Miners.Alley.Brewing.Company</th></tr></thead>
+<thead><tr><th>Day</th><th>taps.fish.house.and.brewery</th><th>Downtown.Joes.Brewery.and.Restaurant</th><th>Taplands.Brewery</th><th>Woods.Bar...Brewery</th><th>Miners.Alley.Brewing.Company</th></tr></thead>
 <tbody>
 	<tr><td>2016-07-01</td><td>0         </td><td>0         </td><td>0         </td><td>0         </td><td>0         </td></tr>
 	<tr><td>2016-07-02</td><td>0         </td><td>0         </td><td>0         </td><td>0         </td><td>0         </td></tr>
