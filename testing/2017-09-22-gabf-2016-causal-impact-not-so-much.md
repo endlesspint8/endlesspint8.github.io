@@ -72,7 +72,7 @@ Each of the selected GABF medal winners above, cherry picked to ensure some vari
 |Hardywood Park Craft Brewery|VA|Micro|1|5.5|Lickinghole Creek Craft Brewery; Barrel Oak Farm Taphouse; Sunken City Brewing Co; New District Brewing Company|
 |Brown Truck Brewery|NC|Micro|3|2.89|Good Hops Brewing LLC; Preyer Brewing Company; Fortnight Brewing Company; Burial Beer Co Forestry Camp|
 
-In five of the seven comparisons no statistically significant effect could be attributed to the intervention (GABF weekend). The positive effect could just as well “be the result of random fluctuations that are unrelated to the intervention.” It is also possible that the intervention period was too short and/or the comparison breweries did “not correlate well with the response variable [GABF winner] during the learning period.”<sup id="a4">[4](#f4)</sup> 
+In five of the seven comparisons [no statistically significant effect could be attributed to the intervention](/code/gabf_CausalImpact) (GABF weekend). The positive effect could just as well “be the result of random fluctuations that are unrelated to the intervention.” It is also possible that the intervention period was too short and/or the comparison breweries did “not correlate well with the response variable [GABF winner] during the learning period.”<sup id="a4">[4](#f4)</sup> 
 
 The two instances where “the positive effect observed during the intervention period [was] statistically significant and unlikely to be due to random fluctuations” were for Georgetown Brewing Company and Brown Truck Brewery (them again!, what are the chances?).<sup id="a5">[5](#f5)</sup> Below are example graphs for the Brown Truck data set analysis.
 
