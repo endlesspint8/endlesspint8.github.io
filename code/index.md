@@ -16,7 +16,7 @@ subtitle: Visualizations at a Glance with Code Samples
 
 ### [Data Guide for the Beer Perplexed IV](/2017-09-08-beer-introductions-4)
 > 
-> * List graph of [longest path](beer_prplxd_IV)<br>
+> List graph of [longest path](beer_prplxd_IV)<br>
 
 <p align="center">
   <img src="/gallery/2017/beer-prplxd/longestPath28_NetworkX.PNG" alt="longest path tipsy" align="middle" width="50%" /><br />
@@ -26,7 +26,7 @@ subtitle: Visualizations at a Glance with Code Samples
 
 ### [Data Guide for the Beer Perplexed III](/2017-05-12-beer-introductions-3)
 > 
-> * D3 sunburst flavor wheel<br>
+> D3 sunburst flavor wheel<br>
 
 <p align="center">
   <img src="/gallery/2017/beer-prplxd/wheel_spin.gif" width="600" align="middle"><br>
@@ -36,14 +36,14 @@ subtitle: Visualizations at a Glance with Code Samples
 
 ### [Did you tap that?](/2017-01-12-kicked-kegs-nye-2017)
 > 
-> * Mapping NYE Weekend Kegs (2017) <br>
+> Mapping NYE Weekend Kegs (2017) <br>
 
 <img src="/gallery/2017/digitalpour-nye/nye_popping.gif" align="middle"> <br>
 <sub>Data source: Twitter </sub>
 
 ### [Data Guide for the Beer Perplexed II](/2016-11-18-beer-introductions-2)
 > 
-> * R Shiny boxplot and scatter plot dashboard visualizations<br>
+> R Shiny boxplot and scatter plot dashboard visualizations<br>
 
 <img src="/gallery/2016/beer-prplxd/beer_prplxd2.gif"> <br>
 <sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> / 
@@ -64,21 +64,21 @@ Scraping Template: <a href="https://github.com/cs109/content/blob/master/labs/la
 
 ### [Suds in the City](/2016-11-04-whole-foods-trader-joes-beer)
 >
-> * Mapping with QGis and Carto
+> Mapping with QGis and Carto
 
 <img src="/gallery/2016/suds-city/WHvTJvor.gif" align="middle"> <br>
 <sub><b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/Kmm6NGhFeB Closest Big Box Yuppie Stores in Manhattan&url=http://bit.ly/2eH2bVr&via=endlesspint8&hashtags=beer,dataviz" target="_blank" title="Share on Twitter">Whole Foods v. Trader Joe's Voronoi</a></b></sub>
 
 ### [Data Guide for the Beer Perplexed](/2016-10-10-beer-introductions-1)
 > 
-> * D3 link-node of beer style recommendations <br>
+> D3 link-node of beer style recommendations <br>
 
 <img src="/gallery/2016/beer-prplxd/link_node.gif"> <br>
 <sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> / 
 Scraping Template: <a href="https://github.com/cs109/content/blob/master/labs/lab2/Lab_2_A_Live.ipynb" target="_blank">CS109</a> / 
 Vis Code: <a href="http://bl.ocks.org/mbostock/4062045" target="_blank">Force-Directed Graph</a> & <a href="http://www.coppelia.io/2014/07/an-a-to-z-of-extra-features-for-the-d3-force-layout/" target="_blank">Extra Features</a> / <b>Share <a href="https://twitter.com/intent/tweet?text=pic.twitter.com/mT5QiQ9Ncz Data Guide for the Beer Perplexed, Part 1&url=http://bit.ly/prplxd1&via=endlesspint8&hashtags=D3,beer,dataviz" target="_blank" title="Share on Twitter">Hairball</a></b></sub>
 
-> * Bokeh co-occurrence matrix of beer style recommendations <br>
+> Bokeh co-occurrence matrix of beer style recommendations <br>
 
 <img src="/gallery/2016/beer-prplxd/co_occurrence.gif"> <br>
 <sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> / 
@@ -87,7 +87,7 @@ Vis Code: <a href="http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html" 
 
 ### [It was all GGGood just a week ago](/2016-10-03-ggg-brook-fight-week-tweets)
 >
-> * Fight Hour Tweets
+> Fight Hour Tweets
 
 <img src="/gallery/2016/boxing/ggg-brook/fight_hour_tweets.PNG" alt="fight_hour_tweets" /><br>
 <sub>Data Source: Twitter</sub>
