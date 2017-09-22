@@ -210,7 +210,7 @@ impact$summary
 
 
 <table>
-<thead><tr><th></th><th scope=col>Actual</th><th scope=col>Pred</th><th scope=col>Pred.lower</th><th scope=col>Pred.upper</th><th scope=col>Pred.sd</th><th scope=col>AbsEffect</th><th scope=col>AbsEffect.lower</th><th scope=col>AbsEffect.upper</th><th scope=col>AbsEffect.sd</th><th scope=col>RelEffect</th><th scope=col>RelEffect.lower</th><th scope=col>RelEffect.upper</th><th scope=col>RelEffect.sd</th><th scope=col>alpha</th><th scope=col>p</th></tr></thead>
+<thead><tr><th></th><th>Actual</th><th>Pred</th><th>Pred.lower</th><th>Pred.upper</th><th>Pred.sd</th><th>AbsEffect</th><th>AbsEffect.lower</th><th>AbsEffect.upper</th><th>AbsEffect.sd</th><th>RelEffect</th><th>RelEffect.lower</th><th>RelEffect.upper</th><th>RelEffect.sd</th><th>alpha</th><th>p</th></tr></thead>
 <tbody>
 	<tr><th scope=row>Average</th><td> 3.434783   </td><td> 3.447871   </td><td> -3.009474  </td><td>  9.587261  </td><td> 3.257756   </td><td>-0.01308792 </td><td>  -6.152478 </td><td>  6.444257  </td><td> 3.257756   </td><td>-0.003795942</td><td>-1.784428   </td><td>1.869054    </td><td>0.9448603   </td><td>0.05        </td><td>0.491       </td></tr>
 	<tr><th scope=row>Cumulative</th><td>79.000000   </td><td>79.301022   </td><td>-69.217910  </td><td>220.506996  </td><td>74.928391   </td><td>-0.30102208 </td><td>-141.506996 </td><td>148.217910  </td><td>74.928391   </td><td>-0.003795942</td><td>-1.784428   </td><td>1.869054    </td><td>0.9448603   </td><td>0.05        </td><td>0.491       </td></tr>
@@ -301,7 +301,7 @@ matplot(data_trend, type = "l")
 
 
 <table>
-<thead><tr><th scope=col>Day</th><th scope=col>X12Degree.Brewing</th><th scope=col>Oskar.Blues.Grill...Brew</th><th scope=col>Whistle.Pig.Brewing.Company</th><th scope=col>Brix.Taphouse.and.Brewery</th><th scope=col>Moonlight.Pizza</th></tr></thead>
+<thead><tr><th>Day</th><th>X12Degree.Brewing</th><th>Oskar.Blues.Grill...Brew</th><th>Whistle.Pig.Brewing.Company</th><th>Brix.Taphouse.and.Brewery</th><th>Moonlight.Pizza</th></tr></thead>
 <tbody>
 	<tr><td>2016-07-01</td><td>0         </td><td>0         </td><td>0         </td><td>0         </td><td> 44       </td></tr>
 	<tr><td>2016-07-02</td><td>0         </td><td>0         </td><td>0         </td><td>0         </td><td> 25       </td></tr>
@@ -393,7 +393,7 @@ impact$summary
 
 
 <table>
-<thead><tr><th></th><th scope=col>Actual</th><th scope=col>Pred</th><th scope=col>Pred.lower</th><th scope=col>Pred.upper</th><th scope=col>Pred.sd</th><th scope=col>AbsEffect</th><th scope=col>AbsEffect.lower</th><th scope=col>AbsEffect.upper</th><th scope=col>AbsEffect.sd</th><th scope=col>RelEffect</th><th scope=col>RelEffect.lower</th><th scope=col>RelEffect.upper</th><th scope=col>RelEffect.sd</th><th scope=col>alpha</th><th scope=col>p</th></tr></thead>
+<thead><tr><th></th><th>Actual</th><th>Pred</th><th>Pred.lower</th><th>Pred.upper</th><th>Pred.sd</th><th>AbsEffect</th><th>AbsEffect.lower</th><th>AbsEffect.upper</th><th>AbsEffect.sd</th><th>RelEffect</th><th>RelEffect.lower</th><th>RelEffect.upper</th><th>RelEffect.sd</th><th>alpha</th><th>p</th></tr></thead>
 <tbody>
 	<tr><th scope=row>Average</th><td> 0.8695652 </td><td>0.216350   </td><td> -0.8417951</td><td> 1.262463  </td><td> 0.5459336 </td><td> 0.6532152 </td><td>-0.3928982 </td><td> 1.71136   </td><td> 0.5459336 </td><td>3.019252   </td><td>-1.81603   </td><td>7.910146   </td><td>2.523381   </td><td>0.05       </td><td>0.118      </td></tr>
 	<tr><th scope=row>Cumulative</th><td>20.0000000 </td><td>4.976051   </td><td>-19.3612875</td><td>29.036658  </td><td>12.5564722 </td><td>15.0239492 </td><td>-9.0366575 </td><td>39.36129   </td><td>12.5564722 </td><td>3.019252   </td><td>-1.81603   </td><td>7.910146   </td><td>2.523381   </td><td>0.05       </td><td>0.118      </td></tr>
@@ -503,7 +503,7 @@ impact$summary
 
 
 <table>
-<thead><tr><th scope=col>Day</th><th scope=col>logsdon.farmhouse.ales</th><th scope=col>mazama.brewing</th><th scope=col>siuslaw.brewing</th><th scope=col>krauskis.brewskis</th><th scope=col>red.ox.brewing</th></tr></thead>
+<thead><tr><th>Day</th><th>logsdon.farmhouse.ales</th><th>mazama.brewing</th><th>siuslaw.brewing</th><th>krauskis.brewskis</th><th>red.ox.brewing</th></tr></thead>
 <tbody>
 	<tr><td>2016-07-01</td><td>0         </td><td>0         </td><td>0         </td><td>0         </td><td>0         </td></tr>
 	<tr><td>2016-07-02</td><td>0         </td><td>0         </td><td>0         </td><td>0         </td><td>0         </td></tr>
@@ -566,7 +566,7 @@ impact$summary
 
 
 <table>
-<thead><tr><th></th><th scope=col>Actual</th><th scope=col>Pred</th><th scope=col>Pred.lower</th><th scope=col>Pred.upper</th><th scope=col>Pred.sd</th><th scope=col>AbsEffect</th><th scope=col>AbsEffect.lower</th><th scope=col>AbsEffect.upper</th><th scope=col>AbsEffect.sd</th><th scope=col>RelEffect</th><th scope=col>RelEffect.lower</th><th scope=col>RelEffect.upper</th><th scope=col>RelEffect.sd</th><th scope=col>alpha</th><th scope=col>p</th></tr></thead>
+<thead><tr><th></th><th>Actual</th><th>Pred</th><th>Pred.lower</th><th>Pred.upper</th><th>Pred.sd</th><th>AbsEffect</th><th>AbsEffect.lower</th><th>AbsEffect.upper</th><th>AbsEffect.sd</th><th>RelEffect</th><th>RelEffect.lower</th><th>RelEffect.upper</th><th>RelEffect.sd</th><th>alpha</th><th>p</th></tr></thead>
 <tbody>
 	<tr><th scope=row>Average</th><td>  4.521739</td><td> 1.698626 </td><td> -2.222487</td><td>  5.665054</td><td> 1.97204  </td><td> 2.823113 </td><td> -1.143315</td><td>  6.744226</td><td> 1.97204  </td><td>1.661997  </td><td>-0.6730822</td><td>3.9704    </td><td>1.160962  </td><td>0.05      </td><td>0.076     </td></tr>
 	<tr><th scope=row>Cumulative</th><td>104.000000</td><td>39.068408 </td><td>-51.117209</td><td>130.296251</td><td>45.35693  </td><td>64.931592 </td><td>-26.296251</td><td>155.117209</td><td>45.35693  </td><td>1.661997  </td><td>-0.6730822</td><td>3.9704    </td><td>1.160962  </td><td>0.05      </td><td>0.076     </td></tr>
@@ -680,7 +680,7 @@ impact$summary
 
 
 <table>
-<thead><tr><th scope=col>Day</th><th scope=col>georgetown.brewing</th><th scope=col>fremont.brewing.company</th><th scope=col>redhook.brewery</th><th scope=col>mac.and.jacks.brewery</th><th scope=col>iron.horse.brewery</th></tr></thead>
+<thead><tr><th>Day</th><th>georgetown.brewing</th><th>fremont.brewing.company</th><th>redhook.brewery</th><th>mac.and.jacks.brewery</th><th>iron.horse.brewery</th></tr></thead>
 <tbody>
 	<tr><td>2016-07-01</td><td>23        </td><td>23        </td><td> 0        </td><td> 0        </td><td>23        </td></tr>
 	<tr><td>2016-07-02</td><td> 0        </td><td> 0        </td><td>26        </td><td> 0        </td><td>65        </td></tr>
@@ -743,7 +743,7 @@ impact$summary
 
 
 <table>
-<thead><tr><th></th><th scope=col>Actual</th><th scope=col>Pred</th><th scope=col>Pred.lower</th><th scope=col>Pred.upper</th><th scope=col>Pred.sd</th><th scope=col>AbsEffect</th><th scope=col>AbsEffect.lower</th><th scope=col>AbsEffect.upper</th><th scope=col>AbsEffect.sd</th><th scope=col>RelEffect</th><th scope=col>RelEffect.lower</th><th scope=col>RelEffect.upper</th><th scope=col>RelEffect.sd</th><th scope=col>alpha</th><th scope=col>p</th></tr></thead>
+<thead><tr><th></th><th>Actual</th><th>Pred</th><th>Pred.lower</th><th>Pred.upper</th><th>Pred.sd</th><th>AbsEffect</th><th>AbsEffect.lower</th><th>AbsEffect.upper</th><th>AbsEffect.sd</th><th>RelEffect</th><th>RelEffect.lower</th><th>RelEffect.upper</th><th>RelEffect.sd</th><th>alpha</th><th>p</th></tr></thead>
 <tbody>
 	<tr><th scope=row>Average</th><td> 15.56522 </td><td>  7.436328</td><td> 3.10136  </td><td> 12.38198 </td><td> 2.362591 </td><td>  8.12889 </td><td> 3.183239 </td><td> 12.46386 </td><td> 2.362591 </td><td>1.093132  </td><td>0.4280659 </td><td>1.676077  </td><td>0.3177093 </td><td>0.05      </td><td>0.001     </td></tr>
 	<tr><th scope=row>Cumulative</th><td>358.00000 </td><td>171.035537</td><td>71.33128  </td><td>284.78551 </td><td>54.339583 </td><td>186.96446 </td><td>73.214486 </td><td>286.66872 </td><td>54.339583 </td><td>1.093132  </td><td>0.4280659 </td><td>1.676077  </td><td>0.3177093 </td><td>0.05      </td><td>0.001     </td></tr>
@@ -857,7 +857,7 @@ impact$summary
 
 
 <table>
-<thead><tr><th scope=col>Day</th><th scope=col>uberbrew</th><th scope=col>bridger.brewing</th><th scope=col>cabinet.mountain.brewing</th><th scope=col>the.front.brewing.company</th><th scope=col>backslope.brewing</th></tr></thead>
+<thead><tr><th>Day</th><th>uberbrew</th><th>bridger.brewing</th><th>cabinet.mountain.brewing</th><th>the.front.brewing.company</th><th>backslope.brewing</th></tr></thead>
 <tbody>
 	<tr><td>2016-07-01</td><td> 0        </td><td> 0        </td><td>0         </td><td>0         </td><td> 0        </td></tr>
 	<tr><td>2016-07-02</td><td> 0        </td><td> 0        </td><td>0         </td><td>0         </td><td> 0        </td></tr>
@@ -920,7 +920,7 @@ impact$summary
 
 
 <table>
-<thead><tr><th></th><th scope=col>Actual</th><th scope=col>Pred</th><th scope=col>Pred.lower</th><th scope=col>Pred.upper</th><th scope=col>Pred.sd</th><th scope=col>AbsEffect</th><th scope=col>AbsEffect.lower</th><th scope=col>AbsEffect.upper</th><th scope=col>AbsEffect.sd</th><th scope=col>RelEffect</th><th scope=col>RelEffect.lower</th><th scope=col>RelEffect.upper</th><th scope=col>RelEffect.sd</th><th scope=col>alpha</th><th scope=col>p</th></tr></thead>
+<thead><tr><th></th><th>Actual</th><th>Pred</th><th>Pred.lower</th><th>Pred.upper</th><th>Pred.sd</th><th>AbsEffect</th><th>AbsEffect.lower</th><th>AbsEffect.upper</th><th>AbsEffect.sd</th><th>RelEffect</th><th>RelEffect.lower</th><th>RelEffect.upper</th><th>RelEffect.sd</th><th>alpha</th><th>p</th></tr></thead>
 <tbody>
 	<tr><th scope=row>Average</th><td>  7.521739</td><td>  5.250878</td><td> -1.185505</td><td> 11.7962  </td><td> 3.371324 </td><td> 2.270861 </td><td> -4.274465</td><td>  8.707244</td><td> 3.371324 </td><td>0.4324726 </td><td>-0.8140475</td><td>1.658245  </td><td>0.6420496 </td><td>0.05      </td><td>0.244     </td></tr>
 	<tr><th scope=row>Cumulative</th><td>173.000000</td><td>120.770202</td><td>-27.266613</td><td>271.3127  </td><td>77.540462 </td><td>52.229798 </td><td>-98.312685</td><td>200.266613</td><td>77.540462 </td><td>0.4324726 </td><td>-0.8140475</td><td>1.658245  </td><td>0.6420496 </td><td>0.05      </td><td>0.244     </td></tr>
@@ -1034,7 +1034,7 @@ impact$summary
 
 
 <table>
-<thead><tr><th scope=col>Day</th><th scope=col>hardywood.park.craft.brewery</th><th scope=col>lickinghole.creek.craft.brewery</th><th scope=col>barrel.oak.farm.taphouse</th><th scope=col>sunken.city.brewing.company</th><th scope=col>new.district.brewing.company</th></tr></thead>
+<thead><tr><th>Day</th><th>hardywood.park.craft.brewery</th><th>lickinghole.creek.craft.brewery</th><th>barrel.oak.farm.taphouse</th><th>sunken.city.brewing.company</th><th>new.district.brewing.company</th></tr></thead>
 <tbody>
 	<tr><td>2016-07-01</td><td> 0        </td><td> 0        </td><td>0         </td><td>0         </td><td>0         </td></tr>
 	<tr><td>2016-07-02</td><td>51        </td><td> 0        </td><td>0         </td><td>0         </td><td>0         </td></tr>
@@ -1097,7 +1097,7 @@ impact$summary
 
 
 <table>
-<thead><tr><th></th><th scope=col>Actual</th><th scope=col>Pred</th><th scope=col>Pred.lower</th><th scope=col>Pred.upper</th><th scope=col>Pred.sd</th><th scope=col>AbsEffect</th><th scope=col>AbsEffect.lower</th><th scope=col>AbsEffect.upper</th><th scope=col>AbsEffect.sd</th><th scope=col>RelEffect</th><th scope=col>RelEffect.lower</th><th scope=col>RelEffect.upper</th><th scope=col>RelEffect.sd</th><th scope=col>alpha</th><th scope=col>p</th></tr></thead>
+<thead><tr><th></th><th>Actual</th><th>Pred</th><th>Pred.lower</th><th>Pred.upper</th><th>Pred.sd</th><th>AbsEffect</th><th>AbsEffect.lower</th><th>AbsEffect.upper</th><th>AbsEffect.sd</th><th>RelEffect</th><th>RelEffect.lower</th><th>RelEffect.upper</th><th>RelEffect.sd</th><th>alpha</th><th>p</th></tr></thead>
 <tbody>
 	<tr><th scope=row>Average</th><td> 22       </td><td> 1.997902 </td><td> -178.9668</td><td> 169.2737 </td><td>  78.29663</td><td> 20.0021  </td><td> -147.2737</td><td> 200.9668 </td><td>  78.29663</td><td>10.01155  </td><td>-73.71419 </td><td>100.5889  </td><td>39.18942  </td><td>0.05      </td><td>0.2435766 </td></tr>
 	<tr><th scope=row>Cumulative</th><td>506       </td><td>45.951749 </td><td>-4116.2358</td><td>3893.2958 </td><td>1800.82244</td><td>460.0483  </td><td>-3387.2958</td><td>4622.2358 </td><td>1800.82244</td><td>10.01155  </td><td>-73.71419 </td><td>100.5889  </td><td>39.18942  </td><td>0.05      </td><td>0.2435766 </td></tr>
@@ -1211,7 +1211,7 @@ impact$summary
 
 
 <table>
-<thead><tr><th scope=col>Day</th><th scope=col>brown.truck.brewery</th><th scope=col>good.hops.brewing.llc</th><th scope=col>preyer.brewing.company</th><th scope=col>fortnight.brewing.company</th><th scope=col>burial.beer.co</th></tr></thead>
+<thead><tr><th>Day</th><th>brown.truck.brewery</th><th>good.hops.brewing.llc</th><th>preyer.brewing.company</th><th>fortnight.brewing.company</th><th>burial.beer.co</th></tr></thead>
 <tbody>
 	<tr><td>2016-07-01</td><td> 0        </td><td>0         </td><td>0         </td><td> 0        </td><td> 0        </td></tr>
 	<tr><td>2016-07-02</td><td>38        </td><td>0         </td><td>0         </td><td> 0        </td><td>37        </td></tr>
@@ -1274,7 +1274,7 @@ impact$summary
 
 
 <table>
-<thead><tr><th></th><th scope=col>Actual</th><th scope=col>Pred</th><th scope=col>Pred.lower</th><th scope=col>Pred.upper</th><th scope=col>Pred.sd</th><th scope=col>AbsEffect</th><th scope=col>AbsEffect.lower</th><th scope=col>AbsEffect.upper</th><th scope=col>AbsEffect.sd</th><th scope=col>RelEffect</th><th scope=col>RelEffect.lower</th><th scope=col>RelEffect.upper</th><th scope=col>RelEffect.sd</th><th scope=col>alpha</th><th scope=col>p</th></tr></thead>
+<thead><tr><th></th><th>Actual</th><th>Pred</th><th>Pred.lower</th><th>Pred.upper</th><th>Pred.sd</th><th>AbsEffect</th><th>AbsEffect.lower</th><th>AbsEffect.upper</th><th>AbsEffect.sd</th><th>RelEffect</th><th>RelEffect.lower</th><th>RelEffect.upper</th><th>RelEffect.sd</th><th>alpha</th><th>p</th></tr></thead>
 <tbody>
 	<tr><th scope=row>Average</th><td> 19.26087  </td><td>  4.490307 </td><td>-0.02608773</td><td>  9.637096 </td><td> 2.459114  </td><td> 14.77056  </td><td>  9.623774 </td><td> 19.28696  </td><td> 2.459114  </td><td>3.289432   </td><td>2.143233   </td><td>4.295242   </td><td>0.5476493  </td><td>0.05       </td><td>0.001      </td></tr>
 	<tr><th scope=row>Cumulative</th><td>443.00000  </td><td>103.277068 </td><td>-0.60001768</td><td>221.653197 </td><td>56.559618  </td><td>339.72293  </td><td>221.346803 </td><td>443.60002  </td><td>56.559618  </td><td>3.289432   </td><td>2.143233   </td><td>4.295242   </td><td>0.5476493  </td><td>0.05       </td><td>0.001      </td></tr>
