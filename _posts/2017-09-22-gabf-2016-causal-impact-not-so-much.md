@@ -91,7 +91,7 @@ Niche or not, another possibility is that the craft beer consumer is already ful
 
 <img src="/gallery/2017/gabf/gabf16_ci_ts.png" alt="gabf16_ci_ts" align="middle" width="100%" /><br />
 
-Despite a few outlier peaks the [interquartile range of the two aggregated time ranges] (notebook link to IQR), pre [161 / 192 / 232] and post [160 / 201 / 231] GABF, give us reason to be skeptical of this. Additionally, we do not see any discernably consistent spike/trend in the months ahead of the event when [splitting the winners by medal type] (notebook to second IQR). This could be accounted for by the incremental release of information as breweries confirm their participation and uneven awareness among consumers. This uneven awareness may cut both ways and have a dampening effect on searches after the GABF weekend, helping explain less than impressive numbers the following month. 
+Despite a few outlier peaks the [interquartile range of the two aggregated time ranges](/code/brown_truck_join#iqr), pre [161 / 192 / 232] and post [160 / 201 / 231] GABF, give us reason to be skeptical of this. Additionally, we do not see any discernably consistent spike/trend in the months ahead of the event when [splitting the winners by medal type](/code/brown_truck_join#iqr-by-medal-single-medal-winners). This could be accounted for by the incremental release of information as breweries confirm their participation and uneven awareness among consumers. This uneven awareness may cut both ways and have a dampening effect on searches after the GABF weekend, helping explain less than impressive numbers the following month. 
 
 <p align="center">
     <b>Pre and Post GABF Searches by Medal</b><br />
@@ -110,8 +110,9 @@ With no consistent search increase how about looking at the business end to dete
 
 ## Conclusion
 
-[that there were zero average searches cuts both ways, it suggests that the numbers are not so bad in not creating an uptick but is fairly sad in not being able to garner any interest for something that is hugely validating to the quality of the work done… hmmm…]
+GABF medals do not appear to move the needle on Google searches. This comes as both a bit of a surprise and a disappointment. It may be the the time span considered was too short and that may warrant additional analysis. However, one sixth of the medal winners had _**no**_ Google Trends info at all. This would suggest that certain breweriers could be doing more to be make their presence better known and that the GABF could offer more publicity.
 
+Good beer will sell itself, but in a crowded market there is no guarantee that you will be the one to address that thirst. It would behoove both the individual players and the industry cheerleaders to put the little guys on stable ground.
 
 ---
 
