@@ -4,7 +4,7 @@ title: Causal Impact, Not so Much
 subtitle: GABF Medals Bolster Reputations but not Search Interest
 header-img: "img/start.jpg"
 tags: ["GABF", "CausalImpact"]
-shortlink: 
+shortlink: http://bit.ly/gabf16_ci
 image: http://endlesspint.com/gallery/2017/gabf/gabf16_ci_impact.png
 sideof: 
 ---
