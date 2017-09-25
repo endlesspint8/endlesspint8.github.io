@@ -16,7 +16,7 @@ In order to brew the beer with naturally available yeast, "r esident to this are
 Perkins puts it, there are a couple of differences required to the modern day
 conventional brewing process.
 
-<img alt="" src="images-MxSxFx001/image1.png"></br>
+<img alt="" src="/flights/17_1/images-MxSxFx001/image1.png"></br>
 Photo/Video: Jeff Bush (WSJ)
 
 For these s pecial beers Allagash transfers the boiling wort into an open cool ship
@@ -53,7 +53,9 @@ of the brewery not surviving if this trend gets any worse. It's a sad tradition 
 end, especially in light of the UNESCO heritage acknowledgment given to Belgian
 beers, and a clear reminder to the first worlders among us that changes are a
 brewing in more ways than one and in sometimes unwelcome ways.
+
 * * *
+
 **If Cantillon folds** there will be other breweries to pick up the slack, both current
 and future, but if the weather continues to change the beer will almost certainly
 never be the same. The idea of local flavor is discussed in a brief interview on
@@ -74,7 +76,7 @@ magical process provided to us by the gods. Even our recent ancestors were not
 aware of the existence of yeast, evidenced by its absence from the original
 German Reinheitsgebot .
 
-<img alt="" src="images-MxSxFx001/image2.png"></br>
+<img alt="" src="/flights/17_1/images-MxSxFx001/image2.png"></br>
 By Deutsche Bundespost - scanned by NobbiP , Public Domain, Link
 * * *
 **In line with** a sense of place is another WSJ [ 4] piece that highlights certain
@@ -100,7 +102,9 @@ Two gem observations are the "t he feedback loop of local tastes” and the
 couching of America's developing flavors into a longer history and heritage of beer
 (for instance when referencing the birth of styles by "necessity or… geopolitical
 jockeying" à la Scottish Ales with their little to no use of hops [ debatable ]).
+
 * * *
+
 **Our cataloging sense** and taste of place along with the idea of looking at beers
 through the eyes of regional traits comes at an auspicious time. A time of record
 breaking brewery counts. After matching the previous national all-time high in
@@ -114,8 +118,9 @@ I've written about before, having to do primarily with home brewing legislation 
 a consumer trend away from mass produced food stuffs (I'm looking at you again,
 Wonder Bread).
 
-<img alt="" src="images-MxSxFx001/image3.jpg"></br>
+<img alt="" src="/flights/17_1/images-MxSxFx001/image3.jpg"></br>
 Public Domain, Link
+
 Brewery counts skyrocketed during the 90’s and early 2000's, making some clamor
 about Peak Beer, the article referencing 2013 as a recent example when the count
 was half of what it is today. Also in 2013, is a BA article from their economist, Bart
@@ -128,12 +133,15 @@ numbers. To put it pithily, the industry is growing but slowing. Our economist
 refers to this as a period of maturation in which it is natural for growth rates to fall
 back to previous percentages. A prompting to look at behavior in previous maturing
 markets, in like sectors, for relevant activity.
+
 * * *
+
 The high number of breweries directly feeds into one of the biggest and final beer
 stories of 2016: the price of hops. In what is the highest valuation in history, both
 in absolute and relative terms, we see US hops total nearly half a billion dollars.
 
-<img alt="" src="images-MxSxFx001/image5.png"></br>
+<img alt="" src="/flights/17_1/images-MxSxFx001/image5.png"></br>
+
 According to the USDA the three key contributing factors were increased acreage
 (+17%, 2016 v 2015), higher production (87 million pounds, +11%), and more
 expensive hop varieties favored by craft breweries, resulting in a price jump of 31%
@@ -156,29 +164,24 @@ priced option than standard lagers and substitute alcohols (per/ABV). Cities are
 where you find higher incomes. Higher rents too. As discretionary spending
 stagnates or falls , what then ?
 
-<img alt="" src="images-MxSxFx001/image4.png"></br>
-By Exact source unknown, image likely pulled from existing image on web (Google image search for "fonzie shark jump" shows many
-duplicates of same image), Fair use , Link
+<img alt="" src="/flights/17_1/images-MxSxFx001/image4.png"></br>
+<sup>By Exact source unknown, image likely pulled from existing image on web (Google image search for "fonzie shark jump" shows many
+duplicates of same image), Fair use , Link</sup>
 
 ---
 
 **Notes**
-
-[1] Bush, Jeff. "Blowing in the Wind: Wild Yeast Produces Beer With Terroir" The Wall Street Journal . Dow
-Jones & Company, Inc., 22 Dec 2016. Web. 27 Dec 2017.
-
-[2] "Climate change blamed for putting Belgium beer business at risk" The Guardian . Guardian News and
-Media Limited, 4 Nov 2015. Web. 2 Jan 2017.
-
-[3] Albon, Morgan, & Spandana. "S2E5: The Double Entendre" Partially Derivative ., 15 Mar 2016. Web 2 Jan
-2017.
-
-[4] Bostwick, William. "Where the Beers Are: A Regional Guide to U.S. Craft Brews" The Wall Street Journal .
-Dow Jones & Company, Inc., 22 Dec 2016. Web. 27 Dec 2017.
-
-[5] Tuttle, Brad. "America Now Has a Record-High 5,000 Breweries and Counting" Fortune . Time Inc., 10 Dec
-2016. Web. 2 Jan 2017
-
-[6] Terazono, Emiko. "Craft beer sales slip coincides with record US hop revenue" Financial Times . The
-Financial Times Ltd., 20 Dec 2016. Web. 20 Dec 2016.
-Copyright © 2017 EndlessPint, All rights reserved.
+> 
+> [1] Bush, Jeff. "Blowing in the Wind: Wild Yeast Produces Beer With Terroir" The Wall Street Journal . Dow Jones & Company, Inc., 22 Dec 2016. Web. 27 Dec 2017.
+> 
+> [2] "Climate change blamed for putting Belgium beer business at risk" The Guardian . Guardian News and Media Limited, 4 Nov 2015. Web. 2 Jan 2017.
+> 
+> [3] Albon, Morgan, & Spandana. "S2E5: The Double Entendre" Partially Derivative ., 15 Mar 2016. Web 2 Jan 2017.
+> 
+> [4] Bostwick, William. "Where the Beers Are: A Regional Guide to U.S. Craft Brews" The Wall Street Journal. Dow Jones & Company, Inc., 22 Dec 2016. Web. 27 Dec 2017.
+> 
+> [5] Tuttle, Brad. "America Now Has a Record-High 5,000 Breweries and Counting" Fortune . Time Inc., 10 Dec 2016. Web. 2 Jan 2017
+> 
+> [6] Terazono, Emiko. "Craft beer sales slip coincides with record US hop revenue" Financial Times. The Financial Times Ltd., 20 Dec 2016. Web. 20 Dec 2016. 
+> 
+> Copyright © 2017 EndlessPint, All rights reserved.
