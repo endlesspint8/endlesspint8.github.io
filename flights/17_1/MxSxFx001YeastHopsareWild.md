@@ -1,15 +1,12 @@
 ---
-layout: page
-title: endlesspint
-subtitle: Kovalev Ward I - Round Features and Judge Scoring
+layout: post
+title: Yeast & Hops are Wild
+subtitle: Linking wild yeast, "sense of place", and a record hop valuation.
 ---
 
-Linking wild yeast, "sense of place", and a record hop valuation.
+## Yeast & Hops are Wild
 
-
-Yeast & Hops are Wild
-
-The starting point and inspiration for this edition is an enjoyable t hree minute
+**The starting point**  and inspiration for this edition is an enjoyable t hree minute
 video [ 1] that uses a light touch in covering the steps, certainly a few of the most
 critical, used by Allagash in producing their wild yeast fermented beers. Our host is
 Master Brewer Jason Perkins who gives us an overview of the process,
@@ -21,6 +18,7 @@ conventional brewing process.
 
 <img alt="" src="images-MxSxFx001/image1.png"></br>
 Photo/Video: Jeff Bush (WSJ)
+
 For these s pecial beers Allagash transfers the boiling wort into an open cool ship
 vessel, bypassing the now standard cooling process of filtering the liquid through a
 chiller and dropping the temperature as quickly as possible, instead leaving the
@@ -35,7 +33,7 @@ product think in the one to three year time frame. All the while small amounts o
 oxygen is leaving and entering the barrels, adding to the nuances of the brewing
 and aging process.
 * * *
-The mention of wild yeast and open fermentation always has me thinking of
+**The mention of** wild yeast and open fermentation always has me thinking of
 Belgium and more specifically of Cantillon, which I was lucky enough to visit a few
 years back. The visitor descriptions of open roofs, as much due to holes as
 intentionally created, as well as cobwebs were true enough.
@@ -56,7 +54,7 @@ end, especially in light of the UNESCO heritage acknowledgment given to Belgian
 beers, and a clear reminder to the first worlders among us that changes are a
 brewing in more ways than one and in sometimes unwelcome ways.
 * * *
-If Cantillon folds there will be other breweries to pick up the slack, both current
+**If Cantillon folds** there will be other breweries to pick up the slack, both current
 and future, but if the weather continues to change the beer will almost certainly
 never be the same. The idea of local flavor is discussed in a brief interview on
 Partially Derivative [ 3] (last 5 min) with Jeff Stuffing of J ester King. His brewery, on
@@ -79,7 +77,7 @@ German Reinheitsgebot .
 <img alt="" src="images-MxSxFx001/image2.png"></br>
 By Deutsche Bundespost - scanned by NobbiP , Public Domain, Link
 * * *
-In line with a sense of place is another WSJ [ 4] piece that highlights certain
+**In line with** a sense of place is another WSJ [ 4] piece that highlights certain
 American regional styles, their origins and play off of the local environment and
 people. While it is made clear early on that brewers of all sizes can source
 ingredients from around the world the article digs into the "l ocavore” aspects of
@@ -103,7 +101,7 @@ couching of America's developing flavors into a longer history and heritage of b
 (for instance when referencing the birth of styles by "necessity or… geopolitical
 jockeying" à la Scottish Ales with their little to no use of hops [ debatable ]).
 * * *
-Our cataloging sense and taste of place along with the idea of looking at beers
+**Our cataloging sense** and taste of place along with the idea of looking at beers
 through the eyes of regional traits comes at an auspicious time. A time of record
 breaking brewery counts. After matching the previous national all-time high in
 2015, of 4,131 breweries set in 1873, the US has reached a new milestone by
@@ -135,7 +133,7 @@ The high number of breweries directly feeds into one of the biggest and final be
 stories of 2016: the price of hops. In what is the highest valuation in history, both
 in absolute and relative terms, we see US hops total nearly half a billion dollars.
 
-<img alt="" src="images-MxSxFx001/image4.png"></br>
+<img alt="" src="images-MxSxFx001/image5.png"></br>
 According to the USDA the three key contributing factors were increased acreage
 (+17%, 2016 v 2015), higher production (87 million pounds, +11%), and more
 expensive hop varieties favored by craft breweries, resulting in a price jump of 31%
@@ -158,20 +156,29 @@ priced option than standard lagers and substitute alcohols (per/ABV). Cities are
 where you find higher incomes. Higher rents too. As discretionary spending
 stagnates or falls , what then ?
 
-<img alt="" src="images-MxSxFx001/image5.png"></br>
+<img alt="" src="images-MxSxFx001/image4.png"></br>
 By Exact source unknown, image likely pulled from existing image on web (Google image search for "fonzie shark jump" shows many
 duplicates of same image), Fair use , Link
-Notes
+
+---
+
+**Notes**
+
 [1] Bush, Jeff. "Blowing in the Wind: Wild Yeast Produces Beer With Terroir" The Wall Street Journal . Dow
 Jones & Company, Inc., 22 Dec 2016. Web. 27 Dec 2017.
+
 [2] "Climate change blamed for putting Belgium beer business at risk" The Guardian . Guardian News and
 Media Limited, 4 Nov 2015. Web. 2 Jan 2017.
+
 [3] Albon, Morgan, & Spandana. "S2E5: The Double Entendre" Partially Derivative ., 15 Mar 2016. Web 2 Jan
 2017.
+
 [4] Bostwick, William. "Where the Beers Are: A Regional Guide to U.S. Craft Brews" The Wall Street Journal .
 Dow Jones & Company, Inc., 22 Dec 2016. Web. 27 Dec 2017.
+
 [5] Tuttle, Brad. "America Now Has a Record-High 5,000 Breweries and Counting" Fortune . Time Inc., 10 Dec
 2016. Web. 2 Jan 2017
+
 [6] Terazono, Emiko. "Craft beer sales slip coincides with record US hop revenue" Financial Times . The
 Financial Times Ltd., 20 Dec 2016. Web. 20 Dec 2016.
 Copyright © 2017 EndlessPint, All rights reserved.
