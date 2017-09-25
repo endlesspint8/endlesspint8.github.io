@@ -8,7 +8,7 @@ subtitle: Linking wild yeast, "sense of place", and a record hop valuation.
 
 **The starting point**  and inspiration for this edition is an enjoyable t hree minute video [ 1] that uses a light touch in covering the steps, certainly a few of the most critical, used by Allagash in producing their wild yeast fermented beers. Our host is Master Brewer Jason Perkins who gives us an overview of the process, emphasizing that while wild yeast is all around us, practically speaking all of the beer in the world is produced with cultured yeast.
 
-In order to brew the beer with naturally available yeast, "<font color="#FF8C00"><strong>resident to this area</strong></font>" as
+In order to brew the beer with naturally available yeast, <font color="#FF8C00"><strong>"resident to this area"</strong></font> as
 Perkins puts it, there are a couple of differences required to the modern day conventional brewing process.
 
 <p align="center">
@@ -121,8 +121,11 @@ I've written about before, having to do primarily with home brewing legislation 
 a consumer trend away from mass produced food stuffs (I'm looking at you again,
 Wonder Bread).
 
-<img alt="" src="/flights/17_1/images-MxSxFx001/image2.png"></br>
-Public Domain, Link
+<p align="center">
+  <img alt="" src="/flights/17_1/images-MxSxFx001/image2.png"><br><br>
+  <sup>Public Domain, Link</sup>
+  <br>
+</p>
 
 Brewery counts skyrocketed during the 90’s and early 2000's, making some clamor
 about Peak Beer, the article referencing 2013 as a recent example when the count
@@ -144,7 +147,10 @@ The high number of breweries directly feeds into one of the biggest and final be
 stories of 2016: the price of hops. In what is the highest valuation in history, both
 in absolute and relative terms, we see US hops total nearly half a billion dollars.
 
-<img alt="" src="/flights/17_1/images-MxSxFx001/image5.png"></br>
+<p align="center">
+  <img alt="" src="/flights/17_1/images-MxSxFx001/image5.png">
+  <br>
+</p>
 
 According to the USDA the three key contributing factors were increased acreage
 (+17%, 2016 v 2015), higher production (87 million pounds, +11%), and more
@@ -170,9 +176,12 @@ priced option than standard lagers and substitute alcohols (per/ABV). Cities are
 where you find higher incomes. Higher rents too. As discretionary spending
 stagnates or falls , what then?
 
-<img alt="" src="/flights/17_1/images-MxSxFx001/image4.png"></br>
-<sup>By Exact source unknown, image likely pulled from existing image on web (Google image search for "fonzie shark jump" shows many
+<p align="center">
+  <img alt="" src="/flights/17_1/images-MxSxFx001/image4.png"><br><br>
+  <sup>By Exact source unknown, image likely pulled from existing image on web (Google image search for "fonzie shark jump" shows many
 duplicates of same image), Fair use , Link</sup>
+  <br>
+</p>
 
 ---
 
