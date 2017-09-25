@@ -6,15 +6,10 @@ subtitle: Linking wild yeast, "sense of place", and a record hop valuation.
 
 ## Yeast & Hops are Wild
 
-**The starting point**  and inspiration for this edition is an enjoyable t hree minute
-video [ 1] that uses a light touch in covering the steps, certainly a few of the most
-critical, used by Allagash in producing their wild yeast fermented beers. Our host is
-Master Brewer Jason Perkins who gives us an overview of the process,
-emphasizing that while wild yeast is all around us, practically speaking all of the
-beer in the world is produced with cultured yeast.
-In order to brew the beer with naturally available yeast, "r esident to this area" as
-Perkins puts it, there are a couple of differences required to the modern day
-conventional brewing process.
+**The starting point**  and inspiration for this edition is an enjoyable t hree minute video [ 1] that uses a light touch in covering the steps, certainly a few of the most critical, used by Allagash in producing their wild yeast fermented beers. Our host is Master Brewer Jason Perkins who gives us an overview of the process, emphasizing that while wild yeast is all around us, practically speaking all of the beer in the world is produced with cultured yeast.
+
+In order to brew the beer with naturally available yeast, "<font color="#FF8C00"><strong>resident to this area</strong></font>" as
+Perkins puts it, there are a couple of differences required to the modern day conventional brewing process.
 
 <p align="center">
   <a href="http://on.wsj.com/2huYjbj" target="_blank">
@@ -24,22 +19,11 @@ conventional brewing process.
   <br><br>
 </p>
 
-For these s pecial beers Allagash transfers the boiling wort into an open cool ship
-vessel, bypassing the now standard cooling process of filtering the liquid through a
-chiller and dropping the temperature as quickly as possible, instead leaving the
-liquid exposed overnight across a wide and shallow pool for about 18 hours. This
-allows the beer to cool and receive natural inoculation from the "resident" yeast
-through the netted windows of the housing shed. This process is restricted to
-certain times of the year that provide the required overnight temperatures, most
-often in November and December.
+For these s pecial beers Allagash transfers the boiling wort into an open cool ship vessel, bypassing the now standard cooling process of filtering the liquid through a chiller and dropping the temperature as quickly as possible, instead leaving the liquid exposed overnight across a wide and shallow pool for about 18 hours. This allows the beer to cool and receive natural inoculation from the "resident" yeast through the netted windows of the housing shed. This process is restricted to certain times of the year that provide the required overnight temperatures, most often in November and December.
 
-The wild yeast-infused liquid is then transferred to less than airtight oak barrels
-(intentionally). If you're wondering how long before you get to taste the finished
-product think in the one to three year time frame. All the while small amounts of
-oxygen is leaving and entering the barrels, adding to the nuances of the brewing
-and aging process.
+The wild yeast-infused liquid is then transferred to less than airtight oak barrels (intentionally). If you're wondering how long before you get to taste the finished product think in the one to three year time frame. All the while small amounts of oxygen is leaving and entering the barrels, adding to the nuances of the brewing and aging process.
 
-* * *
+   * * *
 
 **The mention of** wild yeast and open fermentation always has me thinking of
 Belgium and more specifically of Cantillon, which I was lucky enough to visit a few
@@ -89,7 +73,7 @@ aware of the existence of yeast, evidenced by its absence from the original
 German Reinheitsgebot.
 
 <p align="center">
-  <img alt="" src="/flights/17_1/images-MxSxFx001/image2.png"><br>
+  <img alt="" src="/flights/17_1/images-MxSxFx001/image3.jpg"><br>
   <sup>By Deutsche Bundespost - scanned by NobbiP, Public Domain, Link</sup>
   <br><br>
 </p>
@@ -137,7 +121,7 @@ I've written about before, having to do primarily with home brewing legislation 
 a consumer trend away from mass produced food stuffs (I'm looking at you again,
 Wonder Bread).
 
-<img alt="" src="/flights/17_1/images-MxSxFx001/image3.jpg"></br>
+<img alt="" src="/flights/17_1/images-MxSxFx001/image2.png"></br>
 Public Domain, Link
 
 Brewery counts skyrocketed during the 90’s and early 2000's, making some clamor
