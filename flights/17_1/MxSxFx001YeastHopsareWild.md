@@ -1,80 +1,48 @@
 ---
 layout: post
-title: Yeast & Hops are Wild
+title: MixSixFix - Yeast & Hops are Wild
 subtitle: Linking wild yeast, "sense of place", and a record hop valuation.
 ---
 
 ## Yeast & Hops are Wild
 
-**The starting point**  and inspiration for this edition is an enjoyable t hree minute video [ 1] that uses a light touch in covering the steps, certainly a few of the most critical, used by Allagash in producing their wild yeast fermented beers. Our host is Master Brewer Jason Perkins who gives us an overview of the process, emphasizing that while wild yeast is all around us, practically speaking all of the beer in the world is produced with cultured yeast.
+**The starting point**  and inspiration for this edition is an enjoyable [three minute video](http://www.wsj.com/video/blowing-in-the-wind-wild-yeast-produces-beer-with-terroir/2D1D23E4-95D4-4ADC-A235-A86498CD418B.html) **[1]** that uses a light touch in covering the steps, certainly a few of the most critical, used by [Allagash](http://www.allagash.com/?ao_confirm) in producing their wild yeast fermented beers. Our host is Master Brewer Jason Perkins who gives us an overview of the process, emphasizing that while wild yeast is all around us, practically speaking all of the beer in the world is produced with cultured yeast.
 
 In order to brew the beer with naturally available yeast, <font color="#FF8C00"><strong>"resident to this area"</strong></font> as
 Perkins puts it, there are a couple of differences required to the modern day conventional brewing process.
 
 <p align="center">
   <a href="http://on.wsj.com/2huYjbj" target="_blank">
-    <img alt="" src="/flights/17_1/images-MxSxFx001/image1.png"><br>
+    <img alt="Blowing in the Wind" src="/flights/17_1/images-MxSxFx001/image1.png"><br>
   </a>
   <sup>Photo/Video: Jeff Bush (WSJ)</sup>
   <br><br>
 </p>
 
-For these s pecial beers Allagash transfers the boiling wort into an open cool ship vessel, bypassing the now standard cooling process of filtering the liquid through a chiller and dropping the temperature as quickly as possible, instead leaving the liquid exposed overnight across a wide and shallow pool for about 18 hours. This allows the beer to cool and receive natural inoculation from the "resident" yeast through the netted windows of the housing shed. This process is restricted to certain times of the year that provide the required overnight temperatures, most often in November and December.
+For these [special beers](http://www.allagash.com/beer/#limited) Allagash transfers the boiling wort into an open cool ship vessel, bypassing the now standard cooling process of filtering the liquid through a chiller and dropping the temperature as quickly as possible, instead leaving the liquid exposed overnight across a wide and shallow pool for about 18 hours. This allows the beer to cool and receive natural inoculation from the "resident" yeast through the netted windows of the housing shed. This process is restricted to certain times of the year that provide the required overnight temperatures, most often in November and December.
 
 The wild yeast-infused liquid is then transferred to less than airtight oak barrels (intentionally). If you're wondering how long before you get to taste the finished product think in the one to three year time frame. All the while small amounts of oxygen is leaving and entering the barrels, adding to the nuances of the brewing and aging process.
 
-   * * *
+* * *
 
-**The mention of** wild yeast and open fermentation always has me thinking of
-Belgium and more specifically of Cantillon, which I was lucky enough to visit a few
-years back. The visitor descriptions of open roofs, as much due to holes as
-intentionally created, as well as cobwebs were true enough.
+**The mention of** wild yeast and open fermentation always has me thinking of Belgium and more specifically of [Cantillon](https://www.cantillon.be/?lang=en), which I was lucky enough to visit a few years back. The visitor descriptions of open roofs, as much due to holes as intentionally created, as well as cobwebs were true enough.
 
-At the end of the previous video Allagash head brewmaster, Jason Perkins, put a
-caveat on the idea of brewing from the yeast around us, that the resulting
-fermentation only works exceptionally well for brewing beers in a few areas of the
-world. Belgium, the land best known for this sort of thing, was of course mentioned.
-These two parts, that it only works in certain areas and that Brussels is one of
-those places (home of Cantillon) , reminded me of a story I saw last year regarding
-the increased difficulty of brewing in this fashion [ 2] due to l onger summers and
-warmer autumns.
+At the end of the previous video [Allagash](http://www.allagash.com/?ao_confirm) head brewmaster, Jason Perkins, put a caveat on the idea of brewing from the yeast around us, that the resulting fermentation only works exceptionally well for brewing beers in a few areas of the world. Belgium, the land best known for this sort of thing, was of course mentioned. These two parts, that it only works in certain areas and that Brussels is one of those places (home of [Cantillon](https://www.cantillon.be/?lang=en)) , reminded me of a story I saw last year regarding the increased difficulty of [brewing in this fashion](https://www.theguardian.com/world/2015/nov/04/climate-change-blamed-for-putting-belgium-beer-business-at-risk) **[2]** due to <font color="#FF8C00"><strong>longer summers and warmer autumns</strong></font>.
 
-Cantillon is currently run by Jan Van Roy, the great grandson of the founding van
-Roy who started the brewery in 1900. According to the current progeny, brewing
-has been cut back from the eight months his grandfather was doing 50 years ago
-(mid-October to May) to just five, November through March. There is a real threat
-of the brewery not surviving if this trend gets any worse. It's a sad tradition to see
-end, especially in light of the UNESCO heritage acknowledgment given to Belgian
-beers, and a clear reminder to the first worlders among us that changes are a
-brewing in more ways than one and in sometimes unwelcome ways.
+Cantillon is currently run by Jan Van Roy, the great grandson of the founding van Roy who started the brewery in 1900. According to the current progeny, brewing has been cut back from the eight months his grandfather was doing 50 years ago (mid-October to May) to just five, November through March. There is a real threat of the brewery not surviving if this trend gets any worse. It's a sad tradition to see end, especially in light of the [UNESCO heritage acknowledgment given to Belgian beers](https://www.theguardian.com/world/2016/nov/30/cheers-belgian-beer-added-unesco-cultural-heritage-list), and a clear reminder to the first worlders among us that changes are a brewing in more ways than one and in sometimes unwelcome ways.
 
 * * *
 
-**If Cantillon folds** there will be other breweries to pick up the slack, both current
-and future, but if the weather continues to change the beer will almost certainly
-never be the same. The idea of local flavor is discussed in a brief interview on
-Partially Derivative [ 3] (last 5 min) with Jeff Stuffing of J ester King. His brewery, on
-the outskirts of Austin in Texas Hill Country, specializes in farmhouse ales and
-aims to deliver beers that through local ingredients provide a “ sense of place" .
-This is accomplished by using well water, local grains, hops aged on site, and
-sourcing local micro-flora. Once again leveraging the power of wild yeast.
+**If Cantillon folds** there will be other breweries to pick up the slack, both current and future, but if the weather continues to change the beer will almost certainly never be the same. The idea of local flavor is discussed in a brief interview on
+[Partially Derivative](http://partiallyderivative.com/news/2016/03/15/season-2-episode-5-the-double-entendre) **[3]** (last 5 min) with Jeff Stuffing of [Jester King](http://jesterkingbrewery.com/). His brewery, on the outskirts of Austin in Texas Hill Country, specializes in farmhouse ales and aims to deliver beers that through local ingredients provide a <font color="#FF8C00"><strong>“sense of place"</strong></font>. This is accomplished by using well water, local grains, hops aged on site, and sourcing local micro-flora. Once again leveraging the power of wild yeast.
 
-As previously hinted at this leads to less predictable brewing outcomes and times,
-so much so that despite their blending from a combination of stainless steel and
-oak barrels Stuffing says J ester King never make the same beer twice. There's a
-certain charm and timely sadness to that idea.
+As previously hinted at this leads to less predictable brewing outcomes and times, so much so that despite their blending from a combination of stainless steel and oak barrels Stuffing says [Jester King](http://jesterkingbrewery.com/) never make the same beer twice. There's a certain charm and timely sadness to that idea.
 
-Beer has been so effectively turned into an industrial product by the big boys with
-their wondrous and impressive modern toys, routinely turning out the same
-consistent product ( Wonder Bread, ahem), that we may be forgiven for forgetting
-that beer creation was originally a mysterious product thought to incorporate a
-magical process provided to us by the gods. Even our recent ancestors were not
-aware of the existence of yeast, evidenced by its absence from the original
-German Reinheitsgebot.
+Beer has been so effectively turned into an industrial product by the big boys with their wondrous and impressive modern toys, routinely turning out the same consistent product ([Wonder Bread](https://www.wonderbread.com/), ahem), that we may be forgiven for forgetting that beer creation was originally a mysterious product thought to incorporate a magical process provided to us [by the gods](http://www.ancient.eu/article/223/). Even our recent ancestors were not aware of the existence of yeast, evidenced by its absence from the original German [Reinheitsgebot](https://en.wikipedia.org/wiki/Reinheitsgebot).
 
 <p align="center">
   <img alt="" src="/flights/17_1/images-MxSxFx001/image3.jpg"><br>
-  <sup>By Deutsche Bundespost - scanned by NobbiP, Public Domain, Link</sup>
+  <sup>By Deutsche Bundespost - scanned by <a href="https://commons.wikimedia.org/wiki/User:NobbiP">NobbiP</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=11244954">Link</a></sup>
   <br><br>
 </p>
 
@@ -123,7 +91,7 @@ Wonder Bread).
 
 <p align="center">
   <img alt="" src="/flights/17_1/images-MxSxFx001/image2.png"><br><br>
-  <sup>Public Domain, Link</sup>
+  <sup>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=16895471">Link</a></sup>
   <br>
 </p>
 
@@ -179,7 +147,7 @@ stagnates or falls , what then?
 <p align="center">
   <img alt="" src="/flights/17_1/images-MxSxFx001/image4.png"><br><br>
   <sup>By Exact source unknown, image likely pulled from existing image on web (Google image search for "fonzie shark jump" shows many
-duplicates of same image), Fair use , Link</sup>
+  duplicates of same image), <a href="https://en.wikipedia.org/wiki/File:Fonzie_jumps_the_shark.PNG">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=2840084">Link</a></sup>
   <br>
 </p>
 
