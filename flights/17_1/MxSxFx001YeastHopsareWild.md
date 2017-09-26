@@ -13,10 +13,10 @@ Perkins puts it, there are a couple of differences required to the modern day co
 
 <p align="center">
   <a href="http://on.wsj.com/2huYjbj" target="_blank">
-    <img alt="Blowing in the Wind" src="/flights/17_1/images-MxSxFx001/image1.png"><br>
+    <img alt="Blowing in the Wind" src="/flights/17_1/images-MxSxFx001/image1.png"><br><br>
   </a>
   <sup>Photo/Video: Jeff Bush (WSJ)</sup>
-  <br><br>
+  <br>
 </p>
 
 For these [special beers](http://www.allagash.com/beer/#limited) Allagash transfers the boiling wort into an open cool ship vessel, bypassing the now standard cooling process of filtering the liquid through a chiller and dropping the temperature as quickly as possible, instead leaving the liquid exposed overnight across a wide and shallow pool for about 18 hours. This allows the beer to cool and receive natural inoculation from the "resident" yeast through the netted windows of the housing shed. This process is restricted to certain times of the year that provide the required overnight temperatures, most often in November and December.
@@ -41,9 +41,9 @@ As previously hinted at this leads to less predictable brewing outcomes and time
 Beer has been so effectively turned into an industrial product by the big boys with their wondrous and impressive modern toys, routinely turning out the same consistent product ([Wonder Bread](https://www.wonderbread.com/), ahem), that we may be forgiven for forgetting that beer creation was originally a mysterious product thought to incorporate a magical process provided to us [by the gods](http://www.ancient.eu/article/223/). Even our recent ancestors were not aware of the existence of yeast, evidenced by its absence from the original German [Reinheitsgebot](https://en.wikipedia.org/wiki/Reinheitsgebot).
 
 <p align="center">
-  <img alt="" src="/flights/17_1/images-MxSxFx001/image3.jpg"><br>
+  <img alt="" src="/flights/17_1/images-MxSxFx001/image3.jpg"><br><br>
   <sup>By Deutsche Bundespost - scanned by <a href="https://commons.wikimedia.org/wiki/User:NobbiP">NobbiP</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=11244954">Link</a></sup>
-  <br><br>
+  <br>
 </p>
 
 * * *
