@@ -19,6 +19,14 @@ Next six:
 
 [post prep](post-prep)
 
+<style type="text/css">
+<!--
+.display_archive {font-family: arial,verdana; font-size: 12px;}
+.campaign {line-height: 125%; margin: 5px;}
+//-->
+</style>
+<script language="javascript" src="//endlesspint.us14.list-manage.com/generate-js/?u=2bcb7588e60b55d3de7f33b21&fid=1577&show=10" type="text/javascript"></script>
+
 ## Week 14 - Slippery Slope 
 
 <p><font size="1" color="blue">This is some text!</font></p>
