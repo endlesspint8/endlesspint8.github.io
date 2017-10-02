@@ -8,7 +8,14 @@ shortlink: http://bit.ly/2dxLtd9
 sideof: ["End of season", "http://eepurl.com/cj8urH", "visualizations, updated and accompanied with new content."]
 ---
 
-[causal](2017-09-22-gabf-2016-causal-impact-not-so-much)
+Next six:
+
+&#10004;  [A]
+&#10004; [B]
+* [hume](2017-10-13-on-hume-ility-of-beer-taste)
+* [rando](2017-10-27-fooling-with-randomness)
+* [robohop](2017-11-10-robohop-brewing-perfect-pint-our-limiting-horizons)
+* [peaks](2017-11-24-here-is-peaking-at-brews)
 
 [post prep](post-prep)
 
