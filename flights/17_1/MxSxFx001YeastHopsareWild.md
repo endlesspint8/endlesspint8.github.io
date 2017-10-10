@@ -48,30 +48,17 @@ Beer has been so effectively turned into an industrial product by the big boys w
 
 * * *
 
-**In line with** a sense of place is another WSJ [ 4] piece that highlights certain
-American regional styles, their origins and play off of the local environment and
-people. While it is made clear early on that brewers of all sizes can source
-ingredients from around the world the article digs into the "l ocavore” aspects of
-brewing popping up and maturing.
+**In line with** a sense of place is another WSJ **[4]** piece that highlights certain American regional styles, their origins and play off of the local environment and people. While it is made clear early on that brewers of all sizes can source ingredients from around the world the article digs into the <font color="#FF8C00"><strong>"locavore”</strong></font> aspects of brewing popping up and maturing.
 
-An interesting rubric is suggested, that with the downsizing of brewing, a nod later
-affirmed by references to nano brewing, we are seeing beer become more regional
-specific. A welcome reminder of the heritage aspect of beer with its origins and
-proclivities tied to place.
+An interesting rubric is suggested, that with the downsizing of brewing, a nod later affirmed by references to nano brewing, we are seeing beer become more regional specific. A welcome reminder of the heritage aspect of beer with its origins and proclivities tied to place.
 
-Seven style/region combinations are highlighted: "the new England IPA, the southern saison, the great lakes gose, the rocky
-mountain lager, the Cascadian fruited sour, the southwestern scotch and the SoCal session”
-My favorite part in each of the examples, even more so than the example beers, is
-the description of the driving forces behind each style. The reasons range from
-local harvests, grain and fruit alike, to making drinks to compliment the local food
-flavors, to even singling out the independent spirit of a locality. The
-motivations/inspirations are sometimes guessed at but always backed by a human
-perspective.
+Seven style/region combinations are highlighted: 
 
-Two gem observations are the "t he feedback loop of local tastes” and the
-couching of America's developing flavors into a longer history and heritage of beer
-(for instance when referencing the birth of styles by "necessity or… geopolitical
-jockeying" à la Scottish Ales with their little to no use of hops [ debatable ]).
+> "the new England IPA, the southern saison, the great lakes gose, the rocky mountain lager, the Cascadian fruited sour, the southwestern scotch and the SoCal session”
+
+My favorite part in each of the examples, even more so than the example beers, is the description of the driving forces behind each style. The reasons range from local harvests, grain and fruit alike, to making drinks to compliment the local food flavors, to even singling out the independent spirit of a locality. The motivations/inspirations are sometimes guessed at but always backed by a human perspective.
+
+Two gem observations are the <font color="#FF8C00"><strong>"the feedback loop of local tastes”</strong></font> and the couching of America's developing flavors into a longer history and heritage of beer (for instance when referencing the birth of styles by "necessity or… geopolitical jockeying" à la [Scottish Ales](http://allaboutbeer.com/article/scottish-ales/) with their little to no use of hops [[debatable](https://en.wikipedia.org/wiki/Beer_in_Scotland)]).
 
 * * *
 
@@ -79,15 +66,9 @@ jockeying" à la Scottish Ales with their little to no use of hops [ debatable ]
 through the eyes of regional traits comes at an auspicious time. A time of record
 breaking brewery counts. After matching the previous national all-time high in
 2015, of 4,131 breweries set in 1873, the US has reached a new milestone by
-surpassing the 5,000 mark, according to the Brewers Association (BA).
+surpassing the 5,000 mark, according to the [Brewers Association](https://www.brewersassociation.org/statistics/number-of-breweries/) (BA).
 
-A December Fortune article [ 5] helps put this number into perspective, both
-historically and contemporarily with other nations. As recently as the 80’s (I don't
-know, is that recent?), following decades of consolidation, there were fewer than
-100 breweries. That number was quickly surpassed due to a number of reasons
-I've written about before, having to do primarily with home brewing legislation and
-a consumer trend away from mass produced food stuffs (I'm looking at you again,
-Wonder Bread).
+A December [Fortune article](http://fortune.com/2016/12/10/america-record-number-breweries/) **[5]** helps put this number into perspective, both historically and contemporarily with other nations. As recently as the 80’s (I don't know, is that recent?), following decades of consolidation, there were fewer than 100 breweries. That number was quickly surpassed due to a number of reasons [I've written about before](http://endlesspint.com/2016-04-01-continue/), having to do primarily with home brewing legislation and a consumer trend away from mass produced food stuffs (I'm looking at you again, Wonder Bread).
 
 <p align="center">
   <img alt="" src="/flights/17_1/images-MxSxFx001/image2.png"><br><br>
