@@ -4,7 +4,6 @@ title: MixSixFix - Yeast & Hops are Wild
 subtitle: Linking wild yeast, "sense of place", and a record hop valuation.
 ---
 
-## Yeast & Hops are Wild
 
 **The starting point**  and inspiration for this edition is an enjoyable [three minute video](http://www.wsj.com/video/blowing-in-the-wind-wild-yeast-produces-beer-with-terroir/2D1D23E4-95D4-4ADC-A235-A86498CD418B.html) **[1]** that uses a light touch in covering the steps, certainly a few of the most critical, used by [Allagash](http://www.allagash.com/?ao_confirm) in producing their wild yeast fermented beers. Our host is Master Brewer Jason Perkins who gives us an overview of the process, emphasizing that while wild yeast is all around us, practically speaking all of the beer in the world is produced with cultured yeast.
 
