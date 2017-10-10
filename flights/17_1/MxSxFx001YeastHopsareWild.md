@@ -62,11 +62,7 @@ Two gem observations are the <font color="#FF8C00"><strong>"the feedback loop of
 
 * * *
 
-**Our cataloging sense** and taste of place along with the idea of looking at beers
-through the eyes of regional traits comes at an auspicious time. A time of record
-breaking brewery counts. After matching the previous national all-time high in
-2015, of 4,131 breweries set in 1873, the US has reached a new milestone by
-surpassing the 5,000 mark, according to the [Brewers Association](https://www.brewersassociation.org/statistics/number-of-breweries/) (BA).
+**Our cataloging sense** and taste of place along with the idea of looking at beers through the eyes of regional traits comes at an auspicious time. A time of record breaking brewery counts. After matching the previous national all-time high in 2015, of 4,131 breweries set in 1873, the US has reached a new milestone by surpassing the 5,000 mark, according to the [Brewers Association](https://www.brewersassociation.org/statistics/number-of-breweries/) (BA).
 
 A December [Fortune article](http://fortune.com/2016/12/10/america-record-number-breweries/) **[5]** helps put this number into perspective, both historically and contemporarily with other nations. As recently as the 80’s (I don't know, is that recent?), following decades of consolidation, there were fewer than 100 breweries. That number was quickly surpassed due to a number of reasons [I've written about before](http://endlesspint.com/2016-04-01-continue/), having to do primarily with home brewing legislation and a consumer trend away from mass produced food stuffs (I'm looking at you again, Wonder Bread).
 
@@ -78,52 +74,26 @@ A December [Fortune article](http://fortune.com/2016/12/10/america-record-number
 
 Brewery counts skyrocketed during the 90’s and early 2000's, making some clamor
 about Peak Beer, the article referencing 2013 as a recent example when the count
-was half of what it is today. Also in 2013, is a BA article from their economist, Bart
-Watson, stating that based on per capita comparisons with Germany the US could
+was half of what it is today. Also in 2013, is a [BA article](https://www.brewersassociation.org/insights/the-craft-beer-non-bubble/) from their economist, Bart Watson, stating that based on per capita comparisons with Germany the US could
 have 5,000 breweries. Well done Mr. Watson (in that piece he distinguished
 between simple brewery counts and capacity).
 
-Peak Beer aside, and I'm undecided but leaning toward believing it, s hower
-beer being a definite "j ump the shark" example, there's been a slow down in the
-numbers. To put it pithily, the industry is growing but slowing. Our economist
-refers to this as a period of maturation in which it is natural for growth rates to fall
-back to previous percentages. A prompting to look at behavior in previous maturing
-markets, in like sectors, for relevant activity.
+Peak Beer aside, and I'm undecided but leaning toward believing it, [shower beer](https://munchies.vice.com/en/articles/theres-finally-a-beer-made-specifically-for-drinking-in-the-shower) being a definite "[jump the shark](https://en.wikipedia.org/wiki/Jumping_the_shark)" example, there's been a slow down in the numbers. To put it pithily, the industry is <font color="#FF8C00"><strong>growing but slowing</strong></font>. Our economist refers to this as a period of maturation in which it is natural for growth rates to fall back to previous percentages. A prompting to look at behavior in previous maturing markets, in like sectors, for relevant activity.
 
 * * *
 
-The high number of breweries directly feeds into one of the biggest and final beer
-stories of 2016: the price of hops. In what is the highest valuation in history, both
-in absolute and relative terms, we see US hops total nearly half a billion dollars.
+**The high number** of breweries directly feeds into one of the biggest and final beer stories of 2016: the price of hops. In what is <font color="#FF8C00"><strong>the highest valuation in history</strong></font>, both in absolute and relative terms, we see US hops total nearly half a billion dollars.
 
 <p align="center">
   <img alt="" src="/flights/17_1/images-MxSxFx001/image5.png">
   <br>
 </p>
 
-According to the USDA the three key contributing factors were increased acreage
-(+17%, 2016 v 2015), higher production (87 million pounds, +11%), and more
-expensive hop varieties favored by craft breweries, resulting in a price jump of 31%
-($5.72/lbs.). With respect to craft beer preferences the Financial Times [ 6] article
-highlights the boom in Citra (2.3 X 2016 versus 2014) and the cratering of Zeus
-(-⅓), an example of aroma hops being preferred over acid hops, respectively.
-Underlying all this heady movement is a reasonable amount of soberness (pun!)
-questioning the sustainability of what we are seeing. This is echoed by the Hop
-Growers of America’s executive director when reminding people of the cyclical
-nature of such things and mentioning previous experiences in oversupply.
+According to the USDA the three key contributing factors were increased acreage (+17%, 2016 v 2015), higher production (87 million pounds, +11%), and more expensive hop varieties favored by craft breweries, resulting in a price jump of 31% ($5.72/lbs.). With respect to craft beer preferences the [Financial Times](https://www.ft.com/content/468aa664c5bc11e68f299445cac8966f) **[6]** article highlights the boom in Citra (2.3 X 2016 versus 2014) and the cratering of Zeus (-⅓), an example of aroma hops being preferred over acid hops, respectively. Underlying all this heady movement is a reasonable amount of soberness (pun!) questioning the sustainability of what we are seeing. This is echoed by the [Hop Growers of America’s](https://www.usahops.org/) executive director when reminding people of the cyclical nature of such things and mentioning previous experiences in oversupply.
 
-The article does more than a little hinting at peak craft, using the term itself in the
-subtitle of the piece. To help substantiate that possibility reference is made to the
-declines in craft beer sales at the end of 2016, though there's been overall growth
-the past 52 weeks.
+The article does more than a little hinting at <font color="#FF8C00"><strong>peak craft</strong></font>, using the term itself in the subtitle of the piece. To help substantiate that possibility reference is made to the declines in craft beer sales at the end of 2016, though there's been overall growth the past 52 weeks.
 
-Growing but slowing, as I previously said. Additionally, the article alludes to the
-observation that in "certain US cities, especially on the West Coast, ... craft beer
-consumption has reached almost 50 per cent of the market.”
-This last point I find especially noteworthy as craft beer is often times a higher
-priced option than standard lagers and substitute alcohols (per/ABV). Cities are
-where you find higher incomes. Higher rents too. As discretionary spending
-stagnates or falls , what then?
+Growing but slowing, as I previously said. Additionally, the article alludes to the observation that in "certain US cities, especially on the West Coast, ... craft beer consumption has reached almost 50 per cent of the market.” This last point I find especially noteworthy as craft beer is often times a higher priced option than standard lagers and substitute alcohols (per/ABV). Cities are where you find higher incomes. Higher rents too. As discretionary spending [stagnates or falls](https://www.bea.gov/iTable/iTable.cfm?reqid=9&step=1&acrdn=2#reqid=9&step=3&isuri=1&903=58), <font color="#FF8C00"><strong>what then</strong></font>?
 
 <p align="center">
   <img alt="" src="/flights/17_1/images-MxSxFx001/image4.png"><br><br>
