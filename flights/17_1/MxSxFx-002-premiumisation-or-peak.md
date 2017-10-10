@@ -1,0 +1,92 @@
+---
+layout: post
+title: MixSixFix - Premiumisation or Peak
+subtitle: A peek at peak beer and premiumisation in different regions.
+---
+
+
+The concept of peak beer is regionally verifiable. Peak craft is a more nuanced story and one that is still developing. Around the world we see a decline in conventional lager consumption which dominates nearly all markets on a macro level. The idea of peak craft is a slightly different animal but potentially no less real in certain parts of the world, the US first among candidate examples. Peak craft like peak oil before it will undoubtedly prove to be a regional phenomenon. 
+
+While the appetites of Americans may be beginning to show signs of satiating the same cannot be said for other parts of the world or for the portfolio aspirations of the Big Boys. 
+
+Let's take a quick tour of other regions of the world, while ignoring the US & Europe, two areas that typically dominate my craft beer attention, to see what we turn up. We will start with the most similar continents and branch out to the less familiar, progressively stepping away from what we know and getting a look at emerging markets.
+ 
+* * *
+ 
+Photo/Video: BBC
+If this is turning into a habit perhaps it isn’t such a bad tradition to have. Why not kick off these issues with a video? At least videos such as these [1], quick, succinct, and easy to digest. This time around we are taken to Australia to take a peek at the influence of the booming craft beer industry. The video is smartly divided into hop farm, brewery, and bar. The sections are titled ‘The Pick’, ‘The Brew’, and ‘The Pour’, respectively. In each section we are introduced to an establishment through one of their representatives.
+
+First up is Greg Croke, managing director of Ellerslie Hops, speaking proudly of the company's chain of custody approach to hops and their passing this information (how grown, developed, and the garden it's from) along with their high quality product onto their clients. As a result the world is taking notice and his crops alone ship to customers in the US, UK, Germany, Asia (presumably China, but we'll get to that later), and some of the Pacific Islands. The craft boom has resulted in more customer passion about hop varieties. Outfits that can fulfill this worldwide interest stand to gain by fulfilling the demand. 
+
+From hops we segue into the brewing process where the mention of aroma hops and influence of American craft beer is provided by Peter Philip, founder of Wayward Brewing. Philip refers to the aroma hops as a "precious commodity" and suggests that drinkers and brewers alike have come to the realization that hops aren't just for bittering  anymore. 
+
+We wrap up at the bar, which is always a welcome destination point, talking with Guy Greenstone of The Local Taphouse who uses descriptions such as "explosion", "gathering place and momentum", and "demand is still growing" to describe the consumer side of the equation.
+
+* * *
+
+Our next stop are the near neighbors to the US, predominantly the countries on the opposite side of the equator, as well as straddling it. Here we have a region teeming with growth, learning, and experimentation. Much of what we witness related to craft beer in this region is an echo of what has transpired in the US. In craft beer respects South America is 20 years behind the Americans but they're learning quickly, catching up, and they have access to local flavors unheard of to us gringos. While craft beer is a tiny fraction of the traditionally light lager drinking continent there is rapid expansion [2], "between 20% and 40% a year, depending on which country you're in” (Chile at 25%, Brazil at 40%, economic crisis be damned).
+
+The styles vary greatly as witnessed by the entrants to the Copa Cervezas de America and are sure to expand, both from imitation and local inspiration due to natural ingredients, such as chili peppers and passion fruit, to name just a few, and materials (e.g. cachaca barrel aging in Brazil; Dogfish was/is onto something with their Palo Santo Marron).
+
+* * *
+
+For our next region we hop (pun!) back across the Pacific. China is a land of two nations when comparing the developed eastern coastal provinces, the places you find cities like Shanghai, Beijing and Guangzhou, against the western part that is still catching up. This contrast goes for beer as well. The coast is imbued with technology, urbanization, and a large millennial set who look to consume in similar ways to their counterparts in other parts of the world.
+
+China consumes more than the global average and is the number one beer market in the world by total volume, surpassing, as it does in so many areas these days, the United States. Similar to other developed beer markets the overall market is stagnating, while the trajectory of the western provinces reflects more of the emerging markets story line (we’ll get to that below). 
+
+In a market with little to no growth increased revenue comes from premiumisation and convincing consumers to trade up. This is something that is beginning to take off in what is categorized as the "super premium" sector. Accounting for only 4% of the market this sector pulls in 18% of the profit. Craft beer falls under this category umbrella and for the moment comes in at only 1% of Chinese consumption.
+
+When taking regional differences into consideration and looking at millennial aspirations Rabobank sees great potential for craft beer in China [3]. According to their senior food analyst, Francois Sonneville, it sounds like any “craft” credentials may be enough of a differentiation to bring in more revenue. 
+
+As in South America, opportunities do not come without challenges. Rabobank signals out consumer unfamiliarity, high transport costs, and distribution. If there's really going to be demand or someone is going to step up to generate it there will be a lot of pieces to put in place first. Potentially creating lucrative opportunities for third-party contractors and logistic experts.
+
+* * * 
+
+From the Dragon to the Tiger. The latter is apparently a pussycat when it comes to alcohol consumption. India tipples at just 4.6L/year about one-eighth of what her Asian counterparts are doing in China. In one sense this means there is huge potential in the subcontinent but one would do well to pause and consider the reasons for the current position. These are various and stem from cultural and governmental, as well as religious and economic, influences. An intertwining of the first pair is present in the Gandhi inspired constitution itself that carries undertones of teetotalism. This influence extends to the current date where five states have banned out right the sale of alcohol, though no word if informal brewing/distilling practices are allowed.
+
+Three of the four key influences have a dampening effect (on my buzz) but the fourth, economics, provides the counterbalancing wave that is driving the change and growth anticipated [4]. Rising incomes and continued urbanization are moving people both literally and figuratively away from the social mores that have a double edged, and somewhat contradictory, oppressive influence on beer: alcohol consumption is looked down upon, but most who do consume go the cheaper liquor route. 
+
+The cost of beer is not helped, it already being more expensive to produce, by tax codes imposed on volume regardless of alcohol content. Additional obstacles present themselves in the form of "licensing restrictions, high taxes, and advertising bans.” Despite all this, BMI Research predict a 7.5% growth rate between 2017 and 2021, bringing per capita consumption to 6.6L based on my abacus. Doesn't sound like much but that's a nearly 50% jump from where we are today. 
+
+What's propelling this growth? The youngins and their respective incomes, changing cultural attitudes to alcohol, the simple fact the consumption started from a small number, and the increase in craft breweries themselves believe it or not.
+* * *
+
+
+By Governo USA - (Original text: ''Documento di pubblico dominio ("Strategic Significance of America s Oil Shale Resource Volume I Assessment of Strategic Issues"): si legga qui. Per maggiori dettagli, si veda pure qui.), Public Domain, Link
+We are going to bring this edition to a close by rounding up our tour by looking at emerging markets, generally and superficially, and Africa in particular. Both of the inputs into this section come from BMI Research and while the work is 3-4 years old it remains insightful for trends and industry motivations.
+
+Looking to western Africa, specifically Nigeria, helps show where growth for the Big Boys will come from. Though per capita consumption is barely predicted to rise (10L to 11L) for the time-frame studied (2013-18) sales are expected to jump nearly 60% (2.8 billion 4.8 billion) in those five years due to premiumisation [5]. 
+
+Two dominant beer companies, Nigerian Breweries (Heineken) and Guinness Nigeria (Diageo), account(ed) for 90% of the market and were following similar behavior/strategies: growth through premiumisation. Several factors working in favor of the duopoly, and nearly guaranteeing continued dominance in the near term, are outlined in the article using Porter's five forces framework.
+
+There is little threat of new entrants due to the high fixed costs required, no bargaining power of local suppliers who have to compete with global barley prices and other input supplies. The retail sector makes up just 5% of the market, with the majority of beer consumed at kiosks and bars, limiting the bargaining power of customers.
+
+Substitute products, despite the entrance of SABMiller which is new and pushing low-cost beer, is hardly a threat to the aspirational category the premium beer is aimed at: Nigeria's population (the largest in Africa) and rising spending power.
+
+Only with respect to competitive rivalry does BMI Research see a moderate threat, due again to SABMiller coming on the scene and their deep pockets. SABMiller has had previous success in eastern and southern Africa with their low-cost approach which has been actively targeting the informal markets, something that will likely help establish it in Nigeria as well.
+ 
+* * *
+ 
+Like movies, coffee, and retail generally the money and occasional markup is in international markets. Naturally there are challenges, old and new, related to these areas as hinted at above. But let's not forget the obvious: outside of the US and Europe there is a younger, expanding, and upwardly mobile group that have more room to accommodate the growth desires of the Big Boys. 
+
+Much of this is covered in detail on a podcast [6] that outlines the importance of expanding overseas to supplement poor and flat sales in home markets. Meanwhile, the emerging markets show year over year growth in most consumer areas for basic reasons: urbanization, rising incomes, and often times starting from a very low base.
+
+The buyout of craft breweries is not a matter of knocking off competitors, a premise that is laughable based on revenue, or an example of acquiring shiny new toys. Instead, these purchases are a hedge against an overall declining or flat market, especially in the established regions of the US and Europe. Mind you this is not just a bet made by the Big Boys. Others see the trends and are diversifying their revenue streams: Sam Adams sells more than just beer, Brew Dog has pubs around the world, and a ton of US breweries make a substantial chunk of change from "own-premise" sales made directly at the source.
+
+This is business folks and despite the warm and cuddly feeling we get as consumers from rubbing shoulders with the craft beer industry, no one is doing this simply out of the goodness of their hearts.
+
+
+Are you in the buggy whip business or the transportation business?
+
+
+
+Notes
+
+[1] "Craft beer craze drives demand for hops in Australia" BBC., 9 Aug 2016. Web video. 13 Jan 2017.
+[2] Long, Gideon. "Craft beer revolution trickles down to South America" BBC., 14 Oct 2016. Web. 12 Jan 2017.
+[3] Whitehead, RJ. "Craft brews should stand out in China’s stagnating beer market" Beverage Daily. William Reed Business Media Ltd., 3 Jan 2017. Web. 11 Jan 2017.
+[4] Davies, Will. "India’s Days as a Beer-Drinking Lightweight May Soon Be Over" Bloomberg. Bloomberg LP., 6 Jan 2017. Web. 6 Jan 2017.
+[5] "Beer Growth in Nigeria To Be Driven By Premiumisation" BMI Research. Business Monitor International a Fitch Group Company., 12 September 2014. Web. 13 Jan 2017.
+[6] Chande & Ashbourne. "The Future Of Beer In Emerging Markets"    BMI Research. Business Monitor International a Fitch Group Company., 31 May 2013. Audio podcast. 13 Jan 2017.
+
+Copyright © 2017 EndlessPint, All rights reserved.
