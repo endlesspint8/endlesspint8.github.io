@@ -5,7 +5,7 @@ subtitle: The Amiable Scottish Skeptic says "[Choose better beer](https://youtu.
 header-img: "img/start.jpg"
 tags: ["", ""]
 shortlink: 
-image: http://endlesspint.com/gallery/2017/gabf/gabf16_ci_impact.png
+image: http://endlesspint.com/gallery/2017/hume-taste/David_Hume.jpg
 sideof: 
 ---
 
