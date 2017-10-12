@@ -1,7 +1,7 @@
 ---
 layout: post
-title: On Hume-ility of Beer Taste
-subtitle: GABF Medals Bolster Reputations but not Search Interest
+title: On the Hume-ility of Beer Taste
+subtitle: The Amiable Scottish Skeptic says "[Choose better beer](https://youtu.be/RCxgqHqakXc)"
 header-img: "img/start.jpg"
 tags: ["", ""]
 shortlink: 
@@ -10,4 +10,134 @@ sideof:
 ---
 
 
-## Intro
+Every person wishes to know and to know more. We are creatures that came to dominate and step outside of the food chain not as a result of our strength but our intelligence and social coordination. We cannot outrun most animals, have pitiful claws, short teeth, and weak muscles. We can strategize and work in groups. Our knowledge, its accumulation, is the greatest advantage over the rest of the animal kingdom. People too often take for granted that we stand outside and apart from other animals but taking the time to observe a newborn and imagining a small society, a tribe with none of the technological knick-knacks we possess, it would take little effort to appreciate how defenseless and vulnerable we truly are. We are weak and small and slow, cold, hungry, and easy to disable, take down and eat. Perhaps we do not taste great and that may also have played to our advantage. A bizarre tangent but since we are discussing taste it may be worth mentioning.
+
+Due to our survival needs and evolution we are information seeking and knowledge craving beings. Learning charms and empowers us. This goes for all subjects, across all times, and for all uncompromised people. If a society is not immediately facing the struggle to survive it will find, invent, and delight in ways to distract itself. Whether it is literature, politics, finance, any number of idiotic time wasting fantasy escapes, or something more productive like science, you name it, we have an insatiable appetite for information. Of course a flood of seemingly unconnected data can be disorienting and unwelcome but structured information that can be made sense of is highly prized. For this and other reasons we accord respect to those who can explain and teach things to us and are justifiably proud when we are able to do the same. 
+
+Of immediate interest are the practical matters that allow us survive in the world. Many of these are matters of fact, which mushrooms are poisonous, where to get clean water, how to build weather resistant habitats. Others are less precise and more nuanced types of knowledge dealing with human interactions, customs, ways of conducting trade and war. Eventually we come upon items that are primarily of interest to us for the pleasure they bring: music, painting, dance, bodily ornaments, food and drink. Each of these and more are bound together in a knowledge base for a given community, accumulated over generations, forgotten at times, some rediscovered, others lost to time. 
+
+In the non/poisonous mushrooms category, truth-value claims are more or less correct to the extent that our understanding matches what happens in the real world. Our disagreements here are about facts, experimentations, and deduction. Previously adequate explanations are routinely thrown over for better and more refined ones, as science first claims its territory, its name, and progresses in both breadth and depth. With respect to morality and taste we are dealing with judgements of a different kind. Here we will take Hume’s lead and suggest they are both matters of sentiment, reflective impressions of our senses and emotions (S, 3), most especially the latter, taste. By this it is meant that characteristics we routinely associate with objects (sweetness, coarseness, melody) are not of the objects themselve but of our impressions of them. 
+
+First impressions would suggest matters of taste to be individual issues that are without dispute, beauty being in the eye of the beholder and such, that people are entitled to their own opinions. Further consideration shows that while it may not be possible to claim one piece of art as objectively better than another, not everyone’s ability to judge is equally valid. [misguided, S 11]
+
+Though sweetness is not a feature of an object, much less something as conceptually complicated as beauty, we may still know these things because the physical attributes that arouse these impressions are knowable. While nailing down issues of taste seem particularly difficult at first, especially in comparison to science, we soon realize it is not as difficult as we first expect. While the topics and discoveries of science appear to be on more solid foundations they are overthrown anew with each generation. Meanwhile the judgement of taste carry over from generation to generation, and if anything the passing of time helps to show and uncover even more clearly the genius of past times. As Hume takes us closer to believing in the possibility of establishing a standard of taste he next turns his attention to critics and how it is some can be acclaimed for their expertise while others fall short. The difference in critical ability has to do with the extent of personal defects  in the organs of the particular observers. In listing the many ways that a critic can be misled we have a window regarding the types of activities we can participate in to become more adept. The qualities are delicacy, practice, comparison, the freedom from prejudice, and the presence of good sense. 
+
+[transition to Hume and standards; using his outline for greater appreciation and sharper insights; taste is subjective but not all evaluations are equal]
+
+[critical thinking as our own internal method for structuring data inputs]
+
+[sticking with Hume; we experience things the way we do bc of our human makeup; there is no beauty per se but our impression of such]
+
+# The Ideal Critic
+## Delicacy
+### “not tried by small flavours, but by a mixture of small ingredients”
+
+---
+
+Certain qualities in objects produce particular feelings 
+Nothing escapes perception; perceive every ingredient in composition
+If we point out a principle of art, demonstrate by examples, and have a neophyte acknowledge with own perception, we have outlined the want of delicacy
+“A good palate is not tried by strong flavours, but by a mixture of small ingredients…”
+The “perception of beauty and deformity must be the perfection of our mental taste.”
+
+Tasting Beer
+Chapter 2
+Basic flavors: sweet, sour, salty, bitter, umami, fat
+10,000 taste buds
+Olfactory
+Psychological factors
+Sensitivities to different chemicals
+Time of day
+Mouthfeel
+Visual
+Chapter 3
+Deconstructing a beer
+Aroma: derived from malt and hops, modified and augmented by yeast
+Head: proteins present in malt and adjunct grains (wheat, oats, and rye); affected by mashing and filtration
+Color: primarily from kilning of malts; a bit of fermentation and filtration
+Carbonation: CO2, by-product of yeast (of force carbonation)
+Body and mouthfeel
+Flavor
+Alcohol
+Major ingredients: water, barley, malt, adjunct grains, hops (so many varieties), yeast
+
+---
+
+The first trait of an ideal critic, in becoming a better critic, is delicacy of taste. This is not about being squeamish, though that can be seen as a tangential and unfortunate outcome. To have delicacy is to be able to discern the different attributes that make up a composition. For example, let us start broad scale turning our senses onto a pint. There is the look of a beer, its smell, feel, with respect to temperature, carbonation and consistency of the liquid, and of course the taste, which is a complex interplay of the aforementioned. Now that we are aware of the main inputs into our awareness of the beer we may, and should, dig deeper. Let’s take it from the top. 
+
+When looking at a beer there are several things to take into consideration. Most obviously is the color of the beer. This tells us about the kiln of the malts and other grains. There is the head or foam to the beer. Depending on the color, fluff, and resiliency of the foam we can deduce several attributes of the beer. Additionally, there is the carbonation that can be seen to a greater or lesser degree along the bottom and sides of the glass, the size of the bubbles helping to indicate if it was [force carbonated](http://www.winning-homebrew.com/force-carbonate.html) (an issue of [open debate](http://www.homebrewtalk.com/showthread.php?t=305638) with respect to whether or not this is a degenerative brewing practice). Speaking of the glass, any self-respecting beer establishment will carry appropriate glassware for the respective beer styles, which can tip you off about what to expect. We will leave this for now but mention it here as a kind of cheat code though this will not steer you when the only glass on offer is something more style agnostic, e.g., [Teku glass](https://www.kegworks.com/blog/teku-beer-glass-review/). 
+
+Next is the smell of the beer where we bring our olfactory sense into the mix, arguably our most underappreciated perception. We actually taste with our nose as much as with our tongue, in fact more so. The tongue can distinguish among [the five or six major tastes](https://www.livescience.com/17684-sixth-basic-taste.html) (sweet, sour, etc.) but it is the nose from smelling the food/drink on the outside and from the back of our throats that we distinguish different flavors and nuance. Smelling the beer, something preferably done a couple of times at different inhalation depths before actually drinking the beer will prime the brain and taste buds. When we smell we get an idea of the malts, hops, possible spices or other adjuncts used, as well as getting a clue as to the yeast, which modifies and often augments the aforementioned characteristics. 
+
+At some point we will not simply be sitting here admiring the beer, we will actually pick it up. Before drinking it, perhaps as you inspect its visual and olfactory attributes, also notice how it feels in your hand. This is only a first rudimentary approach but you should know right away if it is too cold. When you do drink the beer, setting aside the taste for just one more tantalizing moment longer, notice again the temperature. This will have an impact on the flavor notes of the beer and the alertness of your taste buds. 
+
+At long last let us both shut up already and allow ourselves to drink, taste and appreciate the many flavors. We may dismiss [the ridiculous idea of the tongue being partitioned into distinct flavor regions](https://www.livescience.com/7113-tongue-map-tasteless-myth-debunked.html) but coating the entire tongue is a good practice nonetheless, as no two tongues are created the same and you want to give yourself the greatest exposure to the delicious beverage. It is delicious, right? Either way, express your impressions, “to clarify an idea ‘we need but enquire from what impression is that supposed idea derived” (EHU) (S, 7).
+
+## Practice
+### “the mist dissipates”
+
+---
+
+“Nothing tends further to increase and improve this talent, than practice”
+When objects of any kind are first presented:
+Obscure and confused
+Incapable of pronouncing concerning their merits or defects
+Cannot perceive the several excellences
+Much less distinguish the particular character of each excellency
+Allowed to acquire experience feelings become “more exact and nice”
+Perceive beauty and defects of each part
+Further, the distinguishing species of each quality
+The mist dissipates
+“The same address and dexterity, which practice gives to the execution of any work, is also acquired by the same means in the judging of it.”
+
+---
+
+No naturally endowed talent reaches its full potential in the absence of practice and experience. In any new endeavor it is not clear what to pay attention to and how much focus/energy to give the separate parts. In the beginning, even distinguishing the elemental parts is difficult to impossible. The novelty of the experience sends our senses buzzing out of proportion to the stimulation. One has to acclimate to the topic and beer is no exception. The development of taste here is even more challenging as the predominant flavor, bitterness, is not one that is immediately approachable to most people in most cultures, most especially the palates of the young (though now we are getting unethically close to prescribing under age drinking). This is changing swiftly with the increased stature and attention dark chocolate, fine coffee, and craft beer itself are bringing to bear. 
+
+[Stanford, 10: “refinement demands considerable practice”]
+
+Practice with beer is a tricky proposition because we are dealing with alcohol. There is only a set amount of available time and mental clarity to appreciate fully the various flavors. You probably do not drink every day and the window for drinking is short for those nights (days?) you cut loose, at least the realistic opportunity to enjoy and recollect the drinks. This is a prime instance where less is more. You can get more practice by drinking smaller portions. This can be done in a number of different and engaging ways. 
+
+<u>At the bar</u>: order half pints if possible; order two different drinks and extra glasses to split with a friend; order flights; ask for tastes, nearly all bars will grant you free samples within reason and the more you buy the more samples you can usually weasel out of them; order a large or expensive bottle and split among three or more of you; order food with the pint (it will at least soak up some of the alcohol).
+
+<u>At the brewery</u>: going to a brewery is a wonderful way to learn more about beer, the specific brewery, the region it is located in, the people there, and beer people in general, both the staff and the visitors. Tasting rooms usually offer smaller pour’s and many of the previous bar example techniques are applicable here.
+
+<u>At beer events</u>: whether it is an all beer event with some food thrown in as an afterthought or a proper food pairing event, either way this is a great opportunity to grab multiple small pours and talk it over with friends, and soon to be friends, while milling around or waiting on a new line.
+
+<u>At home</u>: here’s a little trick: get four or five friends together, each of you bring a [“bomber”](http://beer.wikia.com/wiki/Bomber) and split them among all of you. At the end of the night you will have each drunk the equivalent of one large bottle of beer but had the experience of trying several different and usually more obscure or not easily found on tap offerings. This approach will be more appreciated after giving it a go. Instead of having to splurge for five special brews you lay out for one bottle and reap the rewards of camaraderie. This is also an excellent opportunity to discuss further, learn from each other, and do blind taste ratings. It is all meant in good fun with the added bonus of developing a sense of taste, both your own and of how others experience the same drinks, better calibrating your expectations with others.
+
+<u>At the bottle shop</u>: talk, talk, and talk some more. Ask questions, offer suggestions, interesting stories, and amusing anecdotes, be considerate and open minded. If the conversation goes “off track” vearing to sports, music, politics or getting laid (remember that?) go with it. Do not become one dimensional in your pursuit and forget how to talk and relate with others in a spontaneous conversation. Whatever joy you experience from quality beer it will be greater by sharing it with others.
+
+## Comparison
+### “by comparison alone we fix the epithets of praise or blame”
+
+---
+
+“Frequently obliged to form comparisons between the several species and degrees of excellence”
+“No opportunity of comparing… unqualified to pronounce an opinion”
+“By comparison alone we fix the epithets of praise or blame, and learn how to assign the due degree of each.”
+
+---
+
+Practice and delicacy is insufficient without exposure to various influences and inputs. We may speak of the perfections of a thing only so long before we form comparisons. There are different attributes to appreciate in different styles and the overlapping characteristics present usually showcase themselves to different degrees. By opening ourselves to various experiences we can develop a more correct basis from which to draw observations and standards from. If we stick with only one beer from one brewery it would be difficult to impossible to speak of the beer’s numerous attributes, both good and wanting. We would of course have some baseline to draw from based on our experience with other foods and drink. But this concession only furthers the point of depending on comparisons.
+
+If we were to try the same style from other breweries, countries and traditions we could more readily bring to mind the similarities and differences, each accentuated more fully by the experience. Further, once related styles come to bear we would have even more understanding of the mixtures and proportions involved. We would see what delights us and what turns us off. Having examples of each, and many in between, we can draw our mind to the characteristics and attempt to articulate the reasons for each sentiment. This comparing could and should be extended beyond oneself to engage the perspectives of others. In instances where we do not notice characteristics as quickly we may be lead to their presence, in the reverse situation we can help instruct and also improve our descriptive abilities. Having our views challenged will more quickly test ourselves and insert more rigor into our observations, helping to refine our consideration. 
+
+## Prejudice
+### “that point of view, which the performance supposes”
+
+Speaking of appreciating works and giving them their just due, the influence of prejudice has the disbalancing effect of placing the interests of the critic above those of the subject. Preferences, prejudices, and undue credit of all personal flavors place the critic’s needs above those of the subject, displacing the appropriate order and priority of things. This could be manifested through ignoring, dismissing, giving overdue praise, or downplaying the offerings of a specific brewer, brewery, or style. In each combination of these scenarios the drinker is making their preferences hold the greatest sway over the topic. The beer should stand on its own and in its proper context. That you do not enjoy IPA’s, rauch beers, or sours, find yourself solely enjoying wheats, barrel-aged beer, or pilsners (who is this person?!) suggests a preference of palate but also a limitation in judgment if these personal tastes cannot be set aside to view the pint as it was intended. We “cannot expect the agreement of others if we judge things from a limited and prejudiced perspective (EPM, 272)” (S, 8).
+
+Prejudice may show itself in many ways and for various reasons. Some of the causes are linked to overvaluing novelty. In these instances the new receives undue appreciation at the expense of more established styles. Another cause is being influenced by complexity. In this way a drinker may too easily be impressed to give outsized credit to a beer because it involves half a dozen exotic ingredients, brewed in an unorthodox fashion, and required to age for several years up a dwarf’s butt. While some degree of difficulty should be taken into consideration it should not on its own overwhelm our appreciation.
+
+## Good Sense
+### “clearness of conception / exactness of distinction / vivacity of apprehension”
+
+The sensation of tasting sourness in a beer can either be pleasurable or off putting depending on what the expectations were. Sour could indicate an excellent Geuze, a beer gone bad or a dirty tap line. Context matters, the intention of the brewer matters, the style of the beer is important for determining how well or poorly it matches its intended standards. Free of prejudice and blessed with a delicate taste that has experience in sampling and comparing different beers would remain insufficient if the drinker were unaware of certain beer styles and might then deem them inferior. What is required here is good sense or a modicum of reason. You do not need to be a brainiac to appreciate good beer, shit most of the work is done for you, but you are doing yourself no favors by remaining ignorant of the the finer points of style, and this goes of course for all sorts of sensory experiences that can be categorized under appreciation. The end purpose of a beer style is a critical piece of information in determining the success to which this brewer succeeded or failed in reaching their goal. Beyond style alone, and closely linked to prejudice, perhaps the one criteria that benefits most from the introduction of good sense, is the understanding of when and for what audience or occasion a beer was created. It is far too easy to dismiss some of the classics because of how far along new beers have taken things. The forebears may not have as many hops, be barrel-aged as often, or be perceived to have some other limitation. In point of fact the limitation resides with the critic. 
+
+## Conclusion
+
+Hume discusses our appreciation for a taste or expertise as the degree to which it is attentive to minute differences and is able to make distinction in parts and quality of a work. At first it is no surprise that a neophyte is overwhelmed by a new stimulus. We should be happy enough if they are able to judge the whole as either good or bad. However, with time and experience the critic is able to grab a better handle on what they are dealing with and make increasingly finer discriminations about the work. What the critic is exposing themselves to has always been there but they were not able to deal with it because of its novelty. Slowly and progressively, mimicking the effort needed by the craftsman to improve their work, a critic may refine their recognition, in time reflecting a like increase in expertise. What they are opening themselves to are the general principles of taste, as far as they are present in a given piece. 
+
+Put simply there are two types of taste, vulgar and refined. Vulgar taste is idiosyncratic and tells us more about the critic than the object. Refined taste comes from the qualities described here, leading to more rule-based and stable assessments. This dichotomy can be viewed in parallel to the other subject of sentiment, morality. Vulgar thinking is characterized by rashly formed ideas based on first influences; wise reflection takes time to survey the possibilities and offers a more general view ([the view from nowhere](https://global.oup.com/academic/product/the-view-from-nowhere-9780195056440?cc=us&lang=en&#)). 
+
