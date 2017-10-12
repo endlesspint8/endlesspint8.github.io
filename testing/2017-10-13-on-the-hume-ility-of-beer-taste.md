@@ -5,7 +5,7 @@ subtitle: The Amiable Scottish Skeptic says "<a href="https://youtu.be/RCxgqHqak
 header-img: "img/start.jpg"
 tags: ["aesthetics", "taste"]
 shortlink: 
-image: http://endlesspint.com/gallery/2017/hume-taste/David_Hume.jpg
+image: http://endlesspint.com/gallery/2017/hume-taste/Hume_glasses_.gif
 sideof: 
 ---
 
