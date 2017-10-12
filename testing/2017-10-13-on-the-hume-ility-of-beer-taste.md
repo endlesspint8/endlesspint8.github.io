@@ -29,6 +29,9 @@ Though sweetness is not a feature of an object, much less something as conceptua
 [sticking with Hume; we experience things the way we do bc of our human makeup; there is no beauty per se but our impression of such]
 
 # The Ideal Critic
+
+> Strong sense, united to delicate sentiment, improved by practice, perfected by comparison, and cleared of all prejudice, can alone entitle critics to this valuable character; and the joint verdict of such, wherever they are to be found, is the true standard of taste and beauty.
+
 ## Delicacy
 ### “not tried by small flavours, but by a mixture of small ingredients”
 
