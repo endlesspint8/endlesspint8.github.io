@@ -16,17 +16,19 @@ Due to our survival needs and evolution we are information seeking and knowledge
 
 Of immediate interest are the practical matters that allow us survive in the world. Many of these are matters of fact, which mushrooms are poisonous, where to get clean water, how to build weather resistant habitats. Others are less precise and more nuanced types of knowledge dealing with human interactions, customs, ways of conducting trade and war. Eventually we come upon items that are primarily of interest to us for the pleasure they bring: music, painting, dance, bodily ornaments, food and drink. Each of these and more are bound together in a knowledge base for a given community, accumulated over generations, forgotten at times, some rediscovered, others lost to time. 
 
-In the non/poisonous mushrooms category, truth-value claims are more or less correct to the extent that our understanding matches what happens in the real world. Our disagreements here are about facts, experimentations, and deduction. Previously adequate explanations are routinely thrown over for better and more refined ones, as science first claims its territory, its name, and progresses in both breadth and depth. With respect to morality and taste we are dealing with judgements of a different kind. Here we will take Hume’s lead and suggest they are both matters of sentiment, reflective impressions of our senses and emotions (S, 3), most especially the latter, taste. By this it is meant that characteristics we routinely associate with objects (sweetness, coarseness, melody) are not of the objects themselve but of our impressions of them. 
+In the non/poisonous mushrooms category, truth-value claims are more or less correct to the extent that our understanding matches what happens in the real world. Our disagreements here are about facts, experiments, and deduction. Previously adequate explanations are routinely thrown over for better and more refined ones, as science first claims its territory, its name, and progresses in both breadth and depth. With respect to morality and taste we are dealing with judgements of a different kind. Here we will take Hume’s lead and suggest they are both matters of sentiment, reflective impressions of our senses and emotions (S, 3), most especially the latter, taste. By this it is meant that characteristics we routinely associate with objects (sweetness, coarseness, melody) are not of the objects themselve but of our impressions of them. 
 
 First impressions would suggest matters of taste to be individual issues that are without dispute, beauty being in the eye of the beholder and such, that people are entitled to their own opinions. Further consideration shows that while it may not be possible to claim one piece of art as objectively better than another, not everyone’s ability to judge is equally valid. [misguided, S 11]
 
-Though sweetness is not a feature of an object, much less something as conceptually complicated as beauty, we may still know these things because the physical attributes that arouse these impressions are knowable. While nailing down issues of taste seem particularly difficult at first, especially in comparison to science, we soon realize it is not as difficult as we first expect. While the topics and discoveries of science appear to be on more solid foundations they are overthrown anew with each generation. Meanwhile the judgement of taste carry over from generation to generation, and if anything the passing of time helps to show and uncover even more clearly the genius of past times. As Hume takes us closer to believing in the possibility of establishing a standard of taste he next turns his attention to critics and how it is some can be acclaimed for their expertise while others fall short. The difference in critical ability has to do with the extent of personal defects  in the organs of the particular observers. In listing the many ways that a critic can be misled we have a window regarding the types of activities we can participate in to become more adept. The qualities are delicacy, practice, comparison, the freedom from prejudice, and the presence of good sense. 
+Hume articulates the challenge of what he is attempting by identifying structural ways in which people disagree about matters of taste. He states that these disagreements are obvious even to the inattentive and hold in established domains consisting of like people. Hume proceeds by expanding the scope of topics from the narrow to the global and from the contemporary to the historical. Across countries and time there are still more opinions and what is equally remarkable is the level of certainty that others have about their judgement. While we may be tempted to dismiss the opinions of others who vary with our own it is not long before we have the same treatment flung back at us. Even where it appears that we are in agreement with others this is far from certain. Often times we use general labels, but to praise “virtue” and to look down upon “parsimony” is to say almost nothing since these words by their very construction and socially agreed upon meanings bring with them a certain level of praise and blame built in. Once we get down to particulars of justice or its opposite we uncover still more disagreement. 
 
-[transition to Hume and standards; using his outline for greater appreciation and sharper insights; taste is subjective but not all evaluations are equal]
+Hume acknowledges there being a part of philosophy that considers it hopeless “of ever attaining any standard of taste” due to there being a difference between “judgement and sentiment.” The former may be right or wrong to the effect that it references something beyond ourselves correctly, whereas for the latter there is no reference beyond itself. “Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty.” Along this line of reasoning it is “fruitless to dispute concerning tastes.” This logical and possibly even common sense opinion is countered by how easily we collectively dismiss and ignore the judgement of those that would place certain poor authors, artists, etc. above those of widely agreed upon geniuses. Where we had given some credence to “[t]he principle of the natural equality of tastes” we now set it aside; the principle may hold in comparing similar objects but becomes absurd when considering things that are far apart. With this wedge Hume begins to tackle the idea of there being general principles even “amidst all the variety and caprice of taste.” 
+
+Though sweetness is not a feature of an object, much less something as conceptually complicated as beauty, we may still know these things because the physical attributes that arouse these impressions are knowable. While nailing down issues of taste seem particularly difficult at first, especially in comparison to science, we soon realize it is not as difficult as we first expect. While the topics and discoveries of science appear to be on more solid foundations they are overthrown anew with each generation. Meanwhile the judgement of taste carry over from generation to generation, and if anything the passing of time helps to show and uncover even more clearly the genius of past times. 
+
+As Hume birngs us closer to believing in the possibility of establishing a standard of taste he turns his attention to critics and how it is that some may be acclaimed for their expertise while others fall short. The difference in critical ability has to do with the extent of personal defects in the organs of the particular observer. In listing the many ways that a critic can be misled we have a window regarding the types of activities we can participate in to become more adept. The qualities are delicacy, practice, comparison, the freedom from prejudice, and the presence of good sense. 
 
 [critical thinking as our own internal method for structuring data inputs]
-
-[sticking with Hume; we experience things the way we do bc of our human makeup; there is no beauty per se but our impression of such]
 
 # The Ideal Critic
 
@@ -34,37 +36,6 @@ Though sweetness is not a feature of an object, much less something as conceptua
 
 ## Delicacy
 ### “not tried by small flavours, but by a mixture of small ingredients”
-
----
-
-Certain qualities in objects produce particular feelings 
-Nothing escapes perception; perceive every ingredient in composition
-If we point out a principle of art, demonstrate by examples, and have a neophyte acknowledge with own perception, we have outlined the want of delicacy
-“A good palate is not tried by strong flavours, but by a mixture of small ingredients…”
-The “perception of beauty and deformity must be the perfection of our mental taste.”
-
-Tasting Beer
-Chapter 2
-Basic flavors: sweet, sour, salty, bitter, umami, fat
-10,000 taste buds
-Olfactory
-Psychological factors
-Sensitivities to different chemicals
-Time of day
-Mouthfeel
-Visual
-Chapter 3
-Deconstructing a beer
-Aroma: derived from malt and hops, modified and augmented by yeast
-Head: proteins present in malt and adjunct grains (wheat, oats, and rye); affected by mashing and filtration
-Color: primarily from kilning of malts; a bit of fermentation and filtration
-Carbonation: CO2, by-product of yeast (of force carbonation)
-Body and mouthfeel
-Flavor
-Alcohol
-Major ingredients: water, barley, malt, adjunct grains, hops (so many varieties), yeast
-
----
 
 The first trait of an ideal critic, in becoming a better critic, is delicacy of taste. This is not about being squeamish, though that can be seen as a tangential and unfortunate outcome. To have delicacy is to be able to discern the different attributes that make up a composition. For example, let us start broad scale turning our senses onto a pint. There is the look of a beer, its smell, feel, with respect to temperature, carbonation and consistency of the liquid, and of course the taste, which is a complex interplay of the aforementioned. Now that we are aware of the main inputs into our awareness of the beer we may, and should, dig deeper. Let’s take it from the top. 
 
@@ -78,22 +49,6 @@ At long last let us both shut up already and allow ourselves to drink, taste and
 
 ## Practice
 ### “the mist dissipates”
-
----
-
-“Nothing tends further to increase and improve this talent, than practice”
-When objects of any kind are first presented:
-Obscure and confused
-Incapable of pronouncing concerning their merits or defects
-Cannot perceive the several excellences
-Much less distinguish the particular character of each excellency
-Allowed to acquire experience feelings become “more exact and nice”
-Perceive beauty and defects of each part
-Further, the distinguishing species of each quality
-The mist dissipates
-“The same address and dexterity, which practice gives to the execution of any work, is also acquired by the same means in the judging of it.”
-
----
 
 No naturally endowed talent reaches its full potential in the absence of practice and experience. In any new endeavor it is not clear what to pay attention to and how much focus/energy to give the separate parts. In the beginning, even distinguishing the elemental parts is difficult to impossible. The novelty of the experience sends our senses buzzing out of proportion to the stimulation. One has to acclimate to the topic and beer is no exception. The development of taste here is even more challenging as the predominant flavor, bitterness, is not one that is immediately approachable to most people in most cultures, most especially the palates of the young (though now we are getting unethically close to prescribing under age drinking). This is changing swiftly with the increased stature and attention dark chocolate, fine coffee, and craft beer itself are bringing to bear. 
 
@@ -114,14 +69,6 @@ Practice with beer is a tricky proposition because we are dealing with alcohol. 
 ## Comparison
 ### “by comparison alone we fix the epithets of praise or blame”
 
----
-
-“Frequently obliged to form comparisons between the several species and degrees of excellence”
-“No opportunity of comparing… unqualified to pronounce an opinion”
-“By comparison alone we fix the epithets of praise or blame, and learn how to assign the due degree of each.”
-
----
-
 Practice and delicacy is insufficient without exposure to various influences and inputs. We may speak of the perfections of a thing only so long before we form comparisons. There are different attributes to appreciate in different styles and the overlapping characteristics present usually showcase themselves to different degrees. By opening ourselves to various experiences we can develop a more correct basis from which to draw observations and standards from. If we stick with only one beer from one brewery it would be difficult to impossible to speak of the beer’s numerous attributes, both good and wanting. We would of course have some baseline to draw from based on our experience with other foods and drink. But this concession only furthers the point of depending on comparisons.
 
 If we were to try the same style from other breweries, countries and traditions we could more readily bring to mind the similarities and differences, each accentuated more fully by the experience. Further, once related styles come to bear we would have even more understanding of the mixtures and proportions involved. We would see what delights us and what turns us off. Having examples of each, and many in between, we can draw our mind to the characteristics and attempt to articulate the reasons for each sentiment. This comparing could and should be extended beyond oneself to engage the perspectives of others. In instances where we do not notice characteristics as quickly we may be lead to their presence, in the reverse situation we can help instruct and also improve our descriptive abilities. Having our views challenged will more quickly test ourselves and insert more rigor into our observations, helping to refine our consideration. 
@@ -140,7 +87,9 @@ The sensation of tasting sourness in a beer can either be pleasurable or off put
 
 ## Conclusion
 
-Hume discusses our appreciation for a taste or expertise as the degree to which it is attentive to minute differences and is able to make distinction in parts and quality of a work. At first it is no surprise that a neophyte is overwhelmed by a new stimulus. We should be happy enough if they are able to judge the whole as either good or bad. However, with time and experience the critic is able to grab a better handle on what they are dealing with and make increasingly finer discriminations about the work. What the critic is exposing themselves to has always been there but they were not able to deal with it because of its novelty. Slowly and progressively, mimicking the effort needed by the craftsman to improve their work, a critic may refine their recognition, in time reflecting a like increase in expertise. What they are opening themselves to are the general principles of taste, as far as they are present in a given piece. 
+Hume discusses our expertise in taste as the degree to which it is attentive to minute differences and is able to make distinctions in parts and quality of a work. At first it is no surprise that a neophyte is overwhelmed by a new stimulus. We should be happy enough if they are able to judge the whole as either good or bad. However, with time and experience the critic is able to grab a better handle on what they are dealing with and make increasingly finer discriminations about the work. What the critic is exposing themselves to has always been there but they were not able to deal with it because of its novelty. Slowly and progressively, mimicking the effort needed by the craftsman to improve their work, a critic may refine their recognition, in time reflecting a like increase in expertise. What they are opening themselves to are the general principles of taste. 
 
-Put simply there are two types of taste, vulgar and refined. Vulgar taste is idiosyncratic and tells us more about the critic than the object. Refined taste comes from the qualities described here, leading to more rule-based and stable assessments. This dichotomy can be viewed in parallel to the other subject of sentiment, morality. Vulgar thinking is characterized by rashly formed ideas based on first influences; wise reflection takes time to survey the possibilities and offers a more general view ([the view from nowhere](https://global.oup.com/academic/product/the-view-from-nowhere-9780195056440?cc=us&lang=en&#)). 
+Put simply there are two types of taste, vulgar and refined. Vulgar taste is idiosyncratic and tells us more about the critic than the object. Refined taste comes from the qualities described here, leading to more rule-based and stable assessments. This dichotomy can be viewed in parallel to the other subject of sentiment, morality. Morality is liable to similar disputes and for the same reasons as taste, in that “the difference among men is really greater than at first sight it appears.”  We cannot help but applaud qualities such as “justice, humanity, magnanimity, prudence, veracity” and to disparage the opposites. This perceived harmony is at least in part due to the nature of language. “The word virtue, with its equivalent in every tongue, implies praise; as that of vice does blame.” Vulgar thinking is characterized by rashly formed ideas based on first influences; wise reflection takes time to survey the possibilities and offers a more general view ([the view from nowhere](https://global.oup.com/academic/product/the-view-from-nowhere-9780195056440?cc=us&lang=en&#)). 
+
+[Critical thinking]
 
