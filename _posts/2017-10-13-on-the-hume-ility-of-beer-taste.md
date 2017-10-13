@@ -4,7 +4,7 @@ title: On the Hume-ility of Beer Taste
 subtitle: The Amiable Scottish Skeptic says '<a href="https://youtu.be/RCxgqHqakXc" target="_blank">Choose better beer</a>'
 tags: ["aesthetics", "beer", "taste"]
 shortlink: http://bit.ly/ep8_SOT
-twitimg: pic.twitter.com/SVbhKiblE4
+twitimg: pic.twitter.com/HFLkutTTf9
 image: http://endlesspint.com/gallery/2017/hume-taste/Hume_glasses_2.gif
 ---
 
