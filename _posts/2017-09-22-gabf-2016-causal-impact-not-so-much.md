@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Causal Impact, Not so Much
-subtitle: GABF Medals Bolster Reputations but not Search Interest
+subtitle: GABF Medals Bolster Reputations NOT Search Interest
 tags: ["GABF", "CausalImpact"]
 shortlink: http://bit.ly/gabf16_ci
 twitimg: pic.twitter.com/OQyawnhM9b
