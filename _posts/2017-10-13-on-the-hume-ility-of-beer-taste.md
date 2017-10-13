@@ -5,7 +5,7 @@ subtitle: The Amiable Scottish Skeptic says '<a href="https://youtu.be/RCxgqHqak
 tags: ["aesthetics", "beer", "taste"]
 shortlink: http://bit.ly/ep8_SOT
 twitimg: pic.twitter.com/SVbhKiblE4
-image: http://endlesspint.com/gallery/2017/hume-taste/Hume_glasses_.gif
+image: http://endlesspint.com/gallery/2017/hume-taste/Hume_glasses_2.gif
 ---
 
 
