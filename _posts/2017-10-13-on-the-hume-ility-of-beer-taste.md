@@ -6,7 +6,6 @@ header-img: "img/start.jpg"
 tags: ["aesthetics", "taste"]
 shortlink: http://bit.ly/ep8_SOT
 image: http://endlesspint.com/gallery/2017/hume-taste/Hume_glasses_.gif
-sideof: 
 ---
 
 
@@ -18,7 +17,7 @@ Of immediate interest are the practical matters that allow us survive in the wor
 
 In the non/poisonous mushrooms category, truth-value claims are more or less correct to the extent that our understanding matches what happens in the real world. Our disagreements here are about facts, experiments, and deduction. Previously adequate explanations are routinely thrown over for better and more refined ones, as science first claims its territory, its name, and progresses in both breadth and depth. With respect to morality and taste we are dealing with judgements of a different kind. Here we will take Hume’s lead and suggest they are both matters of sentiment, reflective impressions of our senses and emotions ([SEP][Stanford]), most especially the latter, taste. By this it is meant that characteristics we routinely associate with objects (sweetness, coarseness, melody) are not of the objects themselve but of our impressions of them. 
 
-First impressions would suggest matters of taste to be individual issues that are without dispute, beauty being in the eye of the beholder and such, that people are entitled to their own opinions. Further consideration shows that while it may not be possible to claim one piece of art as objectively better than another, not everyone’s ability to judge is equally valid. [misguided, S 11]
+First impressions would suggest matters of taste to be individual issues that are without dispute, beauty being in the eye of the beholder and such, that people are entitled to their own opinions. Further consideration shows that while it may not be possible to claim one piece of art as objectively better than another, not everyone’s ability to judge is equally valid.
 
 Hume articulates the challenge of what he is attempting by identifying structural ways in which people disagree about matters of taste. He states that these disagreements are obvious even to the inattentive and hold in established domains consisting of like people. Hume proceeds by expanding the scope of topics from the narrow to the global and from the contemporary to the historical. Across countries and time there are still more opinions and what is equally remarkable is the level of certainty that others have about their judgement. While we may be tempted to dismiss the opinions of others who vary with our own it is not long before we have the same treatment flung back at us. Even where it appears that we are in agreement with others this is far from certain. Often times we use general labels, but to praise “virtue” and to look down upon “parsimony” is to say almost nothing since these words by their very construction and socially agreed upon meanings bring with them a certain level of praise and blame built in. Once we get down to particulars of justice or its opposite we uncover still more disagreement. 
 
@@ -27,8 +26,6 @@ Hume acknowledges there being a part of philosophy that considers it hopeless �
 Though sweetness is not a feature of an object, much less something as conceptually complicated as beauty, we may still speak of these things because certain qualities in objects produce particular feelings. While nailing down issues of taste seem particularly difficult at first, especially in comparison to science, we soon realize it is not as difficult as we first expect. While the topics and discoveries of science appear to be on more solid foundations they are overthrown anew with each generation. Meanwhile the judgement of taste carry over from generation to generation, and if anything the passing of time helps to show and uncover even more clearly the genius of past times. 
 
 As Hume birngs us closer to believing in the possibility of establishing a standard of taste he turns his attention to critics and how it is that some may be acclaimed for their expertise while others fall short. The difference in critical ability has to do with the extent of personal defects in the organs of the particular observer. In listing the many ways that a critic can be misled we have a window regarding the types of activities we can participate in to become more adept. The qualities are delicacy, practice, comparison, the freedom from prejudice, and the presence of good sense. 
-
-[critical thinking as our own internal method for structuring data inputs]
 
 # The Ideal Critic
 
