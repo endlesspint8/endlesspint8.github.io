@@ -89,7 +89,7 @@ Vis Code: <a href="http://bokeh.pydata.org/en/latest/docs/gallery/les_mis.html" 
 >
 > Fight Hour Tweets
 
-<img src="/gallery/2016/boxing/ggg-brook/fight_hour_tweets.PNG" alt="fight_hour_tweets" /><br>
+<img src="/gallery/2016/boxing/ggg-brook/fight_hour_tweets2.PNG" alt="fight_hour_tweets" /><br>
 <sub>Data Source: Twitter</sub>
 
 ### [Six-Pack Project: The Netherlands](/2016-08-01-six-pack-project-netherlands)
