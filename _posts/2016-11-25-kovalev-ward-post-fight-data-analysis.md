@@ -5,7 +5,7 @@ subtitle: Three Data Approaches to a Controversial Decision
 tags: ["KovalevWard", "dataviz"]
 shortlink: http://bit.ly/KovWrdep
 twitimg: pic.twitter.com/I4duoYZyjC
-image: http://endlesspint.com/gallery/2016/boxing/kov-ward/fight_hour_tweets.PNG
+image: http://endlesspint.com/gallery/2016/boxing/kov-ward/fight_hour_tweets2.PNG
 ---
 
 ## Still too Close to Call
@@ -22,7 +22,7 @@ First we'll see what social media thought was happening in the moment. Then we w
 
 I pulled the fight night tweets associated with the two primary hashtags, #KovalevWard and #WardKovalev, focused in on the bout itself, and identified the round and rest period time ranges.
 
-<img src="/gallery/2016/boxing/kov-ward/fight_hour_tweets.PNG" alt="fight_hour_tweets" /><br>
+<img src="/gallery/2016/boxing/kov-ward/fight_hour_tweets2.PNG" alt="fight_hour_tweets" /><br>
 <sub>Data Source: Twitter</sub>
 
 The purpose of narrowing in on the rounds and breaks was two-fold, to make the above graph (pretty!) and to just use the scores in the moment. I wanted to get the "as it happened" impression from fight fans. I was not interested in Monday morning quarterbacks or rationalizations of any sort. 
