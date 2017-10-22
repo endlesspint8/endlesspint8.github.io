@@ -77,7 +77,7 @@ In pulling down the Twitter data I had flirted with various ideas of what to do 
 
 **Fight Hour Tweets**
 
-<img src="/gallery/2016/boxing/ggg-brook/fight_hour_tweets.PNG" alt="fight_hour_tweets" /><br>
+<img src="/gallery/2016/boxing/ggg-brook/fight_hour_tweets2.PNG" alt="fight_hour_tweets" /><br>
 
 With the data set narrowed it was only a matter of figuring out how to attribute scores to the appropriate fighter. I toyed around with various text processing options, including word counts, cooccurrences, and sentiment analysis. Let's just say that the results were not promising and that I leave my burgeoning proficiency at these skills with tweets specifically for another time. In the end I settled on what was the most obvious and easy solution, I used the actual round scoring that Twitter users were sharing. What I mean is that I took all instances of user round scoring (10–9) as well as parsing out overall fight scores across multiple rounds (20-18 or 19-19 after two rounds for instance). I did not limit my example set by following users from round to round, I simply took each instance of a tweet in the rest period between rounds as a "vote" for the respective fighter. The resulting tallies allowed me to get a decent picture of what the Twitter-verse was seeing in the moment. It is this view that is visualized below. 
 
