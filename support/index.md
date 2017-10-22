@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tight
+title: (Don't be) Tight
 subtitle: Support if You Can 
 ---
 
