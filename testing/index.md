@@ -10,14 +10,22 @@ sideof: ["End of season", "http://eepurl.com/cj8urH", "visualizations, updated a
 
 Next six:
 
-&#10004;  [A]
-&#10004; [B]
-* [hume](2017-10-13-on-the-hume-ility-of-beer-taste)
+&#10004;  [A]()
+&#10004; [B]()
+&#10004; ~~[hume](2017-10-13-on-the-hume-ility-of-beer-taste)~~
 * [rando](2017-10-27-fooling-with-randomness)
 * [robohop](2017-11-10-robohop-brewing-perfect-pint-our-limiting-horizons)
 * [peaks](2017-11-24-here-is-peaking-at-brews)
 
 [post prep](post-prep)
+
+**image tools**
+
+* [gifmaker](http://gifmaker.me/)
+* [screentogif](http://www.screentogif.com/)
+* [make8bitart](https://make8bitart.com/)
+* [lunapic](https://www168.lunapic.com/editor/)
+
 
 <style type="text/css">
 <!--
