@@ -5,12 +5,15 @@ subtitle: Flip ya, flip ya for real.
 tags: ["", ""]
 shortlink: 
 twitimg: 
-image: http://endlesspint.com/gallery/2017/gabf/gabf16_ci_impact.png
+image: http://endlesspint.com/gallery/2017/rando/2281872533_22363cedcd_z.jpg
 sideof: 
 ---
 
 
 Whether currently in a rut or not one can imagine being bored by having the same thing over and over. Variety is one of the things that makes drinking craft beer great, but even with plenty of options it is common to fall into a predictable pattern, if not with a specific beer then at least a style (I am looking at you IPA). It is worthwhile giving yourself an opportunity, even a chance ("[so you’re telling me there’s a chance](https://youtu.be/KX5jNnDMfxA)"), of trying something new. Glomming on too quickly to a style may leave a lot of good experiences on the table, or more accurately behind the bar. If you have not had your taste challenged or changed in the last couple of months perhaps you are drinking too conservatively (don’t tell your mother I just said that).<sup id="a1">[1](#f1)</sup> You want to maximize your reward, in this case delicious beer drinking experiences, to point out the most obvious but let us not overlook having a good story or being able to speak knowingly about different beers, styles, and breweries, even more reason to open up to opportunity. 
+
+<img src="/gallery/2017/rando/5112547263_7cff76c916_z.jpg" alt="aces" align="middle" width="800" /><br />
+<sub>Data Source: <a href="https://www.flickr.com/photos/36417205@N08/5112547263/" target="_blank">fitzsean</a></sub>
 
 Exploring the nature of randomness goes beyond simple curiosity. Tied to curiosity is a desire to learn, not only to have a visceral instruction of randomness but to understand what is out there. A less routine, more arbitrary interaction with reality should bring elements of the environment to our attention at a less predictable “pace.” What we discover may change or confirm our beliefs but either way we are provided an opportunity to bring our mental representations closer in line with what exists out in the world. The timing (“pace”) of these confrontations is as much a part of the learning as the exposure. Left to our own devises we tend to cherry pick when to be exposed to new aspects of our environment. We then approach theses situations in a predefined, pre-ritualized, and primed state. With the introduction of chance we short circuit our priming process and force ourselves into situations we are, at least somewhat, unready for. This slightly uncomfortable aspect of experience is helpful at reorienting ourselves and developing new methods of coping.<sup id="a2">[2](#f2)</sup> 
 
@@ -33,6 +36,9 @@ Several different tools for making arbitrary choices are available to us. There 
 > "Flip ya, flip ya for real." -Fenster, **The Usual Suspects**
 
 Variations on the coin flip are looking at the first digit of a paper bill’s serial number and making choices on odd versus even. In mentioning neighborhoods I threw out the number six as casually as if I were rolling a die, another longtime favorite but one that is currently less socially acceptable to carry depending on your circle, even if no more a burden than a coin. You may be mistaken for a compulsive gambler, street hustler, or worse of all a role playing board game participant. A ready made “die” is the clock. Given the time of day you divide the one’s place by five and use the remainder (e.g., 7:45 > 4%5 == 4; 8:36 > 6%5 == 1) . This results in a five-headed die but we have to draw the line somewhere and this should be sufficient for most occasions especially in  combination with other options (use your imagination).<sup id="a3">[3](#f3)</sup> 
+
+<img src="/gallery/2017/rando/2281872533_22363cedcd_z.jpg" alt="on tilt" align="middle" width="800" /><br />
+<sub>Data Source: <a href="https://www.flickr.com/photos/seeveeaar/2281872533/" target="_blank">Simply CVR</a></sub>
 
 ## Chance
 
