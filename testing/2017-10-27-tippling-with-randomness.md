@@ -10,7 +10,7 @@ sideof:
 ---
 
 
-Whether in currently in a rut or not you can imagine being bored by having the same thing over and over. Variety is one of the things that makes drinking craft great, but even with plenty of options it is common to fall into a predictable pattern, if not with a specific beer then at least a style (I am looking at you IPA). It is worthwhile giving yourself an opportunity, even a chance ([so you’re saying there’s a chance]()), of trying something new. Glomming on too quickly to a style may leave a lot of good experiences on the table, or more accurately behind the bar. If you have not had your taste challenged or changed in the last couple of months perhaps you are drinking too conservatively. Don’t tell your mother I just told you that.<sup id="a1">[1](#f1)</sup> You want to maximize your reward, in this case delicious beer drinking experiences, to point out the most obvious but let us not overlook having a good story or being able to speak knowingly about different beers, styles, and breweries, even more reason to open up to opportunity. 
+Whether currently in a rut or not one can imagine being bored by having the same thing over and over. Variety is one of the things that makes drinking craft beer great, but even with plenty of options it is common to fall into a predictable pattern, if not with a specific beer then at least a style (I am looking at you IPA). It is worthwhile giving yourself an opportunity, even a chance ("[so you’re telling me there’s a chance](https://youtu.be/KX5jNnDMfxA)"), of trying something new. Glomming on too quickly to a style may leave a lot of good experiences on the table, or more accurately behind the bar. If you have not had your taste challenged or changed in the last couple of months perhaps you are drinking too conservatively (don’t tell your mother I just said that).<sup id="a1">[1](#f1)</sup> You want to maximize your reward, in this case delicious beer drinking experiences, to point out the most obvious but let us not overlook having a good story or being able to speak knowingly about different beers, styles, and breweries, even more reason to open up to opportunity. 
 
 Exploring the nature of randomness goes beyond simple curiosity. Tied to curiosity is a desire to learn, not only to have a visceral instruction of randomness but to understand what is out there. A less routine, more arbitrary interaction with reality should bring elements of the environment to our attention at a less predictable “pace.” What we discover may change or confirm our beliefs but either way we are provided an opportunity to bring our mental representations closer in line with what exists out in the world. The timing (“pace”) of these confrontations is as much a part of the learning as the exposure. Left to our own devises we tend to cherry pick when to be exposed to new aspects of our environment. We then approach theses situations in a predefined, pre-ritualized, and primed state. With the introduction of chance we short circuit our priming process and force ourselves into situations we are, at least somewhat, unready for. This slightly uncomfortable aspect of experience is helpful at reorienting ourselves and developing new methods of coping.<sup id="a2">[2](#f2)</sup> 
 
@@ -24,19 +24,19 @@ There are questions of **time**, will you have a drink today or not?; **area**, 
 
 Before having ponied up to the bar you have allowed the winds of fate to decide for you where you will be. Now at the bar I could understand a certain desire to play it conservative and get back some level of control. Do not bother, you have made it this far. Let it ride and allow lady luck to pick your first two beers or, given the option, all 4-5 choices of a flight. 
 
-This is meant to introduce a bit of chance, fun, and learning. Making the idea of randomness more tactile should help drive home certain ideas about capriciousness, freedom, and our own abilities to handle uncertainty, at least a low level amount of uncertainty. 
+This is meant to introduce a bit of chance, diversion, and learning. Making the idea of randomness more tactile should help drive home certain ideas about capriciousness, freedom, and our own abilities to handle uncertainty, at least a low level amount of uncertainty. This is _not_ [a drinking game](https://youtu.be/gNIhDtb1ggM), grow up.
 
 ## Tools
 
-Several different tools for making arbitrary choices are available to us. There is of course the granddaddy of them all, the good ol’ coin flip; always a classic, great for making binary decisions and easily scalable to multiple choices. It is quick and definitive, the chances of it falling and resting on its edge being miniscule, it does not require any added technology so it is resilient to failures, and also lends itself to best two-out-of-three or three-out-of-five approaches if you want to let the tension build and experience a deliberate peak into your feelings on an issue as the decision nears [tosser’s remorse?]. 
+Several different tools for making arbitrary choices are available to us. There is of course the granddaddy of them all, the good ol’ coin flip; always a classic, great for making binary decisions and easily scalable to multiple choices. It is quick and definitive, the chances of it falling and resting on its edge being miniscule, it does not require any added technology so it is resilient to failures, and also lends itself to best two-out-of-three or three-out-of-five approaches if you want to let the tension build and experience a deliberate peak into your feelings on an issue as the decision nears. 
 
-> "Flip ya, flip ya for real." -Fenster, _The Usual Suspects_
+> "Flip ya, flip ya for real." -Fenster, **The Usual Suspects**
 
 Variations on the coin flip are looking at the first digit of a paper bill’s serial number and making choices on odd versus even. In mentioning neighborhoods I threw out the number six as casually as if I were rolling a die, another longtime favorite but one that is currently less socially acceptable to carry depending on your circle, even if no more a burden than a coin. You may be mistaken for a compulsive gambler, street hustler, or worse of all a role playing board game participant. A ready made “die” is the clock. Given the time of day you divide the one’s place by five and use the remainder (e.g., 7:45 > 4%5 == 4; 8:36 > 6%5 == 1) . This results in a five-headed die but we have to draw the line somewhere and this should be sufficient for most occasions especially in  combination with other options (use your imagination).<sup id="a3">[3](#f3)</sup> 
 
 ## Chance
 
-> "The world is governed by chance. Randomness stalks us every day of our lives." —Paul Auster
+> "The world is governed by chance. Randomness stalks us every day of our lives." -Paul Auster
 
 Drinking randomly is a good proxy and hopefully first step to thinking about and appreciating more fully the randomness all about us. I am  not talking outright chaos but the chance encounters, business opportunities, and items that catch our attention. So very much is out of our hands, a fact we conveniently forget. We used to attribute the order of the winds, sea, and cosmos to the hidden beings in the forest, ocean, and sky. Many of us have now developed the equally misplaced hubris to allocate the credit for our life’s trajectory to ourselves. No doubt the successful people in our lives are clever, insightful and hard working but they are hardly the only ones. 
 
@@ -57,9 +57,9 @@ With more opportunities, experience, and decisions made you gather information t
 
 ## Decision Making
 
-One reason to flip a coin is to break a deadlock. You need to make a decision, you have weighed the pros and cons and you remain stuck, unconvinced on which direction provides the clearest advantage or smallest disadvantage depending on what rock and hard place you are caught between. Beware the stakes (Chigur!). 
+One reason to flip a coin is to break a deadlock. You need to make a decision, you have weighed the pros and cons and you remain stuck, unconvinced on which direction provides the clearest advantage or smallest disadvantage depending on what rock and hard place you are caught between. Beware the stakes ([Chigur](https://youtu.be/OLCL6OYbSTw)!). 
 
-{{The Thing they Carried, courage quote}}
+> "Courage, I seemed to think, comes to us in finite quantities, like an inheritance, and by being frugal and stashing it away and letting it earn interest, we steadily increase our moral capital in preparation for that day when the account must be drawn down. It was a comforting theory. It dispensed with all those bothersome little acts of daily courage; it offered hope and grace to the repetitive coward; it justified the past while amortizing the future." -Tim O'Brien, **The Things They Carried **
 
 Let us start with small and insignificant decisions, working up our decision making skills and nerve. There are several reasons to go about making decisions in this way and typically under one primary condition. The condition is uncertainty. If you know definitively what your preference is and what would have the greater chance of improving your wellbeing then one may argue you have no reason to be undecided. Arguably. 
 
@@ -85,7 +85,7 @@ I will leave the relationship advice out of the next suggestion, come to think o
 
 ## Unlearning complacency, unnecessary optimization, and overspecialization
 
-> "If we all reacted the same way, we'd be predictable, and there's always more than one way to view a situation. What's true for the group is also true for the individual. It's simple: Overspecialize, and you breed in weakness. It's slow death." -Major Motoko Kusanagi, _Ghost in the Shell (1995)_
+> "If we all reacted the same way, we'd be predictable, and there's always more than one way to view a situation. What's true for the group is also true for the individual. It's simple: Overspecialize, and you breed in weakness. It's slow death." -Major Motoko Kusanagi, **Ghost in the Shell** (1995)
 
 Randomness offers the added benefit of variation. This variation is not simply a boon to our taste buds in the way of new beers given a chance but to all aspects of this approach. Without variation we may become overly specialized, geared to only one thing, leaving ourselves (more) vulnerable to change than if we remained nimble and incorporated diverse inputs. This is tied to concepts of resilience and fragility. Optimized systems have the fat cut out of them and depend on things running efficiently in order to sustain effectiveness. If something gets thrown out of whack there is high risk of failure and possible collapse. 
 
