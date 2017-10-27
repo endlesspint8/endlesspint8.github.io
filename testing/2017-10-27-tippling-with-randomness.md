@@ -10,14 +10,7 @@ sideof:
 ---
 
 
-The world is governed by chance. Randomness stalks us every day of our lives.
-—Paul Auster
-
-Flip ya, flip ya for real. 
-Fenster, The Usual Suspects
-
-
-Whether in a rut or not you can imagine being bored by having the same thing over and over. Variety is one of the things that makes drinking craft great, but even with plenty of options it is common to fall into a predictable pattern, if not with a specific beer then at least a style (I am looking at you IPA). It is worthwhile giving yourself an opportunity, even a chance ([so you’re saying there’s a chance]()), of trying something new. Glomming on too quickly to a style may leave a lot of good experiences on the table, or more accurately behind the bar. If you have not had your taste challenged or changed in the last couple of months perhaps you are drinking too conservatively. Don’t tell your mother I just told you that.<sup id="a1">[1](#f1)</sup> You want to maximize your reward, in this case delicious beer drinking experiences, to point out the most obvious but let us not overlook having a good story or being able to speak knowingly about different beers, styles, and breweries, even more reason to open up to opportunity. 
+Whether in currently in a rut or not you can imagine being bored by having the same thing over and over. Variety is one of the things that makes drinking craft great, but even with plenty of options it is common to fall into a predictable pattern, if not with a specific beer then at least a style (I am looking at you IPA). It is worthwhile giving yourself an opportunity, even a chance ([so you’re saying there’s a chance]()), of trying something new. Glomming on too quickly to a style may leave a lot of good experiences on the table, or more accurately behind the bar. If you have not had your taste challenged or changed in the last couple of months perhaps you are drinking too conservatively. Don’t tell your mother I just told you that.<sup id="a1">[1](#f1)</sup> You want to maximize your reward, in this case delicious beer drinking experiences, to point out the most obvious but let us not overlook having a good story or being able to speak knowingly about different beers, styles, and breweries, even more reason to open up to opportunity. 
 
 Exploring the nature of randomness goes beyond simple curiosity. Tied to curiosity is a desire to learn, not only to have a visceral instruction of randomness but to understand what is out there. A less routine, more arbitrary interaction with reality should bring elements of the environment to our attention at a less predictable “pace.” What we discover may change or confirm our beliefs but either way we are provided an opportunity to bring our mental representations closer in line with what exists out in the world. The timing (“pace”) of these confrontations is as much a part of the learning as the exposure. Left to our own devises we tend to cherry pick when to be exposed to new aspects of our environment. We then approach theses situations in a predefined, pre-ritualized, and primed state. With the introduction of chance we short circuit our priming process and force ourselves into situations we are, at least somewhat, unready for. This slightly uncomfortable aspect of experience is helpful at reorienting ourselves and developing new methods of coping.<sup id="a2">[2](#f2)</sup> 
 
@@ -37,9 +30,13 @@ This is meant to introduce a bit of chance, fun, and learning. Making the idea o
 
 Several different tools for making arbitrary choices are available to us. There is of course the granddaddy of them all, the good ol’ coin flip; always a classic, great for making binary decisions and easily scalable to multiple choices. It is quick and definitive, the chances of it falling and resting on its edge being miniscule, it does not require any added technology so it is resilient to failures, and also lends itself to best two-out-of-three or three-out-of-five approaches if you want to let the tension build and experience a deliberate peak into your feelings on an issue as the decision nears [tosser’s remorse?]. 
 
+> "Flip ya, flip ya for real." -Fenster, _The Usual Suspects_
+
 Variations on the coin flip are looking at the first digit of a paper bill’s serial number and making choices on odd versus even. In mentioning neighborhoods I threw out the number six as casually as if I were rolling a die, another longtime favorite but one that is currently less socially acceptable to carry depending on your circle, even if no more a burden than a coin. You may be mistaken for a compulsive gambler, street hustler, or worse of all a role playing board game participant. A ready made “die” is the clock. Given the time of day you divide the one’s place by five and use the remainder (e.g., 7:45 > 4%5 == 4; 8:36 > 6%5 == 1) . This results in a five-headed die but we have to draw the line somewhere and this should be sufficient for most occasions especially in  combination with other options (use your imagination).<sup id="a3">[3](#f3)</sup> 
 
 ## Chance
+
+> "The world is governed by chance. Randomness stalks us every day of our lives." —Paul Auster
 
 Drinking randomly is a good proxy and hopefully first step to thinking about and appreciating more fully the randomness all about us. I am  not talking outright chaos but the chance encounters, business opportunities, and items that catch our attention. So very much is out of our hands, a fact we conveniently forget. We used to attribute the order of the winds, sea, and cosmos to the hidden beings in the forest, ocean, and sky. Many of us have now developed the equally misplaced hubris to allocate the credit for our life’s trajectory to ourselves. No doubt the successful people in our lives are clever, insightful and hard working but they are hardly the only ones. 
 
@@ -47,7 +44,7 @@ In many cases the things we are reliant on, the things that have had an outsized
 
 ## More Empirical than Experimental 
 
-The limitations of time, money, balance, and organ failure will prevent our making these explorations into randomness true experiments. Experiments are repeatable processes that ask questions of the universe and receive answers in the form of event outcomes {{through careful collection we may be able to disprove certain hypotheses and/or give increased probability to still viable ones}}. However, we will keep a scientific mind about ourselves and make observations for the purpose of gathering information to alleviate our uncertainty about preferences. Empirical findings will help inform probabilities, preferences, and expectations. With added input we may better inform our far from perfect representation of the world so as to better our chances of success, i.e., enjoying the delicious beer that suits us best.
+The limitations of time, money, balance, and organ failure will prevent our making these explorations into randomness true experiments. Experiments are repeatable processes that ask questions of the universe and receive answers in the form of event outcomes. However, we will keep a scientific mind about ourselves and make observations for the purpose of gathering information to alleviate our uncertainty about preferences. Empirical findings will help inform probabilities, preferences, and expectations. With added input we may better inform our far from perfect representation of the world so as to better our chances of success, i.e., enjoying the delicious beer that suits us best.
 
 
 ## Probabilities and Expectations
@@ -70,7 +67,8 @@ The reasons to resort to a coin toss or some other indeterminate ([indeterminabl
 
 ## Action/Inaction
 
-In keeping with the idea of delay and conditions of uncertainty one of the best reasons to force a decision is to practice acting. Standing in place is not bringing any additional information. By acting we have an opportunity to impact the environment. This motion could uncover new findings, both for how the environment reacts, including others around you, and your preferences to the changed circumstances. We always act in states of uncertainty. Acting sets things in motion, helping confirm/disconfirm expectations or gather more input. In truth we rarely get enough information to make a fully informed decision, we only go to one school at a time, live in one neighborhood at a time, are friends with certain people and not others at specific times. ---
+In keeping with the idea of delay and conditions of uncertainty one of the best reasons to force a decision is to practice acting. Standing in place is not bringing any additional information. By acting we have an opportunity to impact the environment. This motion could uncover new findings, both for how the environment reacts, including others around you, and your preferences to the changed circumstances. We always act in states of uncertainty. Acting sets things in motion, helping confirm/disconfirm expectations or gather more input. In truth we rarely get enough information to make a fully informed decision, we only go to one school at a time, live in one neighborhood at a time, are friends with certain people and not others at specific times. 
+
 We only come through once in this life and while we build narratives to help explain our own history to ourselves, in the moment the contingencies of what takes place may seem more chance than choice. We need more information and we can get this from reading, speaking with others who have had similar circumstances to those we are (about to be) facing, thinking deeply, and acting. Each of these can provide relevant information to better determine the probabilities of outcomes, so as to better calibrate our expectation, and allow us to make better decisions. 
 
 ## Exploration v Exploitation
@@ -87,18 +85,19 @@ I will leave the relationship advice out of the next suggestion, come to think o
 
 ## Unlearning complacency, unnecessary optimization, and overspecialization
 
-(Ghost in Shell quote) 
+> "If we all reacted the same way, we'd be predictable, and there's always more than one way to view a situation. What's true for the group is also true for the individual. It's simple: Overspecialize, and you breed in weakness. It's slow death." -Major Motoko Kusanagi, _Ghost in the Shell (1995)_
+
 Randomness offers the added benefit of variation. This variation is not simply a boon to our taste buds in the way of new beers given a chance but to all aspects of this approach. Without variation we may become overly specialized, geared to only one thing, leaving ourselves (more) vulnerable to change than if we remained nimble and incorporated diverse inputs. This is tied to concepts of resilience and fragility. Optimized systems have the fat cut out of them and depend on things running efficiently in order to sustain effectiveness. If something gets thrown out of whack there is high risk of failure and possible collapse. 
 
 Withholding some degree of efficiency introduces robustness, allowing for adaptability. We see this in different forms within machine learning with respect to [regularization](https://en.wikipedia.org/wiki/Regularization_%28mathematics%29), [simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing), and other fancy-shmancy sounding terms that all incorporate the concept of not overfitting models to the past. The pendulum is constantly ticking from on end to the other, but we needn't choose either extreme. 
 
-> "Doubt is an uncomfortable condition, but certainty is a ridiculous one." Voltaire
+> "Doubt is an uncomfortable condition, but certainty is a ridiculous one." -Voltaire
 
 Let us be less naive and demonstrate maturity by acknowledging our shortcomings rather than covering them up with bombast and show. The world is a complex place in which order requires a high degree of effort to sustain (think entropy). That effort is oftentimes insufficient to the task and eventually the artificial order breaks down. Better to embrace our ignorance and build around it, not ignore it stupidly. There are always many sides to the story, all of them true.	
 
 ## Wrap it Up
 
-These “entry level” reasons to consider randomness when it come to drinking: practicing action and reducing indecisiveness; information accumulation on likelihoods and payouts; and exploration versus exploitation are with us everyday and something we all do to a greater or lesser extent regardless of how aware we are of it. The extent to which we do it is worth making more explicit in order to identify the patterns we are in, proactively decide if they are serving us and worth keeping or something to attempt breaking with. 
+These entry-level reasons to consider randomness when it come to drinking, practicing action and reducing indecisiveness, information accumulation on likelihoods and payouts, and exploration versus exploitation, are with us everyday and something we all do to a greater or lesser extent regardless of how aware we are of it. The extent to which we do it is worth making more explicit in order to identify the patterns we are in, proactively decide if they are serving us and worth keeping or something to attempt breaking with. 
 
 As creatures of habit changing the way we do things is not as easy as flipping a switch, or a coin for that matter, regardless of how it appears from the outside. That it may appear easier for some is a function of not being aware of their internal struggles or not giving them enough credit for the patterns they have developed to allow them to make smoother transitions. Get some reps in yourself by practicing with a toy subject matter, thereby building your observational, deliberative, and action-oriented muscles. It is a shame to live your life on autopilot and this is as much a risk when consuming beer as anywhere else.
 
@@ -122,6 +121,3 @@ Humans tend to be conservative decision makers who at the end of life, neither s
 <b id="f5">5</b>  I have found myself lacking countless times under the best of circumstances. I am under no illusion that in a large fraction of parallel universes I am already dead from a number of boneheaded, selfish, short sighted, and childish decisions. [↩](#a5) <br>
 
 <b id="f6">6</b>  For now. What will happen to our globe and society over the 21st century might derail this indefinitely; enjoy the diversity (bio, social, structural) while you can. [↩](#a6) <br>
-
-<sup id="a7">[7](#f7)</sup> 
-<b id="f7">7</b>  [↩](#a7) <br>
