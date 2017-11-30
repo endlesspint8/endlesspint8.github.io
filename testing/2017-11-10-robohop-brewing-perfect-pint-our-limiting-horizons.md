@@ -65,9 +65,22 @@ This lack of internal expertise radiates outward when you imagine the implementa
 We might be giving this one application of the technology undue significance but beyond one circumstance of the “AI” we could easily imagine, and are being more often the targeting of, new implementations of AI and high tech “solutions.” Naturally you can say that is part of the point. AI will replace brewers, cut down on positions, and we will need fewer staff per barrel. The fact that we have fewer would appear to be a market correction. However, beyond the reduction of people we are potentially removing our understanding of the process by undercutting the apprenticeship inherent in the job training. Implementing this technological solution could set back and potentially suspend our ability to create new and delicious beer for as long as we rely on it. 
 
 
-## 4. 
+## 4. Which people and what institutions might be most seriously harmed by a technological solution?
 
-## 5. 
+More than a hint was given that the employees of the brewery would be harmed, specifically the brewing staff, though the trouble would extend to all who rely on the technology and have to get involved in the cleanup of any algorithm on the fritz [disappearance of meaningful work?]. This could mean dealing with bad tasting and spoiled beer or losing a job as a result of a “brewer” who had no ideas or insights into what would help make a beer more attractive from a taste and community connection perspective. The loss of an invested and motivated human would also cut down on the amount of internal resources available to the brewery. 
+
+[power and freedom reduced]
+
+Breweries might lose further control or power by relying on an algorithm that is not of their devising. We can look to the plight of farmers worldwide at the mercy of agro business who hold patents, not only on the pesticides and fertilizers sold but the seeds themselves(link). These businesses have managed the chilling task of claiming intellectual property on mother nature. It would hardly be surprising to see the same control by the provider(s) of a techno-brewing service and lest we believe that breweries might tinker under the hood so as to add some secret sauce we can look at the struggle of right to fix advocates (link) with respect to smart phones, John Deer tractors, and all the rest to get an idea of the challenges and restrictions to be faced when the things we purchase are not actually owned by us (End of Ownership book). 
+
+With brewing under intellectual property control, sold as a license to be used (we may speculate taking inspiration from current software license agreements [SLA]), how might breweries hope to differentiate themselves. Numerous variables go into the completion of a beer but it is hard not to see these breweries as effective franchisees doing all of the hard work while the home office takes a sip out of the profits for each barrel. 
+
+Data collection brings its own serious of issues with respect to customer privacy……
+
+
+## 5. What changes in language are being enforced by new technologies, what is being gained and what is being lost by such changes?
+
+
 
 ## 6. 
 
