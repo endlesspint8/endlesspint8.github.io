@@ -17,8 +17,9 @@ Data and, more broadly, research is absolutely a benefit to problems of all sort
 
 Craft beer is growing, data is proliferating, mobile is everywhere. The marriage of these things seems inevitable, by accidental market forces bumping into one another ([who invented the bicycle](https://www.livescience.com/44765-who-invented-the-bicycle.html) after all?) if not by intention. There is a, “it makes sense” kind of angle. The use of data can be a story in itself. Beer is always a fun thing to cover. It does not seem to take much, if you have a catchy idea, to get some coverage. That is all for the good. The more general coverage the more chance of intriguing casual beer drinks to something more interesting. 
 
-
-<iframe src="https://player.vimeo.com/video/172395607" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p align="center">
+  <iframe src="https://player.vimeo.com/video/172395607" width="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</p>
 
 
 <iframe src="http://endlesspint.com/gallery/2016/football-picks/sup_ats_simple.html" width="500" height="500" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0"></iframe>
