@@ -22,7 +22,7 @@ Data and, more broadly, research is absolutely a benefit to problems of all sort
 Craft beer is growing, data is proliferating, mobile is everywhere. The marriage of these things seems inevitable, by accidental market forces bumping into one another ([who invented the bicycle](https://www.livescience.com/44765-who-invented-the-bicycle.html) after all?), if not by intention. There is a, “it makes sense” angle. The use of data can be a story in itself. Beer is always a fun thing to cover. Together they make a catchy idea and garner a little coverage. That is all for the good. General news coverage of craft beer likely increases the chance of intriguing casual beer drinks to try something more interesting. 
 
 <p align="center">
-  <iframe src="/multimedia/api/embed/iframe?id=c5431246-cbe4-4bb8-80b7-b59fcaaa62ba" allowscriptaccess="always" frameborder="0"></iframe>
+  <iframe src="https://www.bloomberg.com/news/videos/2016-12-15/ai-beer-taste-testing-a-robot-brew-video" allowscriptaccess="always" frameborder="0"></iframe>
 </p>
 
 Runnnig headlong into a technological solution without a clear idea of the purpose is likely to get us where Thoreau warned, inventions that are but improved means to an unimproved end. Is the goal the best beer for a sole consumer, a demographic, the mystical average person or something for a company to hook us into buying? 
