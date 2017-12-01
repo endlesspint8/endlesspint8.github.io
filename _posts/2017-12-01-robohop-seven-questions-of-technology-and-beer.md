@@ -4,14 +4,14 @@ title: RoboHop - Brewing the Perfect Pint
 subtitle: Seven Questions Regarding AI & Beer
 tags: ["AI", ""]
 shortlink: 
-image: http://endlesspint.com/gallery/2017/gabf/gabf16_ci_impact.png
+image: http://endlesspint.com/gallery/2017/abi/bloomberg_abi.png
 sideof: 
 ---
 
 
 ## It was only a matter of time. 
 
-London-based [IntelligentX Brewing Company](http://intelligentx.ai/) announced plans in 2016 to leverage artificial intelligence (AI) to brew beer. Presumably better beer, but we will have to wait and see.[FN:And better how is an important qualification to keep in mind.] Starting with four base beer stlyes (Amber, Golden, Pale, and Black [stout?]), targeted consumer preference questions and Artificial Brewing Intelligence (ABI, read abbey, like the beer making monks; get it?) the company aims to leverage technology to more quickly and fully match beer batches with people’s tastes. Feedback questions are descriptive, explain what the terms used mean to better educate the drinkers and more accurately inform the algorithm, and can be done via smart phone. The combination of mobile, social,[FN: The use of Facebook Messenger is clearly seen in one video.] data, and craft beer is ingenious for having overlapping and energetic demographics. Through direct user input, at or near the time of consumption, the brewery will better be able to cater to customer preferences.
+London-based [IntelligentX Brewing Company](http://intelligentx.ai/) announced plans in 2016 to leverage artificial intelligence (AI) to brew beer. Presumably better beer, but we will have to wait and see.<sup id="a1">[1](#f1)</sup> Starting with four base beer stlyes (Amber, Golden, Pale, and Black [stout?]), targeted consumer preference questions and Artificial Brewing Intelligence (ABI, read abbey, like the beer making monks; get it?) the company aims to leverage technology to more quickly and fully match beer batches with people’s tastes. Feedback questions are descriptive, explain what the terms used mean to better educate the drinkers and more accurately inform the algorithm, and can be done via smart phone. The combination of mobile, social,<sup id="a2">[2](#f2)</sup> data, and craft beer is ingenious for having overlapping and energetic demographics. Through direct user input, at or near the time of consumption, the brewery will better be able to cater to customer preferences.
 
 <p align="center">
   <iframe src="https://player.vimeo.com/video/172395607" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -34,7 +34,7 @@ Casting as wide and generous a net as possible while focusing on the beer drinki
 
 The problems for the brewery are more concrete. There is the trouble of putting out several beers and not knowing which will take off, if any. Getting noticed in a busy field is always a concern. Allowing for immediate customer feedback provides a built in excuse for a less than stellar beer. The very blandness of a beer only reinforces the story of providing a blank canvas from which to build on together. This togetherness of brewery and drinker ties in nicely with the aforementioned customer engagement and follow-up curiosity that could lead to repeat purchases and/or word of mouth marketing. Additionally, any automated component has the potential for cost savings, whether by cutting back on labor, introducing efficiencies, or both. Whatever the upfront expenses for creating and running the algorithm they would be made up for by no longer needing to hire as many, as sophisticated, or as dedicated (fulltime v partime) brewers as before. 
 
-The benefits of making customers think more critically about their beer aside, this approach to matching drinker preferences to potential beers only gets in the way of bringing these two together. Drinkers could just pick up another of the 1,000+ beers available in their area and seasonally rotated in, as opposed to waiting for the next algo-infused batch. The drinker will always be quicker at iterating the experience than any brewery, at least until we have [matter compilers](https://en.wikipedia.org/wiki/The_Diamond_Age). This technology does not address a problem for the drinker,[FN: “Not solutions to any problem a normal person would regard as significant.” (Postman lecture)] which leads us to ask… 
+The benefits of making customers think more critically about their beer aside, this approach to matching drinker preferences to potential beers only gets in the way of bringing these two together. Drinkers could just pick up another of the 1,000+ beers available in their area and seasonally rotated in, as opposed to waiting for the next algo-infused batch. The drinker will always be quicker at iterating the experience than any brewery, at least until we have [matter compilers](https://en.wikipedia.org/wiki/The_Diamond_Age). This technology does not address a problem for the drinker,<sup id="a3">[3](#f3)</sup>  which leads us to ask… 
 
 ## 2. Whose problem is it?
 
@@ -110,7 +110,7 @@ In the beer industry itself, four to five global conglomerates account for a maj
 
 ## 7. What alternative uses (media) might be made of a technology?
 
-The inherent biases, limitations, capabilities, and built-in instructions of how to use this technology are perhaps not all fully clear, at least that is my hope.[FN: Not clear which would be more disappointing, that the uses proposed are all there is to this algorithm or that we can not see alternatives.] We are not looking to cut off innovation for the sake of being contrarian or ignorant of past benefits of science, technology and statistics in brewing (see chemistry, refrigeration, transport, Student-T). Rather we may have overriding obligations to ourselves and our values than to a technology (TN). 
+The inherent biases, limitations, capabilities, and built-in instructions of how to use this technology are perhaps not all fully clear, at least that is my hope.<sup id="a4">[4](#f4)</sup> We are not looking to cut off innovation for the sake of being contrarian or ignorant of past benefits of science, technology and statistics in brewing (see chemistry, refrigeration, transport, Student-T). Rather we may have overriding obligations to ourselves and our values than to a technology (TN). 
 
 There is always the honorable field of education to point to. This tool could be implemented as customer education media. Information provided by the consumer could be responded with other beers to try, foods to pair with, or beer history to consider. 
 
@@ -119,7 +119,7 @@ To avoid a concentration of power and reduced freedom from the technology being 
 
 ## Tool Using, Not Used by Tools
 
-A simple thought: automate what is possible, hand it over to machines/algorithms, and let the humans do the rest. This is sold as a labor saving approach that benefits employer, employee, and customer alike. Predictably the greatest benefit to the business has to do with the bottom line, which is practically the only consideration and we are foolish to believe/think/expect otherwise, regardless of the ethics of behavior following exclusively from such a motivation (let us set Miton FN: [The business of business is business](https://en.wikiquote.org/wiki/Milton_Friedman) aside for now). 
+A simple thought: automate what is possible, hand it over to machines/algorithms, and let the humans do the rest. This is sold as a labor saving approach that benefits employer, employee, and customer alike. Predictably the greatest benefit to the business has to do with the bottom line, which is practically the only consideration and we are foolish to believe/think/expect otherwise, regardless of the ethics of behavior following exclusively from such a motivation (let us set Miton<sup id="a5">[5](#f5)</sup> aside for now). 
 
 Automation is meant to be a boon to employees as well. By off loading repetitive tasks the worker is freed to focus on higher level tasks. This is the concept in general and the logic holds theoretically, occasionally in practice as well. Far more interesting and frightening are the examples where things do not go as expected. In a search for ever greater “convenience, speed, and efficiency” we are turning our jobs into nothing more than glorified computer nannies (ACL). 
 
@@ -131,14 +131,18 @@ The breaking up of our work into ever more discrete components that can be pushe
 
 We often categorize these newly revealed issues as human shortcomings and think up ways to relieve the human-in-the-loop. The idea of total automation comes to mind. Some automation is the problem, no doubt because it is incomplete, more of the same would bring us to a solution. However, "no machine is infallible" and as systems become increasingly more complex the potential areas of failure increase exponentially. Other solutions would look to alter the role of the automation so that it hands back control at "frequent but irregular intervals," thereby limiting the scope of machines so humans are not put in the role of observer only, something we do poorly due to to limited attention spans and other observational shortcomings, and add in educational components that constantly test workers and help them retain their skills. 
 
-We must stop categorising these as human shortcomings but rather as failed technical approaches. There are two primary reasons for this. The first is heady and related to human freedom, dignity, rights and wages to name just a few lighthearted topics you can joke about with your crazy uncle over Thanksgiving dinner at no risk of ruining an evening. The other is more practical but no less heady, machines are meant for our , indeed this is one of their great strengths. It would be the pinnacle of idiocy to devalue the strengths of the most powerful learning system we have, our brains, for the sake of accommodating them to the needs of computers. Far wiser to maximize the capabilities of the human mind and to build enhancing technologies around this. Otherwise we risk having stupid humans running stupid machines. 
+We must stop categorising these as human shortcomings but rather as failed technical approaches. There are two primary reasons for this. The first is heady and related to human freedom, dignity, rights and wages to name just a few lighthearted topics you can joke about with your crazy uncle over Thanksgiving dinner at no risk of ruining an evening. The other is more practical, machines may be cobbled together in various ways to suit our needs, indeed this is one of their great strengths. It would be the pinnacle of idiocy to devalue the strengths of the most powerful learning system we have, our brains, for the sake of accommodating them to the needs of computers. Far wiser to maximize the capabilities of the human mind and to build enhancing technologies around this. Otherwise we risk having stupid humans running stupid machines. 
 
 
 ---
 
 **Notes**
 
-
+<b id="f1">1</b> And better how is an important qualification to keep in mind. [↩](#a1) <br>
+<b id="f2">2</b> The use of Facebook Messenger is clearly seen in one video. [↩](#a2) <br>
+<b id="f3">3</b> "Not solutions to any problem a normal person would regard as significant." ([Postman lecture](https://youtu.be/hlrv7DIHllE)) [↩](#a3) <br>
+<b id="f4">4</b> Not clear which would be more disappointing, that the uses proposed are all there is to this algorithm or that we can not see alternatives. [↩](#a4) <br>
+<b id="f5">5</b> "[The business of business is business](https://en.wikiquote.org/wiki/Milton_Friedman)."  [↩](#a5) <br>
 
 
 ACL: Carr, N. (2013) _All Can be Lost_ Available at: [The Atlantic](https://www.theatlantic.com/magazine/archive/2013/11/the-great-forgetting/309516/)
