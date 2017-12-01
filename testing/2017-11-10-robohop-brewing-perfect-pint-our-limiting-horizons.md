@@ -117,11 +117,31 @@ There is always the honorable field of education to point to. This tool could be
 To avoid a concentration of power and reduced freedom from the technology being used as intended the recipes could be placed in the creative commons. 
 
 
+## Tool Using, Not Used by Tools
+
+A simple thought: automate what is possible, hand it over to machines/algorithms, and let the humans do the rest. This is sold as a labor saving approach that benefits employer, employee, and customer alike. Predictably the greatest benefit to the business has to do with the bottom line, which is practically the only consideration and we are foolish to believe/think/expect otherwise, regardless of the ethics of behavior following exclusively from such a motivation (let us set Miton FN: [The business of business is business](https://en.wikiquote.org/wiki/Milton_Friedman) aside for now). 
+
+Automation is meant to be a boon to employees as well. By off loading repetitive tasks the worker is freed to focus on higher level tasks. This is the concept in general and the logic holds theoretically, occasionally in practice as well. Far more interesting and frightening are the examples where things do not go as expected. In a search for ever greater “convenience, speed, and efficiency” we are turning our jobs into nothing more than glorified computer nannies (ACL). 
+
+Automation is no longer just about mechanical displacement of physical bodies. Nowadays computers are a part of all our lives and their intrusion can be seen in white collar work: doctors, bankers, architects, attorneys, and airline pilots to name just a few. Aside from the conveniences afforded us the introduction of computers into our work affects "how we act, how we learn, and what we know" (ACL). This added layer provides one more remove between the worker and her work not infrequently resulting in de-skilling: pilots who forget how to fly in emergency situations, doctors who do not diagnose, and architects who cannot draw. 
+
+Balancing out the short term augmentation of our abilities via the introduction of technology and automation is the long term pernicious effect of deteriorating skills. It used to be that the "distinct, well-defined, and repetitive tasks" automation was limited to lightened our physical load (ACL). Now the same approach to cognitive tasks is making our work disjointed and narrowing our focus. Ideally our new found freedom would allow us to pursue higher level pursuits that computers cannot do (yet?!).
+
+The breaking up of our work into ever more discrete components that can be pushed onto machines changes not only the tasks but the people, their roles, attitudes and skills. We became disconnected from the surroundings and ourselves, becoming regulated to just another cog in the process, and a not very good or well used cog at that. Among other deficiencies that become salient in our new roles are those of artificial complacency, where we are lulled by computers into a false sense of security, and automation bias, “plac[ing] too much faith in the accuracy of the information” provided on computer displays (ACL). Both are manifestations of deferring authority and discounting our autonomy. We are proceeding with a Faustian bargain whereby we handover our ability to grow in return for convenience, but also inherent fragility. Learning is often an inefficient process that requires many passes before it sticks, something recognized as [the generation effect](https://en.wikipedia.org/wiki/Generation_effect).
+
+We often categorize these newly revealed issues as human shortcomings and think up ways to relieve the human-in-the-loop. The idea of total automation comes to mind. Some automation is the problem, no doubt because it is incomplete, more of the same would bring us to a solution. However, "no machine is infallible" and as systems become increasingly more complex the potential areas of failure increase exponentially. Other solutions would look to alter the role of the automation so that it hands back control at "frequent but irregular intervals," thereby limiting the scope of machines so humans are not put in the role of observer only, something we do poorly due to to limited attention spans and other observational shortcomings, and add in educational components that constantly test workers and help them retain their skills. 
+
+We must stop categorising these as human shortcomings but rather as failed technical approaches. There are two primary reasons for this. The first is heady and related to human freedom, dignity, rights and wages to name just a few lighthearted topics you can joke about with your crazy uncle over Thanksgiving dinner at no risk of ruining an evening. The other is more practical but no less heady, machines are meant for our , indeed this is one of their great strengths. It would be the pinnacle of idiocy to devalue the strengths of the most powerful learning system we have, our brains, for the sake of accommodating them to the needs of computers. Far wiser to maximize the capabilities of the human mind and to build enhancing technologies around this. Otherwise we risk having stupid humans running stupid machines. 
 
 
 ---
 
 **Notes**
+
+
+
+
+ACL: Carr, N. (2013) _All Can be Lost_ Available at: [The Atlantic](https://www.theatlantic.com/magazine/archive/2013/11/the-great-forgetting/309516/)
 
 IOA : Bainbridge, L. (1983) _Ironies of Automation_
 
