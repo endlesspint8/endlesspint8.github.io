@@ -35,6 +35,25 @@ Next six:
 </style>
 <script language="javascript" src="//endlesspint.us14.list-manage.com/generate-js/?u=2bcb7588e60b55d3de7f33b21&fid=1577&show=10" type="text/javascript"></script>
 
+
+<body>  
+  
+  <script>
+    (function() {
+      var boxrectag = document.createElement('script');
+      boxrectag.async = true;
+      boxrectag.type = 'text/javascript';
+      boxrectag.src = 'http://static.boxrec.com/js/widget.js';
+      var node = document.getElementsByTagName('script')[0];
+      node.parentNode.insertBefore(boxrectag, node);
+    })();
+  </script>  
+  <p>
+    In 1974 <ins data-boxrec='boxer' data-boxrec-boxer='180'></ins> fought
+   <ins data-boxrec='boxer' data-boxrec-boxer='90'></ins> in the Rumble in the Jungle.
+  </p>
+</body>
+
 ## Week 14 - Slippery Slope 
 
 <p><font size="1" color="blue">This is some text!</font></p>
