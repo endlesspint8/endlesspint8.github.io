@@ -6,6 +6,14 @@ subtitle: Visualizations at a Glance with Code Samples
 
 <br>
 
+### [Bitcoin White Paper Review](bitcoin_wp)
+> 
+> A look at section "[11. Calculations](bitcoin_wp)"<br>
+
+<p align="center">
+  <img src="/code/bitcoin_wp/output_10_0.png" alt="attacker P" align="middle" width="75%" /><br />
+</p> 
+
 ### [Causal Impact, Not so Much](/2017-09-22-gabf-2016-causal-impact-not-so-much)
 > 
 > A look at impact of GABF medals on [search engagement](gabf_CausalImpact)<br>
