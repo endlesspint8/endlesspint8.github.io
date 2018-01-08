@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flights & Sides
+title: Flights
 subtitle: aka Past Newsletters
 ---
 
