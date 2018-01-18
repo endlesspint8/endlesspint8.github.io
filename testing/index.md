@@ -13,8 +13,9 @@ Next six:
 &#10004;  [A]()
 &#10004; [B]()
 &#10004; ~~[hume](2017-10-13-on-the-hume-ility-of-beer-taste)~~
-* [rando](2017-10-27-tippling-with-randomness)
-* [robohop](2017-11-10-robohop-brewing-perfect-pint-our-limiting-horizons)
+
+
+* [pagerank](2018-01-19-beer-introductions-5)
 * [peaks](2017-11-24-here-is-peaking-at-brews)
 
 [post prep](post-prep)
