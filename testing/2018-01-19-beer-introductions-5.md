@@ -5,7 +5,7 @@ subtitle: Part V - PageRank
 tags: ["pagerank", "NetworkX"]
 shortlink: 
 image: http://endlesspint.com/gallery/2018/beer-prplxd/pr_links.png
-sideof: ["Longest path containing American style IPA", "http://eepurl.com/cj8urH", ", everyone's favorite."]
+sideof: ["Second level beers", "http://eepurl.com/cj8urH", " into top PR style (grandparent sytles)."]
 ---
 
 ## Motivation
@@ -20,7 +20,7 @@ In some respects this retains the idea of drinking at random (link) but with the
 
 ## Drum roll, please...
 
-The highest scoring beer by this method is the Belgian Dubbel. The reason being that it has the highest quality links. The style has the highest number of incoming links, recommendations from other beer styles, and these are generally of high quality. It is not the case as mentioned earlier that more links means higher scores. The Belgian Dubbel additionally has a large number of unique grandparent styles that recommend it as a style, two steps/degrees removed. I say unique because some of the beers recommend several of the beers that feed directly into the Dubbel and it would be unproductive to double (pun!) or triple (pun, pun!) count these. As expected, these grandparent beer styles also carry high average ratings. The rich get richer, which is something we see in many disciplines and studies (Matthew effect).
+The highest scoring beer by this method is the Belgian Dubbel. The reason being that it has the highest quality links. The style has the highest number of incoming links, recommendations from other beer styles, and these are generally of high quality. It is not the case as mentioned earlier that more links means higher scores. The Belgian Dubbel additionally has a large number of [unique grandparent styles](/code/beer_prplxd_V/#features-and-sorting) that recommend it as a style, two steps/degrees removed. I say unique because some of the beers recommend several of the beers that feed directly into the Dubbel and it would be unproductive to double (pun!) or triple (pun! x3) count these. As expected, these grandparent beer styles also carry high average ratings. The rich get richer, which is something we see in many disciplines and studies (Matthew effect).
 
 To tie together the assumption and challenges of the data, the fact that this style scores highest does not necessarily mean it will or should be the highest selling style. Foe one, the market may still be traeering these links and not settled onto the model’s expectations. More likely, tastes vary over people, time, and fashion. Just because there is a bridge between two styles does not ensure that most will cross it and having crossed it does not mean they will remain on the other side. What this PageRank can suggest to brewers and marketers are avenues of positioning their beers to capture more of the natural affinities between styles. 
 
