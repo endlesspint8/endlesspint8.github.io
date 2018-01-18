@@ -10,6 +10,20 @@ subtitle: Extra Material
 
 <h4 align="center" id="longIPA">Longest Beer Style Recommendations Path (w/IPA)</h4>
 
+**From**: _[Data Guide for the Beer Perplexed, Part V - PageRank and Networkx](/2018-01-19-beer-introductions-5)_
+
+<p align="center">
+  <a href="/gallery/2018/beer-prplxd/pr_links_gp.png" target="_blank">
+    <img src="/gallery/2018/beer-prplxd/pr_links_gp.png" width="75%">
+  </a>
+  <br><br>
+</p>
+
+---
+<br>
+
+<h4 align="center" id="longIPA">Longest Beer Style Recommendations Path (w/IPA)</h4>
+
 **From**: _[Data Guide for the Beer Perplexed, Part IV - Graphs and Paths](/2017-09-08-beer-introductions-4)_
 
 <p align="center">
