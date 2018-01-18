@@ -6,6 +6,14 @@ subtitle: Visualizations at a Glance with Code Samples
 
 <br>
 
+### [Data Guide for the Beer Perplexed V](/2018-01-19-beer-introductions-5)
+> 
+> PageRank and more [networkx graphs](beer_prplxd_V)<br>
+
+<p align="center">
+  <img src="/code/beer_prplxd_V/output_56_0.png" alt="circ" align="middle" width="80%" /><br />
+</p> 
+
 ### [Bitcoin White Paper Review](bitcoin_wp)
 > 
 > A look at section "[11. Calculations](bitcoin_wp)"<br>
