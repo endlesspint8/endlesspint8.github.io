@@ -10,7 +10,7 @@ subtitle: Support if You Can
 
 This is an open bar so pints are complimentary. 
 
-However, to insure promptness and the posts continue flowing click the pint below and leave a gratuity.
+However, to insure promptness and the continued flow of posts click the pint logo below and leave a gratuity.
 
 
 <a href="https://www.paypal.me/EndlessPint/5"><img src="/support/img/digipint01.png" width="15%"></a>
