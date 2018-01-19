@@ -42,6 +42,7 @@ The highest scoring beer by this method is the Belgian Dubbel. Though it cannot 
 ## A closer look at parental influence
 
 <<explaining and reading the graph to read the >>
+Below is a stylized presentation of the 12 parent styles that feed into the Belgian Dubbel. Each of the beer style nodes is colored according to the mean [SRM values](http://www.twobeerdudes.com/beer/srm) of the range possible, as provided by [CraftBeer.com](http://www.craftbeer.com/beer-styles). With 12 inputs it was a quick leap to considering a watch face as a representation type. Using the standard positions of hours on a clock, the highest scoring input is at the 12 o'clock position, the smallest at one o'clock. Thus, moving around the parents in either a clockwise or counterclock wise rotation will provide the reader a relative scale as to the PageRank of input styles.
   
 <img src="/gallery/2018/beer-prplxd/pr_links.png" alt="pagerank tipsy" align="middle" width="100%" /><br />
 <sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> 
