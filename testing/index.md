@@ -15,7 +15,7 @@ Next six:
 &#10004; ~~[hume](2017-10-13-on-the-hume-ility-of-beer-taste)~~
 
 
-* [pagerank](2018-01-19-beer-introductions-5)
+* [byrd](2018-02-05-byrd-on-a-wire.md)
 * [peaks](2017-11-24-here-is-peaking-at-brews)
 
 [post prep](post-prep)
