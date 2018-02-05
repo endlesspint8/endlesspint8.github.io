@@ -5,7 +5,7 @@ subtitle: A Ridiculous Scorecard, Just Another Day in the Life of a Boxing Fan
 header-img: "img/start.jpg"
 tags: ["boxing", ""]
 shortlink: 
-image: http://endlesspint.com/gallery/2017/gabf/gabf16_ci_impact.png
+image: http://endlesspint.com/gallery/2018/ggg-canelo1/hist.PNG
 sideof: 
 ---
 
