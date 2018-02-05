@@ -3,7 +3,7 @@ layout: post
 title: Byrd on a Wire
 subtitle: A Ridiculous Scorecard, Just Another Day in the Life of a Boxing Fan 
 header-img: "img/start.jpg"
-tags: ["", ""]
+tags: ["boxing", ""]
 shortlink: 
 image: http://endlesspint.com/gallery/2017/gabf/gabf16_ci_impact.png
 sideof: 
@@ -36,7 +36,7 @@ The methodology presented here relied on grabbing the fight scoring history of e
 
 ## Objective subjectivity
 
-Judges are only human and judging is a subjective act, but we have to start somewhere and using the scorecards of professionals is as good a place as any. If nothing else it will help raise issues, concerns, and objections to help spur more innovative ways of looking at the problem moving forward. Some of these avenues, in embryo, have been touched on before: punch stats and the wisdom of crowds (or is it the tyranny of the mob?). Even here we are dealing with elements of subjectivity. The input of [thousands of Twitter users](/2016-11-25-kovalev-ward-post-fight-data-analysis) is easy enough to point at, but can we all agree on what a thrown punch looks like versus a feint and where the latter crosses over into being counted as the former? Even landed punches get tricky when you have skilled defenders like Floyd Mayweather and James Tony slipping and rolling punches (something worth mentioning since it is a skill Canelo has been clearly working on and can be seen in fine display during some of the exchanges, especially on instant replay<sup id="a1">[1](#f1)</sup> ) 
+Judges are only human and judging is a subjective act, but we have to start somewhere and using the scorecards of professionals is as good a place as any. If nothing else it will help raise issues, concerns, and objections to help spur more innovative ways of looking at the problem moving forward. Some of these avenues, in embryo, have been touched on before: punch stats and the wisdom of crowds (or is it the tyranny of the mob?). Even here we are dealing with elements of subjectivity. The input of [thousands of Twitter users](/2016-11-25-kovalev-ward-post-fight-data-analysis) is easy enough to point at, but can we all agree on what a thrown punch looks like versus a feint and where the latter crosses over into being counted as the former? Even landed punches get tricky when you have skilled defenders like Floyd Mayweather and James Tony slipping and rolling punches (something worth mentioning since it is a skill Canelo has been clearly working on and can be seen in fine display during some of the exchanges, especially on instant replay<sup id="a1">[1](#f1)</sup> ).
 
 Punches thrown and connected also do not tell you outright about their impact. In the absence of an opponent's reaction, whether a knee buckle or fall to the canvas ([or both](https://youtu.be/mWDAEim6EcY)), we have to make our best estimate as to the damage dished out. This comes into play even with experienced judges, journalists, and viewers when assessing body shots. A fighter basically has to carry the reputation of being a good body puncher into the fight in order to get credit for the work from the opening bell onward and not rely on the spectators catching on midway through the fight.
 
@@ -78,14 +78,18 @@ A few things become noticeable and some bear repeating. Byrd is the only judge w
   
 These latter non-outlier, but still "off" scores, were plotted for context.
 
-The final visual representation of divergent scoring can be seen in the context of split decisions that did not result in a draw. In the absence of looking at each fight individually and checking news articles, blogs, and discussion boards to determine a consensus, we cannot say if a decision was "wrong", but when two judges lean one way and the third goes in the opposite direction we can suggest that they are on the "wrong" side of a decision. Sometimes even with the widest scorecard to boot!
+The final visual representation of divergent scoring can be seen in the context of split decisions that did not result in a draw. In the absence of looking at each fight individually and checking news articles, blogs, and discussion boards to determine a consensus, we cannot say if a decision was "wrong", but when two judges lean one way and the third goes in the opposite direction we can suggest that they are on the "wrong side" of a decision. Sometimes even with the widest scorecard to boot!
 
 <img src="/gallery/2018/ggg-canelo1/div_bars2.PNG" alt="div_bars2" align="middle" width="100%" /><br />
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a> 
+  
+What we see is more of the same, in the sense that Byrd has a large percentage of wide scorecards and "wrong side" of split decision cards. She is predictably unpredictable, you have to give her that.
 
 ## Ironically, it didn't matter
 
-Going into the fight there was [concern about Moretti](https://nypost.com/2017/09/16/one-judge-could-tip-scale-toward-alvarez-in-bout-vs-golovkin/), Byrd made the headlines, but Trella was the one who flubbed by giving round seven to Canelo. Had this round been flipped on his card we still would have had a terrible scorecard from Byrd but at least we would have had a definitive outcome, one that most appear to believe would have been correct, the judging would not have stolen the enthusiasm and attention to such an extent from a hard fought fight, and given the sport a chance to showcase its quality and not the sideshow. The great irony is that the terrible card is ultimately inconsequential to the result.
+Going into the fight there was [concern about Moretti](https://nypost.com/2017/09/16/one-judge-could-tip-scale-toward-alvarez-in-bout-vs-golovkin/), Byrd made the headlines, but Trella was the one who flubbed by giving round seven to Canelo. Had this round been flipped on his card we still would have had a terrible scorecard from Byrd but at least we would have had a definitive outcome, one that most appear to believe would have been correct, the judging would not have stolen the enthusiasm and attention to such an extent from a hard fought fight, and given the sport a chance to showcase its quality and not the sideshow. 
+
+The great irony is that the terrible card was ultimately inconsequential to the result. However, it did allow for an investigation that might prove worthwhile in rating the consistenty and class of a judge. These being just three examples it is too soon to say. 
 
 ## Still here (for now)
 
@@ -101,4 +105,4 @@ I remain interested in men's tennis because of witnessing possibly the greatest 
 
 <b id="f1">1</b>  Though that is not what I had in mind when I suggested technology be used to reevaluate the things that did happen. I would think it a step too far at this point to readjust scorecards in between rounds based on clarifications of whether or not punches were slipped. [↩](#a1) <br>
 <b id="f2">2</b> There will be occasional disagreement on scoring when there have been numerous knockdowns, either of one fighter or for both, see Pacquiao/Marquez I; there are also discrepancies as to how to score rounds without knock downs where a fighter completely outclasses his opponent but fails to put them down; as a result the median "card" was determined as the median score for fighter A and fighter B across the three judges. [↩](#a2) <br>
-<b id="f3">3</b> . [↩](#a3) <br> 
+
