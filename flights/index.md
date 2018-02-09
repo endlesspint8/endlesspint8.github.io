@@ -10,8 +10,8 @@ subtitle: aka Past Newsletters
 
 Under construction but no reason not to add the first couple of Mix Six:
 
-* _[Yeast & Hops are Wild](17_1/2017-01-11-MxSxFx001-yeast-and-hops-are-wild)_
-* _[Premiumisation or Peak](17_1/2017-01-25-MxSxFx002-premiumisation-or-peak)_
+* _[Yeast & Hops are Wild](2017-01-11-MxSxFx001-yeast-and-hops-are-wild)_
+* _[Premiumisation or Peak](2017-01-25-MxSxFx002-premiumisation-or-peak)_
 
 <br>
 
