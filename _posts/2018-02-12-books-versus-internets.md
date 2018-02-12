@@ -9,7 +9,7 @@ sideof:
 ---
 
 
-## How're you Spending Your Mind?
+## ... and how're you spending your mind?
 
 The ladies will have to enlighten or mislead us further regarding the things they talk about when [amongst themselves](https://youtu.be/tIrOGH3MUw0), I can at least speak to topics covered [in the company of men](http://www.imdb.com/title/tt0119361/). Naturally, camaraderie and enthusiasm will influence which subject is picked out at any one moment among sports, money, politics, women (and what the heck they are talking about in the bathroom together), tech and consumer goods, other friends and acquaintances, work, and entertainment. Under the final category fall movies, television/streaming shows, music, and the internet in general. Categories within categories that I doubt need unpacking. In many respects this covers a large amount of available subject matter. Missing from this wide net are far too often novels, interesting articles not having to do with celebrity nonsense, and anything of a higher level of interest. Let us set aside the more highfalutin considerations of culture and deal instead with the most, and at least still, democratic resource, the book.
 
