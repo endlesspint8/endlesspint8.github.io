@@ -16,6 +16,7 @@ Next six:
 
 
 * [tasty](2018-03-30-beer-tasting-notes)
+* [books/nets](2018-02-12-books-versus-internets)
 * [peaks](2017-11-24-here-is-peaking-at-brews)
 
 [post prep](post-prep)
