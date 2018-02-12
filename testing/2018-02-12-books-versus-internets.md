@@ -15,6 +15,9 @@ The ladies will have to enlighten or mislead us further regarding the things the
 
 The act of reading may be argued to have never been higher with the explosion of online content. However, the quality and saturation of this text is another matter. Reading cereal boxes and [Bazooka Joe comics](http://www.bazookajoecomics.com/) is not reading James Joyce. It is estimated that [the average American reads 12 books a year](http://www.pewinternet.org/2016/09/01/book-reading-2016-appendix-a/). As with many non-natural phenomena we find this to be more Peretto then Gaussian distribution, several percentiles of super readers and a long tail of people who hardly ever get through a title in the course of a year. A common complaint that I hear, used to both excuse and lament the inability to get around to the things that one wants to, is [being too busy](https://www.youtube.com/watch?v=WWyV_GaH7K0). It is a practical necessity to proclaim being too busy today, as if this validates our efforts and does not highlight a lack of control. 
 
+<img src="/gallery/2018/books-internets/pew_plt.png" alt="readin'" align="middle" width="100%" /><br />
+<sub>Data Source: <a href="http://libraries.pewinternet.org/2012/12/27/e-book-reading-jumps-print-book-reading-declines/" target="_blank">PEW (2012)</a>  <sup id="a1">[1](#f1)</sup> 
+
 We reflexively see busy as a badge of honor instead of as an indication of being victims of vicissitude. What many of us are too busy with, or _not sufficiently busy_ to keep away from, is social media. On average (again we can expect super users, or the super used) we see [daily usage of 30 minutes on Facebook alone](https://www.ted.com/talks/adam_alter_why_our_screens_make_us_less_happy#t-287047). For the less mathematically inclined that comes to 3 1/2 hours a week of checking timelines, posting status updates, and falling deeper into a rabbit hole of algorithm sorting and curated content whose ultimate purpose is to keep you on site as long as possible to serve you up another advertisement. This is an online twirl through a casino, where the longer you play the further the odds lean toward the “house“ and the likelier you end up a loser (no quotes necessary). The reference to gambling is no exaggeration ([Addiction by Design](https://press.princeton.edu/titles/9156.html)). The more we become enlightened by the techniques at use in retaining our attention (e.g. unpredictable payouts in the form of updates, likes, and posts) the clearer we see that we are rats in a large and profitable social experiment [Tristan Harris](http://www.tristanharris.com/essays/).  
 
 These practices cater to the sites’ goals while deteriorating our ability to concentrate This deterioration in focus is a serious obstacle to our ability to think clearly, deeply, and for extended periods. Additionally, the frantic pace that responsive content puts us in impacts adversely our down time, those precious moments when great ideas come together (think Eureka!). We are distracting ourselves to such an extent that [office workers now have the attention span of a goldfish](http://time.com/3858309/attention-spans-goldfish/). This is corrosive to our home, work, and recreational lives. All critical elements to a fulfilling existence, including, especially perhaps, [the last one](http://www.zpub.com/notes/idle.html).
@@ -34,3 +37,17 @@ Just for kicks we can imagine reclaiming all 3 1/2 hours a week from social medi
 
 The internets and socials are nonsensical, silly, irrelevant and, worse of all, distracting us from the fact that [we are all running out of time](http://lithub.com/how-many-books-will-you-read-before-you-die/). 
 
+
+---
+
+**Notes**
+
+<b id="f1">1</b>  PEW 2012:
+* Claims 6 as the median, but this is for those who read at least one book in previous 12 months.
+* When including, zero filling, the 25% of people who read no books the median gets pushed down to 4; this approach is “validated” by later [PEW reports (2016) where they quote the same median](http://www.pewinternet.org/2016/09/01/book-reading-2016-appendix-a/).
+* 14% read 21+ book.
+* The previously provided 2012 data was used to:
+  * Plot the numbers.
+  * Fit a line to get an idea of trend/distribution.
+  * Projected out for the 21+ books reading crowd.
+* The upper end, topping out at 43, is clearly too low but overall this is reasonable place to start from. [↩](#a1) <br>
