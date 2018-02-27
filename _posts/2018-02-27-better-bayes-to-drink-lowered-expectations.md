@@ -26,6 +26,9 @@ Reading the charts left to right and top to bottom, we see a very narrow and low
 
 A quick note on the updating of probabilities and assumptions relied on. We start out by front loading or giving the benefit of the doubt to any given brewery by setting the original proportions at 99.5 good beers to 0.5 bad beers. Again, these are beers from separate batches which is worth repeating since having a six pack provides only one data point, as does having beer from the same keg. Coming across an acceptable beer, by quality, while providing evidence does less so than coming across its opposite, given our assumption. Unless someone actually works in the quality department and has access to 100+ batches I see no reason to tally all of the acceptable beers. At the same time, to provide some lazy/naive regularization, each time a bad beer is counted we also increase the comparison set (denominator) by the same amount. 
 
+<img src="/gallery/2018/better-bayes/boxplots.png" alt="boxplots" align="middle" width="100%" /><br />
+
+The idealized probabilities in the first chart give us an idea of the direction our expectations are generally leaning towards, and increasingly so in some unfortunate situations. Often times we are blissfully unaware of quality issues and have other beer considerations on our mind (e.g., food pairings, style preferences). If we do have a threshold (say, one of out 20 beers being poor) for deciding to cut off a beer we could use a little more information. Directly above is a boxplot representation of what happens when drawing between two states (good beer / bad beer) using the updated probabilities. This graph underscores an intuition many of us would probably share, that evidence of bad beer suggests more bad beer. Given the potential spread and current cut off we could be forgiven for stopping after a third bad brew, perhaps even a second.
 
 ---
 
