@@ -16,7 +16,6 @@ Next six:
 
 
 * [tasty](2018-03-30-beer-tasting-notes)
-* [books/nets](2018-02-12-books-versus-internets)
 * [peaks](2017-11-24-here-is-peaking-at-brews)
 
 [post prep](post-prep)
@@ -28,6 +27,10 @@ Next six:
 * [make8bitart](https://make8bitart.com/)
 * [lunapic](https://www168.lunapic.com/editor/)
 
+
+<script src="https://gist.github.com/endlesspint8/0046fb81ae6085e83d5c868a64121ca5.js"></script>
+
+--- 
 
 <style type="text/css">
 <!--
