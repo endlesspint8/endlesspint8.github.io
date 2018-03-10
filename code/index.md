@@ -6,6 +6,22 @@ subtitle: Visualizations at a Glance with Code Samples
 
 <br>
 
+### [Keras Toe Dip](https://nbviewer.jupyter.org/url/endlesspint.com/code/lynda-building-deep-learning-apps/03_keras_sales_data.ipynb)
+> 
+> Notebooks for [Building Deep Learning Applications with Keras 2.0 (Lynda.com)](https://www.lynda.com/Google-TensorFlow-tutorials/Building-Deep-Learning-Applications-Keras-2-0/601801-2.html)<br>
+>
+> * [toy sales prediction](https://nbviewer.jupyter.org/url/endlesspint.com/code/lynda-building-deep-learning-apps/03_keras_sales_data.ipynb)
+> * [image recognition](https://nbviewer.jupyter.org/url/endlesspint.com/code/lynda-building-deep-learning-apps/05_keras_image_recognition.ipynb)
+> * [model logging](https://nbviewer.jupyter.org/url/endlesspint.com/code/lynda-building-deep-learning-apps/06_keras_model_logging.ipynb)
+> * [model visualize](https://nbviewer.jupyter.org/url/endlesspint.com/code/lynda-building-deep-learning-apps/06_keras_visualize.ipynb)
+> * [model export for API](https://nbviewer.jupyter.org/url/endlesspint.com/code/lynda-building-deep-learning-apps/07_keras_export_model.ipynb)
+
+<p align="center">
+  <img alt="Visualization of a TensorFlow graph" src="https://www.tensorflow.org/images/graph_vis_animation.gif" data-tooltip-align="b,c" data-tooltip="Visualization of a TensorFlow graph" aria-label="Visualization of a TensorFlow graph" data-title="Visualization of a TensorFlow graph" width="80%">
+  
+  <sub>Image Source: <a href="https://www.tensorflow.org/programmers_guide/graph_viz" target="_blank">TensorFlow</a></sub>
+</p> 
+
 ### [Data Guide for the Beer Perplexed V](/2018-01-19-beer-introductions-5)
 > 
 > PageRank and more [networkx graphs](beer_prplxd_V)<br>
