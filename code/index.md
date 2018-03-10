@@ -17,10 +17,9 @@ subtitle: Visualizations at a Glance with Code Samples
 > * [model export for API](https://nbviewer.jupyter.org/url/endlesspint.com/code/lynda-building-deep-learning-apps/07_keras_export_model.ipynb)
 
 <p align="center">
-  <img alt="Visualization of a TensorFlow graph" src="https://www.tensorflow.org/images/graph_vis_animation.gif" data-tooltip-align="b,c" data-tooltip="Visualization of a TensorFlow graph" aria-label="Visualization of a TensorFlow graph" data-title="Visualization of a TensorFlow graph" width="80%"><br>
-  
-  <sub>Image Source: <a href="https://www.tensorflow.org/programmers_guide/graph_viz" target="_blank">TensorFlow</a></sub>
+  <img alt="Visualization of a TensorFlow graph" src="https://www.tensorflow.org/images/graph_vis_animation.gif" data-tooltip-align="b,c" data-tooltip="Visualization of a TensorFlow graph" aria-label="Visualization of a TensorFlow graph" data-title="Visualization of a TensorFlow graph" width="80%">
 </p> 
+<sub>Image Source: <a href="https://www.tensorflow.org/programmers_guide/graph_viz" target="_blank">TensorFlow</a></sub>
 
 ### [Data Guide for the Beer Perplexed V](/2018-01-19-beer-introductions-5)
 > 
