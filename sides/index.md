@@ -8,7 +8,7 @@ subtitle: Extra Material
 <br><br>
 
 
-<h4 align="center" id="longIPA">Longest Beer Style Recommendations Path (w/IPA)</h4>
+<h4 align="center" id="longIPA">Second level beers into top PageRank style (grandparent sytles)</h4>
 
 **From**: _[Data Guide for the Beer Perplexed, Part V - PageRank and Networkx](/2018-01-19-beer-introductions-5)_
 
