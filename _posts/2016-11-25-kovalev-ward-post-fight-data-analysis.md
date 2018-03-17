@@ -2,7 +2,7 @@
 layout: post
 title: Still Razor Thin
 subtitle: Three Data Approaches to a Controversial Decision
-tags: ["KovalevWard", "dataviz"]
+tags: ["KovalevWard", "dataviz", "boxing"]
 shortlink: http://bit.ly/KovWrdep
 twitimg: pic.twitter.com/I4duoYZyjC
 image: http://endlesspint.com/gallery/2016/boxing/kov-ward/fight_hour_tweets2.PNG
