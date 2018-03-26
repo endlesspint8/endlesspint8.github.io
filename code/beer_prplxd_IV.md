@@ -1,7 +1,7 @@
 ---
 layout: page
 title: endlesspint
-subtitle: Data Guide for the Beer Perplexed, Part IV - Graphs and Paths
+subtitle: Data Guide for the Beer Perplexed, <a href="http://endlesspint.com/2017-09-08-beer-introductions-4/">Part IV - Graphs and Paths</a>
 ---
 
 ```python
