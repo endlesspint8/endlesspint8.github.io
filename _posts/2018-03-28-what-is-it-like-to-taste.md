@@ -4,7 +4,7 @@ title: What is it like to taste?
 subtitle: "just a flutter of a, like a, nutty Edam cheese..."
 tags: ["taste", ""]
 shortlink: 
-image: http://endlesspint.com/gallery/2017/gabf/gabf16_ci_impact.png
+image: http://endlesspint.com/gallery/2018/taste/Which tongue are you.jpg
 sideof: 
 ---
 
