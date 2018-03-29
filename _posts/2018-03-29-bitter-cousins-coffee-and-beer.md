@@ -36,7 +36,7 @@ Beyond the appreciation of taste and flavors we may also investigate the histori
 - "[F]our basic components … blend to create the perfect cup: aroma, body, acidity, and flavor. The aroma is familiar and obvious enough—that fragrance that often promises more than the taste delivers. Body refers to the feel or “weight” of the coffee in the mouth, how it rolls around the tongue and fills the throat on the way down. Acidity refers to a sparkle, a brightness, a tang that adds zest to the cup. Finally, flavor is the evanescent, subtle taste that explodes in the mouth, then lingers as a gustatory memory. (Pendergrast)" Sound familiar?
 - The predominant taste characteristic, bitter:
   - Bitterness in coffee comes from the pit of the cherry and it’s caffeine, for beer from the hops (European influence)
-  - Coffee gets only a small amount of its bitterness from the caffeine; most of it depends on how the beans are roasted and the method used for brewing it. [grind and water soaking/exposure] (Bitter)
+  - Coffee gets only a small amount of its bitterness from the caffeine; most of it depends on how the beans are roasted and the method used for brewing it. (McLagan)
 - Bitter, both an appetite stimulant and a digestive [think IPA].
 
 **Two basic varieties (an oversimplification)**
