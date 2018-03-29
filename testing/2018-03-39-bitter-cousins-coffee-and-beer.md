@@ -4,7 +4,7 @@ title: Bitter Cousins - Coffee
 subtitle: True bedfellows, one tucks you in and the other picks you up.
 tags: ["", ""]
 shortlink: 
-image: http://endlesspint.com/gallery/2017/gabf/gabf16_ci_impact.png
+image: http://endlesspint.com/gallery/2018/bitter-cousins-coffee/6563973109_ce30806b37_z.jpg
 sideof: 
 ---
 
@@ -16,6 +16,9 @@ Coffee and beer have several dozen similarities worth appreciating and they work
 Appreciating a fine cup of Joe requires many of the same considerations as enjoying a good pint of beer. From the appearance, to the feel, the smell, to the taste and resulting flavors, a quality cup of either leaves a ton to investigate and cherish.
 
 Among the things to cherish is the bitterness. Despite a natural aversion to this taste (many poisons are bitter) we have learned to seek it out as “we realize[d] that many bitter foods, like coffee, bitter alcohols, and chocolate, stimulate our nervous system in ways we enjoy, so we actively seek them out. Over time we have also discovered that many bitter foods contain compounds that can protect us against illness, and positively influence our health.” Moreover, bitterness affords as the opportunity to balance our meals, offsetting sweetness for instance, providing greater complexity to and appreciation for our food. (McLagan, J. (2014). Bitter: A Taste of the World's Most Dangerous Flavor, with Recipes [Kindle iOS version]. Retrieved from Amazon.com)
+
+<img src="/gallery/2018/bitter-cousins-coffee/28668439201_ed6286ed6d_z.jpg" alt="Coffee" align="middle" width="800" /><br />
+<sub>Data Source: <a href="https://www.flickr.com/photos/giulianfrisoni/" target="_blank">Giulian Frisoni</a></sub>
 
 Beyond the appreciation of taste and flavors we may also investigate the histories of these liquids, juxtapose them against one another, to get a better idea of their origins, creation, evolution, and ourselves. Certainly we stand to be enlightened about our society and species for better understanding how and why a seemingly insignificant cherry pit from the east coast of Africa came to span the globe and dominate the attentions of billions for the centuries. 
 
