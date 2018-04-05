@@ -1,5 +1,11 @@
-A toast to health[care reform] (*|ARCHIVE|*)
-“The easiest way to steal a man's wallet is to tell him you're going to steal his watch.” -Leigh Bardugoh
+---
+layout: post
+title: G.A.S.P. - Stacked Market Cooperation
+subtitle: A toast to health[care reform] 
+---
+
+
+> “The easiest way to steal a man's wallet is to tell him you're going to steal his watch.” -Leigh Bardugoh
 
 https://www.flickr.com/photos/pictures-of-money/
 
