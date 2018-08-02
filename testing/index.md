@@ -12,11 +12,9 @@ Next six:
 
 &#10004;  [A]()
 &#10004; [B]()
-&#10004; ~~[hume](2017-10-13-on-the-hume-ility-of-beer-taste)~~
 
-
-* [prplxdVI](2018-08-xx-beer-introductions-6.md)
-* [peaks](2017-11-24-here-is-peaking-at-brews)
+* [prplxdVI](2018-08-xx-beer-introductions-6)
+* [mle](2018-08-xx-mle)
 
 [post prep](post-prep)
 
