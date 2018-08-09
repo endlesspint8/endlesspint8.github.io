@@ -18,6 +18,10 @@ sideof: ["Second level beers", "http://eepurl.com/cj8urH", " into top PR style (
 
 <img src="/gallery/2018/beer-prplxd/half_map.png" alt="half map" align="middle" width="100%" /><br />
 <sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> 
+  
+
+<img src="/gallery/2018/beer-prplxd/half_map_rotate.png" alt="half map" align="middle" width="100%" /><br />
+<sub>Data Source: <a href="http://www.craftbeer.com/beer-styles" target="_blank">CraftBeer.com</a> 
 
 
 
