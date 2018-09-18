@@ -2,7 +2,7 @@
 layout: post
 title: Data Guide for the Beer Perplexed III
 subtitle: Part III - Beer Descriptors 
-tags: ["BertinMatrix", "D3"]
+tags: ["BertinMatrix", "D3", "perplexed"]
 shortlink: http://bit.ly/prplxd3
 twitimg: pic.twitter.com/nqGsQDvTWQ
 image: http://endlesspint.com/gallery/2017/beer-prplxd/wheel_spin.gif
