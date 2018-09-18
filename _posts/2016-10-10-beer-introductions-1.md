@@ -2,7 +2,7 @@
 layout: post
 title: Data Guide for the Beer Perplexed
 subtitle: Part I - Looking at Beer Style Connections 
-tags: ["D3", "BokehPlots", "link & node"]
+tags: ["D3", "BokehPlots", "link & node", "perplexed"]
 shortlink: http://bit.ly/prplxd1
 twitimg: pic.twitter.com/2bXhMn2QHD
 image: http://endlesspint.com/gallery/2016/beer-prplxd/link_node.gif
