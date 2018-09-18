@@ -2,7 +2,7 @@
 layout: post
 title: Data Guide for the Beer Perplexed V
 subtitle: Part V - PageRank 
-tags: ["pagerank", "NetworkX"]
+tags: ["pagerank", "NetworkX", "perplexed"]
 shortlink: 
 image: http://endlesspint.com/gallery/2018/beer-prplxd/pr_links.png
 sideof: ["Second level beers", "http://eepurl.com/cj8urH", " into top PR style (grandparent sytles)."]
