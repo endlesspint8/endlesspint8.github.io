@@ -2,7 +2,7 @@
 layout: post
 title: Data Guide for the Beer Perplexed IV
 subtitle: Part IV - Graphs and Paths 
-tags: ["longestpath", "NetworkX"]
+tags: ["longestpath", "NetworkX", "perplexed"]
 shortlink: 
 image: http://endlesspint.com/gallery/2017/beer-prplxd/longestPath28_NetworkX.PNG
 sideof: ["Longest path containing American style IPA", "http://eepurl.com/cj8urH", ", everyone's favorite."]
