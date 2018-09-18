@@ -2,7 +2,7 @@
 layout: post
 title: Data Guide for the Beer Perplexed VI
 subtitle: Part VI - Tangled Up in Brew Chords 
-tags: ["chord chart", "seaborn"]
+tags: ["chord chart", "seaborn", "perplexed"]
 shortlink: 
 image: http://endlesspint.com/gallery/2018/beer-prplxd/pr_links.png
 sideof: ["Second level beers", "http://eepurl.com/cj8urH", " into top PR style (grandparent sytles)."]
@@ -10,7 +10,7 @@ sideof: ["Second level beers", "http://eepurl.com/cj8urH", " into top PR style (
 
 ## More Data, More Problems
 
-Beer, like any worthwhile topic, may be approached from various angles and on different levels. In this series [link to tag] we have focused on individual beer styles, looking at their characteristics and how they relate to each other. We reviewed the recommendation from one style to another and divized different approaches for making sense of this: link & node (link), longest path (link), and PageRank (link). In our current piece we are going to step back and look at the style categories, cutting down on the nearly 80 styles to just over a dozen elements, lessening the cognitive load and allowing us to appreciate the landscape at a different scale. 
+Beer, like any worthwhile topic, may be approached from various angles and on different levels. In [this series](/tag/perplexed) we have focused on individual beer styles, looking at their characteristics and how they relate to each other. We reviewed the recommendation from one style to another and divized different approaches for making sense of this: link & node (link), longest path (link), and PageRank (link). In our current piece we are going to step back and look at the style categories, cutting down on the nearly 80 styles to just over a dozen elements, lessening the cognitive load and allowing us to appreciate the landscape at a different scale. 
 
 These families of beer styles have been with us all throughout our journey. In the beginning we used them to determine summary characteristics for ABV, IBU, and SRM (link), and later we leveraged this grouping when creating the (Les Mis) grid (link). While the recommendations were somewhat scant in the latter instance we made the vis more robust by coloring like-category beers in the grid and encouraging exploration within categories, in addition to the direct recommendations supplied in the data (data is not always complete to our needs, sometimes it is overly complete; a theme to return to). Lastly, even when the categories were not called out explicitly, the use of color coding was used to (when possible) identify beer styles of the same family (link). A gentle reminder of connections inherent in beers. 
 
