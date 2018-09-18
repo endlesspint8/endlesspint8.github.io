@@ -2,7 +2,7 @@
 layout: post
 title: Data Guide for the Beer Perplexed II
 subtitle: Part II - Beer Category Dimensions 
-tags: ["RShiny", "datavis"]
+tags: ["RShiny", "datavis", "perplexed"]
 shortlink: http://bit.ly/prplxd2
 twitimg: pic.twitter.com/NKltUlWk71
 image: http://endlesspint.com/gallery/2016/beer-prplxd/beer_prplxd2.gif
