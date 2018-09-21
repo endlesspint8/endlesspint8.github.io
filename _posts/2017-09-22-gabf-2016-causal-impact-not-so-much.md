@@ -2,7 +2,7 @@
 layout: post
 title: Causal Impact, Not so Much
 subtitle: GABF Medals Bolster Reputations NOT Search Interest
-tags: ["GABF", "CausalImpact"]
+tags: ["GABF", "CausalImpact", "festivals"]
 shortlink: http://bit.ly/gabf16_ci
 twitimg: pic.twitter.com/OQyawnhM9b
 image: http://endlesspint.com/gallery/2017/gabf/gabf16_ci_impact.png
