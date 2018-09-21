@@ -24,7 +24,7 @@ However, to insure promptness and the continued flow of posts click the pint log
 - [boxing](/tag/boxing)
 - [nyc](/tag/nyc)
 - [perplexed](/tag/perplexed)
-- [technoclast](/tag/perplexed)
+- [technoclast](/tag/technoclast)
 
 --- 
 
