@@ -20,11 +20,11 @@ However, to insure promptness and the continued flow of posts click the pint log
 
 **Pints by topic**
 
-[books](/tag/books)
-[boxing](/tag/boxing)
-[nyc]()
-[perplexed]()
-[technoclast]()
+- [books](/tag/books)
+- [boxing](/tag/boxing)
+- [nyc](/tag/nyc)
+- [perplexed](/tag/perplexed)
+- [technoclast](/tag/perplexed)
 
 --- 
 
