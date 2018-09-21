@@ -2,7 +2,7 @@
 layout: post
 title: May I advise against the lady eating the clam chowder?
 subtitle: The Cleanliness of NYC Craft Beer Bar Kitchens
-tags: ["HealthInspection", "OpenData", "311", "NYC"]
+tags: ["HealthInspection", "OpenData", "311", "nyc"]
 shortlink: http://bit.ly/2hgUhFU
 twitimg: pic.twitter.com/Jt994Wfm9p
 image: http://endlesspint.com/gallery/2016/health-insp/grade_timeline.png
