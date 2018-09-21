@@ -21,14 +21,15 @@ However, to insure promptness and the continued flow of posts click the pint log
 **Pints by topic**
 
 - bayes
-- complexity
+- [bitter](/tag/bitter)
 - [books](/tag/books)
 - [boxing](/tag/boxing)
-- festivals
+- complexity
+- [festivals](/tag/festivals)
 - heuristics
 - [nyc](/tag/nyc)
 - [perplexed](/tag/perplexed)
-- phenomenology (of taste)
+- [phenomenology (of taste)](/tag/taste)
 - [technoclast](/tag/technoclast)
 
 --- 
