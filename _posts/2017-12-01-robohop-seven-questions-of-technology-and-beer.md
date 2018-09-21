@@ -2,7 +2,7 @@
 layout: post
 title: RoboHop - Brewing the Perfect Pint
 subtitle: Seven Questions Regarding AI & Beer
-tags: ["AI", ""]
+tags: ["AI", "technoclast"]
 shortlink: 
 image: http://endlesspint.com/gallery/2017/abi/bloomberg_abi.png
 sideof: 
