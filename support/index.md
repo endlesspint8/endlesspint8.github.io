@@ -18,6 +18,14 @@ However, to insure promptness and the continued flow of posts click the pint log
 <br>
 <br>
 
+**Pints by topic**
+
+[books](/tag/books)
+[boxing](/tag/boxing)
+[nyc]()
+[perplexed]()
+[technoclast]()
+
 --- 
 
 <sub>made at [make8bitart](https://make8bitart.com/)</sub>
