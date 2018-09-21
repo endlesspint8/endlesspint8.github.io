@@ -20,10 +20,15 @@ However, to insure promptness and the continued flow of posts click the pint log
 
 **Pints by topic**
 
+- bayes
+- complexity
 - [books](/tag/books)
 - [boxing](/tag/boxing)
+- festivals
+- heuristics
 - [nyc](/tag/nyc)
 - [perplexed](/tag/perplexed)
+- phenomenology (of taste)
 - [technoclast](/tag/technoclast)
 
 --- 
