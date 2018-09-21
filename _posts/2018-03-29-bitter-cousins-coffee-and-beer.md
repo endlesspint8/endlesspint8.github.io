@@ -2,7 +2,7 @@
 layout: post
 title: Bitter Cousins - Coffee
 subtitle: True bedfellows, one tucks you in and the other picks you up.
-tags: ["bitter-cousins", "coffee"]
+tags: ["bitter-cousins", "coffee", "bitter"]
 shortlink: 
 image: http://endlesspint.com/gallery/2018/bitter-cousins-coffee/6563973109_ce30806b37_z.jpg
 sideof: 
