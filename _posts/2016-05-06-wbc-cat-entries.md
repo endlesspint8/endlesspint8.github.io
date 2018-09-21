@@ -2,7 +2,7 @@
 layout: post
 title: It's pronounced thermometer
 subtitle: Using WBC Entry Counts as an Industry <a href="https://www.youtube.com/watch?v=dufWU0T0ovY" target="_blank">Barometer</a>
-tags: ["seaborn", "heatmap", "dataviz"] 
+tags: ["seaborn", "heatmap", "dataviz", "festivals"] 
 shortlink: http://bit.ly/wbc_heatmap
 twitimg: pic.twitter.com/IsyxsetCQo
 image: http://endlesspint.com/gallery/2016/wbc_points_entries_standbys.png
