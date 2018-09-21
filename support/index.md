@@ -26,6 +26,7 @@ However, to insure promptness and the continued flow of posts click the pint log
 - [boxing](/tag/boxing)
 - complexity
 - [festivals](/tag/festivals)
+- game theory
 - heuristics
 - [nyc](/tag/nyc)
 - [perplexed](/tag/perplexed)
