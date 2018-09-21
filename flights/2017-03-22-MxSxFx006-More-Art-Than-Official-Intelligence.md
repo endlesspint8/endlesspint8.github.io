@@ -1,3 +1,14 @@
+---
+layout: post
+title: More Art Than Official Intelligence
+subtitle: Tech bubble, pop, & fizz...
+tags: ["AI", "technoclast"]
+shortlink: 
+image: http://endlesspint.com/gallery/2017/abi/bloomberg_abi.png
+sideof: 
+---
+
+
 Tech bubble, pop, & fizz... (*|ARCHIVE|*)
 https://commons.wikimedia.org/wiki/Robot#/media/File:Robot_DJ.jpg
 By Beaver, Brian (http://www.flickr.com/photos/bitboy/1398128600/in/photostream, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=4258560)
