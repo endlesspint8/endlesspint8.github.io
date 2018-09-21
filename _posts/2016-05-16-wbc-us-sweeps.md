@@ -2,7 +2,7 @@
 layout: post
 title: Just when I thought I was out
 subtitle: US Medal Dominance - Some How's & Hints of Why's 
-tags: ["beercompetition", "heatmap", "dataviz"]
+tags: ["beercompetition", "heatmap", "dataviz", "festivals"]
 shortlink: http://bit.ly/us_sweeps
 twitimg: pic.twitter.com/yYe9mnyX0f
 image: http://endlesspint.com/gallery/2016/wbc_heatmap_us_medals2_white.png
