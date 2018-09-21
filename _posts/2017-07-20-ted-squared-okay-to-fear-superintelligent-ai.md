@@ -2,7 +2,7 @@
 layout: post
 title: TED<sup>2</sup> - It's okay to start freaking out about AI, like yesterday
 subtitle: Keyser Söze Derails a Constructed Debate Around AI & Makes Things Emotional
-tags: ["superintelligence", "BuggingOut"]
+tags: ["superintelligence", "BuggingOut", "technoclast"]
 shortlink: 
 twitimg: 
 image: http://endlesspint.com/gallery/2017/ai_fears/kobayashi-mug-from-the-usual-suspects-1814[1].jpg
