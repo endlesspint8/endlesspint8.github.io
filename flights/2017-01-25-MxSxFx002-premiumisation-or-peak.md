@@ -13,10 +13,13 @@ Let's take a quick tour of other regions of the world, while ignoring the US & E
 
 * * *
 
-http://www.bbc.com/news/business-37016124
-
-
-** Photo/Video: BBC
+<p align="center">
+  <a href="http://www.bbc.com/news/business-37016124" target="_blank">
+    <img alt="Blowing in the Wind" src="/flights/imgs/17-1/ba7aa8c3-7b82-46f3-b895-55bffe674217.jpg"><br><br>
+  </a>
+  <sup>Photo/Video: BBC</sup>
+  <br>
+</p>
 
 
 If this is turning into a habit perhaps it isn’t such a bad tradition to have. Why not kick off these issues with a video? At least videos such as these (http://www.bbc.com/news/business-37016124)  [1], quick, succinct, and easy to digest. This time around we are taken to Australia to take a peek at the influence of the booming craft beer industry. The video is smartly divided into hop farm, brewery, and bar. The sections are titled ‘The Pick’, ‘The Brew’, and ‘The Pour’, respectively. In each section we are introduced to an establishment through one of their representatives.
@@ -33,7 +36,12 @@ The styles vary greatly as witnessed by the entrants to the Copa Cervezas de Ame
 
 * * *
 
-For our next region we hop (pun!) back across the Pacific. China is a land of two nations when comparing the developed eastern coastal provinces, the places you find cities like Shanghai, Beijing and Guangzhou, against the western part that is still catching up. This contrast goes for beer as well. The coast is imbued with technology, urbanization, and a large millennial set who look to consume in similar ways to their counterparts in other parts of the world.
+<p align="center">
+  <img alt="" src="/flights/imgs/17-1/ebd32573-6901-417c-8f0c-71984139bd7d.jpg"><br><br>
+  <br>
+</p>
+
+**For our next** region we hop (pun!) back across the Pacific. China is a land of two nations when comparing the developed eastern coastal provinces, the places you find cities like Shanghai, Beijing and Guangzhou, against the western part that is still catching up. This contrast goes for beer as well. The coast is imbued with technology, urbanization, and a large millennial set who look to consume in similar ways to their counterparts in other parts of the world.
 
 China consumes more than the global average and is the number one beer market in the world by total volume, surpassing, as it does in so many areas these days, the United States. Similar to other developed beer markets the overall market is stagnating, while the trajectory of the western provinces reflects more of the emerging markets story line (we’ll get to that below).
 
@@ -45,7 +53,7 @@ As in South America, opportunities do not come without challenges. Rabobank sign
 
 * * *
 
-From the Dragon to the Tiger. The latter is apparently a pussycat when it comes to alcohol consumption. India tipples at just 4.6L/year about one-eighth of what her Asian counterparts are doing in China. In one sense this means there is huge potential in the subcontinent but one would do well to pause and consider the reasons for the current position. These are various and stem from cultural and governmental, as well as religious and economic, influences. An intertwining of the first pair is present in the Gandhi inspired constitution itself that carries undertones of teetotalism. This influence extends to the current date where five states have banned out right the sale of alcohol, though no word if informal brewing/distilling practices are allowed.
+**From the Dragon** to the Tiger. The latter is apparently a pussycat when it comes to alcohol consumption. India tipples at just 4.6L/year about one-eighth of what her Asian counterparts are doing in China. In one sense this means there is huge potential in the subcontinent but one would do well to pause and consider the reasons for the current position. These are various and stem from cultural and governmental, as well as religious and economic, influences. An intertwining of the first pair is present in the Gandhi inspired constitution itself that carries undertones of teetotalism. This influence extends to the current date where five states have banned out right the sale of alcohol, though no word if informal brewing/distilling practices are allowed.
 
 Three of the four key influences have a dampening effect (on my buzz) but the fourth, economics, provides the counterbalancing wave that is driving the change and growth anticipated (https://www.bloomberg.com/news/articles/2017-01-06/india-s-beer-market-to-fizz-thanks-to-youth-culture-change-bmi)  [4]. Rising incomes and continued urbanization are moving people both literally and figuratively away from the social mores that have a double edged, and somewhat contradictory, oppressive influence on beer: alcohol consumption is looked down upon, but most who do consume go the cheaper liquor route.
 
@@ -55,7 +63,12 @@ What's propelling this growth? The youngins and their respective incomes, changi
 
 * * *
 
-By Governo USA - (Original text: ''Documento di pubblico dominio ("Strategic Significance of America s Oil Shale Resource Volume I Assessment of Strategic Issues"): si legga qui (http://www.fossil.energy.gov/programs/reserves/npr/publications/npr_strategic_significancev1.pdf) . Per maggiori dettagli, si veda pure qui (https://it.wikipedia.org/wiki/en:Image:Hubbert_world_2004.png) .), Public Domain, Link (https://commons.wikimedia.org/w/index.php?curid=18123347)
+<p align="center">
+  <img alt="" src="/flights/imgs/17-1/e5611f00-bae5-4fef-a752-d513d7423a46.png"><br><br>
+  <sup>By Governo USA - (Original text: ''Documento di pubblico dominio ("Strategic Significance of America s Oil Shale Resource Volume I Assessment of Strategic Issues"): si legga qui (http://www.fossil.energy.gov/programs/reserves/npr/publications/npr_strategic_significancev1.pdf) . Per maggiori dettagli, si veda pure qui (https://it.wikipedia.org/wiki/en:Image:Hubbert_world_2004.png) .), Public Domain, Link (https://commons.wikimedia.org/w/index.php?curid=18123347)</sup>
+  <br>
+</p>
+
 We are going to bring this edition to a close by rounding up our tour by looking at emerging markets, generally and superficially, and Africa in particular. Both of the inputs into this section come from BMI Research and while the work is 3-4 years old it remains insightful for trends and industry motivations.
 
 Looking to western Africa, specifically Nigeria, helps show where growth for the Big Boys will come from. Though per capita consumption is barely predicted to rise (10L to 11L) for the time-frame studied (2013-18) sales are expected to jump nearly 60% (2.8 billion 4.8 billion) in those five years due to premiumisation (http://www.bmiresearch.com/articles/beer-growth-in-nigeria-to-be-driven-by-premiumisation)  [5].
@@ -77,14 +90,27 @@ Much of this is covered in detail on a podcast (http://www.bmiresearch.com/blog/
 The buyout of craft breweries is not a matter of knocking off competitors, a premise that is laughable based on revenue, or an example of acquiring shiny new toys. Instead, these purchases are a hedge against an overall declining or flat market, especially in the established regions of the US and Europe. Mind you this is not just a bet made by the Big Boys. Others see the trends and are diversifying their revenue streams: Sam Adams sells more than just beer, Brew Dog has pubs around the world, and a ton of US breweries make a substantial chunk of change from "own-premise (http://goodbeerhunting.com/blog/2016/10/2/i-want-you-to-want-me-examining-the-own-premise-revolution) " sales made directly at the source.
 
 This is business folks and despite the warm and cuddly feeling we get as consumers from rubbing shoulders with the craft beer industry, no one is doing this simply out of the goodness of their hearts.
-Are you in the buggy whip business or the transportation business?
+
+<p align="center">
+  <img alt="" src="/flights/imgs/17-1/6887495b-411c-497f-955f-26647a6b68cc.png"><br><br>
+  <sup>Are you in the buggy whip business or the transportation business?</sup>
+  <br>
+</p>
 
 
-Notes
+---
 
-[1] "Craft beer craze drives demand for hops in Australia" BBC., 9 Aug 2016. Web video. 13 Jan 2017.
-[2] Long, Gideon. "Craft beer revolution trickles down to South America" BBC., 14 Oct 2016. Web. 12 Jan 2017.
-[3] Whitehead, RJ. "Craft brews should stand out in China’s stagnating beer market" Beverage Daily. William Reed Business Media Ltd., 3 Jan 2017. Web. 11 Jan 2017.
-[4] Davies, Will. "India’s Days as a Beer-Drinking Lightweight May Soon Be Over" Bloomberg. Bloomberg LP., 6 Jan 2017. Web. 6 Jan 2017.
-[5] "Beer Growth in Nigeria To Be Driven By Premiumisation" BMI Research. Business Monitor International a Fitch Group Company., 12 September 2014. Web. 13 Jan 2017.
-[6] Chande & Ashbourne. "The Future Of Beer In Emerging Markets"    BMI Research. Business Monitor International a Fitch Group Company., 31 May 2013. Audio podcast. 13 Jan 2017.
+**Notes**
+
+> [1] "Craft beer craze drives demand for hops in Australia" BBC., 9 Aug 2016. Web video. 13 Jan 2017.
+>
+> [2] Long, Gideon. "Craft beer revolution trickles down to South America" BBC., 14 Oct 2016. Web. 12 Jan 2017.
+>
+> [3] Whitehead, RJ. "Craft brews should stand out in China’s stagnating beer market" Beverage Daily. William Reed Business Media Ltd., 3 Jan 2017. Web. 11 Jan 2017.
+>
+> [4] Davies, Will. "India’s Days as a Beer-Drinking Lightweight May Soon Be Over" Bloomberg. Bloomberg LP., 6 Jan 2017. Web. 6 Jan 2017.
+>
+> [5] "Beer Growth in Nigeria To Be Driven By Premiumisation" BMI Research. Business Monitor International a Fitch Group Company., 12 September 2014. Web. 13 Jan 2017.
+>
+> [6] Chande & Ashbourne. "The Future Of Beer In Emerging Markets"    BMI Research. Business Monitor International a Fitch Group Company., 31 May 2013. Audio podcast. 13 Jan 2017.
+>
