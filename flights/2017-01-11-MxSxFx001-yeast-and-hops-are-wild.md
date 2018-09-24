@@ -12,7 +12,7 @@ Perkins puts it, there are a couple of differences required to the modern day co
 
 <p align="center">
   <a href="http://on.wsj.com/2huYjbj" target="_blank">
-    <img alt="Blowing in the Wind" src="/flights/17_1/images-MxSxFx001/image1.png"><br><br>
+    <img alt="Blowing in the Wind" src="/flights/imgs/17-1/8b52af14-5e56-4e11-8c75-5d8d2b52720b.png"><br><br>
   </a>
   <sup>Photo/Video: Jeff Bush (WSJ)</sup>
   <br>
@@ -40,7 +40,7 @@ As previously hinted at this leads to less predictable brewing outcomes and time
 Beer has been so effectively turned into an industrial product by the big boys with their wondrous and impressive modern toys, routinely turning out the same consistent product ([Wonder Bread](https://www.wonderbread.com/), ahem), that we may be forgiven for forgetting that beer creation was originally a mysterious product thought to incorporate a magical process provided to us [by the gods](http://www.ancient.eu/article/223/). Even our recent ancestors were not aware of the existence of yeast, evidenced by its absence from the original German [Reinheitsgebot](https://en.wikipedia.org/wiki/Reinheitsgebot).
 
 <p align="center">
-  <img alt="" src="/flights/17_1/images-MxSxFx001/image3.jpg"><br><br>
+  <img alt="" src="/flights/imgs/17-1/5b24a7f8-0784-433b-bc23-44355f7b8c18.jpg"><br><br>
   <sup>By Deutsche Bundespost - scanned by <a href="https://commons.wikimedia.org/wiki/User:NobbiP">NobbiP</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=11244954">Link</a></sup>
   <br>
 </p>
@@ -66,7 +66,7 @@ Two gem observations are the <font color="#FF8C00"><strong>"the feedback loop of
 A December [Fortune article](http://fortune.com/2016/12/10/america-record-number-breweries/) **[5]** helps put this number into perspective, both historically and contemporarily with other nations. As recently as the 80’s (I don't know, is that recent?), following decades of consolidation, there were fewer than 100 breweries. That number was quickly surpassed due to a number of reasons [I've written about before](http://endlesspint.com/2016-04-01-continue/), having to do primarily with home brewing legislation and a consumer trend away from mass produced food stuffs (I'm looking at you again, Wonder Bread).
 
 <p align="center">
-  <img alt="" src="/flights/17_1/images-MxSxFx001/image2.png"><br><br>
+  <img alt="" src="/flights/imgs/17-1/a516f894-2c9d-4905-93d9-4a389421d509.png"><br><br>
   <sup>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=16895471">Link</a></sup>
   <br>
 </p>
@@ -84,7 +84,7 @@ Peak Beer aside, and I'm undecided but leaning toward believing it, [shower beer
 **The high number** of breweries directly feeds into one of the biggest and final beer stories of 2016: the price of hops. In what is <font color="#FF8C00"><strong>the highest valuation in history</strong></font>, both in absolute and relative terms, we see US hops total nearly half a billion dollars.
 
 <p align="center">
-  <img alt="" src="/flights/17_1/images-MxSxFx001/image5.png">
+  <img alt="" src="/flights/imgs/17-1/9a6e8af0-8b3f-47f2-a2ae-7b131f363cc6.png">
   <br>
 </p>
 
@@ -95,7 +95,7 @@ The article does more than a little hinting at <font color="#FF8C00"><strong>pea
 Growing but slowing, as I previously said. Additionally, the article alludes to the observation that in "certain US cities, especially on the West Coast, ... craft beer consumption has reached almost 50 per cent of the market.” This last point I find especially noteworthy as craft beer is often times a higher priced option than standard lagers and substitute alcohols (per/ABV). Cities are where you find higher incomes. Higher rents too. As discretionary spending [stagnates or falls](https://www.bea.gov/iTable/iTable.cfm?reqid=9&step=1&acrdn=2#reqid=9&step=3&isuri=1&903=58), <font color="#FF8C00"><strong>what then</strong></font>?
 
 <p align="center">
-  <img alt="" src="/flights/17_1/images-MxSxFx001/image4.png"><br><br>
+  <img alt="" src="/flights/imgs/17-1/14bfcbfe-0d42-4632-b975-ed36efc26e4f.png"><br><br>
   <sup>By Exact source unknown, image likely pulled from existing image on web (Google image search for "fonzie shark jump" shows many
   duplicates of same image), <a href="https://en.wikipedia.org/wiki/File:Fonzie_jumps_the_shark.PNG">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=2840084">Link</a></sup>
   <br>
