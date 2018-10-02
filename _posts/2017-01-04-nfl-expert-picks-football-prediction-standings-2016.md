@@ -2,7 +2,7 @@
 layout: post
 title: Experts? Pfff, ... a season long digression
 subtitle: We'll Put Their Name to the <a href="https://www.youtube.com/watch?v=sByxTCQU8Rc" target="_blank">Test</a>
-tags: ["dataviz", "nflpicks"]
+tags: ["dataviz", "nflpicks", "digressions"]
 shortlink: http://bit.ly/2dLdFb6
 twitimg: pic.twitter.com/nTFzCRSFT8
 image: http://endlesspint.com/gallery/2016/football-picks/wk08_10k_sim_FOX.gif
