@@ -2,19 +2,18 @@
 layout: post
 title: Yelpful Enough
 subtitle: Appropriation not Always Appropriate
-tags: ["chord chart", "seaborn", "nyc"]
+tags: ["mle", "seaborn", "nyc"]
 shortlink: 
-image: http://endlesspint.com/gallery/2018/beer-prplxd/pr_links.png
-sideof: ["Second level beers", "http://eepurl.com/cj8urH", " into top PR style (grandparent sytles)."]
+image: http://endlesspint.com/gallery/2018/bar-hoppin/ratings mle stars.png
+sideof: 
+
 ---
 
 ## More Data, More Problems
 
-mle --> the new mle, satisficing probability evaluation
+With the cold weather behind us it is time to return to walking and claiming the city more fully.<sup id="a1">[1](#f1)</sup>  Even in traveling by subway, taxi, or bike we have more daylight and warm weather than in recent months, both encouraging us to stay out a bit (longer) between work and home. In a couple of months it will be hot enough to frequent rooftop bars, a few months further still we will once again be sliding into another frigid winter. The time is now to enjoy and appreciate our out-of-doors opportunities. Now, if those out-of-doors excursions should lead us to an indoor establishment for a delicious beer, in order to refresh and quench some thirst before proceeding further of course, so be it. However, our time is precious, the daylight is wasting away, even as we have more of it, so if we are going to be cooped up it might as well be at a worthwhile establishment. As with most things craft related, beer included, if you are gonna be consuming something make it worth the effort.
 
-With the cold weather behind us it is time to return to walking and claiming the city more fully. Even in traveling by subway, taxi, or bike we have more daylight and warm weather than in recent months, each encouraging us to stay out a bit (longer) between work and home. In a couple of months it will be hot enough to frequent rooftop bars, a few months further still we will once again be sliding into another frigid winter. The time is now to enjoy and appreciate our out-of-doors opportunities. Now, if those out-of-doors excursions should lead you to an indoor establishment for a delicious beer, in order to refresh and quench some thirst before proceeding further of course, so be it. However, our time is precious, the daylight is wasting away, even as we have more of it, so if we are going to be cooped up it might as well be at a worthwhile establishment. As with most things craft related, beer included, if you are gonna be consuming something make it worth the effort.
-
-The city has a ton of options and this cuts both ways with respect to knowing and enjoying what we do. With too many choices we can actually experience less well being and so it makes sense to prioritize, better filter, the candidates. At the same time, and this will come across as increasingly ironic when the method is discussed, we do not need to make a crazy study of the subject. What follows is a comparison of very good bars, they already clear the threshold of quality beers and tick off several other relevant criteria related to location and atmosphere. As such, you would best be served walking into whichever was right across the street from you in a city as dense as NYC. Additionally, with the continually rotating taps, bottles, seasonal menu items, clientele, staff, the aforementioned weather, and your given mood and financial outlook on any particular day the preferences are liable to resort themselves. This is all to say that as a satisficing exercise you can do far worse than closing your eyes and picking one of these at random.  [Maximizing v Satisficing] 
+The city has a ton of options and this cuts both ways with respect to knowing and enjoying what to do. With too many choices we can actually experience less well being and so it makes sense to prioritize, better filter, the candidates. At the same time, and this will come across as ironic when the method is discussed, [we do not need to make a crazy study of the subject](https://www.psychologytoday.com/us/blog/science-choice/201506/satisficing-vs-maximizing). What follows is a comparison of very good bars, they already clear the threshold of quality beers and tick off several other relevant criteria related to location and atmosphere. As such, you would be best served walking into whichever was right across the street from you in a city as dense as NYC. Additionally, with the continually rotating taps, bottles, seasonal menu items, clientele, staff, the aforementioned weather, and your given mood and financial outlook on any particular day the preferences are liable to resort themselves. This is all to say that as a [satisficing](https://en.wikipedia.org/wiki/Satisficing) exercise you can do far worse than closing your eyes and picking one of these at random.
 
 At the same time we are human and we love to compare, contrast, and complain. To that end we turn to fellow urban explorers to help enlighten us on our options, but rather than simply looking at ratings of places in isolation we will compare the relative worth of specific bars against one another. In order to do a cross-watering hole-comparison we will identify patrons with multiple bar reviews. This will allow us to use their ratings as a form of vote from which to generate a general preference scheme. With several hundred/thousand ratings across a a few dozen beer halls we can extract individual leanings and match them with others to get a general predisposition on where to grab a pint. 
 
@@ -46,6 +45,12 @@ The MLE approach helps highlight some of the limitations and assumptions made of
 
 With respect to the “voting” mechanism of determining the general predisposition of one bar over another we will have at least two counting approaches: electoral and popular. Much like the US voting system we may expect slightly different results, e.g., two bars head-to-head may show a slight preference toward one, however, it is possible that the “winning” bar wins all of its comparisons by close margins (5 stars to 4) while having a wider disparity on the votes cast against it (3 stars versus 5). Given a close enough “race” the bars with the most user preferences may end up with the fewer stars between the two. This is just one example of how we make decisions about using data. [FN: This doesn't even scratch the surface of time windows: should votes from several years back count as much as those from last week?]
 
+
+---
+
+**Notes**
+
+<b id="f1">1</b> Regardless of when this is read it seems worth mentioning, given the posting date, that this piece was initially meant to run in the May/June timeframe.  Hence the warm weather themes.  [↩](#a1) <br>
 
 [FN: Naturally focusing on a specific data set means filtering out others and you risk ending up with too few data, even while it retains a more appropriate scope. For starters, any bar pair combo with only one common reviewer between them will skew the preferences have a leak in the direction of the preferred bar. That is the case in a voter-take-all face off. Regularising the vote tally so that each bar combo in the matrix starts out with a small vote would at least dampen 100% versus 0% comparisons.]
 
