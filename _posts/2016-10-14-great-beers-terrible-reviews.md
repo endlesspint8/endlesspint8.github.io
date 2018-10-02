@@ -2,7 +2,7 @@
 layout: post
 title: Then there is no pleasing you
 subtitle: Ten Great Beers get <a href="https://youtu.be/IcjSDZNbOs0" target="_blank">Bizzaro</a> Appreciation
-tags: ["BeerReviews", "NotImpressed"]
+tags: ["BeerReviews", "NotImpressed", "digressions"]
 shortlink: http://bit.ly/2ecdAgk
 twitimg: pic.twitter.com/d5q3dwTmzE
 image: http://endlesspint.com/gallery/2016/poor-reviews/output_003.gif
