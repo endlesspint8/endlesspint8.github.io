@@ -2,7 +2,7 @@
 layout: post
 title: Tippling with Randomness
 subtitle: Flip ya, flip ya for real. 
-tags: ["", ""]
+tags: ["digressions", ""]
 shortlink: 
 twitimg: 
 image: http://endlesspint.com/gallery/2017/rando/2281872533_22363cedcd_z.jpg
