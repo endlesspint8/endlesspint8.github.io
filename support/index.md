@@ -26,9 +26,11 @@ However, to insure promptness and the continued flow of posts click the pint log
 - [boxing](/tag/boxing)
 - complexity
 - [data guide for beer perplexed](/tag/perplexed)
+- [digressions](/tag/digressions)
 - [festivals](/tag/festivals)
 - game theory
 - heuristics
+- [mapping](/tag/mapping)
 - [nyc](/tag/nyc)
 - [phenomenology (of taste, mostly)](/tag/taste)
 - [technoclast](/tag/technoclast)
