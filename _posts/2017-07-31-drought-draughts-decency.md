@@ -2,7 +2,7 @@
 layout: post
 title: Drought, Draughts, and Decency
 subtitle: Bar Stool Pontifications on Singer's FAM
-tags: ["utilitarianism", "ethics"]
+tags: ["utilitarianism", "ethics", "digressions"]
 shortlink: 
 twitimg: 
 image: http://endlesspint.com/gallery/2017/fam/fatal complex.jpg
