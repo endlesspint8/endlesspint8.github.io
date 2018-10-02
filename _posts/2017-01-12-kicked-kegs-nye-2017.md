@@ -2,7 +2,7 @@
 layout: post
 title: Did you tap that?
 subtitle: NYE Weekend Kegs (2017)
-tags: ["craftbeer", "dataviz", "map", "geocoding"]
+tags: ["craftbeer", "dataviz", "mapping", "geocoding"]
 shortlink: http://bit.ly/2j8gNYE
 twitimg: pic.twitter.com/992aHPZZDx
 image: http://endlesspint.com/gallery/2017/digitalpour-nye/nye_popping.gif
