@@ -1,6 +1,10 @@
-A peek at peak beer and premiumisation in different regions.
-View this email in your browser (*|ARCHIVE|*)
-This Goes with That, That Goes with This
+---
+layout: post
+title: MixSixFix - Rum Raisin
+subtitle: This Goes with That, That Goes with This
+tags: ["aesthetics", "beer", "taste"]
+---
+
 
 In this Mix we’re gonna take a tour of infographics that deal with beer, its presentation and most importantly pairings with various food categories. It doesn't take much talent to enjoy drinking (no, I’m serious) but with a little knowhow even this most natural activity can be heightened. Ultimately you can be a more skillful tippler and these infographics provide a solid base to get you there.
 
