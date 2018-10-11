@@ -18,7 +18,7 @@ However, to insure promptness and the continued flow of posts click the pint log
 <br>
 <br>
 
-**Pints by topic**
+**Pints & Flights combined by topic**
 
 - bayes
 - [bitter](/tag/bitter)
