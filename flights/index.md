@@ -10,11 +10,9 @@ subtitle: aka Past Newsletters
 
 Under construction but no reason not to add the first couple of Mix Six:
 
-* _[Yeast & Hops are Wild](2017-01-11-MxSxFx001-yeast-and-hops-are-wild)_
-* _[Premiumisation or Peak](2017-01-25-MxSxFx002-premiumisation-or-peak)_
-* [Rum Raisin](_posts/2017-02-08-MxSxFx003-Rum-Raisin)
-
-* [Rum Raisin](http://endlesspint.com/2017-02-08-MxSxFx003-Rum-Raisin/)
+* _[Yeast & Hops are Wild](http://endlesspint.com/2017-01-11-MxSxFx001-yeast-and-hops-are-wild)_
+* _[Premiumisation or Peak](http://endlesspint.com/2017-01-25-MxSxFx002-premiumisation-or-peak)_
+* _[Rum Raisin](http://endlesspint.com/2017-02-08-MxSxFx003-Rum-Raisin/)_
 
 <br>
 
