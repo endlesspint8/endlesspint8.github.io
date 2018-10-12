@@ -30,7 +30,7 @@ However, to insure promptness and the continued flow of posts click the pint log
 - [digressions](/tag/digressions)
 - [festivals](/tag/festivals)
 - game theory
-- history/industry
+- [history/industry](/tag/grounding)
 - heuristics
 - [mapping](/tag/mapping)
 - [nyc](/tag/nyc)
