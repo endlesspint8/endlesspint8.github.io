@@ -2,6 +2,7 @@
 layout: post
 title: MixSixFix - Yeast & Hops are Wild
 subtitle: Linking wild yeast, "sense of place", and a record hop valuation.
+tags: ["grounding"]
 ---
 
 
