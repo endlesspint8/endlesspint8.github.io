@@ -2,7 +2,7 @@
 layout: post
 title: Branching out
 subtitle: One Twig at a Time
-tags: ["D3", "BeerVis"]
+tags: ["D3", "BeerVis", "grounding"]
 shortlink: http://bit.ly/ep8D3noob
 image: http://endlesspint.com/gallery/2016/usb_d3_posneg.PNG
 ---
