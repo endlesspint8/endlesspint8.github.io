@@ -2,6 +2,8 @@
 layout: post
 title: MixSixFix - Premiumisation or Peak
 subtitle: A peek at peak beer and premiumisation in different regions.
+tags: ["grounding"]
+image: http://endlesspint.com/flights/imgs/17-1/ebd32573-6901-417c-8f0c-71984139bd7d.jpg
 ---
 
 
