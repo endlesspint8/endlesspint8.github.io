@@ -69,7 +69,7 @@ What's propelling this growth? The youngins and their respective incomes, changi
 
 <p align="center">
   <img alt="" src="/flights/imgs/17-1/e5611f00-bae5-4fef-a752-d513d7423a46.png"><br><br>
-  <sup>By Governo USA - (Original text: ''Documento di pubblico dominio ("Strategic Significance of America s Oil Shale Resource Volume I Assessment of Strategic Issues"): si legga qui (http://www.fossil.energy.gov/programs/reserves/npr/publications/npr_strategic_significancev1.pdf) . Per maggiori dettagli, si veda pure qui (https://it.wikipedia.org/wiki/en:Image:Hubbert_world_2004.png) .), Public Domain, Link (https://commons.wikimedia.org/w/index.php?curid=18123347)</sup>
+  <sup>By Governo USA - (Original text: ''Documento di pubblico dominio ("Strategic Significance of America s Oil Shale Resource Volume I Assessment of Strategic Issues"): si legga <a href="http://www.fossil.energy.gov/programs/reserves/npr/publications/npr_strategic_significancev1.pdf">qui</a>. Per maggiori dettagli, si veda pure <a href="https://it.wikipedia.org/wiki/en:Image:Hubbert_world_2004.png">qui</a>.), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=18123347">Link</a></sup>
   <br>
 </p>
 
