@@ -3,6 +3,7 @@ layout: post
 title: MixSixFix - Rum Raisin
 subtitle: This Goes with That, That Goes with This
 tags: ["design", "pairing", "taste"]
+image: http://endlesspint.com/flights/imgs/17-1/bf4a6149-bdf7-4961-a15e-2faf5851b72a.png
 ---
 
 
