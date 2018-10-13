@@ -34,7 +34,7 @@ However, to insure promptness and the continued flow of posts click the pint log
 - heuristics
 - [mapping](/tag/mapping)
 - [nyc](/tag/nyc)
-- [phenomenology (of taste, mostly)](/tag/taste)
+- [taste](/tag/taste)
 - [technoclast](/tag/technoclast)
 
 --- 
