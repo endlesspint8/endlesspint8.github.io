@@ -22,15 +22,18 @@ In recent times no fighter has taken the art of making money to higher levels th
 
 ## Risk versus reward
 
-A common criticism that has been brought up regarding the [Haymon stable of fighters](http://boxrec.com/media/index.php/Al_Haymon) [Accessed: 9 APR 2018]] is that their rewards are disproportionate to the risks taken. That and the associated knock that they do not fight often enough. As well as who they do decide to fight when they finally get around to deciding to fight. This is both smart business (it is the hurt business after all) and partly personal approach. Whether or not we should begrudge the managers, promoters, networks, or fighters is one aspect that can be separated from the underlying proposition: the fighters are not taking enough challenges. 
+A common criticism brought up regarding the [Haymon stable of fighters](http://boxrec.com/media/index.php/Al_Haymon) [Accessed: 9 APR 2018]] is that their rewards are disproportionate to the risks taken. Intertwined is the associated knock that they do not fight often enough. As well as who they do decide to fight when they finally get around to deciding to fight. This can be viewed as both smart business (it is the hurt business after all) and personal shortcoming. Whether or not we should begrudge the managers, promoters, networks, or fighters is one aspect that can be separated from the underlying proposition: the fighters are not taking enough challenges. 
 
 Earlier this year [Showtime and Premier Boxing Champions (PBC) unveiled a slew of top fights for the first half of 2018](http://www.espn.com/boxing/story/_/id/22210176/boxing-ranking-best-show-fights-first-part-2018). This was as good a subset to look over as any other. <sup id="a1">[1](#f1)</sup> 
 
-Too many fighters appear to want to protect their ”O”, they’re undefeated record, at the cost of inactivity and lackluster matchups. Most attempts at impersonating the highest paid prizefighter have lead to the perverse incentive of mimicking the symptoms rather than the causes: [hard work, dedication](https://www.youtube.com/watch?v=jNb1wN0YfM8). The forthcoming will go a bit toward addressing that by looking at the activity of fighters and their exposure to championship bouts, including their success in each. One crucial aspect that will be left out is a ranking of each fighters opponents. This is a first, peripheral glance at the quality of these fighters’ careers to date.
+## When a measure becomes a target...
 
-## Only the Major Titles, No Interms, No "Silver" Nonsense
+Too many fighters appear to want to protect their ”O”, their undefeated record, at the cost of inactivity and lackluster matchups. Most attempts at impersonating the highest paid prizefighter have lead to the [perverse incentive of mimicking the symptoms](https://en.m.wikipedia.org/wiki/Goodhart%27s_law) rather than the causes: [hard work, dedication](https://www.youtube.com/watch?v=jNb1wN0YfM8). The forthcoming will go a bit toward addressing that by looking at the activity of fighters and their exposure to championship bouts, including their success in the latter.<sup id="a2">[2](#f2)</sup> 
 
-Only the four major world championship groups recognized by the International Boxing Hall of Fame (IBHOF), and full titles, were considered for the : 
+## Only Full Major Titles (No Interms, No "Silver" Blah-Blah-Blah)
+
+Only the four major world championship groups recognized by the International Boxing Hall of Fame (IBHOF), as well as the full versions of the titles, were considered for this review: 
+
 * World Boxing Council (WBC), 1963
 * International Boxing Federation (IBF), 1983
 * World Boxing Association (WBA), 1921
@@ -53,7 +56,7 @@ Certainly we can point to the different eras. Mayweather came up in the 90’s w
 
 ## There is One, Maybe
 
-One fighter comes closest to matching Mayweather’s resume on the criteria we have been considering and that is Leo Santa Cruz. Despite a (championship) loss he remains within striking distance of the Mayweather Moneyline. Should he fight, and win, at the championship level twice a year for the next three years he would match Floyd at age 31, pass him at 32.  actually cross above Floyd’s pace… 
+One fighter comes closest to matching Mayweather’s resume on the criteria we have been considering, Leo Santa Cruz. Despite a (championship) loss he remains within striking distance of the Mayweather Moneyline. Should he fight, and win, at the championship level twice a year for the next three years he would match Floyd at age 31, pass him at 32.  actually cross above Floyd’s pace… 
 
 <img src="/gallery/2018/boxing/haymon_titles_donut.png" alt="haymon_titles_donut" align="middle" width="100%" /><br />
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a> 
@@ -72,3 +75,4 @@ One fighter comes closest to matching Mayweather’s resume on the criteria we h
 * May 19: **Adonis Stevenson** vs. **Badou Jack** at TBA, Canada (neither one [managed by Haymon](http://boxrec.com/media/index.php/Al_Haymon)? hmm…; don’t  think so, included both)
 * June 9: **Leo Santa Cruz** vs. **Abner Mares** II
 * June 16: **Errol Spence** Jr. vs. TBA [↩](#a1) <br>
+<b id="f2">2</b> One crucial aspect that will be left out is a ranking of each fighters opponents. This is a first, peripheral glance at the quality of these fighters’ careers to date. [↩](#a2) <br> 
