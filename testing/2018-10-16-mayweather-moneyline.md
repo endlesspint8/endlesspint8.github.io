@@ -26,23 +26,27 @@ A common criticism that has been brought up regarding the [Haymon stable of figh
 
 Earlier this year [Showtime and Premier Boxing Champions (PBC) unveiled a slew of top fights for the first half of 2018](http://www.espn.com/boxing/story/_/id/22210176/boxing-ranking-best-show-fights-first-part-2018). This was as good a subset to look over as any other. <sup id="a1">[1](#f1)</sup> 
 
-Too many fighters appear to want to protect their ”O”, they’re undefeated record, at the cost of inactivity and lackluster matchups. Most attempts at impersonating the highest paid prizefighter have lead to the perverse incentive of mimicking the symptoms rather than the causes: [hard work, dedication](link). The forthcoming will go a bit toward addressing that by looking at the activity of fighters and their exposure to championship bouts, including their success in each. One crucial aspect that will be left out is a ranking of each fighters opponents. This is a first, peripheral glance at the quality of these fighters’ careers to date.
+Too many fighters appear to want to protect their ”O”, they’re undefeated record, at the cost of inactivity and lackluster matchups. Most attempts at impersonating the highest paid prizefighter have lead to the perverse incentive of mimicking the symptoms rather than the causes: [hard work, dedication](https://www.youtube.com/watch?v=jNb1wN0YfM8). The forthcoming will go a bit toward addressing that by looking at the activity of fighters and their exposure to championship bouts, including their success in each. One crucial aspect that will be left out is a ranking of each fighters opponents. This is a first, peripheral glance at the quality of these fighters’ careers to date.
 
-the four major world championship groups recognized by the International Boxing Hall of Fame (IBHOF): 
-World Boxing Council (WBC), 1963
-International Boxing Federation (IBF), 1983
-World Boxing Association (WBA), 1921
-World Boxing Organization (WBO), 1988
+## Only the Major Titles, No Interms, No "Silver" Nonsense
+
+Only the four major world championship groups recognized by the International Boxing Hall of Fame (IBHOF), and full titles, were considered for the : 
+* World Boxing Council (WBC), 1963
+* International Boxing Federation (IBF), 1983
+* World Boxing Association (WBA), 1921
+* World Boxing Organization (WBO), 1988
 
 <img src="/gallery/2018/boxing/haymon_titles_age.png" alt="haymon_titles_age" align="middle" width="100%" /><br />
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a> 
 
 Among this subset of stablemates it is quite clear why Mayweather garnered the big money, attention, accolades, and desired derision upon turning heel. His resume and pedigree backed up his talk. His talk was a tool, as effective if not more so than his defensive prowess in getting the cash, but crucially the former would be useless without the latter. Many of these fighters have serious skills, a couple are likely to be a Hall of Famers, but some have arguably grabbed onto the image aspects of building their business, more so than in-ring results. Each of them has championship experience and wins but they fall short on activity, both by age and number of years at their professional craft. 
 
+Consider that Mayweather had 16 championship wins across four weight divisions by the time he fought Oscar De La Hoya and took over the reigns of top PPV dog. Moreover, Floyd had been at it for over a decade. Schooled in sweet science by both father and uncle, former professional fighters themselves, Mayweather was an overnight success 30 years in the making. Naturally, it was the overnight success part that grabbed the imagination. The life long journey and commitment was relegated to [montage](https://www.youtube.com/watch?v=pFrMLRQIT_k) material and easily glossed over..
+
 <img src="/gallery/2018/boxing/haymon_titles_bouts.png" alt="haymon_titles_bouts" align="middle" width="100%" /><br />
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a> 
 
-Certainly we can point to the different eras. Mayweather came up in the 90’s while most of the others started their careers a decade later. If we went further back through the eras we would see fighters accumulating even more bouts with each decade we stepped back in time for. Go far enough back, think early 20th century, and it is not unheard of to have boxers fight several times a week [Grebb], while some rivalries were contested several times within the same year [Robinson/Raging Bull]. Let us set aside fight count then but look critically at the proportion of championship bouts. In a time when there are four major belts per weight class and more weight classes than ever it is a fair criticism to raise as to why there are not more championship wins. Does it all go back to the image, the mythical ”O”?
+Certainly we can point to the different eras. Mayweather came up in the 90’s while most of the others started their careers a decade later. If we went further back through the eras we would see fighters accumulating even more bouts with each decade we stepped back in time for. Go far enough back, think early 20th century, and it is not unheard of to have boxers fight several times a week ([Harry Greb](https://en.wikipedia.org/wiki/Harry_Greb)), while some rivalries were contested several times within the same year ([Robinson/LaMotta, '43 & '45](https://en.wikipedia.org/wiki/Sugar_Ray_Robinson#Professional_boxing_record)]. Let us set aside fight count then but look critically at the proportion of championship bouts. In a time when there are four major belts per weight class and more weight classes than ever it is a fair criticism to raise as to why there are not more championship wins. Does it all go back to the image, the mythical ”O”?
 
 <img src="/gallery/2018/boxing/haymon_titles_proportion.png" alt="haymon_titles_proportion" align="middle" width="100%" /><br />
 <sub>Data Source: <a href="http://boxrec.com/" target="_blank">BoxRec</a> 
