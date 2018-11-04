@@ -33,6 +33,9 @@ Despite not being able to reproduce the divergent peaks of crowd and anti-crowd 
 <img src="/gallery/2018/tobarnotbar/fun_prob_matrix.PNG" alt="fun_prob_matrix" align="middle" width="100%" /><br />
 
 
+<img src="/gallery/2018/tobarnotbar/hist_v_contr.png" alt="hist_v_contr" align="middle" width="100%" /><br />
+
+
 # increases your shot of a good time: 
     # the more nights taken into consideration
     # updating preferences as binary decision: go / don't go
