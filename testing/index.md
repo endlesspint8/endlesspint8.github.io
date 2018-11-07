@@ -13,8 +13,8 @@ Next six:
 &#10004;  [A]()
 &#10004; [B]()
 
-* [prplxdVI](2018-08-xx-beer-introductions-6)
-* [mle](2018-08-xx-mle)
+* [2bar](2018-11-13-to-bar-or-not-to-bar)
+* [hbo greatest fighter](2018-10-30-hbo-greatest-fighter-of-all-time-tournament-simulation)
 
 [post prep](post-prep)
 
