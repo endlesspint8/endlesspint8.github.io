@@ -4,8 +4,8 @@ title: To bar, or not to bar - what is the intention?
 subtitle: Ponying Up to a 'Simply Complexity' Example
 tags: ["complexity", "simulation"]
 shortlink: 
-image: http://endlesspint.com/gallery/2018/beer-prplxd/pr_links.png
-sideof: ["Second level beers", "http://eepurl.com/cj8urH", " into top PR style (grandparent sytles)."]
+image: http://endlesspint.com/gallery/2018/tobarnotbar/hist_v_contr.png
+sideof: 
 ---
 
 <img src="/gallery/2018/tobarnotbar/sim_eg.png" alt="sim_eg.png" align="middle" width="100%" /><br />
@@ -63,44 +63,8 @@ A decision tree was also run for good measure and the probabilities of falling i
 
 <img src="/gallery/2018/tobarnotbar/fun_prob_matrix.PNG" alt="fun_prob_matrix" align="middle" width="100%" /><br />
 
+Channeling my inner [Michael Pollan](https://michaelpollan.com/reviews/how-to-eat/): check for contrarians, update preferences toward simple more/less, take as many recent nights into consideration as possible.
+
+Lastly, if you believe the historian/contrarian split is about 50/50, which it was close to in these runs, give the contrarian view a slight edge. Do yourself a favor and buck tradition. Ever so slightly.
 
 <img src="/gallery/2018/tobarnotbar/hist_v_contr.png" alt="hist_v_contr" align="middle" width="100%" /><br />
-
-To channel my inner Michael Poland (“eat real food, not too much, mostly vegetables“)…
-
-
-
-
-To be, or not to be, that is the question:
-Whether 'tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune,
-Or to take arms against a sea of troubles
-And by opposing end them. To die—to sleep,
-No more; and by a sleep to say we end
-The heart-ache and the thousand natural shocks
-That flesh is heir to: 'tis a consummation
-Devoutly to be wish'd. To die, to sleep;
-To sleep, perchance to dream—ay, there's the rub:
-For in that sleep of death what dreams may come,
-When we have shuffled off this mortal coil,
-Must give us pause—there's the respect
-That makes calamity of so long life.
-For who would bear the whips and scorns of time,
-Th'oppressor's wrong, the proud man's contumely,
-The pangs of dispriz'd love, the law's delay,
-The insolence of office, and the spurns
-That patient merit of th'unworthy takes,
-When he himself might his quietus make
-With a bare bodkin? Who would fardels bear,
-To grunt and sweat under a weary life,
-But that the dread of something after death,
-The undiscovere'd country, from whose bourn
-No traveller returns, puzzles the will,
-And makes us rather bear those ills we have
-Than fly to others that we know not of?
-Thus conscience does make cowards of us all,
-And thus the native hue of resolution
-Is sicklied o'er with the pale cast of thought,
-And enterprises of great pitch and moment
-With this regard their currents turn awry
-And lose the name of action.
