@@ -22,14 +22,14 @@ However, to insure promptness and the continued flow of posts click the pint log
 
 |Topics 	|Techniques	|Tools	|
 |---	|---	|---	|
-| [bitter](/tag/bitter) 	| bayes  	|   	|
-| [books](/tag/books)   	| game theory  	|   	|
-| [boxing](/tag/boxing)   	| heuristics  	| [mapping](/tag/mapping)  	|
-| complexity  	|   	|   	|
-| [data guide for beer perplexed](/tag/perplexed)  	|   	|   	|
-| [design](/tag/design)  	|   	|   	|
-| [digressions](/tag/digressions)  	|   	|   	|
-| [festivals](/tag/festivals)  	|   	|   	|
+| [bitter](/tag/bitter) 	| bayes  	| CausalImpact  	|
+| [books](/tag/books)   	| game theory  	| Bokeh  	|
+| [boxing](/tag/boxing)   	| heuristics  	| CartoDB 	|
+| complexity  	| heatmap  	| Plotly  	|
+| [data guide for beer perplexed](/tag/perplexed)  	| ELO  	| PySpark  	|
+| [design](/tag/design)  	| MLE  	| PyMC  	|
+| [digressions](/tag/digressions)  	| Gini  	| seaborn  	|
+| [festivals](/tag/festivals)  	| [mapping](/tag/mapping)   	| D3  	|
 | [history/industry](/tag/grounding)  	|   	|   	|
 | [nyc](/tag/nyc)  	|   	|   	|
 | [taste](/tag/taste)  	|   	|   	|
