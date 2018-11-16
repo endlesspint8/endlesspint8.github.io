@@ -18,7 +18,7 @@ However, to insure promptness and the continued flow of posts click the pint log
 <br>
 <br>
 
-**Pints & Flights combined by topic**
+**Pints & Flights combined**
 
 - bayes
 - [bitter](/tag/bitter)
@@ -36,6 +36,22 @@ However, to insure promptness and the continued flow of posts click the pint log
 - [nyc](/tag/nyc)
 - [taste](/tag/taste)
 - [technoclast](/tag/technoclast)
+
+<table border="0">
+  <tr>
+    <th>Topics</th>
+    <th>Techniques</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>[bitter](/tag/bitter)</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+</table>
 
 --- 
 
