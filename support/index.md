@@ -37,21 +37,18 @@ However, to insure promptness and the continued flow of posts click the pint log
 - [taste](/tag/taste)
 - [technoclast](/tag/technoclast)
 
-<table border="0">
-  <tr>
-    <th>Topics</th>
-    <th>Techniques</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
-    <td>[bitter](/tag/bitter)</td>
-    <td>$100</td>
-  </tr>
-  <tr>
-    <td>February</td>
-    <td>$80</td>
-  </tr>
-</table>
+
+|Topics 	|Techniques	|Tools	|
+|---	|---	|---	|
+|[bitter](/tag/bitter) 	|   	|   	|
+|[books](/tag/books)   	|   	|   	|
+|[boxing](/tag/boxing)   	|   	|   	|
+|   	|   	|   	|
+|   	|   	|   	|
+|   	|   	|   	|
+|   	|   	|   	|
+
+
 
 --- 
 
