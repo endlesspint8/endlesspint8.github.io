@@ -20,34 +20,22 @@ However, to insure promptness and the continued flow of posts click the pint log
 
 **Pints & Flights combined**
 
-- bayes
-- [bitter](/tag/bitter)
-- [books](/tag/books)
-- [boxing](/tag/boxing)
-- complexity
-- [data guide for beer perplexed](/tag/perplexed)
-- [design](/tag/design)
-- [digressions](/tag/digressions)
-- [festivals](/tag/festivals)
-- game theory
-- [history/industry](/tag/grounding)
-- heuristics
-- [mapping](/tag/mapping)
-- [nyc](/tag/nyc)
-- [taste](/tag/taste)
-- [technoclast](/tag/technoclast)
-
-
 |Topics 	|Techniques	|Tools	|
 |---	|---	|---	|
-|[bitter](/tag/bitter) 	|   	|   	|
-|[books](/tag/books)   	|   	|   	|
-|[boxing](/tag/boxing)   	|   	|   	|
+| [bitter](/tag/bitter) 	| bayes  	|   	|
+| [books](/tag/books)   	| game theory  	|   	|
+| [boxing](/tag/boxing)   	| heuristics  	| [mapping](/tag/mapping)  	|
+| complexity  	|   	|   	|
+| [data guide for beer perplexed](/tag/perplexed)  	|   	|   	|
+| [design](/tag/design)  	|   	|   	|
+| [digressions](/tag/digressions)  	|   	|   	|
+| [festivals](/tag/festivals)  	|   	|   	|
+| [history/industry](/tag/grounding)  	|   	|   	|
+| [nyc](/tag/nyc)  	|   	|   	|
+| [taste](/tag/taste)  	|   	|   	|
+| [technoclast](/tag/technoclast)  	|   	|   	|
 |   	|   	|   	|
 |   	|   	|   	|
-|   	|   	|   	|
-|   	|   	|   	|
-
 
 
 --- 
