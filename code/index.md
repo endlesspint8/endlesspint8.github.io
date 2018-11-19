@@ -6,6 +6,14 @@ subtitle: Visualizations at a Glance with Code Samples
 
 <br>
 
+### [To bar, or not to bar - what is the intention?](/2018-11-07-to-bar-or-not-to-bar)
+> 
+> Going out just got a litttle more [complex](http://nbviewer.jupyter.org/github/endlesspint8/endlesspint8.github.io/blob/master/code/tobarnotbar/2bar.ipynb)<br>
+
+<p align="center">
+  <img src="/gallery/2018/tobarnotbar/sim_eg.png" alt="sim_eg.png" align="middle" width="80%" /><br />
+</p> 
+
 ### [Keras Toe Dip](https://nbviewer.jupyter.org/url/endlesspint.com/code/lynda-building-deep-learning-apps/03_keras_sales_data.ipynb)
 > 
 > Notebooks for [Building Deep Learning Applications with Keras 2.0 (Lynda.com)](https://www.lynda.com/Google-TensorFlow-tutorials/Building-Deep-Learning-Applications-Keras-2-0/601801-2.html)<br>
