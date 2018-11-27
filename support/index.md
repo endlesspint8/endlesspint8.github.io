@@ -15,6 +15,8 @@ However, to insure promptness and the continued flow of posts click the pint log
 
 <a href="https://www.paypal.me/EndlessPint/5"><img src="/support/img/digipint01.png" width="15%"></a>
 
+<sub>made at [make8bitart](https://make8bitart.com/)</sub>
+
 <br>
 <br>
 
@@ -40,4 +42,4 @@ However, to insure promptness and the continued flow of posts click the pint log
 
 --- 
 
-<sub>made at [make8bitart](https://make8bitart.com/)</sub>
+
