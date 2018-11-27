@@ -8,6 +8,25 @@ subtitle: aka Past Newsletters
 
 <a href="http://eepurl.com/cj8urH" target="_blank">Sign up</a> for the latest batch of data-related beer pieces and miscellany straight to your inbox. Otherwise circle back to this page for incidental updates.
 
+<br><br><br>
+
+#  Fun in the Sun
+
+<p align="center">
+    <img src="/flights/imgs/17-2/jaquiza_Golden Girl.jpg"><br><br>
+  <sup><a href="https://www.flickr.com/photos/jaquiza/14781161934/">Lydia Brooks</a> / <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC License</a> </sup>
+  <br>
+</p>
+
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+
+---
+
 # The inaugural Mix Six
 
 <p align="center">
