@@ -1,6 +1,13 @@
-Just searching for a little release... (*|ARCHIVE|*)
-Who's Releasing What, When?
-Huh?
+---
+layout: post
+title: MixSixFix - Who's Releasing What, When? Huh?
+subtitle: Just searching for a little release...
+tags: ["design"]
+image: http://endlesspint.com/flights/imgs/17-1/5b24a7f8-0784-433b-bc23-44355f7b8c18.jpg
+---
+
+**(links and images still need to prettify'd, but the text is set)**
+
 You don’t come to EP for new release information. There are other outlets for that information, two of which I mention below. No sir/mam, you’re here for some in-depth analysis shit. Or some trivially superficial breakdowns (http://endlesspint.com/2017-01-12-kicked-kegs-nye-2017/) . You never know, though I would bet on the superficial.
 
 Speaking of superficial we take a quick tour of calendars put out for 2017 below. Images and links are provided for further review but if you want to peak at even more calendars go to either Vinepair (http://vinepair.com/articles/brewery-release-calendars-2017/) or  PorchDrinking (https://www.porchdrinking.com/articles/2017/01/18/2017-beer-release-calendar-roundup/) (PD), both of which do a good job of aggregating several dozen calendars. I would start with the former to get a taste and then switch over to PD, which is more exhaustive (and exhausting).
