@@ -20,6 +20,10 @@ subtitle: aka Past Newsletters
 * _[Premiumisation or Peak](http://endlesspint.com/2017-01-25-MxSxFx002-premiumisation-or-peak)_
 * _[Rum Raisin](http://endlesspint.com/2017-02-08-MxSxFx003-Rum-Raisin/)_
 * _[I Dream Of A (Quiet) Pint](http://endlesspint.com/2017-02-22-MxSxFx004-I-Dream-Of-A-Quiet-Pint/)_
+* _[Who's Releasing What, When? Huh?](http://endlesspint.com/2017-03-08-MxSxFx005-Who-Releasing-What-When-Huh/)_
+* _[More Art Than Official Intelligence](http://endlesspint.com/2017-03-22-MxSxFx006-More-Art-Than-Official-Intelligence/)_
+
+
 
 
 <br>
