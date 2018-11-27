@@ -8,11 +8,12 @@ image: http://endlesspint.com/gallery/2017/abi/bloomberg_abi.png
 sideof: 
 ---
 
+**(links and images still need to prettify'd, but the text is set)**
 
-Tech bubble, pop, & fizz... (*|ARCHIVE|*)
 https://commons.wikimedia.org/wiki/Robot#/media/File:Robot_DJ.jpg
 By Beaver, Brian (http://www.flickr.com/photos/bitboy/1398128600/in/photostream, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=4258560)
 Artful Intelligentsia
+
 I’ve beaten around the bush long enough, it’s time to get into some tech as it relates to beer. I’m going to go over some of the more interesting pieces of information I have come across lately. Each of these reflects some level of past, present, and/or future relationship we as consumers (and citizens) have with technology, and beer. In truth they are a snapshot of what is presently available and aspired to, containing a mixture of all three time perspectives.
 
 * * *
