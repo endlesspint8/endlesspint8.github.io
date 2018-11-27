@@ -8,13 +8,11 @@ subtitle: aka Past Newsletters
 
 <a href="http://eepurl.com/cj8urH" target="_blank">Sign up</a> for the latest batch of data-related beer pieces and miscellany straight to your inbox. Otherwise circle back to this page for incidental updates.
 
-Under construction but no reason not to add the first few Mix Six:
+# The inaugural Mix Six
 
 <p align="center">
-  <a href="http://maxpixel.freegreatpicture.com/Form-Lights-Orange-Dots-Dark-Lines-Abstract-1772755" target="_blank">
-    <img src="/flights/imgs/17-1/5ba5bda4-c722-478f-9c3b-fc8657df4f6c.jpg"><br><br>
-  </a>
-  <sup>Thomas Hawk / <a href="https://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC License</a> </sup>
+    <img src="/flights/imgs/17-1/thomashawk_Beer Can House.jpg"><br><br>
+  <sup><a href="https://www.flickr.com/photos/thomashawk/35445550463/">Thomas Hawk</a> / <a href="https://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC License</a> </sup>
   <br>
 </p>
 
