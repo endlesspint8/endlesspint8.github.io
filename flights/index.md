@@ -10,6 +10,14 @@ subtitle: aka Past Newsletters
 
 Under construction but no reason not to add the first few Mix Six:
 
+<p align="center">
+  <a href="http://maxpixel.freegreatpicture.com/Form-Lights-Orange-Dots-Dark-Lines-Abstract-1772755" target="_blank">
+    <img src="/flights/imgs/17-1/5ba5bda4-c722-478f-9c3b-fc8657df4f6c.jpg"><br><br>
+  </a>
+  <sup>Thomas Hawk / <a href="https://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC License</a> </sup>
+  <br>
+</p>
+
 * _[Yeast & Hops are Wild](http://endlesspint.com/2017-01-11-MxSxFx001-yeast-and-hops-are-wild)_
 * _[Premiumisation or Peak](http://endlesspint.com/2017-01-25-MxSxFx002-premiumisation-or-peak)_
 * _[Rum Raisin](http://endlesspint.com/2017-02-08-MxSxFx003-Rum-Raisin/)_
