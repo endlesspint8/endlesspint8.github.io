@@ -11,6 +11,44 @@ subtitle: aka Past Newsletters
 <br><br><br>
 
 
+#  Lite Readin'
+
+<p align="center">
+    <img src="/flights/imgs/18-3/byronv2_beer lens world.jpg"><br><br>
+  <sup><a href="https://www.flickr.com/photos/woolamaloo_gazette/13983821502/">byronv2</a> / <a href="https://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC License</a> </sup>
+  <br>
+</p>
+
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+
+
+<br>
+---
+
+#  G.A.S.P.
+
+<p align="center">
+    <img src="/flights/imgs/18-1/michaelsmith_Fat Chance Rich Pay.jpg"><br><br>
+  <sup><a href="https://www.flickr.com/photos/mbransons/6217115877/">Michael Smith</a> / <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC License</a> </sup>
+  <br>
+</p>
+
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+* _[title](http://endlesspint.com/link)_
+
+
+<br>
+---
+
 #  Back to School
 
 <p align="center">
