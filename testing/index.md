@@ -14,7 +14,7 @@ Next six:
 &#10004; [B]()
 
 * [2bar](2018-11-13-to-bar-or-not-to-bar)
-* [hbo greatest fighter](2018-10-30-hbo-greatest-fighter-of-all-time-tournament-simulation)
+* [hbo greatest fighter](2018-12-06-hbo-greatest-fighter-of-all-time-tournament-simulation)
 
 [post prep](post-prep)
 
