@@ -22,10 +22,18 @@ http://www.espn.com/boxing/story/_/id/24814171/hbo-drop-boxing-coverage-end-2018
 
 <img src="/gallery/2018/boxing/grid_RevELO.PNG" alt="grid_RevELO" align="middle" width="100%" /><br />
 
-<img src="/gallery/2018/boxing/grid_RevELO2.PNG" alt="grid_RevELO2" align="middle" width="75%" /><br />
+<img src="/gallery/2018/boxing/grid_RevELO2.PNG" alt="grid_RevELO2" align="middle" width="100%" /><br />
+
+
+<img src="/gallery/2018/boxing/hbo_10k_sim.PNG" alt="grid_RevELO2" align="middle" width="100%" /><br />
+
 
 
 <img src="/gallery/2018/boxing/ep8-the-final-round-chalk.png" alt="ep8-the-final-round-chalk" align="middle" width="100%" /><br />
+
+<img src="/gallery/2018/boxing/hbo_10k_sim2.PNG" alt="grid_RevELO2" align="middle" width="100%" /><br />
+
+<img src="/gallery/2018/boxing/hbo_10k_sim2_comp.PNG" alt="grid_RevELO2" align="middle" width="100%" /><br />
 
 
 
