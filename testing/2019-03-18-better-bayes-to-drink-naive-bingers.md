@@ -14,12 +14,12 @@ sideof: []
 
 
 <img src="/gallery/2019/bayes/age_sex_tornado.png" alt="age_sex_tornado" align="middle" width="100%" /><br />
-<sub>Data Source: <a href="" target="_blank">CDC</a> & <a href="" target="_blank">US Census</a> </sub>
+<sub>Data Source: <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6101a4.htm?s_cid=mm6101a4_w" target="_blank">CDC</a> & <a href="https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf" target="_blank">US Census</a> </sub>
 
 https://docs.google.com/presentation/d/1K65-6Vba0Lz62aijEGXzBvFXacfj6WAXnalZLcvsOfc/edit?usp=sharing
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWdY7l4Onfofo4YTcItle2t_nC6F-ogw3P8fQSFYmSDRZkVgsC7kR0uTiampkuQn6uNJUl_qfoeVWM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <img src="/gallery/2019/bayes/age_sex_bullets.png" alt="age_sex_bullets" align="middle" width="100%" /><br />
-<sub>Data Source: <a href="" target="_blank">CDC</a> & <a href="" target="_blank">US Census</a> </sub>
+<sub>Data Source: <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6101a4.htm?s_cid=mm6101a4_w" target="_blank">CDC</a> & <a href="https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf" target="_blank">US Census</a> </sub>
 
