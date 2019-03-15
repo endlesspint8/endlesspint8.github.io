@@ -9,7 +9,11 @@ image: http://endlesspint.com/gallery/2019/bayes/age_sex_bullets.png
 sideof: []
 ---
 
-## Tipple Responsibly; Especially you, young man.
+<img src="/gallery/2019/bayes/mnm-all-552510-unsplash.jpg" alt="mnm-all-552510-unsplash" align="middle" width="100%" /><br />
+<sub>Photo by <a href="https://unsplash.com/photos/46Yad80Ynp4" target="_blank">mnm.all on Unsplash</a></sub>
+
+
+## Tipple Responsibly: Especially you, young man.
 
 <img src="/gallery/2019/bayes/age_sex_tornado.png" alt="age_sex_tornado" align="middle" width="100%" /><br />
 <sub>Data Source: <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6101a4.htm?s_cid=mm6101a4_w" target="_blank">CDC</a> & <a href="https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf" target="_blank">US Census</a> </sub>
