@@ -13,7 +13,7 @@ Next six:
 &#10004;  [A]()
 &#10004; [B]()
 
-* [2bar](2018-11-13-to-bar-or-not-to-bar)
+* [naive binge](2019-03-18-better-bayes-to-drink-naive-bingers)
 * [hbo greatest fighter](2018-12-06-hbo-greatest-fighter-of-all-time-tournament-simulation)
 
 [post prep](post-prep)
