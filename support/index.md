@@ -22,8 +22,8 @@ However, to insure promptness and the continued flow of posts click the pint log
 
 **Pints & Flights combined**
 
-|Topics 	|Techniques	|Tools	|
-|---	|---	|---	|
+|Topics 	|Techniques	|Tools	| Topography |
+|---	|---	|---	| ---	|
 | [bitter](/tag/bitter) 	| bayes  	| CausalImpact  	|
 | [books](/tag/books)   	| game theory  	| Bokeh  	|
 | [boxing](/tag/boxing)   	| heuristics  	| CartoDB 	|
