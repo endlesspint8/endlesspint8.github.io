@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Spence/Garcia
-subtitle: What Were the Odds of That?
+title: The Truth Overwhelms
+subtitle: Spence/Garcia - What Were the Odds of That?
 tags: ["boxing", "", ""]
 shortlink: 
 twitimg: 
@@ -11,7 +11,7 @@ sideof: []
 
 ## A Whoopin' Happened, but How?
 
-What does domination look like? There are many ways to the same label and this weekend we saw one approach. The larger man, Spence, used his mind in combination with his physical advantages to never allow the smaller, but still great fighter to get settled. If the domination were not apparent enough from watching the bout the numbers bear out the one-sided affair in stark terms. By contrasting the fight night stats against the respective fighters’ previously recorded punch stat performances, and taking some liberties with probability distributions, we see how each was impacted by the presence of the other in the ring, by how much, and who (just guess) to a larger degree. 
+What does domination look like? There are many ways to the same label and this weekend we saw one approach. The larger man, Spence, used his mind in combination with his physical advantages to never allow his smaller, but still great opponent to get settled. If the domination were not apparent enough from viewing the bout the numbers bear out the one-sided affair in stark terms. By contrasting the fight night stats against the respective fighters’ previously recorded punch stat performances, and taking some liberties with probability distributions, we see how each was impacted by the presence of the other in the ring, by how much, and who (just guess) to a larger degree. 
 
 ### Expected Punch Output Based on Previous Fighter Averages
 <img src="/gallery/2019/boxing/poi_dist.png" alt="poi_dist" align="middle" width="100%" /><br />
