@@ -13,7 +13,7 @@ Next six:
 &#10004;  [A]()
 &#10004; [B]()
 
-* [naive binge](2019-03-18-better-bayes-to-drink-naive-bingers)
+* [sleep caffeine](2019-03-29-sleep-no-more-caffeine)
 * [units](2019-03-22-how-much-drink-is-in-that-drink)
 
 [post prep](post-prep)
