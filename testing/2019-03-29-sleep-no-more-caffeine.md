@@ -24,7 +24,7 @@ _“It is disgusting to notice the increase in the quantity of coffee used by my
 
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubchart?oid=854353585&amp;format=interactive" width="80%" height="375"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubchart?oid=854353585&amp;format=interactive" width="600" height="400" align="middle"></iframe>
 
 ---
 
