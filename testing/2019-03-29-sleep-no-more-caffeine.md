@@ -21,15 +21,15 @@ _“It is disgusting to notice the increase in the quantity of coffee used by my
 
 <sub><a href="https://docs.google.com/spreadsheets/d/1jQIdljiXKW9WDHQDDlVx-alLjbBDRxH7bds-ZkvRv4U/edit?usp=sharing" target="_blank">Edit the table</a> to update the chart.</sub>
 
-<a href="https://www.azquotes.com/quote/554014" title="Frederick The Great quote"><img src="//www.azquotes.com/public/picture_quotes/58/44/5844b35d5546a56223ff2daeb41c19cf/frederick-the-great-554014.jpg" alt="It is disgusting to notice the increase in the quantity of coffee used by my subjects, and the amount of money that goes out of the country as a consequence. Everybody is using coffee; this must be prevented. His Majesty was brought up on beer, and so were both his ancestors and officers. Many battles have been fought and won by soldiers nourished on beer, and the King does not believe that coffee-drinking soldiers can be relied upon to endure hardships in case of another war. - Frederick The Great"></a>
-
 
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubchart?oid=854353585&amp;format=interactive" width="100%" height="400"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubchart?oid=854353585&amp;format=interactive" width="80%" height="375"></iframe>
 
 ---
 
 **Notes**
 
 - Quotes lifted from: Pendergrast, M. (2010). _Uncommon Grounds: The History of Coffee and How It Transformed Our World_
+
+<a href="https://www.azquotes.com/quote/554014" title="Frederick The Great quote"><img src="//www.azquotes.com/public/picture_quotes/58/44/5844b35d5546a56223ff2daeb41c19cf/frederick-the-great-554014.jpg" alt="It is disgusting to notice the increase in the quantity of coffee used by my subjects, and the amount of money that goes out of the country as a consequence. Everybody is using coffee; this must be prevented. His Majesty was brought up on beer, and so were both his ancestors and officers. Many battles have been fought and won by soldiers nourished on beer, and the King does not believe that coffee-drinking soldiers can be relied upon to endure hardships in case of another war. - Frederick The Great" width="80%"></a>
