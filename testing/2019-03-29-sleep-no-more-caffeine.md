@@ -19,7 +19,7 @@ _“It is disgusting to notice the increase in the quantity of coffee used by my
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="300"></iframe>
 
-<sub><a href="https://docs.google.com/spreadsheets/d/1jQIdljiXKW9WDHQDDlVx-alLjbBDRxH7bds-ZkvRv4U/edit?usp=sharing" target="">Edit the table</a> to update the chart.</sub>
+<sub><a href="https://docs.google.com/spreadsheets/d/1jQIdljiXKW9WDHQDDlVx-alLjbBDRxH7bds-ZkvRv4U/edit?usp=sharing" target="_blank">Edit the table</a> to update the chart.</sub>
 
 
 ---
