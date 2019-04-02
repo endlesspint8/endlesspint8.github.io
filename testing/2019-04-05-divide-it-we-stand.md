@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How much drink is in that drink
-subtitle: A Look at Drinking Units
+title: Divide it we 'stand
+subtitle: 'Mericans Need Only Divide by 4
 tags: ["health", "", ""]
 shortlink: 
 twitimg: 
