@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Divide it we 'stand
-subtitle: 'Mericans Need Only Divide by 4
+subtitle: Mericans Need Only Divide by 4
 tags: ["health", "", ""]
 shortlink: 
 twitimg: 
