@@ -5,7 +5,7 @@ subtitle: Mericans Need Only Divide by 4
 tags: ["health", "", ""]
 shortlink: 
 twitimg: 
-image: http://endlesspint.com/gallery/2019/boxing/spence_act_v_exp.png
+image: http://endlesspint.com/gallery/2019/units/metab3.gif
 sideof: []
 ---
 
@@ -21,7 +21,7 @@ Man as the measure. Relative? Somewhat. A new post modern idea? Hardly. [Protago
 NIETZSCHE
 >
 
-We create points of reference out of available materials and concepts, building upon these further. It is bootstrapping a dimension of record and scale onto the world. Short of a perfect unit of measure falling from the sky this self referential measure is most likely the only way for a species to proceed. We see hints of this all around us, both subtle and obvious. Take the measure of distance in feet, describing the height of a horse in hands, the weight of someone in stones, the boiling of water, at sea level, set to 100 and its freezing at zero – for that matter simply look to the concept of sea level itself, a clear reference to environmental givens. Moreover, our base-10 counting system points, quite literally, to the ten digits of our hands. 
+We create points of reference out of available materials and concepts, building upon these further. It is bootstrapping a dimension of record and scale onto the world. Short of a perfect unit of measure falling from the sky this self referential measure is most likely the only way for a species to proceed. We see hints of this all around us, both subtle and obvious. Take the measure of distance in feet, describing the height of a horse in hands, the weight of someone in stones, the boiling of water, at sea level, set to 100 and its freezing at zero – for that matter simply look to the concept of sea level itself, a clear reference to environmental givens. Moreover, our base-10 counting system points, quite literally, to the ten digits of our hands.<sup id="a1">[1](#f1)</sup> 
 
 
 ## Good Lookin' Out, Limey
@@ -37,10 +37,9 @@ What is so special about 8 grams of alcohol? It is roughly the amount of alcohol
 
 Over the years what a sensible number of adult drinks per day is has settled on something like the following: between two and three for men and one to two drinks for women. The UK units get us mostly there but we can be even more particular by referencing our own bodies and the actual alcohol grams of our drinks. 
 
-First know your weight, cross reference your likely metabolic rate of alcohol, track your intake and see how that measures up. Lastly, reassure your more modest, slightly less cheery self, it is worth it.
-
-
 <img src="/gallery/2019/units/cumulative_weight_by_sex08.png" alt="cumulative_weight_by_sex08" align="middle" width="100%" /><br />	
+
+First know your weight, cross reference your likely metabolic rate of alcohol, track your intake and see how that measures up. Lastly, reassure your more modest, slightly less cheery self, it is worth it.
 
 <img src="/gallery/2019/units/metab3.gif" alt="metab3" align="middle" width="50%" /><br />
 
@@ -58,7 +57,7 @@ Take stock of where you are and be forthright with your intake. Alcohol is there
 
 <img src="/gallery/2019/units/g_per_drink_us.png" alt="g_per_drink_us" align="middle" width="100%" /><br />	
 
-Often times in presenting alcohol tolerance and/or limits in the US we are presented with equivalence lists i.e., one beer is similar to one glass of wine which is itself equivalent to a shot of liquor. Calculating the amount of alcohol, especially in grams, takes a bit of inconvenient/non-straightforward math which naturally becomes increasingly more tricky with each additional glass.
+Often times in presenting alcohol tolerance and/or limits in the US we are presented with equivalence lists i.e., one beer is similar to one glass of wine which is itself equivalent to a shot of liquor.<sup id="a2">[2](#f2)</sup> Calculating the amount of alcohol, especially in grams, takes a bit of inconvenient/non-straightforward math which naturally becomes increasingly more tricky with each additional glass.
 
 
 ## Connect Four
@@ -72,7 +71,7 @@ When it comes to the US imperial system, the quickest way to get at what is bein
 
 Almost doesn’t seem fair, though. Just one bottle of a reasonably robust pale ale, porter, or Dubbel and you have met your daily recommended limit. That was certainly my reaction and if it is yours as well then perhaps we both need to be more keenly aware of what, or better yet how much, we are imbibing and the potential fallout.
 
-*** 
+## Knowing is Half the Battle
 
 We measure, we gauge, we build some experience, and refine our intuition. Most of us do not bother walking around with a calorie counter. Once we get an idea of the [glycemic index](https://www.health.harvard.edu/diseases-and-conditions/glycemic-index-and-glycemic-load-for-100-foods) we can make a rough estimate on where things land and choose accordingly, refining our judgment with additional experience and reflection. That is what the reference tables here are for, to develop a familiarity with the actual intake, given our physical make up, seeing what a moderate intake looks like and recognizing it in future instances so that we dilute our intake and not delude ourselves. The quantified self is an interesting prospect but without internalizing some of the findings as new habits and judgments we leave ourselves in the position of pigeons being fed at the determination of the dispensing device.
 
@@ -81,4 +80,6 @@ We measure, we gauge, we build some experience, and refine our intuition. Most o
 
 **Notes**
 
-Another example of using a man as the measure: the medieval German brewing practice of dipping one’s elbow into the wort to test its temperature.
+<b id="f1">1</b> Another example of using a man as the measure: the medieval German brewing practice of dipping one’s elbow into the wort to test its temperature. [↩](#a1) <br>
+<b id="f2">2</b> There is a bit of [discrepancy among countries as to what constitutes a standard drink](https://en.wikipedia.org/wiki/Standard_drink) and, similar to that now much [maligned food pyramid](https://www.npr.org/sections/health-shots/2011/06/02/136884100/new-symbol-for-healthful-eating-hello-plate-goodbye-pyramid), it appears that we are Americans might have been kidding ourselves. Yeah, sure have eight servings of daily carbs. While you are at it, wash it all down with 14 g of alcohol per drink. Seriously? That standard is nearly twice that of the UK and what other countries have set as guidelines and almost certainly needs to be included in the discussion of our national drinking behavior, ugly as it can be. Three drinking units for men means 24 g under the UK system but 42 g under the US, that is a difference of five units to three on the UK scale. I hate to be the party pooper but a little sobering up on this end may mean a whole lot less disillusionment years down the road. 
+ [↩](#a2) <br>
