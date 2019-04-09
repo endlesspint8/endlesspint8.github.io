@@ -1,4 +1,17 @@
-The Pint of Modern Life*
+---
+layout: post
+title: The Pint of Modern Life*
+subtitle: Getcha Flaneur On
+tags: ["", ""]
+shortlink: 
+image: 
+sideof: 
+---
+
+**(links and images still need to prettify'd, but the text is set)** 
+
+see mailing list verion [here](https://us14.campaign-archive.com/?u=2bcb7588e60b55d3de7f33b21&id=35d3b70441)
+
 
 
 When I first leave the office it is unclear whether the city streets are coming alive or giving out one last late afternoon gasp. Perhaps both. People are darting in every direction and teaming up in crowds for greater strength and resolve against the counter-currents of other individuals, equally grouped together in opposing teams. The sun is still high but well past its apex. You can catch it out of the top corner of your eye, no need to even tilt your head.
