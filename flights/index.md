@@ -76,12 +76,12 @@ subtitle: aka Past Newsletters
   <br>
 </p>
 
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
+* _[Backyard Imbibing](http://endlesspint.com/2017-05-03-MxSxFx007-Backyard-Imbibing)_
+* _[New York Public Libations](http://endlesspint.com/2017-05-19-MxSxFx008-New-York-Public-Libations)_
+* _[Memories of the Present Pint](http://endlesspint.com/2017-06-02-MxSxFx009-Mind-The-Pint)_
+* _[The Pint of Modern Life](http://endlesspint.com/2017-07-03-MxSxFx010-Pub-Scrawl.md)_
+* _[Leisurely Disobedient](http://endlesspint.com/2017-07-07-MxSxFx011-Leisurely-Disobedient.md)_
+* _[Grow a Conversation with Sun & Beer](http://endlesspint.com/2017-07-21-MxSxFx012-Garden-Convo)_
 
 
 <br>
