@@ -1,5 +1,20 @@
-Relaxation and rejuvenation... (*|ARCHIVE|*)
+---
+layout: post
+title: Backyard Imbibing
+subtitle: Relaxation and rejuvenation...
+tags: ["", ""]
+shortlink: 
+image: 
+sideof: 
+---
+
+**(links and images still need to prettify'd, but the text is set)** 
+
+see mailing list verion [here](https://us14.campaign-archive.com/?u=2bcb7588e60b55d3de7f33b21&id=2f979e68d9)
+
+
 Public Domain (https://commons.wikimedia.org/w/index.php?curid=4518928)
+
 Backyard Imbibing
 
 It's nice outside and getting nicer. I've got a backyard, a dog, and a sound system (“60’s soul, 70’s rock, anything 80’s and 90’s hip hop, nothing new (http://www.jaronlanier.com/spooky.html) ”). I've got a fridge full of good beer, some tennis balls, and room to spare, especially if you’re a small four-legged critter. With the sun out and the air warm it's a perfect time to head out back with a pint in hand and the throwing stick in the other. The little guy follows along, twitching his short pigtail, the excitement unmistakable even in that nub of limited expressiveness. We are going to head out back and have him do a few runs, fetching tennis balls that fly through the air, bounce off the back shed, and tumble across the ground.
