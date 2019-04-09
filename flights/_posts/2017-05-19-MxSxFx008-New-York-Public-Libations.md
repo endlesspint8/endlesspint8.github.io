@@ -1,4 +1,18 @@
-Finding space on a crowded island... (*|ARCHIVE|*)
+---
+layout: post
+title: New York Public Libations
+subtitle: Finding space on a crowded island...
+tags: ["", ""]
+shortlink: 
+image: 
+sideof: 
+---
+
+**(links and images still need to prettify'd, but the text is set)** 
+
+see mailing list verion [here](https://us14.campaign-archive.com/?u=2bcb7588e60b55d3de7f33b21&id=a1c141200d)
+
+ (*|ARCHIVE|*)
 
 Tar Beach
 
