@@ -1,7 +1,21 @@
-Open skies, full pint. Can't lose. (*|ARCHIVE|*)
+---
+layout: post
+title: Grow a Conversation with Sun & Beer
+subtitle: Open skies, full pint. Can't lose.
+tags: ["", ""]
+shortlink: 
+image: 
+sideof: 
+---
+
+**(links and images still need to prettify'd, but the text is set)** 
+
+see mailing list verion [here](https://us14.campaign-archive.com/?u=2bcb7588e60b55d3de7f33b21&id=1b2bd8c6fa)
+
 https://www.flickr.com/photos/marc-flores/
 Marc Flores
-Reclaiming Recreation
+
+## Reclaiming Recreation
 
 
 This ‘Fun in the Sun’ series started in a garden (http://us14.campaign-archive2.com/?u=2bcb7588e60b55d3de7f33b21&id=2f979e68d9) , of sorts (my backyard), and to wrap it up with some symmetry we are going to conclude in another garden, of sorts (a beer garden, of course). That first truly warm day is a magical time in the new year for a Northeast city. It doesn't matter that we have left January several months ago, a new summer is about to happen (https://youtu.be/ZPS3qLtaFtw) and that, for many of us, is the effective new year. That warm day, made even more wonderful should it fall on a weekend, is fantastic for the abundance of energy and skin seen everywhere. The new warmth hints at new beginnings and new promise. The older heads may be more skeptical about the lyrical embellishment but even most of them will be in a better mood nonetheless. With the warmth comes longer days and the combination makes it seem as if you are recovering a part of your life that’s been hiding from view or
