@@ -1,4 +1,19 @@
-Pause. Breathe. Observe. Repeat. (*|ARCHIVE|*)
+---
+layout: post
+title: Memories of the Present Pint
+subtitle: Pause. Breathe. Observe. Repeat.
+tags: ["", ""]
+shortlink: 
+image: 
+sideof: 
+---
+
+**(links and images still need to prettify'd, but the text is set)** 
+
+see mailing list verion [here](https://us14.campaign-archive.com/?u=2bcb7588e60b55d3de7f33b21&id=580755ffc0)
+
+
+
 
 https://www.flickr.com/photos/londonmatt/
 
