@@ -1,5 +1,16 @@
-Your Mental Health Day Off
+---
+layout: post
+title: Leisurely Disobedient
+subtitle: Your Mental Health Day Off
+tags: ["", ""]
+shortlink: 
+image: 
+sideof: 
+---
 
+**(links and images still need to prettify'd, but the text is set)** 
+
+see mailing list verion [here](https://us14.campaign-archive.com/?u=2bcb7588e60b55d3de7f33b21&id=be36bac139)
 
 
 
