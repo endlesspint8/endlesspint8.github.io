@@ -8,7 +8,19 @@ subtitle: Extra Material
 <br><br>
 
 
-<h4 align="center" id="longIPA">Second level beers into top PageRank style (grandparent sytles)</h4>
+<h4 align="center" id="bingeDeck">Slide Deck of NB Applicability to US Binge Drinking</h4>
+
+**From**: _[Better Bayes to Drink - Naive Bingers](/2019-03-15-better-bayes-to-drink-naive-bingers)_
+
+<p align="center">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWdY7l4Onfofo4YTcItle2t_nC6F-ogw3P8fQSFYmSDRZkVgsC7kR0uTiampkuQn6uNJUl_qfoeVWM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <br><br>
+</p>
+
+---
+<br>
+
+<h4 align="center" id="secondGen">Second level beers into top PageRank style (grandparent sytles)</h4>
 
 **From**: _[Data Guide for the Beer Perplexed, Part V - PageRank and Networkx](/2018-01-19-beer-introductions-5)_
 
