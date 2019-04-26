@@ -22,6 +22,17 @@ _“It is disgusting to notice the increase in the quantity of coffee used by my
 <sub><a href="https://docs.google.com/spreadsheets/d/1jQIdljiXKW9WDHQDDlVx-alLjbBDRxH7bds-ZkvRv4U/edit?usp=sharing" target="_blank">Edit the table</a> to update the chart.</sub>
 
 
+<img src="/gallery/2019/snm_caffeine/caff_hl.jpg" alt="caff_hl" align="middle" width="100%" /><br />
+
+<img src="/gallery/2019/snm_caffeine/caff_hl_iqr.jpg" alt="caff_hl_iqr" align="middle" width="100%" /><br />
+
+<img src="/gallery/2019/snm_caffeine/caff_intake_summaries.jpg" alt="caff_intake_summaries" align="middle" width="100%" /><br />
+
+<img src="/gallery/2019/snm_caffeine/caff_diff_hl.jpg" alt="caff_diff_hl" align="middle" width="100%" /><br />
+
+
+
+
 ---
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubchart?oid=854353585&amp;format=interactive" width="625" height="400" align="middle"></iframe>
