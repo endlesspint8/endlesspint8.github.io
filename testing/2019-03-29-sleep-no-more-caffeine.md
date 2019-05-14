@@ -30,7 +30,7 @@ _“It is disgusting to notice the increase in the quantity of coffee used by my
 
 <img src="/gallery/2019/snm_caffeine/caff_diff_hl.jpg" alt="caff_diff_hl" align="middle" width="100%" /><br />
 
-
+<img src="/gallery/2019/snm_caffeine/caff_comp.jpg" alt="caff_comp" align="middle" width="65%" /><br />
 
 
 ---
