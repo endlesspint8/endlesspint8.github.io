@@ -85,9 +85,10 @@ Like a veteran athlete who adds tricks and moves to his repertoire to stay compe
 
 [Opening photo by rawpixel.com from Pexels](https://www.pexels.com/photo/six-white-ceramic-mugs-1251175/)
 
-[JCSM] Drake et al. Caffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going. _Journal of Clinical Sleep Medicine_ 2013; http://dx.doi.org/10.5664/jcsm.3170 <br>
-to Bed
+[JCSM] Drake et al. Caffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going to Bed. _Journal of Clinical Sleep Medicine_ 2013; http://dx.doi.org/10.5664/jcsm.3170 <br>
+
 [STM] Burke et al. Effects of caffeine on the human circadian clock in vivo and in vitro. _Science Translational Medicine_ 2015; DOI: 10.1126/scitranslmed.aac5125 <br>
+
 [WWS] Walker, M. (2017). _Why We Sleep: Unlocking the Power or Sleep and Dreams_ <br>
 
 <b id="f1">1</b> Non-Macbeth quotes lifted from: Pendergrast, M. (2010). _Uncommon Grounds: The History of Coffee and How It Transformed Our World_ [↩](#a1) <br>
@@ -97,3 +98,5 @@ to Bed
 <b id="f5">5</b> Speaking as a materialist, where else would the changes take place? [↩](#a5) <br>
 <b id="f6">6</b>  One street philosopher said [“sleep is the cousin of death.”](https://youtu.be/_srvHOu75vM) He had the intertwined nature of the two right but it would be more appropriate to modify it to **“sleeplessness is the cause of death.”** [↩](#a6) <br>
 <b id="f7">7</b> Again, the unreliability of self reporting. [↩](#a7) <br>
+
+Code @[nbviewer](https://nbviewer.jupyter.org/github/endlesspint8/endlesspint8.github.io/blob/master/code/snm_caffeine/caff_HL.ipynb)
