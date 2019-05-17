@@ -35,7 +35,7 @@ Sleep is a wonderful rejuvenating activity that has for far too long in our gogo
 
 “Sleep, pfff. I’ll catch up when I’m dead.” Many of us by not protecting our sleep are quickening the arrival of that permanent sleep and suffering more along the way than we have to. It has become increasingly clear that cutting back on sleep leads to a host of bad health outcomes, both short-term and later in life (all things your Grandma could’ve told you). On the flipside, the benefits of consistent good sleep habits are practically too good to be true and might be brushed aside as quackery if they were pushed on us in the form of a pill:
 
-_"makes you live longer, enhances your memory and makes you more creative, it makes you look more attractive, it keeps you slim and lowers food cravings, it protects you from cancer and dementia, it wards off colds and the flu, it lowers your risk of heart attack, stroke and diabetes, you’ll feel happier, less depressed, and less anxious… Are you interested?" [WWS]_
+_"makes you live longer, enhances your memory and makes you more creative, it makes you look more attractive, it keeps you slim and lowers food cravings, it protects you from cancer and dementia, it wards off colds and the flu, it lowers your risk of heart attack, stroke and diabetes, you’ll feel happier, less depressed, and less anxious… Are you interested?" [WWS] _
 
 As anyone with children will tell you sleep is essential to keeping your mind, mood, and marriage together. Unfortunately there are a ton of ways we go about ruining the amount and quality of our sleep. Common among these is caffeine intake. This most widely consumed psychoactive drug<sup id="a3">[3](#f3)</sup> is enjoyed the globe over, across generations in a variety of methods. My preferred vehicles are coffee and dark chocolate - I suppose you can imagine what my favorite beer styles are as a result. You know that wonderful mind altering chemical we have been experimenting with as a species for several hundred years now. Why we sleep: “the consumption of caffeine represents one of the longest and largest unsupervised drug studies ever conducted on the human race. Perhaps only rivaled by alcohol.“
 
@@ -47,11 +47,13 @@ Over the past several months I had been sufficiently convinced of caffeine’s d
 
 <img src="/gallery/2019/snm_caffeine/caff_comp.jpg" alt="caff_comp" align="middle" width="75%" /><br />
 
-My shying away from afternoon coffee is a practice more people can benefit from. Some 90% of adults consume caffeine between noon and six in the evening with nearly 70% later still through midnight. This could be more difficult than simply abstaining from coffee as “[c]affeine content in beverages and foods is increasing in terms of dose and availability… the average person consum[ing] 319.32 +\- 180.94 mg of caffeine per day.” [JCSM paper, note 12] my initial threshold of 50 mg of caffeine by bedtime was mostly a made up round number, though not as arbitrary in fact as in  selection: 200 mg of caffeine 16 hours before bedtime were shown to affect sleep. [JCSM paper, note 29]. Considering a half-life falling between five and seven hours, these 200 mg would be at 50 mg when it was time to lie down for the evening. Taking a higher dosage of 400 mg we see that sleep is impacted in a number of ways, regardless if taken at bedtime, three hours before or six. Sleep was disrupted when it came to total sleep time, time it took to fall asleep, and wake time during sleep. [JCSM]
+My shying away from afternoon coffee is a practice more people can benefit from. Some 90% of adults consume caffeine between noon and six in the evening with nearly 70% later still through midnight. This could be more difficult than simply abstaining from coffee as “[c]affeine content in beverages and foods is increasing in terms of dose and availability… the average person consum[ing] 319.32 +\- 180.94 mg of caffeine per day.” [JCSM, note 12] my initial threshold of 50 mg of caffeine by bedtime was mostly a made up round number, though not as arbitrary in fact as in  selection: 200 mg of caffeine 16 hours before bedtime were shown to affect sleep. [JCSM, note 29]. Considering a half-life falling between five and seven hours, these 200 mg would be at 50 mg when it was time to lie down for the evening. Taking a higher dosage of 400 mg we see that sleep is impacted in a number of ways, regardless if taken at bedtime, three hours before or six. Sleep was disrupted when it came to total sleep time, time it took to fall asleep, and wake time during sleep. [JCSM]
+
+<img src="/gallery/2019/snm_caffeine/caff_diff_hl.jpg" alt="caff_diff_hl" align="middle" width="80%" /><br />
 
 Of the sleep parameters disturbed one in particular stood out as noticeably different between subjective reporting and objective measuring, wake time during sleep. This discrepancy in awareness versus experiencing sleep fragmentation could hint at why more of us do not appreciate the impact that our caffeine intake has on our recuperative efforts. More worrisome yet, we may fall into a vicious cycle of upping our caffeine intake to makeup for our lethargy, causing further sleep disruption and relying on further ratcheting up the caffeine.
 
-Past listing the outcomes of high caffeine intake on sleep performance the question of how this comes about may still linger. “Caffeine works its invigorating magic by occupying, blocking and effectively deactivating the atanoscene receptors in our brain. Our sleepiness signal is blocked and we are fooled into feeling awake.” (Why We Sleep) Moreover, there is evidence, both in human and animal studies, that caffeine can postpone the internal circadian rhythm thereby pushing out the release of melatonin. [second sleep paper] As a result our sleep and tired regulation does not happen at or around our intended bedtime but hours after we have already been in bed. This helps explain some of the disruption in both quantity and quality.
+Past listing the outcomes of high caffeine intake on sleep performance the question of how this comes about may still linger. "Caffeine works its invigorating magic by occupying, blocking and effectively deactivating the atanoscene receptors in our brain. Our sleepiness signal is blocked and we are fooled into feeling awake." [WWS] Moreover, there is evidence, both in human and animal studies, that caffeine can postpone the internal circadian rhythm thereby pushing out the release of melatonin. [STM] As a result our sleep and tired regulation does not happen at or around our intended bedtime but hours after we have already been in bed. This helps explain some of the disruption in both quantity and quality.
 
 A bit unnerving, though hardly surprising that there would be physical repercussions.<sup id="a4">[4](#f4)</sup>  However, the theme of bodily change goes further still, or rather deeper. Prolonged sleep disruption not only raises risks to a host of first world health problems, a murderers’ row of afflictions (think the reverse of the too good to be true benefits listed earlier<sup id="a5">[5](#f5)</sup>), but even changes our DNA.
 
@@ -80,9 +82,10 @@ Like a veteran athlete who adds tricks and moves to his repertoire to stay compe
 
 **Notes**
 
-- 
-
-[WWS]: Walker, M. (2017). _Why We Sleep: Unlocking the Power or Sleep and Dreams_
+[JCSM] Drake et al. Caffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going. _Journal of Clinical Sleep Medicine_ 2013; http://dx.doi.org/10.5664/jcsm.3170
+to Bed
+[STM] Burke et al. Effects of caffeine on the human circadian clock in vivo and in vitro. _Science Translational Medicine_ 2015; DOI: 10.1126/scitranslmed.aac5125
+[WWS] Walker, M. (2017). _Why We Sleep: Unlocking the Power or Sleep and Dreams_
 
 <b id="f1">1</b> Non-Macbeth quotes lifted from: Pendergrast, M. (2010). _Uncommon Grounds: The History of Coffee and How It Transformed Our World_ [↩](#a1) <br>
 <b id="f2">2</b>  Three popular audience books come readily to mind: _The Sleep Revolution_, _Sleep Smarter_, _Why We Sleep_. [↩](#a2) <br>
@@ -90,8 +93,3 @@ Like a veteran athlete who adds tricks and moves to his repertoire to stay compe
 <b id="f4">4</b> Speaking as a materialist, where else would the changes take place? [↩](#a4) <br>
 <b id="f5">5</b>  One street philosopher said [“sleep is the cousin of death.”](https://youtu.be/_srvHOu75vM) He had the intertwined nature of the two right but it would be more appropriate to modify it to **“sleeplessness is the cause of death.”** [↩](#a5) <br>
 <b id="f6">6</b> Again, the unreliability of self reporting. [↩](#a6) <br>
-
-
-
-<img src="/gallery/2019/snm_caffeine/caff_diff_hl.jpg" alt="caff_diff_hl" align="middle" width="80%" /><br />
-
