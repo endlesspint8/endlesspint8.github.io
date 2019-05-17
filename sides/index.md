@@ -8,6 +8,20 @@ subtitle: Extra Material
 <br><br>
 
 
+<h4 align="center" id="bingeDeck">Caffeine Half-life Chart</h4>
+
+**From**: _[Sleep No More - Caffeine](/2019-05-17-sleep-no-more-caffeine)_
+
+<p align="center">
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubchart?oid=854353585&amp;format=interactive" width="625" height="400" align="middle"></iframe>
+<br />
+  <sub>View/download <a href="https://docs.google.com/spreadsheets/d/1jQIdljiXKW9WDHQDDlVx-alLjbBDRxH7bds-ZkvRv4U/edit#gid=0">file</a>.</sub>
+  <br><br>
+</p>
+
+---
+<br>
+
 <h4 align="center" id="bingeDeck">Slide Deck of NB Applicability to US Binge Drinking</h4>
 
 **From**: _[Better Bayes to Drink - Naive Bingers](/2019-03-15-better-bayes-to-drink-naive-bingers)_
