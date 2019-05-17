@@ -14,7 +14,7 @@ When it comes to beer there is much to talk about, write about, and tackle. Heal
 
 > _O Coffee! Thou dost dispel all care, thou are the object of desire to the scholar. This is the beverage of the friends of God. —“ In Praise of Coffee,” Arabic poem (1511)_
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="300"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="300"></iframe><br />
 
 I performed a rough tracking of my caffeine intake in order to get an idea of consumption, with hopes of gaining insight on whether or not I was overdoing it. As a recent, though not exactly young, father it has become critical to take care of my energy reserves. There is a long day ahead, with others behind it that seem to stack up indefinitely. The weekends are often times nothing more than milestones zipped by, viewed more clearly in the rearview mirror then experienced in the moment. Coffee has been a necessity but even with this crutch I have found my energy being occasionally insufficient. Could it be that my coffee intake was ironically part of the problem, getting me (more) tired in the long run?
 
@@ -24,7 +24,7 @@ I tracked daily intake for 11 days, granting myself the assumption that by morni
 
 I speak mostly of coffee because I kicked the soda habit in my 20’s, have not taken to tea with any regularity and do not mess with energy drinks which seem so clearly detrimental that they should only be used to power through after a sleepless night. There is of course dark chocolate, also included in the tracking chart.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubchart?oid=854353585&amp;format=interactive" width="625" height="400" align="middle"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubchart?oid=854353585&amp;format=interactive" width="625" height="400" align="middle"></iframe><br />
 
 
 > _“Sleep is the chief nourisher in life‘s feast“ Macbeth, Act II Scene 2_
@@ -37,7 +37,9 @@ Sleep is a wonderful rejuvenating activity that has for far too long in our gogo
 
 As anyone with children will tell you sleep is essential to keeping your mind, mood, and marriage together. Unfortunately there are a ton of ways we go about ruining the amount and quality of our sleep. Common among these is caffeine intake. This most widely consumed psychoactive drug[FN: Caffeine itself is not a food supplement but rather the most widely used and abused psychoactive stimulant in the world. (Why We Sleep)] is enjoyed the globe over, across generations in a variety of methods. My preferred vehicles are coffee and dark chocolate - I suppose you can imagine what my favorite beer styles are as a result. You know that wonderful mind altering chemical we have been experimenting with as a species for several hundred years now. Why we sleep: “the consumption of caffeine represents one of the longest and largest unsupervised drug studies ever conducted on the human race. Perhaps only rivaled by alcohol.“
 
+
 > _O Coffee! Thou dost dispel all care, thou are the object of desire to the scholar. This is the beverage of the friends of God. —“ In Praise of Coffee,” Arabic poem (1511)_
+
 
 Over the past several months I had been sufficiently convinced of caffeine’s detrimental impact on sleep quality and it’s “staying around-ness” (5 to 7 hour half-life) to have already stopped drinking coffee after two in the afternoon, even moving that back to one on most days. I found an afternoon postprandial espresso, latte, or plain coffee too irresistible to turn down completely.
 
@@ -51,13 +53,15 @@ Past listing the outcomes of high caffeine intake on sleep performance the quest
 
 A bit unnerving, though hardly surprising that there would be physical repercussions [FN: speaking as a materialist, where else would the changes take place?]. However, the theme of bodily change goes further still, or rather deeper. Prolonged sleep disruption not only raises risks to a host of first world health problems, a murderers’ row of afflictions (think the reverse of the too good to be true benefits listed earlier [FN: One street philosopher said “sleep is the cousin of death.” [link] He had the intertwined nature of the two right but it would be more appropriate to modify it to “sleeplessness is the cause of death.”]), but even changes our DNA.
 
-STOPPING & FALLOUT
 
-_The voodoo priest and all his powders were as nothing compared to espresso, cappuccino, and mocha, which are stronger than all the religions of the world combined, and perhaps stronger than the human soul itself. —Mark Helprin, Memoir from Antproof Case (1995)_
+> _The voodoo priest and all his powders were as nothing compared to espresso, cappuccino, and mocha, which are stronger than all the religions of the world combined, and perhaps stronger than the human soul itself. —Mark Helprin, Memoir from Antproof Case (1995)_
+
 
 Skip forward a week after tracking and I stopped all caffeine intake. Cold turkey. For a week. At first I really needed to speak in short sentences. And repeat myself. In short sentences. But things went smoother soon after and I since reintroduced dark chocolate in the second week, tea in the third (as a substitute, a crutch?). How is it? Again, fine now. Energy is good and sleep is definitely no worse [FN: again, the unreliability of self reporting], most likely better as energy is less of an issue. It was undeniably rough in the get go, experiencing withdrawal symptoms, most notably in the form of headaches (approximately three days).
 
 I felt these withdrawals once before in my early 20s but then it had to do with soda, Coca-Cola specifically. I cannot remember how it started; my job and its long hours, plus the company-paid dinners almost certainly were the main drivers, but I remember realizing that I could not finish a lunch without going for a can of Coke. It was the sweetness, the carbonation, the shot of energy, the whole thing wrapped up together in an irresistible package. When the thought first occurred I might need a drink I was curious. A bit skeptical I found the idea amusing. I observed myself for a couple of days and noticed that the craving which originally gave me my insight was no fluke, its echo returning each day, about the same time, in the same settings to stoke my desire. I figured this was probably not a good thing (I was letting myself down gently). With a bit of time, almost like someone pumping themselves up to bungee jump I took the dive and stopped.
+
+> _“It is disgusting to notice the increase in the quantity of coffee used by my subjects, and the like amount of money that goes out of the country in consequence. My people must drink beer. His Majesty was brought up on beer, and so were his ancestors.”_
 
 Now a month without coffee and I hardly miss it. When I do it is from the social, habitual and taste point of view (it is these multiple angles that make many habits difficult to begin or break, e.g. working out and cigarettes, respectively). Even before I became a regular coffee drinker I enjoyed the smell. Still do. But it is not as if I have sworn off the stuff, I am just trying to get some better quality sleep and recovery by taking a break. Moreover, I am not a monk and staying away from caffeine altogether. There is still the occasional dark chocolate and more frequent tea drinking.
 
@@ -65,16 +69,8 @@ This has been an experiment, several in fact, from tracking, to prepping, to act
 
 Like a veteran athlete who adds tricks and moves to his repertoire to stay competitive we aging beer aficionados need to find ways to stay “active.” 
 
-_“It is disgusting to notice the increase in the quantity of coffee used by my subjects, and the like amount of money that goes out of the country in consequence. My people must drink beer. His Majesty was brought up on beer, and so were his ancestors.”_
-
 
 <img src="/gallery/2019/snm_caffeine/caff_hl_iqr.jpg" alt="caff_hl_iqr" align="middle" width="100%" /><br />
-
-<img src="/gallery/2019/snm_caffeine/caff_intake_summaries.jpg" alt="caff_intake_summaries" align="middle" width="100%" /><br />
-
-<img src="/gallery/2019/snm_caffeine/caff_diff_hl.jpg" alt="caff_diff_hl" align="middle" width="100%" /><br />
-
----
 
 
 
@@ -84,4 +80,5 @@ _“It is disgusting to notice the increase in the quantity of coffee used by my
 
 - Non-Macbeth quotes lifted from: Pendergrast, M. (2010). _Uncommon Grounds: The History of Coffee and How It Transformed Our World_
 
+<img src="/gallery/2019/snm_caffeine/caff_diff_hl.jpg" alt="caff_diff_hl" align="middle" width="80%" /><br />
 
