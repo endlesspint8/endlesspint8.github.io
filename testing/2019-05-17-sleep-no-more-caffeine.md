@@ -9,30 +9,14 @@ image: http://endlesspint.com/gallery/2019/boxing/spence_act_v_exp.png
 sideof: []
 ---
 
+When it comes to beer there is much to talk about, write about, and tackle. Health aspects have been a recent [topic in this space](/tag/health). Here the health angle continues but from the perspective of other drinks. The health measure, sleep. The culprit, caffeine. Beyond, or better yet because of, the added alertness, boost in energy, and mood enhancement it is worth asking what else comes along for the ride, or is left out. Caffeine and sleep are inexorably intertwined as they push against one another. A relevant place to look for caffeine intake impact is our overall sleep, both in quantity and quality.
 
 
-
-
-
-
-<img src="/gallery/2019/snm_caffeine/caff_hl_iqr.jpg" alt="caff_hl_iqr" align="middle" width="100%" /><br />
-
-<img src="/gallery/2019/snm_caffeine/caff_intake_summaries.jpg" alt="caff_intake_summaries" align="middle" width="100%" /><br />
-
-<img src="/gallery/2019/snm_caffeine/caff_diff_hl.jpg" alt="caff_diff_hl" align="middle" width="100%" /><br />
-
-
-
-When it comes to beer there is much to talk about, write about, and tackle. Health aspects have been a recent [topic in this space](link). Here the health angle continues but from the perspective of other drinks. The health measure, sleep. The culprit, caffeine. Beyond, or better yet because of, the added alertness, boost in energy, and mood enhancement it is worth asking what else comes along for the ride, or is left out. Caffeine and sleep are inexorably intertwined as they push against one another. A relevant place to look for caffeine intake impact is our overall sleep, both in quantity and quality.
-
-
-TRACKING
+> _O Coffee! Thou dost dispel all care, thou are the object of desire to the scholar. This is the beverage of the friends of God. —“ In Praise of Coffee,” Arabic poem (1511)_
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="300"></iframe>
 
 I performed a rough tracking of my caffeine intake in order to get an idea of consumption, with hopes of gaining insight on whether or not I was overdoing it. As a recent, though not exactly young, father it has become critical to take care of my energy reserves. There is a long day ahead, with others behind it that seem to stack up indefinitely. The weekends are often times nothing more than milestones zipped by, viewed more clearly in the rearview mirror then experienced in the moment. Coffee has been a necessity but even with this crutch I have found my energy being occasionally insufficient. Could it be that my coffee intake was ironically part of the problem, getting me (more) tired in the long run?
-
-<sub><a href="https://docs.google.com/spreadsheets/d/1jQIdljiXKW9WDHQDDlVx-alLjbBDRxH7bds-ZkvRv4U/edit?usp=sharing" target="_blank">Edit the table</a> to update the chart.</sub>
 
 I tracked daily intake for 11 days, granting myself the assumption that by morning I started back at 0 mg of caffeine. By the second or third day it was clear this could not be true but I stuck with the naive recording process to avoid complication. With a half-life between 5 to 7 hours, and a half hour fuse to hit its peak, you can expect that 24 hours after ingesting caffeine something like 5% of it will linger on in your body. That caffeine has been with you everywhere you have been, most crucially to bed and throughout your slumber, or attempts at sleep and dreaming.
 
@@ -40,10 +24,10 @@ I tracked daily intake for 11 days, granting myself the assumption that by morni
 
 I speak mostly of coffee because I kicked the soda habit in my 20’s, have not taken to tea with any regularity and do not mess with energy drinks which seem so clearly detrimental that they should only be used to power through after a sleepless night. There is of course dark chocolate, also included in the tracking chart.
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubchart?oid=854353585&amp;format=interactive" width="625" height="400" align="middle"></iframe>
 
-SLEEP BENEFITS
 
-“sleep is the chief nourisher in life‘s feast“ Macbeth act two scene two
+> _“Sleep is the chief nourisher in life‘s feast“ Macbeth, Act II Scene 2_
 
 Sleep is a wonderful rejuvenating activity that has for far too long in our gogo society been getting a short shift (the third shift, if you will). Sleep, however is having a moment [FN: Three popular audience books come readily to mind: Huffington, Why We Sleep, 21… ]  and looks to take its rightful place among diet and exercise, perhaps ahead of them, as a critical pillar to a healthy mind, body, and overall well being. 
 
@@ -53,13 +37,11 @@ Sleep is a wonderful rejuvenating activity that has for far too long in our gogo
 
 As anyone with children will tell you sleep is essential to keeping your mind, mood, and marriage together. Unfortunately there are a ton of ways we go about ruining the amount and quality of our sleep. Common among these is caffeine intake. This most widely consumed psychoactive drug[FN: Caffeine itself is not a food supplement but rather the most widely used and abused psychoactive stimulant in the world. (Why We Sleep)] is enjoyed the globe over, across generations in a variety of methods. My preferred vehicles are coffee and dark chocolate - I suppose you can imagine what my favorite beer styles are as a result. You know that wonderful mind altering chemical we have been experimenting with as a species for several hundred years now. Why we sleep: “the consumption of caffeine represents one of the longest and largest unsupervised drug studies ever conducted on the human race. Perhaps only rivaled by alcohol.“
 
-SLEEP DISRUPTION
-
-_O Coffee! Thou dost dispel all care, thou are the object of desire to the scholar. This is the beverage of the friends of God. —“ In Praise of Coffee,” Arabic poem (1511)_
+> _O Coffee! Thou dost dispel all care, thou are the object of desire to the scholar. This is the beverage of the friends of God. —“ In Praise of Coffee,” Arabic poem (1511)_
 
 Over the past several months I had been sufficiently convinced of caffeine’s detrimental impact on sleep quality and it’s “staying around-ness” (5 to 7 hour half-life) to have already stopped drinking coffee after two in the afternoon, even moving that back to one on most days. I found an afternoon postprandial espresso, latte, or plain coffee too irresistible to turn down completely.
 
-<img src="/gallery/2019/snm_caffeine/caff_comp.jpg" alt="caff_comp" align="middle" width="65%" /><br />
+<img src="/gallery/2019/snm_caffeine/caff_comp.jpg" alt="caff_comp" align="middle" width="75%" /><br />
 
 My shying away from afternoon coffee is a practice more people can benefit from. Some 90% of adults consume caffeine between noon and six in the evening with nearly 70% later still through midnight. This could be more difficult than simply abstaining from coffee as “[c]affeine content in beverages and foods is increasing in terms of dose and availability… the average person consum[ing] 319.32 +\- 180.94 mg of caffeine per day.” [JCSM paper, note 12] my initial threshold of 50 mg of caffeine by bedtime was mostly a made up round number, though not as arbitrary in fact as in  selection: 200 mg of caffeine 16 hours before bedtime were shown to affect sleep. [JCSM paper, note 29]. Considering a half-life falling between five and seven hours, these 200 mg would be at 50 mg when it was time to lie down for the evening. Taking a higher dosage of 400 mg we see that sleep is impacted in a number of ways, regardless if taken at bedtime, three hours before or six. Sleep was disrupted when it came to total sleep time, time it took to fall asleep, and wake time during sleep. [JCSM]
 
@@ -86,14 +68,20 @@ Like a veteran athlete who adds tricks and moves to his repertoire to stay compe
 _“It is disgusting to notice the increase in the quantity of coffee used by my subjects, and the like amount of money that goes out of the country in consequence. My people must drink beer. His Majesty was brought up on beer, and so were his ancestors.”_
 
 
+<img src="/gallery/2019/snm_caffeine/caff_hl_iqr.jpg" alt="caff_hl_iqr" align="middle" width="100%" /><br />
+
+<img src="/gallery/2019/snm_caffeine/caff_intake_summaries.jpg" alt="caff_intake_summaries" align="middle" width="100%" /><br />
+
+<img src="/gallery/2019/snm_caffeine/caff_diff_hl.jpg" alt="caff_diff_hl" align="middle" width="100%" /><br />
+
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubchart?oid=854353585&amp;format=interactive" width="625" height="400" align="middle"></iframe>
+
 
 ---
 
 **Notes**
 
-- Quotes lifted from: Pendergrast, M. (2010). _Uncommon Grounds: The History of Coffee and How It Transformed Our World_
+- Non-Macbeth quotes lifted from: Pendergrast, M. (2010). _Uncommon Grounds: The History of Coffee and How It Transformed Our World_
 
 
