@@ -5,9 +5,11 @@ subtitle: J-j-j-jitters
 tags: ["health", "", ""]
 shortlink: 
 twitimg: 
-image: http://endlesspint.com/gallery/2019/boxing/spence_act_v_exp.png
+image: http://endlesspint.com/gallery/2019/snm_caffeine/aroma-art-beverage-1251175.jpg
 sideof: []
 ---
+
+<img src="/gallery/2019/snm_caffeine/aroma-art-beverage-1251175.jpg" alt="aroma-art-beverage" align="middle" width="100%" /><br />
 
 When it comes to beer there is much to talk about, write about, and tackle. Health aspects have been a recent [topic in this space](/tag/health). Here the health angle continues but from the perspective of other drinks. The health measure, sleep. The culprit, caffeine. Beyond, or better yet because of, the added alertness, boost in energy, and mood enhancement it is worth asking what else comes along for the ride, or is left out. Caffeine and sleep are inexorably intertwined as they push against one another. A relevant place to look for caffeine impact is our overall sleep, both in quantity and quality.
 
@@ -47,13 +49,13 @@ Over the past several months I had been sufficiently convinced of caffeine’s d
 
 <img src="/gallery/2019/snm_caffeine/caff_comp.jpg" alt="caff_comp" align="middle" width="75%" /><br />
 
-My shying away from afternoon coffee is a practice more people can benefit from. Some 90% of adults consume caffeine between noon and six in the evening with nearly 70% later still through midnight. This could be more difficult than simply abstaining from coffee as “[c]affeine content in beverages and foods is increasing in terms of dose and availability… the average person consum[ing] 319.32 +\- 180.94 mg of caffeine per day.” [JCSM, note 12] my initial threshold of 50 mg of caffeine by bedtime was mostly a made up round number, though not as arbitrary in fact as in  selection: 200 mg of caffeine 16 hours before bedtime were shown to affect sleep. [JCSM, note 29]. Considering a half-life falling between five and seven hours, these 200 mg would be at 50 mg when it was time to lie down for the evening. Taking a higher dosage of 400 mg we see that sleep is impacted in a number of ways, regardless if taken at bedtime, three hours before or six. Sleep was disrupted when it came to total sleep time, time it took to fall asleep, and wake time during sleep. [JCSM]
+My shying away from afternoon coffee is a practice more people can benefit from. Some 90% of adults consume caffeine between noon and six in the evening with nearly 70% later still through midnight. This could be more difficult than simply abstaining from coffee as "[c]affeine content in beverages and foods is increasing in terms of dose and availability… the average person consum[ing] 319.32 +/- 180.94 mg of caffeine per day [JCSM, note 12]." my initial threshold of 50 mg of caffeine by bedtime was mostly a made up round number, though not as arbitrary in fact as in  selection: 200 mg of caffeine 16 hours before bedtime were shown to affect sleep. [JCSM, note 29]. Considering a half-life falling between five and seven hours, these 200 mg would be at 50 mg when it was time to lie down for the evening. Taking a higher dosage of 400 mg we see that sleep is impacted in a number of ways, regardless if taken at bedtime, three hours before or six. Sleep was disrupted when it came to total sleep time, time it took to fall asleep, and wake time during sleep [JCSM].
 
 <img src="/gallery/2019/snm_caffeine/caff_diff_hl.jpg" alt="caff_diff_hl" align="middle" width="80%" /><br />
 
-Of the sleep parameters disturbed one in particular stood out as noticeably different between subjective reporting and objective measuring, wake time during sleep. This discrepancy in awareness versus experiencing sleep fragmentation could hint at why more of us do not appreciate the impact that our caffeine intake has on our recuperative efforts. More worrisome yet, we may fall into a vicious cycle of upping our caffeine intake to makeup for our lethargy, causing further sleep disruption and relying on further ratcheting up the caffeine.
+Of the sleep parameters disturbed one in particular stood out as noticeably different between subjective reporting and objective measuring, wake time during sleep. This discrepancy in awareness versus experiencing sleep fragmentation could hint at why more of us do not appreciate the impact that our caffeine intake has on our recuperative efforts. More worrisome yet, we may fall into a vicious cycle of upping our caffeine intake to makeup for our lethargy, causing further sleep disruption and relying on further caffeine escalation.
 
-Past listing the outcomes of high caffeine intake on sleep performance the question of how this comes about may still linger. "Caffeine works its invigorating magic by occupying, blocking and effectively deactivating the atanoscene receptors in our brain. Our sleepiness signal is blocked and we are fooled into feeling awake." [WWS] Moreover, there is evidence, both in human and animal studies, that caffeine can postpone the internal circadian rhythm thereby pushing out the release of melatonin. [STM] As a result our sleep and tired regulation does not happen at or around our intended bedtime but hours after we have already been in bed. This helps explain some of the disruption in both quantity and quality.
+Past listing the outcomes of high caffeine intake on sleep performance the question of how this comes about may still linger. "Caffeine works its invigorating magic by occupying, blocking and effectively deactivating the atanoscene receptors in our brain. Our sleepiness signal is blocked and we are fooled into feeling awake [WWS]." Moreover, there is evidence, both in human and animal studies, that caffeine can postpone the internal circadian rhythm thereby pushing out the release of melatonin [STM]. As a result our sleep and tired regulation does not happen at or around our intended bedtime but hours after we have already been in bed. This helps explain some of the disruption in both quantity and quality.
 
 A bit unnerving, though hardly surprising that there would be physical repercussions.<sup id="a5">[5](#f5)</sup>  However, the theme of bodily change goes further still, or rather deeper. Prolonged sleep disruption not only raises risks to a host of first world health problems, a murderers’ row of afflictions (think the reverse of the too good to be true benefits listed earlier<sup id="a6">[6](#f6)</sup>), but even changes our DNA.
 
@@ -77,10 +79,11 @@ Like a veteran athlete who adds tricks and moves to his repertoire to stay compe
 <img src="/gallery/2019/snm_caffeine/caff_hl_iqr.jpg" alt="caff_hl_iqr" align="middle" width="100%" /><br />
 
 
-
 ---
 
 **Notes**
+
+[Opening photo by rawpixel.com from Pexels](https://www.pexels.com/photo/six-white-ceramic-mugs-1251175/)
 
 [JCSM] Drake et al. Caffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going. _Journal of Clinical Sleep Medicine_ 2013; http://dx.doi.org/10.5664/jcsm.3170 <br>
 to Bed
