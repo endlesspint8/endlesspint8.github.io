@@ -12,9 +12,10 @@ sideof: []
 When it comes to beer there is much to talk about, write about, and tackle. Health aspects have been a recent [topic in this space](/tag/health). Here the health angle continues but from the perspective of other drinks. The health measure, sleep. The culprit, caffeine. Beyond, or better yet because of, the added alertness, boost in energy, and mood enhancement it is worth asking what else comes along for the ride, or is left out. Caffeine and sleep are inexorably intertwined as they push against one another. A relevant place to look for caffeine intake impact is our overall sleep, both in quantity and quality.
 
 
-> _O Coffee! Thou dost dispel all care, thou are the object of desire to the scholar. This is the beverage of the friends of God. —“ In Praise of Coffee,” Arabic poem (1511)_
+> _O Coffee! Thou dost dispel all care, thou are the object of desire to the scholar. This is the beverage of the friends of God. —“ In Praise of Coffee,” Arabic poem (1511)_ <sup id="a1">[1](#f1)</sup> 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="300"></iframe><br />
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubchart?oid=854353585&amp;format=interactive" width="625" height="400" align="middle"></iframe>
+<br />
 
 I performed a rough tracking of my caffeine intake in order to get an idea of consumption, with hopes of gaining insight on whether or not I was overdoing it. As a recent, though not exactly young, father it has become critical to take care of my energy reserves. There is a long day ahead, with others behind it that seem to stack up indefinitely. The weekends are often times nothing more than milestones zipped by, viewed more clearly in the rearview mirror then experienced in the moment. Coffee has been a necessity but even with this crutch I have found my energy being occasionally insufficient. Could it be that my coffee intake was ironically part of the problem, getting me (more) tired in the long run?
 
@@ -24,18 +25,19 @@ I tracked daily intake for 11 days, granting myself the assumption that by morni
 
 I speak mostly of coffee because I kicked the soda habit in my 20’s, have not taken to tea with any regularity and do not mess with energy drinks which seem so clearly detrimental that they should only be used to power through after a sleepless night. There is of course dark chocolate, also included in the tracking chart.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubchart?oid=854353585&amp;format=interactive" width="625" height="400" align="middle"></iframe><br />
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRfh2n1vwODQT04tOcrx0mhZf_JYG4n9myGJB2JMHau40tjtxO-pXt4JR00neMgCsNrdTNbbkLT4kZ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="300"></iframe>
+<br />
 
 
 > _“Sleep is the chief nourisher in life‘s feast“ Macbeth, Act II Scene 2_
 
-Sleep is a wonderful rejuvenating activity that has for far too long in our gogo society been getting a short shift (the third shift, if you will). Sleep, however is having a moment [FN: Three popular audience books come readily to mind: Huffington, Why We Sleep, 21… ]  and looks to take its rightful place among diet and exercise, perhaps ahead of them, as a critical pillar to a healthy mind, body, and overall well being. 
+Sleep is a wonderful rejuvenating activity that has for far too long in our gogo society been getting a short shift (the third shift, if you will). Sleep, however is having a moment<sup id="a2">[2](#f2)</sup> and looks to take its rightful place among diet and exercise, perhaps ahead of them, as a critical pillar to a healthy mind, body, and overall well being. 
 
-“Sleep, pfff. I’ll catch up when I’m dead.” Many of us by not protecting our sleep are quickening the arrival of that permanent sleep and suffering more along the way than we have to. It has become increasingly clear that cutting back on sleep leads to a host of bad health outcomes, both short-term and later in life (all things your Grandma could’ve told you). On the flipside, the benefits of consistent good sleep habits are practically too good to be true and might be brushed aside as quackery if they were pushed on us in the form of a pill:  
+“Sleep, pfff. I’ll catch up when I’m dead.” Many of us by not protecting our sleep are quickening the arrival of that permanent sleep and suffering more along the way than we have to. It has become increasingly clear that cutting back on sleep leads to a host of bad health outcomes, both short-term and later in life (all things your Grandma could’ve told you). On the flipside, the benefits of consistent good sleep habits are practically too good to be true and might be brushed aside as quackery if they were pushed on us in the form of a pill:
 
-“makes you live longer, enhances your memory and makes you more creative, it makes you look more attractive, it keeps you slim and lowers food cravings, it protects you from cancer and dementia, it wards off colds and the flu, it lowers your risk of heart attack, stroke and diabetes, you’ll feel happier, less depressed, and less anxious… Are you interested?” [Why we sleep, benefits:]. 
+_"makes you live longer, enhances your memory and makes you more creative, it makes you look more attractive, it keeps you slim and lowers food cravings, it protects you from cancer and dementia, it wards off colds and the flu, it lowers your risk of heart attack, stroke and diabetes, you’ll feel happier, less depressed, and less anxious… Are you interested?" [WWS]_
 
-As anyone with children will tell you sleep is essential to keeping your mind, mood, and marriage together. Unfortunately there are a ton of ways we go about ruining the amount and quality of our sleep. Common among these is caffeine intake. This most widely consumed psychoactive drug[FN: Caffeine itself is not a food supplement but rather the most widely used and abused psychoactive stimulant in the world. (Why We Sleep)] is enjoyed the globe over, across generations in a variety of methods. My preferred vehicles are coffee and dark chocolate - I suppose you can imagine what my favorite beer styles are as a result. You know that wonderful mind altering chemical we have been experimenting with as a species for several hundred years now. Why we sleep: “the consumption of caffeine represents one of the longest and largest unsupervised drug studies ever conducted on the human race. Perhaps only rivaled by alcohol.“
+As anyone with children will tell you sleep is essential to keeping your mind, mood, and marriage together. Unfortunately there are a ton of ways we go about ruining the amount and quality of our sleep. Common among these is caffeine intake. This most widely consumed psychoactive drug<sup id="a3">[3](#f3)</sup> is enjoyed the globe over, across generations in a variety of methods. My preferred vehicles are coffee and dark chocolate - I suppose you can imagine what my favorite beer styles are as a result. You know that wonderful mind altering chemical we have been experimenting with as a species for several hundred years now. Why we sleep: “the consumption of caffeine represents one of the longest and largest unsupervised drug studies ever conducted on the human race. Perhaps only rivaled by alcohol.“
 
 
 > _O Coffee! Thou dost dispel all care, thou are the object of desire to the scholar. This is the beverage of the friends of God. —“ In Praise of Coffee,” Arabic poem (1511)_
@@ -51,17 +53,17 @@ Of the sleep parameters disturbed one in particular stood out as noticeably diff
 
 Past listing the outcomes of high caffeine intake on sleep performance the question of how this comes about may still linger. “Caffeine works its invigorating magic by occupying, blocking and effectively deactivating the atanoscene receptors in our brain. Our sleepiness signal is blocked and we are fooled into feeling awake.” (Why We Sleep) Moreover, there is evidence, both in human and animal studies, that caffeine can postpone the internal circadian rhythm thereby pushing out the release of melatonin. [second sleep paper] As a result our sleep and tired regulation does not happen at or around our intended bedtime but hours after we have already been in bed. This helps explain some of the disruption in both quantity and quality.
 
-A bit unnerving, though hardly surprising that there would be physical repercussions [FN: speaking as a materialist, where else would the changes take place?]. However, the theme of bodily change goes further still, or rather deeper. Prolonged sleep disruption not only raises risks to a host of first world health problems, a murderers’ row of afflictions (think the reverse of the too good to be true benefits listed earlier [FN: One street philosopher said “sleep is the cousin of death.” [link] He had the intertwined nature of the two right but it would be more appropriate to modify it to “sleeplessness is the cause of death.”]), but even changes our DNA.
+A bit unnerving, though hardly surprising that there would be physical repercussions.<sup id="a4">[4](#f4)</sup>  However, the theme of bodily change goes further still, or rather deeper. Prolonged sleep disruption not only raises risks to a host of first world health problems, a murderers’ row of afflictions (think the reverse of the too good to be true benefits listed earlier<sup id="a5">[5](#f5)</sup>), but even changes our DNA.
 
 
 > _The voodoo priest and all his powders were as nothing compared to espresso, cappuccino, and mocha, which are stronger than all the religions of the world combined, and perhaps stronger than the human soul itself. —Mark Helprin, Memoir from Antproof Case (1995)_
 
 
-Skip forward a week after tracking and I stopped all caffeine intake. Cold turkey. For a week. At first I really needed to speak in short sentences. And repeat myself. In short sentences. But things went smoother soon after and I since reintroduced dark chocolate in the second week, tea in the third (as a substitute, a crutch?). How is it? Again, fine now. Energy is good and sleep is definitely no worse [FN: again, the unreliability of self reporting], most likely better as energy is less of an issue. It was undeniably rough in the get go, experiencing withdrawal symptoms, most notably in the form of headaches (approximately three days).
+Skip forward a week after tracking and I stopped all caffeine intake. Cold turkey. For a week. At first I really needed to speak in short sentences. And repeat myself. In short sentences. But things went smoother soon after and I since reintroduced dark chocolate in the second week, tea in the third (as a substitute, a crutch?). How is it? Again, fine now. Energy is good and sleep is definitely no worse,<sup id="a6">[6](#f6)</sup> most likely better as energy is less of an issue. It was undeniably rough in the get go, experiencing withdrawal symptoms, most notably in the form of headaches (approximately three days).
 
 I felt these withdrawals once before in my early 20s but then it had to do with soda, Coca-Cola specifically. I cannot remember how it started; my job and its long hours, plus the company-paid dinners almost certainly were the main drivers, but I remember realizing that I could not finish a lunch without going for a can of Coke. It was the sweetness, the carbonation, the shot of energy, the whole thing wrapped up together in an irresistible package. When the thought first occurred I might need a drink I was curious. A bit skeptical I found the idea amusing. I observed myself for a couple of days and noticed that the craving which originally gave me my insight was no fluke, its echo returning each day, about the same time, in the same settings to stoke my desire. I figured this was probably not a good thing (I was letting myself down gently). With a bit of time, almost like someone pumping themselves up to bungee jump I took the dive and stopped.
 
-> _“It is disgusting to notice the increase in the quantity of coffee used by my subjects, and the like amount of money that goes out of the country in consequence. My people must drink beer. His Majesty was brought up on beer, and so were his ancestors.”_
+> _“It is disgusting to notice the increase in the quantity of coffee used by my subjects, and the like amount of money that goes out of the country in consequence. My people must drink beer. His Majesty was brought up on beer, and so were his ancestors.” -Frederick the Great_
 
 Now a month without coffee and I hardly miss it. When I do it is from the social, habitual and taste point of view (it is these multiple angles that make many habits difficult to begin or break, e.g. working out and cigarettes, respectively). Even before I became a regular coffee drinker I enjoyed the smell. Still do. But it is not as if I have sworn off the stuff, I am just trying to get some better quality sleep and recovery by taking a break. Moreover, I am not a monk and staying away from caffeine altogether. There is still the occasional dark chocolate and more frequent tea drinking.
 
@@ -78,7 +80,18 @@ Like a veteran athlete who adds tricks and moves to his repertoire to stay compe
 
 **Notes**
 
-- Non-Macbeth quotes lifted from: Pendergrast, M. (2010). _Uncommon Grounds: The History of Coffee and How It Transformed Our World_
+- 
+
+[WWS]: Walker, M. (2017). _Why We Sleep: Unlocking the Power or Sleep and Dreams_
+
+<b id="f1">1</b> Non-Macbeth quotes lifted from: Pendergrast, M. (2010). _Uncommon Grounds: The History of Coffee and How It Transformed Our World_ [↩](#a1) <br>
+<b id="f2">2</b>  Three popular audience books come readily to mind: _The Sleep Revolution_, _Sleep Smarter_, _Why We Sleep_. [↩](#a2) <br>
+<b id="f3">3</b> "Caffeine itself is not a food supplement but rather the most widely used and abused psychoactive stimulant in the world." (Why We Sleep)]  [↩](#a3) <br>
+<b id="f4">4</b> Speaking as a materialist, where else would the changes take place? [↩](#a4) <br>
+<b id="f5">5</b>  One street philosopher said [“sleep is the cousin of death.”](https://youtu.be/_srvHOu75vM) He had the intertwined nature of the two right but it would be more appropriate to modify it to **“sleeplessness is the cause of death.”** [↩](#a5) <br>
+<b id="f6">6</b> Again, the unreliability of self reporting. [↩](#a6) <br>
+
+
 
 <img src="/gallery/2019/snm_caffeine/caff_diff_hl.jpg" alt="caff_diff_hl" align="middle" width="80%" /><br />
 
