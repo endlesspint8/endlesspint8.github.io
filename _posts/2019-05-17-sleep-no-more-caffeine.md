@@ -6,7 +6,7 @@ tags: ["health", "", ""]
 shortlink: 
 twitimg: 
 image: http://endlesspint.com/gallery/2019/snm_caffeine/aroma-art-beverage-1251175.jpg
-sideof: []
+sideof: ["Caffeine half-life", "https://docs.google.com/spreadsheets/d/1jQIdljiXKW9WDHQDDlVx-alLjbBDRxH7bds-ZkvRv4U/edit#gid=0", " table and graph."]
 ---
 
 <img src="/gallery/2019/snm_caffeine/aroma-art-beverage-1251175.jpg" alt="aroma-art-beverage" align="middle" width="100%" /><br />
