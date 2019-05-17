@@ -32,6 +32,7 @@ However, to insure promptness and the continued flow of posts click the pint log
 | [design](/tag/design)  	| MLE  	| PyMC  	|
 | [digressions](/tag/digressions)  	| Gini  	| seaborn  	|
 | [festivals](/tag/festivals)  	| [mapping](/tag/mapping)   	| D3  	|
+| [health](/tag/health)  	  	|   	|   	|
 | [history/industry](/tag/grounding)  	|  simulation 	|   	|
 | [nyc](/tag/nyc)  	|   	|   	|
 | [taste](/tag/taste)  	|   	|   	|
