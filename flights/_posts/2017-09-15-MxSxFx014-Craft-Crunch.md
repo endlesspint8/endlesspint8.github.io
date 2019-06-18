@@ -1,11 +1,23 @@
-Is there a big crunch a-comin'? (*|ARCHIVE|*)
+---
+layout: post
+title: Craft Crunch
+subtitle: Is there a big crunch a-comin'?
+tags: ["", ""]
+shortlink: 
+image: 
+sideof: 
+---
+
+**(links and images still need to prettify'd, but the text is set)** 
+
+ (*|ARCHIVE|*)
 The second installment in a series of six readings and interpretations from The Geography of Beer (https://www.amazon.com/Geography-Beer-Regions-Environment-Societies/dp/9400777868) , Part III - Societies. The abstract of the current paper, 'The Ubiquity of Good Taste: A Spatial Analysis of the Craft Brewing Industry in the United States' by Ralph B. McLaughlin (mailto:ralph.mclaughlin@sjsu.edu?subject=The%20Ubiquity%20of%20Good%20Taste%2C%20EndlessPint%20Write-up%20) , Neil Reid and Michael S. Moore, may be read on Springer (https://rd.springer.com/chapter/10.1007/978-94-007-7787-3_13) .
 
 https://www.flickr.com/photos/gsfc/
 
 NASA gsfc
 
-Some Say Fire, Some Say Ice
+## Some Say Fire, Some Say Ice
 
 Long ago, before time, in a place that did not exist, our universe came into being. All matter and energy exploded out of an infinitely dense and hot extension-less  point (the singularity). The send out force persists and powers the accelerating expansion of the universe. What happens ultimately depends upon the created matter and energy. The ratio between these two densities will determine whether we inhabit an open, flat, or closed universe, which in turn will speak to the fate of the universe. On opposite ends of the spectrum we have an infinite expansion and a collapse, The Big Crunch (http://science.howstuffworks.com/dictionary/astronomy-terms/big-crunch.htm) .
 
@@ -47,14 +59,15 @@ http://science.howstuffworks.com/dictionary/astronomy-terms/big-crunch.htm/print
 HowStuffWorks
 
 Fire and Ice
+
 by Robert Frost
 
-Some say the world will end in fire,
-Some say in ice.
-From what I’ve tasted of desire
-I hold with those who favor fire.
-But if it had to perish twice,
-I think I know enough of hate
-To say that for destruction ice
-Is also great
-And would suffice.
+> Some say the world will end in fire, <br>
+> Some say in ice. <br>
+> From what I’ve tasted of desire <br>
+> I hold with those who favor fire. <br>
+> But if it had to perish twice, <br>
+> I think I know enough of hate <br>
+> To say that for destruction ice <br>
+> Is also great <br>
+> And would suffice.
