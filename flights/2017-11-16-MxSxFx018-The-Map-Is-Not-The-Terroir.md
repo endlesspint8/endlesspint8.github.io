@@ -1,9 +1,22 @@
-Imbricate this! (*|ARCHIVE|*)
+---
+layout: post
+title: The Map is not the Terroir
+subtitle: Imbricate this!
+tags: ["", ""]
+shortlink: 
+image: 
+sideof: 
+---
+
+**(links and images still need to prettify'd, but the text is set)** 
+
+(*|ARCHIVE|*)
 The final installment in a series of six readings and interpretations from The Geography of Beer (https://www.amazon.com/Geography-Beer-Regions-Environment-Societies/dp/9400777868) , Part III - Societies. The abstract of the current paper, 'Offline Brews and Online Views: Exploring the Geography of Beer Tweets' by Matthew Zook and Ate Poorthuis (mailto:ate.poorthuis@uky.edu?subject=Offline%20Brews%20and%20Online%20Views%20%7C%20EndlessPint%20Write-up%20) , may be read on Springer (https://rd.springer.com/chapter/10.1007/978-94-007-7787-3_13) .
 
 https://youtu.be/WHRnvjCkTsw?t=44s
 
-All I see are blonde, bruin, stouts, IPA...
+## All I see are blonde, bruin, stouts, IPA...
+
 Offline Brews and Online Views is a wonderful illustration of a magician’s trick. The authors have a twofold motivation: to map the spatial occurrences, frequencies, and comparative differences of Tweets related to beer and to connect this online representation with offline consumer behavior. These motives are complimentary and helpful in informing one another. They are also separable and remain so, despite the numerous incantations of the authors. Did I say magicians? I meant hypnotists.
 
 The authors reference the online presence of beer mentions and their close ties and relations to offline behavior. Yet beyond the Tweets collected, counted, and mapped there is no direct tie-in to actions in the real world. The closest reference to the real world is in identifying wine producing and traditional brewing regions and their underpinning to the Tweet activity. We are reassured that we are seeing what we should expect, but there is no data link between the Tweets, their contents, geolocation, and specific beer sales. All we can say with certainty is that the maps represent the typing of Global Teens (https://www.tor.com/2011/04/12/genre-in-the-mainstream-the-dystopia-of-gary-shteyngarts-super-sad-true-love-story/) on their keypads on one social media platform.
