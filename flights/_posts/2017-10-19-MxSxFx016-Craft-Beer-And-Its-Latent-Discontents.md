@@ -1,8 +1,21 @@
-You're not your fucking khakis (*|ARCHIVE|*)
+---
+layout: post
+title: Craft Beer and Its Latent Discontents
+subtitle: You're not your fucking khakis
+tags: ["", ""]
+shortlink: 
+image: 
+sideof: 
+---
+
+**(links and images still need to prettify'd, but the text is set)** 
+
+(*|ARCHIVE|*)
 The fourth installment in a series of six readings and interpretations from The Geography of Beer (https://www.amazon.com/Geography-Beer-Regions-Environment-Societies/dp/9400777868) , Part III - Societies. The abstract of the current paper, 'Microbreweries, Place, and Identity in the United States' by Steven M. Schnell (mailto:schnell@kutztown.edu?subject=Place%20%26%20Identity%20in%20the%20US%20%7C%20EndlessPint%20Write-up%20)  and Joseph F. Reese, may be read on Springer (https://rd.springer.com/chapter/10.1007/978-94-007-7787-3_13) .
 https://www.flickr.com/photos/thomashawk/
 Thomas Hawk
-You're a Customer
+
+## You're a Customer
 
 Drinking craft beer is more than just about having a flavorful product. While the better taste is crucial, an outcome of the higher quality and care, the bigger story is how craft beer ties into a neolocalism movement where consumers are turning away from the “smothering homogeneity” of mass produced goods and looking for something more authentic, something closer to home.
 
