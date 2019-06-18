@@ -1,4 +1,16 @@
-The Borg brews (*|ARCHIVE|*)
+---
+layout: post
+title: Consolidation Invasion
+subtitle: The Borg brews
+tags: ["", ""]
+shortlink: 
+image: 
+sideof: 
+---
+
+**(links and images still need to prettify'd, but the text is set)** 
+
+ (*|ARCHIVE|*)
 The third installment in a series of six readings and interpretations from The Geography of Beer (https://www.amazon.com/Geography-Beer-Regions-Environment-Societies/dp/9400777868) , Part III - Societies. The abstract of the current paper, 'Too Big to Ale? Globalization and Consolidation in the Beer Industry' by Philip H. Howard (mailto:howardp@msu.edu?subject=Consolidation%20Invastion%2C%20EndlessPint%20Write-up) , may be read on Springer (https://rd.springer.com/chapter/10.1007/978-94-007-7787-3_13) .
 
 https://www.flickr.com/photos/7292946@N08/
