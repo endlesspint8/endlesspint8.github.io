@@ -1,6 +1,19 @@
-See no local, hear no local... (*|ARCHIVE|*)
+---
+layout: post
+title: Local Know-How, Eh?
+subtitle: See no local, hear no local... 
+tags: ["", ""]
+shortlink: 
+image: 
+sideof: 
+---
+
+**(links and images still need to prettify'd, but the text is set)** 
+
+(*|ARCHIVE|*)
 The fifth installment in a series of six readings and interpretations from The Geography of Beer (https://www.amazon.com/Geography-Beer-Regions-Environment-Societies/dp/9400777868) , Part III - Societies. The abstract of the current paper, 'Neolocalism and the Branding and Marketing of Place by Canadian Microbreweries' by Derrek Eberts (mailto:ebertsd@bradonu.ca?subject=Neolocalism%20%26%20Canadian%20Microbreweries%20%7C%20EndlessPint%20Write-up%20) , Neil Reid and Michael S. Moore, may be read on Springer (https://rd.springer.com/chapter/10.1007/978-94-007-7787-3_16) .
-The Obtuse Knowledge of Insobriety
+
+## The Obtuse Knowledge of Insobriety
 
 If we set our textbooks down for a moment, rub our eyes to be rid of the myopia, we provide ourselves a chance to think about what we read versus what we see and experience in our lives. For decades our economics teachers have presented the parable of the rational consumer, to whom all knowledge related to his own behavior and that of others in the market is total and instantaneous. Each homo economicus (http://www.investopedia.com/terms/h/homoeconomicus.asp)  has been made out to be part man and part god, all knowing with respect to the transactions of the market place and their ability to rationally maneuver this terrain. Using this model we are lead to believe man is irrational in his behavior when not acting in accordance with the model (Predictably Irrational (http://danariely.com/books/predictably-irrational/) , by these rules) when it should be quite clear to anyone who has bought so much as a pack of gum that the high priests of these models are the irrational ones, hiding behind a
 veil of obfuscating mathematics and world-clearing assumptions that divert and exhaust the questioners but never satisfy their concerns.
