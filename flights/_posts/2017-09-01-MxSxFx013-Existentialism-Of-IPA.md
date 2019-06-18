@@ -1,4 +1,16 @@
-Don't be so absurd. (*|ARCHIVE|*)
+---
+layout: post
+title: Existentialism of IPA
+subtitle: Don't be so absurd
+tags: ["", ""]
+shortlink: 
+image: 
+sideof: 
+---
+
+**(links and images still need to prettify'd, but the text is set)** 
+
+. (*|ARCHIVE|*)
 The first installment in a series of six readings and interpretations from The Geography of Beer (https://www.amazon.com/Geography-Beer-Regions-Environment-Societies/dp/9400777868) , Part III - Societies. The abstract of the current paper, 'The Origins and Diaspora of the India Pale Ale' by Jake E. Haugland (mailto:isbree@gmail.com) , may be read on Springer (https://rd.springer.com/chapter/10.1007%2F978-94-007-7787-3_12) .
 
 https://www.flickr.com/photos/home_of_chaos/
