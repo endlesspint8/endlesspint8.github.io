@@ -57,12 +57,12 @@ subtitle: aka Past Newsletters
   <br>
 </p>
 
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
+* _[Existentialism of IPA](http://endlesspint.com/2017-09-01-MxSxFx013-Existentialism-Of-IPA)_
+* _[Craft Crunch](http://endlesspint.com/2017-09-15-MxSxFx014-Craft-Crunch)_
+* _[Consolidation Invasion](http://endlesspint.com/2017-10-05-MxSxFx015-Consolidation-Invasion)_
+* _[Craft Beer and Its Latent Discontents](http://endlesspint.com/2017-10-19-MxSxFx016-Craft-Beer-And-Its-Latent-Discontents)_
+* _[Local Know-How, Eh?](http://endlesspint.com/2017-11-02-MxSxFx017-Local-Know-How-Eh)_
+* _[The Map is not the Terroir](http://endlesspint.com/2017-11-16-MxSxFx018-The-Map-Is-Not-The-Terroir)_
 
 
 <br>
