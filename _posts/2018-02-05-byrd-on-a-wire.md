@@ -3,7 +3,7 @@ layout: post
 title: Byrd on a Wire
 subtitle: A Ridiculous Scorecard, Just Another Day in the Life of a Boxing Fan 
 header-img: "img/start.jpg"
-tags: ["boxing", ""]
+tags: ["boxing", "diverging"]
 shortlink: 
 image: http://endlesspint.com/gallery/2018/ggg-canelo1/hist.PNG
 sideof: 
