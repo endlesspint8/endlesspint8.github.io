@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rafa, Fed, Again?
+title: Rafa. Fed. Again?
 subtitle: Ah yeah, again & again
 tags: ["digressions", "simulation", "seaborn", "heatmap"]
 shortlink: 
@@ -59,3 +59,5 @@ Wimbledon 2007: Fed wins 6966 out of 10000
 [Opening Photo by Howard Lawrence B on Unsplash](https://unsplash.com/photos/oKGA3376eGE)
 
 [Michael Lewis and what he learned from writing the undoing project]
+
+Code @[nbviewer](https://nbviewer.jupyter.org/github/endlesspint8/endlesspint8.github.io/blob/master/code/sim/sim_RafaFed.ipynb)
