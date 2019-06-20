@@ -2,7 +2,7 @@
 layout: post
 title: Better Bayes to Drink - Naive Bingers
 subtitle: Too Much of Anything Makes You an Addict
-tags: ["health", "bayes", "Excel"]
+tags: ["health", "bayes", "Excel", "bullet", "tornado"]
 shortlink: 
 twitimg: 
 image: http://endlesspint.com/gallery/2019/bayes/age_sex_bullets.png
