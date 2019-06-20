@@ -2,7 +2,7 @@
 layout: post
 title: Divide it we 'stand
 subtitle: Mericans Need Only Divide by 4
-tags: ["health", "", ""]
+tags: ["health", "heuristics", "heatmap"]
 shortlink: 
 twitimg: 
 image: http://endlesspint.com/gallery/2019/units/metab3.gif
