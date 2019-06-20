@@ -13,8 +13,8 @@ Next six:
 &#10004;  [A]()
 &#10004; [B]()
 
-* [sleep caffeine](2019-05-17-sleep-no-more-caffeine)
-* [mash eq](2018-11-27-mash-equilibrium)
+* [rafa/fed](2019-06-21-rafa-fed-wimbledon-2008-simulation)
+* [re-seen by us](2019-08-01-re-seen-by-us-bar-reviews)
 
 [post prep](post-prep)
 
