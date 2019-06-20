@@ -24,16 +24,16 @@ However, to insure promptness and the continued flow of posts click the pint log
 
 |Topics 	|Techniques	|Tools	| Topography |
 |---	|---	|---	| ---	|
-| [bitter](/tag/bitter) 	| bayes  	| CausalImpact  	|
-| [books](/tag/books)   	| game theory  	| Bokeh  	|
-| [boxing](/tag/boxing)   	| heuristics  	| CartoDB 	|
-| complexity  	| heatmap  	| Plotly  	|
-| [data guide for beer perplexed](/tag/perplexed)  	| ELO  	| PySpark  	|
+| [bitter](/tag/bitter) 	| bayes  	| Bokeh  	|
+| [books](/tag/books)   	| game theory  	| CartoDB  	| [heatmap](/tag/heatmap) |
+| [boxing](/tag/boxing)   	| [heuristics](/tag/heuristics)  	| CausalImpact 	|
+| complexity  	|   	| D3  	|
+| [data guide for beer perplexed](/tag/perplexed)  	| ELO  	| Plotly  	|
 | [design](/tag/design)  	| MLE  	| PyMC  	|
-| [digressions](/tag/digressions)  	| Gini  	| seaborn  	|
-| [festivals](/tag/festivals)  	| [mapping](/tag/mapping)   	| D3  	|
+| [digressions](/tag/digressions)  	| Gini  	| PySpark  	|
+| [festivals](/tag/festivals)  	| [mapping](/tag/mapping)   	| [seaborn](/tag/seaborn)  	|
 | [health](/tag/health)  	  	|   	|   	|
-| [history/industry](/tag/grounding)  	|  simulation 	|   	|
+| [history/industry](/tag/grounding)  	|  [simulation](/tag/simulation) 	|   	|
 | [nyc](/tag/nyc)  	|   	|   	|
 | [taste](/tag/taste)  	|   	|   	|
 | [technoclast](/tag/technoclast)  	|   	|   	|
