@@ -22,18 +22,18 @@ However, to insure promptness and the continued flow of posts click the pint log
 
 **Pints & Flights combined**
 
-|Topics 	|Techniques	|Tools	| Topography |
-|---	|---	|---	| ---	|
-| [bitter](/tag/bitter) 	| bayes  	| Bokeh  	| bullet  |
-| [books](/tag/books)   	| distributions  	| CartoDB  	| [heatmap](/tag/heatmap) |
-| [boxing](/tag/boxing)   	| ELO  	| CausalImpact 	| tornado |
-| complexity  	|  game theory 	| D3  	|
-| [data guide for beer perplexed](/tag/perplexed)  	| [heuristics](/tag/heuristics)  	| Excel  	|
-| [design](/tag/design)  	| MLE  	| Plotly  	|
-| [digressions](/tag/digressions)  	| Gini  	| PyMC  	|
-| [festivals](/tag/festivals)  	| [mapping](/tag/mapping)   	| PySpark  	|
-| [health](/tag/health)  	  	|   	| [seaborn](/tag/seaborn)  	|
-| [history/industry](/tag/grounding)  	|  [simulation](/tag/simulation) 	|   	|
+|Topics 	|Techniques	|Tools	| Topography |  Troves  |
+|---	|---	|---	| ---	| ---	|
+| [bitter](/tag/bitter) 	| bayes  	| Bokeh  	| bullet  | twitter |
+| [books](/tag/books)   	| distributions  	| CartoDB  	| [heatmap](/tag/heatmap) | 311 |
+| [boxing](/tag/boxing)   	| ELO  	| CausalImpact 	| tornado |   |
+| complexity  	|  game theory 	| D3  	| chord | Yelp  |
+| [data guide for beer perplexed](/tag/perplexed)  	| [heuristics](/tag/heuristics)  	| Excel  	| dot |
+| [design](/tag/design)  	| MLE  	| Plotly  	| grid |
+| [digressions](/tag/digressions)  	| Gini  	| PyMC  	| boxplot |
+| [festivals](/tag/festivals)  	| [mapping](/tag/mapping)   	| PySpark  	| histogram |
+| [health](/tag/health)  	  	|  PageRank 	| [seaborn](/tag/seaborn)  	| diverging |
+| [history/industry](/tag/grounding)  	|  [simulation](/tag/simulation) 	|  NetworkX 	| list |
 | [nyc](/tag/nyc)  	|   	|   	|
 | [taste](/tag/taste)  	|   	|   	|
 | [technoclast](/tag/technoclast)  	|   	|   	|
