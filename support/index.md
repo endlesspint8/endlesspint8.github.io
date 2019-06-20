@@ -24,15 +24,15 @@ However, to insure promptness and the continued flow of posts click the pint log
 
 |Topics 	|Techniques	|Tools	| Topography |
 |---	|---	|---	| ---	|
-| [bitter](/tag/bitter) 	| bayes  	| Bokeh  	|
-| [books](/tag/books)   	| game theory  	| CartoDB  	| [heatmap](/tag/heatmap) |
-| [boxing](/tag/boxing)   	| [heuristics](/tag/heuristics)  	| CausalImpact 	|
-| complexity  	|   	| D3  	|
-| [data guide for beer perplexed](/tag/perplexed)  	| ELO  	| Plotly  	|
-| [design](/tag/design)  	| MLE  	| PyMC  	|
-| [digressions](/tag/digressions)  	| Gini  	| PySpark  	|
-| [festivals](/tag/festivals)  	| [mapping](/tag/mapping)   	| [seaborn](/tag/seaborn)  	|
-| [health](/tag/health)  	  	|   	|   	|
+| [bitter](/tag/bitter) 	| bayes  	| Bokeh  	| bullet  |
+| [books](/tag/books)   	| distributions  	| CartoDB  	| [heatmap](/tag/heatmap) |
+| [boxing](/tag/boxing)   	| ELO  	| CausalImpact 	| tornado |
+| complexity  	|  game theory 	| D3  	|
+| [data guide for beer perplexed](/tag/perplexed)  	| [heuristics](/tag/heuristics)  	| Excel  	|
+| [design](/tag/design)  	| MLE  	| Plotly  	|
+| [digressions](/tag/digressions)  	| Gini  	| PyMC  	|
+| [festivals](/tag/festivals)  	| [mapping](/tag/mapping)   	| PySpark  	|
+| [health](/tag/health)  	  	|   	| [seaborn](/tag/seaborn)  	|
 | [history/industry](/tag/grounding)  	|  [simulation](/tag/simulation) 	|   	|
 | [nyc](/tag/nyc)  	|   	|   	|
 | [taste](/tag/taste)  	|   	|   	|
