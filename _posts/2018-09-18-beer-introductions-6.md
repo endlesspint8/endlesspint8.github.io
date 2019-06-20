@@ -2,7 +2,7 @@
 layout: post
 title: Data Guide for the Beer Perplexed VI
 subtitle: Part VI - Tangled Up in Brew Chords 
-tags: ["chord chart", "seaborn", "perplexed"]
+tags: ["perplexed", "seaborn", "chord"]
 shortlink: 
 image: http://endlesspint.com/gallery/2018/beer-prplxd/chord_bokeh_plot2.png
 sideof:
