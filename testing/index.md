@@ -13,7 +13,7 @@ Next six:
 &#10004;  [A]()
 &#10004; [B]()
 
-* [rafa/fed](2019-06-21-rafa-fed-wimbledon-2008-simulation)
+* [L@Me](2019-07-25-so-lame-you-probably-think-post-about-you)
 * [re-seen by us](2019-08-01-re-seen-by-us-bar-reviews)
 
 [post prep](post-prep)
