@@ -24,21 +24,21 @@ However, to insure promptness and the continued flow of posts click the pint log
 
 |Topics 	|Techniques	|Tools	| Topography |  Troves  |
 |---	|---	|---	| ---	| ---	|
-| [bitter](/tag/bitter) 	| bayes  	| Bokeh  	| bullet  | twitter |
-| [books](/tag/books)   	| distributions  	| CartoDB  	| [heatmap](/tag/heatmap) | 311 |
-| [boxing](/tag/boxing)   	| ELO  	| CausalImpact 	| tornado |   |
-| complexity  	|  game theory 	| D3  	| chord | Yelp  |
+| [bitter](/tag/bitter) 	| bayes  	| Bokeh  	| bullet  | 311 |
+| [books](/tag/books)   	| distributions  	| CartoDB  	| [heatmap](/tag/heatmap) | BeerAdvocate |
+| [boxing](/tag/boxing)   	| ELO  	| CausalImpact 	| tornado | CraftBeer  |
+| complexity  	|  game theory 	| D3  	| chord |   |
 | [data guide for beer perplexed](/tag/perplexed)  	| [heuristics](/tag/heuristics)  	| Excel  	| dot |
 | [design](/tag/design)  	| MLE  	| Plotly  	| grid |
 | [digressions](/tag/digressions)  	| Gini  	| PyMC  	| boxplot |
 | [festivals](/tag/festivals)  	| [mapping](/tag/mapping)   	| PySpark  	| histogram |
-| [health](/tag/health)  	  	|  PageRank 	| [seaborn](/tag/seaborn)  	| diverging |
+| [health](/tag/health)  	  	|  PageRank 	| [Seaborn](/tag/seaborn)  	| diverging |
 | [history/industry](/tag/grounding)  	|  [simulation](/tag/simulation) 	|  NetworkX 	| list |
-| [nyc](/tag/nyc)  	|   	|   	|
-| [taste](/tag/taste)  	|   	|   	|
-| [technoclast](/tag/technoclast)  	|   	|   	|
-|   	|   	|   	|
-|   	|   	|   	|
+| [nyc](/tag/nyc)  	|   	|   	|   | RateBeer |
+| [taste](/tag/taste)  	|   	|   	|   | TravelAdvisor |
+| [technoclast](/tag/technoclast)  	|   	|   	|   | twitter |
+|   	|   	|   	|   | Untappd |
+|   	|   	|   	|   | Yelp |
 
 
 --- 
