@@ -28,7 +28,7 @@ Three key features to track: review counts, review scores, and time. The final e
 <sub>Data Source: <a href="https://www.tripadvisor.com/Search?redirect&uiOrigin=MASTHEAD&default_scope&ssrc=e&singleSearchBox&pid=3826&searchSessionId=F76948E90EF8BE131AF3BEE1299AC2D61564751070207ssid&supportedSearchTypes=find_near_stand_alone_query&searchNearby&geo=60763&q=beer%20bars&enableNearPage=true&queryParsed=true&social_typeahead_2018_feature=true&returnTo=__2F__Restaurants__2D__g60763__2D__zfg11776__2D__New__5F__York__5F__City__5F__New__5F__York__2E__html&startTime=1564751081922&sid=F76948E90EF8BE131AF3BEE1299AC2D61564751087254" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
 
 
-## ...
+## Caught Between Bar Stools
 
 Selecting the top 30 beer bars in NYC as per TripAdvisor we can review past ratings for each. Grouping ratings by the months they were submitted in easily lends them to weighting by month, with decreasing significance to those occurring earlier on, eventually dropping altogether from consideration. To get started we set the window of interest at 24 months. This was a judgment call that seemed about right for allowing past input without overvaluing  either what came before or more recent impressions. Setting aside specific numbers, we get what we expect globally: squiggly lines indicating patron preferences over time, general trends, and rates of change. There are also gaps in the ratings, sometimes of multiple months, resulting in rating lines breaking off on the chart. 
 
@@ -62,4 +62,4 @@ Below are graphical representations of the coefficient of variation for the oppo
 <img src="/gallery/2019/reseen/cv_wgt_avg.png" alt="cv_wgt_avg" align="middle" width="100%" /><br />	
 <sub>Data Source: <a href="https://www.tripadvisor.com/" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
 
-
+Code @[nbviewer](https://nbviewer.jupyter.org/github/endlesspint8/endlesspint8.github.io/blob/master/code/reseen/ta_reviews.ipynb)
