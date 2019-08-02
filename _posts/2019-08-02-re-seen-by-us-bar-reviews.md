@@ -54,7 +54,7 @@ Thus at minimum we are left with three ways of viewing bar appraisals: a simple 
 
 <b id="f1">1</b> Process and becoming; always moving, always changing, ever in flux; snapshots are informative as well as misinformative, dangerous to chase an image – a frozen representation of desire, which itself constantly changes; chasing shadows, of course never fulfilled when grasped, grasping at air; life is not fixicity and stasis can only mean death; even prominent goods are not guaranteed to meet expectations, as both production methods and tastes change. (Excuse me, [too much coffee](http://endlesspint.com/2019-05-17-sleep-no-more-caffeine/)). 
 
-Below are graphical representations of the coefficient of variation for the opposing ways of measuring ratings touched on here. We can see that in the latter, 24-month weighted moving average, incoming reviews make an impression:[↩](#a1) <br>
+Below are graphical representations of the coefficient of variation for the opposing ways of measuring ratings touched on here. We can see that in the latter, 24-month weighted moving average, incoming reviews predictably continue to make an impression, while the cumulative average develops a lock-in situation:[↩](#a1) <br>
 
 <img src="/gallery/2019/reseen/cv_simp_avg.png" alt="cv_simp_avg" align="middle" width="100%" /><br />	
 <sub>Data Source: <a href="https://www.tripadvisor.com/" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
