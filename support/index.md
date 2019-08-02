@@ -24,6 +24,7 @@ However, to insure promptness and the continued flow of posts click the pint log
 
 |Topics 	|Techniques	|Tools	| Topography |  Troves  |
 |---	|---	|---	| ---	| ---	|
+| bars	| 	| 	|  	|  	|
 | [bitter](/tag/bitter) 	| bayes  	| Bokeh  	| bullet  | 311 |
 | [books](/tag/books)   	| distributions  	| CartoDB  	| [heatmap](/tag/heatmap) | BeerAdvocate |
 | [boxing](/tag/boxing)   	| ELO  	| CausalImpact 	| tornado | CraftBeer  |
@@ -34,10 +35,10 @@ However, to insure promptness and the continued flow of posts click the pint log
 | [festivals](/tag/festivals)  	| [mapping](/tag/mapping)   	| PySpark  	| histogram |
 | [health](/tag/health)  	  	|  PageRank 	| [Seaborn](/tag/seaborn)  	| diverging |
 | [history/industry](/tag/grounding)  	|  [simulation](/tag/simulation) 	|  NetworkX 	| list |
-| [nyc](/tag/nyc)  	|   	|   	|   | RateBeer |
-| [taste](/tag/taste)  	|   	|   	|   | TravelAdvisor |
+| [nyc](/tag/nyc)  	|   	|   	| line  | RateBeer |
+| [taste](/tag/taste)  	|   	|   	|   | TripAdvisor |
 | [technoclast](/tag/technoclast)  	|   	|   	|   | twitter |
-|   	|   	|   	|   | Untappd |
+|  	|   	|   	|   | Untappd |
 |   	|   	|   	|   | Yelp |
 
 
