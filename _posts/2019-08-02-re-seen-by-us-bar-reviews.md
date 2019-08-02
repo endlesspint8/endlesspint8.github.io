@@ -52,7 +52,7 @@ Thus at minimum we are left with three ways of viewing bar appraisals: a simple 
 
 [Opening Photo by Pixabay on Pexels](https://www.pexels.com/photo/clear-glass-with-red-sand-grainer-39396/)
 
-<b id="f1">1</b> Process and becoming; always moving, always changing, ever in flux; snapshots are informative as well as misinformative, dangerous to chase an image – a frozen representation of desire, which itself constantly changes; chasing shadows, of course never fulfilled when grasped, grasping at air; life is not fixicity and stasis can only mean death; even prominent goods are not guaranteed to meet expectations, as both production methods and tastes change. (Excuse me, [too much coffee](2019-05-17-sleep-no-more-caffeine)). 
+<b id="f1">1</b> Process and becoming; always moving, always changing, ever in flux; snapshots are informative as well as misinformative, dangerous to chase an image – a frozen representation of desire, which itself constantly changes; chasing shadows, of course never fulfilled when grasped, grasping at air; life is not fixicity and stasis can only mean death; even prominent goods are not guaranteed to meet expectations, as both production methods and tastes change. (Excuse me, [too much coffee](http://endlesspint.com/2019-05-17-sleep-no-more-caffeine/)). 
 
 Below are graphical representations of the coefficient of variation for the opposing ways of measuring ratings touched on here. We can see that in the latter, 24-month weighted moving average, incoming reviews make an impression:[↩](#a1) <br>
 
