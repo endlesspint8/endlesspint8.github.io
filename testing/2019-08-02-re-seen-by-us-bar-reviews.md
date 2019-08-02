@@ -22,17 +22,34 @@ Once again we can leverage a toy example to investigate alternative angles on vi
 
 Three key features to track: review counts, review scores, and time. The final element introduces flow, movement. Numbers carry about them a certain finality and certitude that does not always warrant the authority we bestow upon them. Be skeptical of precise numbers. Look for ranges, confidence intervals and other bits of wiggle that help provide a more complete picture of the situation. Speaking of pictures, charts can be of great help when there is not much to differentiate among summary statistics (e.g. [Anscombe’s quartet](https://www.quora.com/What-is-the-significance-of-Anscombes-quartet)).
 
+<img src="/gallery/2019/reseen/simp_cuml_avg_all.png" alt="simp_cuml_avg_all" align="middle" width="100%" /><br />
+<sub>Data Source: <a href="https://www.tripadvisor.com/Search?redirect&uiOrigin=MASTHEAD&default_scope&ssrc=e&singleSearchBox&pid=3826&searchSessionId=F76948E90EF8BE131AF3BEE1299AC2D61564751070207ssid&supportedSearchTypes=find_near_stand_alone_query&searchNearby&geo=60763&q=beer%20bars&enableNearPage=true&queryParsed=true&social_typeahead_2018_feature=true&returnTo=__2F__Restaurants__2D__g60763__2D__zfg11776__2D__New__5F__York__5F__City__5F__New__5F__York__2E__html&startTime=1564751081922&sid=F76948E90EF8BE131AF3BEE1299AC2D61564751087254" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
+
 
 ## ...
 
 Selecting the top 30 beer bars in NYC as per TripAdvisor[FN]  we can review past ratings for each. Grouping ratings by the months they were submitted in easily lends them to weighting by month, with decreasing significance to those occurring earlier on, eventually dropping altogether from consideration. To get started we set the window of interest at 24 months. This was a judgment call that seemed about right for allowing past input without overvaluing  either what came before or more recent impressions. Setting aside specific numbers, we get what we expect globally: squiggly lines indicating patron preferences over time, general trends, and rates of change. There are also gaps in the ratings, sometimes of multiple months, resulting in rating lines breaking off on the chart. 
 
+<img src="/gallery/2019/reseen/24mo_wgt_avg_all.png" alt="24mo_wgt_avg_all" align="middle" width="100%" /><br />
+<sub>Data Source: <a href="https://www.tripadvisor.com/" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
+
 This breaking off of reviews raised a subsequent thought regarding how long to retain ratings in the absence of online customer engagement. Here too we resorted to personal discretion and set a cutoff of six months. Bars that had gone six or more months without a rating had their scores shelved. These visual gaps help to send a message to potential patrons about traffic, interest, and/or whether the platform is adequate for the review of beer bars generally and the impacted bar, specifically.
 
+<img src="/gallery/2019/reseen/24mo_wgt_avg_active_samp.png" alt="24mo_wgt_avg_active_samp" align="middle" width="100%" /><br />	
+<sub>Data Source: <a href="https://www.tripadvisor.com/" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
+
+Thus at minimum we are left with three ways of viewing bar appraisals: a simple rating average;  a time-discounted rating, with accompanying times series to visualize to changes; and the latter with the added wrinkle of suspending ratings in the absence of engagement. The question of which of these is the most informative relies on what one is looking for. [FN: two CV charts] Keeping in mind that all models are wrong but some are useful.
+
+<img src="/gallery/2019/reseen/ratings_tbl.png" alt="ratings_tbl" align="middle" width="65%" /><br />	
+<sub>Data Source: <a href="https://www.tripadvisor.com/" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
 
 
 
-Thus at minimum we are left with three ways of viewing bar appraisals: a simple rating average;  a time-discounted rating, with accompanying times series to visualize to changes; and the latter with the added wrinkle of suspending ratings in the absence of engagement. The question of which of these is the most informative relies on what one is looking for. Keeping in mind that all models are wrong but some are useful.
+
+
+
+
+
 
 
 
@@ -42,10 +59,16 @@ Process and becoming; different vehicles, the same narrative – hero of 1000 fa
 There is a whole lot going on there, we will tackle just a few of them and only superficially at that. What is to be hinted at: flow, process, becoming. [THEME]
 
 
+
+
 --- 
 
 **Notes**
 
 Footnote: Another take on bar reviews allows us the opportunity to try a different data source. This in itself is not critical to the effort it does add a bit of melting, a slight twist to the effort to keep it even more interesting. 
 
-With time being one of the primary factors in this exploratory review I wished to limit my choice of bars, both by quantity and to those that had the longest track record. This option was that the longest available time frames would provide the greatest opportunity to see rating changes. This assumption could also prove unfruitful as long-standing establishments might be the ones with the most consistent reviews, both in numbers and general ratings.
+<img src="/gallery/2019/reseen/cv_simp_avg.png" alt="cv_simp_avg" align="middle" width="100%" /><br />	
+<sub>Data Source: <a href="https://www.tripadvisor.com/" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
+
+<img src="/gallery/2019/reseen/cv_wgt_avg.png" alt="cv_wgt_avg" align="middle" width="100%" /><br />	
+<sub>Data Source: <a href="https://www.tripadvisor.com/" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
