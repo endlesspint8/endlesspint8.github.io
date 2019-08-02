@@ -5,7 +5,7 @@ subtitle: Discounting the Past to Better Appraise the Present
 tags: ["bars", "nyc", "Excel", "line"]
 shortlink: 
 twitimg: 
-image: http://endlesspint.com/gallery/2019/boxing/spence_act_v_exp.png
+image: http://endlesspint.com/gallery/2019/reseen/cv_wgt_avg.png
 sideof: []
 ---
 
@@ -30,7 +30,7 @@ Three key features to track: review counts, review scores, and time. The final e
 
 ## ...
 
-Selecting the top 30 beer bars in NYC as per TripAdvisor[FN]  we can review past ratings for each. Grouping ratings by the months they were submitted in easily lends them to weighting by month, with decreasing significance to those occurring earlier on, eventually dropping altogether from consideration. To get started we set the window of interest at 24 months. This was a judgment call that seemed about right for allowing past input without overvaluing  either what came before or more recent impressions. Setting aside specific numbers, we get what we expect globally: squiggly lines indicating patron preferences over time, general trends, and rates of change. There are also gaps in the ratings, sometimes of multiple months, resulting in rating lines breaking off on the chart. 
+Selecting the top 30 beer bars in NYC as per TripAdvisor we can review past ratings for each. Grouping ratings by the months they were submitted in easily lends them to weighting by month, with decreasing significance to those occurring earlier on, eventually dropping altogether from consideration. To get started we set the window of interest at 24 months. This was a judgment call that seemed about right for allowing past input without overvaluing  either what came before or more recent impressions. Setting aside specific numbers, we get what we expect globally: squiggly lines indicating patron preferences over time, general trends, and rates of change. There are also gaps in the ratings, sometimes of multiple months, resulting in rating lines breaking off on the chart. 
 
 <img src="/gallery/2019/reseen/24mo_wgt_avg_all.png" alt="24mo_wgt_avg_all" align="middle" width="100%" /><br />
 <sub>Data Source: <a href="https://www.tripadvisor.com/" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
@@ -40,27 +40,10 @@ This breaking off of reviews raised a subsequent thought regarding how long to r
 <img src="/gallery/2019/reseen/24mo_wgt_avg_active_samp.png" alt="24mo_wgt_avg_active_samp" align="middle" width="100%" /><br />	
 <sub>Data Source: <a href="https://www.tripadvisor.com/" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
 
-Thus at minimum we are left with three ways of viewing bar appraisals: a simple rating average;  a time-discounted rating, with accompanying times series to visualize to changes; and the latter with the added wrinkle of suspending ratings in the absence of engagement. The question of which of these is the most informative relies on what one is looking for. [FN: two CV charts] Keeping in mind that all models are wrong but some are useful.
+Thus at minimum we are left with three ways of viewing bar appraisals: a simple rating average;  a time-discounted rating, with accompanying time series to visualize changes; and the latter with the added wrinkle of suspending ratings in the absence of engagement. The question of which of these is the most informative relies on what one is looking for.<sup id="a1">[1](#f1)</sup>  Keeping in mind that all models are wrong but some are useful.
 
 <img src="/gallery/2019/reseen/ratings_tbl.png" alt="ratings_tbl" align="middle" width="65%" /><br />	
 <sub>Data Source: <a href="https://www.tripadvisor.com/" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
-
-
-
-
-
-
-
-
-
-
-
-Salvage something for the conclusion:
-Process and becoming; different vehicles, the same narrative – hero of 1000 faces: go to the wild, learn, come back, venture, close – assorted media: fairy tales, movies, video games, all coming to a conclusive end; no such thing until the end; always moving, always changing, ever influx; snapshots are informative as well as misinformative, dangerous to chase an image – a frozen representation of desire, which itself constantly changes; chasing shadows, of course never fulfilled when grasped, grasping at air; life is not fixicity and stasis can only mean death; even prominent goods are not guaranteed to meet expectations, as both production methods and tastes change
-
-There is a whole lot going on there, we will tackle just a few of them and only superficially at that. What is to be hinted at: flow, process, becoming. [THEME]
-
-
 
 
 --- 
@@ -69,10 +52,14 @@ There is a whole lot going on there, we will tackle just a few of them and only 
 
 [Opening Photo by Pixabay on Pexels](https://www.pexels.com/photo/clear-glass-with-red-sand-grainer-39396/)
 
-Footnote: Another take on bar reviews allows us the opportunity to try a different data source. This in itself is not critical to the effort it does add a bit of melting, a slight twist to the effort to keep it even more interesting. 
+<b id="f1">1</b> Process and becoming; always moving, always changing, ever in flux; snapshots are informative as well as misinformative, dangerous to chase an image – a frozen representation of desire, which itself constantly changes; chasing shadows, of course never fulfilled when grasped, grasping at air; life is not fixicity and stasis can only mean death; even prominent goods are not guaranteed to meet expectations, as both production methods and tastes change. (Excuse me, [too much coffee](2019-05-17-sleep-no-more-caffeine)). 
+
+Below are graphical representations of the coefficient of variation for the opposing ways of measuring ratings touched on here. We can see that in the latter, 24-month weighted moving average, incoming reviews make an impression:[↩](#a1) <br>
 
 <img src="/gallery/2019/reseen/cv_simp_avg.png" alt="cv_simp_avg" align="middle" width="100%" /><br />	
 <sub>Data Source: <a href="https://www.tripadvisor.com/" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
 
 <img src="/gallery/2019/reseen/cv_wgt_avg.png" alt="cv_wgt_avg" align="middle" width="100%" /><br />	
 <sub>Data Source: <a href="https://www.tripadvisor.com/" target="_blank">TripAdvisor</a> (<i>Accessed: 26 Jun 2019</i>) </sub>
+
+
