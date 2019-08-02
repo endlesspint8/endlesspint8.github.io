@@ -9,6 +9,8 @@ image: http://endlesspint.com/gallery/2019/boxing/spence_act_v_exp.png
 sideof: []
 ---
 
+<img src="/gallery/2019/reseen/close-up-color-countdown-39396.jpg" alt="close-up-color-countdown" align="middle" width="100%" /><br />
+
 ## Forgetting, To Move Forward 
 
 The Internet never forgets but perhaps it would be best if we occasionally exercised our selective memory. When reviewing services in particular it would do us well to refresh our assessments. While discounting the past may lend recent impressions an overvalued status, there is an intuitive appeal in listening more attentively to what people who have just had an experience have to say about it. Times, places and tastes change. We need not keep in stone the ratings of several years ago when we have more recent inputs to consider. Studio 54 of recent times is not the Studio 54 of yore; it would be absurd to expect the orgies of yesteryear when going today. On a less dramatic note we can pursue this hunch when it comes to beer bars. 
@@ -64,6 +66,8 @@ There is a whole lot going on there, we will tackle just a few of them and only 
 --- 
 
 **Notes**
+
+[Opening Photo by Pixabay on Pexels](https://www.pexels.com/photo/clear-glass-with-red-sand-grainer-39396/)
 
 Footnote: Another take on bar reviews allows us the opportunity to try a different data source. This in itself is not critical to the effort it does add a bit of melting, a slight twist to the effort to keep it even more interesting. 
 
