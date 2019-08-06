@@ -14,7 +14,7 @@ Next six:
 &#10004; [B]()
 
 * [L@Me](2019-07-25-so-lame-you-probably-think-post-about-you)
-* [re-seen by us](2019-08-02-re-seen-by-us-bar-reviews)
+* [binge2](2019-08-09-races-to-the-bottoms-up)
 
 [post prep](post-prep)
 
