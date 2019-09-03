@@ -14,7 +14,8 @@ Next six:
 &#10004; [B]()
 
 * [L@Me](2019-07-25-so-lame-you-probably-think-post-about-you)
-* [binge2](2019-08-09-races-to-the-bottoms-up)
+* [binge2](2019-09-13-races-to-the-bottoms-up)
+* [comic](2019-09-06-the-comic-book-story-of-beer)
 
 [post prep](post-prep)
 
