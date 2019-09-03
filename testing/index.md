@@ -15,7 +15,7 @@ Next six:
 
 * [L@Me](2019-07-25-so-lame-you-probably-think-post-about-you)
 * [binge2](2019-09-13-races-to-the-bottoms-up)
-* [comic](2019-09-06-the-comic-book-story-of-beer)
+* [comic](2019-09-06-MxSxFx025-comic-book-story-beer)
 
 [post prep](post-prep)
 
