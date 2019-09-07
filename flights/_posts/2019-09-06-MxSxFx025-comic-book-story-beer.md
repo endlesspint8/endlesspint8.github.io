@@ -21,7 +21,9 @@ The book kicks off with an everyman protagonist who finds himself in over his he
 The authors begin in prehistory, referencing archaeological and anthropological work, as well as ancient myths and poems that made it through to the present. The storyline starts out wide with respect to both regions and detail. Grand sweeps of time and space are covered in one chapter, bringing us to the historical stage. 
 After some foundation-laying regarding its importance across both cultures and time the reader is presented clear outlines on the modern beer making process. This switch from long lost past to the present day helps juxtapose the changes beer has undergone and hints at the journey the reader will be taking moving forward, namely the traversing of ignorance and superstitious awe at the fermentation process, even discovering this process, to today’s technologically precise operations.
 
+<p align="center">
 <img src="/flights/imgs/19-2/alcoholic-beverages-back-view-beer-2076748.jpg"	alt="" align="middle" width="50%" /><br />
+</p>
 
 For a large part of the story the focus is on cultural and societal trends. Individuals are sprinkled throughout but not until the Enlightenment and the Industrial Revolution are names of specific people highlighted. As we approach modern times, accentuated by machines and science, we begin to hear of people who had an oversized impact on society, and beer specifically. This general sweep of history places beer among the many unnamed masses, perfectly appropriate for a mass beverage. Even while remaining general the book touches on gender, state power, taxation, trade, and the eclipse of religion/church authority. Against these various backdrops specific beer styles are situated. This coupling of history with beer interweaves the significance of the storylines that helped spawn and develop specific styles. Many beer styles were never guaranteed to come about, though fermented beverages appear inevitable, but were rather [contingent on history, chance, and opportunity](http://endlesspint.com/2017-09-01-MxSxFx013-Existentialism-Of-IPA/). Seen in this light it makes one wonder in what way other contemporary quotidian artifacts are dependent on the vagaries of circumstances and what we can learn from them about ourselves.
 
@@ -29,7 +31,9 @@ The chronological elements are chosen to highlight the advancements in beer maki
 
 The book is packed with a wealth of historical, cultural, and anthropological information. The “snappy” images belie the sophistication and expert integration of a ton of knowledge. Taking the chapter on Prohibition as an example, one is introduced to the temperance movement, the identification of beer as a form of alcohol (before then drinking as a scourge was targeted at rum, gin, and whiskey; but not after [Joseph Livesey](https://en.wikipedia.org/wiki/Joseph_Livesey) was done with it), the puritanical all-or-nothing American temperament, the global expansions and alliances of European powers leading to World War I, the framing of Germans as antagonists and by extension making all German products off-limits (e.g. the renaming of hamburgers and frankfurters) including beer, and the passage of the 18th Amendment while many young men were overseas fighting. Prohibition lasted 13 years and the comic book is able to tackle heavy topics such as corruption, bootlegging, organized crime, and unemployment against the backdrop of the Great Depression within a matter of a dozen pages. 
 
+<p align="center">
 <img src="/flights/imgs/19-2/Raid_at_elk_lake.jpg"	alt="" align="middle" width="75%" /><br />
+</p>
 
 Consistently, the knowledge imparted is clearly laid out in an assortment of visual idioms and textual content. The characters and stories chosen are engaging, supplying shading and nuance to both historical and beer buffs alike.
 
@@ -41,7 +45,9 @@ I would recommend this book to anyone with an interest in beer. Even after havin
 
 The book touches on history, science, economics, politics, and more, interweaving widely diverse topics and orders them into a coherent whole, resulting in a story revolving around an enjoyable, and for those who never dug any deeper beforehand, very interesting subject, beer. In the early 21st-century beer, real beer, is enjoying a revival. There are more breweries than ever in the US and many other countries as well, tons of styles are available, either by invention or by rescue from historical obscurity and extinction. Many young people are enjoying the experiences of beer drinking. Many times they associate with this craft revival [as a way to say something about themselves](http://endlesspint.com/2017-10-19-MxSxFx016-Craft-Beer-And-Its-Latent-Discontents/). This book is a meditation on what beer says about all of us.
 
+<p align="center">
 <img src="/flights/imgs/19-2/alcoholic-beverages-ale-bar-1269043.jpg" alt="" align="middle" width="50%" /><br />
+</p>
 
 --- 
 
