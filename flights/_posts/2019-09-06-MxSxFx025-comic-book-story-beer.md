@@ -5,7 +5,7 @@ subtitle: Graphical Bottle
 tags: ["books", "grounding"]
 shortlink: 
 twitimg: 
-image: http://endlesspint.com/gallery/2019/boxing/spence_act_v_exp.png
+image: http://endlesspint.com/flights/imgs/19-2/alcoholic-beverages-back-view-beer-2076748.jpg
 sideof: []
 ---
 
