@@ -2,7 +2,7 @@
 layout: post
 title: Simulating HBO Greatest Fighter of All Time Tournament
 subtitle: Had Boxing Once (tear)
-tags: ["boxing", "ELO", "simulation"]
+tags: ["boxing", "ELO", "complexity"]
 shortlink: 
 image: http://endlesspint.com/gallery/2018/boxing/rebracket.gif
 ---
