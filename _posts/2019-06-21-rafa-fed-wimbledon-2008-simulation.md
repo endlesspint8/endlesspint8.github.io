@@ -2,7 +2,7 @@
 layout: post
 title: Rafa. Fed. Again?
 subtitle: Ah yeah, again & again
-tags: ["digressions", "simulation", "seaborn", "heatmap"]
+tags: ["digressions", "complexity", "seaborn", "heatmap"]
 shortlink: 
 twitimg: 
 image: http://endlesspint.com/gallery/2019/sim/rafa_fed_qr.png
