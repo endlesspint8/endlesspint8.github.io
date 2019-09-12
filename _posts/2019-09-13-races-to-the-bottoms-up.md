@@ -32,7 +32,7 @@ The radar chart was the visual idiom selected for the purposes of splitting out 
 <img src="/gallery/2019/bayes/sex_by_race.png" alt="sex_by_race" align="middle" width="100%" /><br />
 <sub>Data Source: <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6101a4.htm?s_cid=mm6101a4_w" target="_blank">CDC</a> & <a href="https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf" target="_blank">US Census</a> </sub>
 
-However, aside from the added information of baseline binge drinking for races and sex it would seem that one chart is more elegant and concise in bringing across the information. We have here two approaches to the same underlying data with … 
+However, aside from the added information of baseline binge drinking for races and sex alone it would seem that one chart is more elegant, concise, and sufficient in bringing across the information. Two complimentary approaches off of the same underlying data but one most likely to be preferred over the other. Next time we will delve into something only slightly less polarizing, education and income. 
 
 
 ---
