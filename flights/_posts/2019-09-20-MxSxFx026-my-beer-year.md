@@ -5,7 +5,7 @@ subtitle: Credentialize, this
 tags: ["books", "grounding"]
 shortlink: 
 twitimg: 
-image: http://endlesspint.com/flights/imgs/19-2/alcoholic-beverages-back-view-beer-2076748.jpg
+image: http://endlesspint.com/flights/imgs/19-2/602582026_ac02569dda_z.jpg
 sideof: []
 ---
 
@@ -40,6 +40,11 @@ I cannot deny my own susceptibility to credentialization. I am no less vulnerabl
 
 Two sets of judges will ultimately have the most to say about our skill level and how far we are able to apply it. The external world and ourselves. This is obvious and simplified. It is also mostly true. The external world encompasses the challenges we meet, the collaborations we have, the choices we pick and of course any luck, both good and bad. Internally, how we feel and view our competence will impact our capacity to execute, whether we make the right decisions on approaches to use, show some level of creativity, and have the wherewithal for a sense of timing and scope. The output we generate is only one source of evidence for our knowledge. It is the most easily pointed to which explains the validity/attractiveness of portfolios, resumes, degrees and, yes even, certificates. Each of these points to accomplishments, if nothing more than the ability to achieve them. Often they indicate the kind of person who holds them, their aspirations and abilities. Is this the type of person who can do the work? Further, will they do it, do they have the desire? The outward signals, the merit badges we collect, can work as tokens, to ourselves and others, for proving, if not capabilities, perhaps our potential. If someone was able to accomplish such and such they are more likely to be the kind of person to do X, to achieve Y, to excel at Z. But you will never know without the proof, without the work to show that the potential was not that alone. We prove these things through practice and repetition. Having the skills is not sufficient, nor the drive on its own in the absence of competence. It is not how bad you want it alone that will determine the success of an endeavor. That kind of approach only applies to movie montages. Instead, intelligence, luck and hard work all have to commingle in order to execute at the highest levels.
 
+
+<p align="center">
+<img src="/flights/imgs/19-2/katie-drazdauskaite-xKFVBD4UAQA-unsplash.jpg"	alt="" align="middle" width="75%" /><br />
+</p>
+
 Acquiring the certificate proved successful for the author, after all her “preferences about what [she] liked and didn’t like felt clearer and more pronounced.” Though the same trials may not be warranted in your situation reading of her perspective will surely prove rewarding. The author’s descriptions and preparation, examples of which include flashcards, webinars, in-person tastings, study sessions, and trips abroad, as well as home brewing and bar line maintenance should leave you thirsty for your own adventure and better informed on several topics. 
 
 --- 
@@ -53,3 +58,5 @@ _You made it this far. Reward yourself with... [a certificate](https://docs.goog
 [Hops Photo by ELEVATE from Pexels](https://www.pexels.com/photo/green-hops-1267340/)
 
 [Burger, fries, beer Photo by Edward Franklin on Unsplash](https://unsplash.com/photos/Nb_Q-M3Cdzg)
+
+[Map Photo by Katie Drazdauskaite on Unsplash](https://unsplash.com/photos/xKFVBD4UAQA)
