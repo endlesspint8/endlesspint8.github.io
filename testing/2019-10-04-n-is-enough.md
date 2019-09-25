@@ -27,19 +27,16 @@ source(s):
 <script type="text/javascript">
     $('input:checkbox').change(function ()
     {
-
           var total = 0;
           $('input:checkbox:checked').each(function(){
            total += isNaN(parseInt($(this).val())) ? 0 : parseInt($(this).val());
           });   
-
           $("#total").val(total);
-
     });
 </script>
 
 
-<input id="total">
+<input id="total" readonly>
 
 <ul class="checkbox-grid">
   <li><input type="checkbox" name="text1" value="100" /><label for="text1">Text 1</label></li>
