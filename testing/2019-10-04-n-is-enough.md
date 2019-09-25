@@ -13,6 +13,7 @@ sideof: ["Second level beers", "http://eepurl.com/cj8urH", " into top PR style (
 source(s): 
 * https://yonaba.github.io/2012/08/14/List-your-GitHub-projects-using-JavaScript-and-jQuery.md.html
 * https://jsfiddle.net/8p3ftmuh/2/
+* https://www.keycdn.com/support/inline-small-css-and-javascript
 
 
 <style>
@@ -23,17 +24,7 @@ source(s):
 }
 </style>
 
-<script src="http://ajax.microsoft.com/ajax/jquery/jquery-2.1.3.min.js" type="text/javascript"></script>
-<script type="text/javascript">
-    $('input:checkbox').change(function ()
-    {
-          var total = 0;
-          $('input:checkbox:checked').each(function(){
-           total += isNaN(parseInt($(this).val())) ? 0 : parseInt($(this).val());
-          });   
-          $("#total").val(total);
-    });
-</script>
+
 
 
 <input id="total" readonly>
@@ -49,6 +40,17 @@ source(s):
   <li><input type="checkbox" name="text8" value="474" /><label for="text8">Text 8</label></li>
 </ul>
 
+<script src="http://ajax.microsoft.com/ajax/jquery/jquery-2.1.3.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $('input:checkbox').change(function ()
+    {
+          var total = 0;
+          $('input:checkbox:checked').each(function(){
+           total += isNaN(parseInt($(this).val())) ? 0 : parseInt($(this).val());
+          });   
+          $("#total").val(total);
+    });
+</script>
 
 
 
