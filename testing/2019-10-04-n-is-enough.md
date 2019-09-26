@@ -20,7 +20,7 @@ source(s):
 .checkbox-grid li {
   display: block;
   float: left;
-  width: 25%;
+  width: 50%;
 }
 </style>
 
