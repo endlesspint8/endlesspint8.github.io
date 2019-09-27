@@ -5,7 +5,7 @@ subtitle: In the Eye of the Beer Holder
 tags: ["books", "grounding", "design"]
 shortlink: 
 twitimg: 
-image: http://endlesspint.com/flights/imgs/19-2/602582026_ac02569dda_z.jpg
+image: http://endlesspint.com/flights/imgs/19-2/sydney-rae-l8MNr08fUO8-unsplash.jpg
 sideof: []
 ---
 
@@ -25,6 +25,10 @@ The book explicitly calls out the beauty to be found in beer designs. Staking th
 
 The words are sparse yet essential, each one counting, as in a proper short story. The images are here to sparkle the eye but without context we would not fully appreciate what we were looking at. The author does away with the problem by contextualizing the examples, while not overwhelming us with unnecessary information. This is reminiscent of walking a gallery and reading the accompanying placards to the pictures hanging on the wall. Other beer vessel elements, such as beer caps, cans, can tabs and, of course, the labeling itself, receive similar treatment. Consider this book a primer to beer design visual literacy.
 
+<p align="center">
+<img src="/flights/imgs/19-2/joanna-kosinska-1_CMoFsPfso-unsplash.jpg"	alt="" align="middle" width="75%" /><br />
+</p>
+
 It is easy to assume things have always been the way they are. Even when something new happens or comes along we can believe that the manner in which it happened was inevitable. History is a good teacher for reminding us how things have been and how they could have been otherwise. With beer drinking vessels we can be forgiven for not looking too far past our noses. Arguably there are more important things in the world, we are tired from a long week, and we are part of the habituated environment. We do not see the water for already being immersed in it and swimming. Let beer and its various drinking containers be a reminder of how the things we take for granted came about due to multiple forces, each a contingent influence on our current environment. Let us also not forget that as our present is contingent so is the future. Another way to view our current artifacts is as answers to problems, whether one time, recurring, invented, or appropriated. Examples of each can be seen from the pint glass to the bottles, from coasters to cans. 
 
 We have arrived at a market that demands beer producers to stand out more than ever. There are more options than ever before, each fighting for attention and our wallets. To suggest that anything beyond the utilitarian use of a beer container is frivolous may be accurate on some measure but misses the point and too steeply discounts our species’ desire for status and reliance on visual cues. Putting these two together it is no wonder that the packaging plays what may be perceived, at first, as an oversized role in brewery success. 
@@ -34,7 +38,7 @@ With more options than ever it is an exciting time to be a consumer, producer, a
 Similarly to how bookworms enjoy scanning the shelves of bookstores, beer geeks walk the store isles  for the new and the familiar. One way to literally stop us in our tracks is to catch our eye. The designs on bottles and increasingly on cans are doing just that. We have examples of bright colors, nuanced designs, different sized and shaped containers, mix and match, six packs and the increasingly four-can set up. In this drive for attention and shelf space, we are likely to see an explosion of creativity. It is a diversity like no other before and through sheer trial and error alone some evolutions will be hit upon that gain traction.
 
 <p align="center">
-<img src="/flights/imgs/19-2/joanna-kosinska-1_CMoFsPfso-unsplash.jpg"	alt="" align="middle" width="75%" /><br />
+<img src="/flights/imgs/19-2/sydney-rae-l8MNr08fUO8-unsplash.jpg"	alt="" align="middle" width="75%" /><br />
 </p>
 
 For all of the finely interwoven storytelling I was left wanting one additional perspective, the forward-looking one. Difficult as it is to connect the dots looking backward, at least the events are set. Arranging and connecting the disparate objects takes time, attention and effort. The author should be applauded for doing all of these things, and doing them well. So this is more ofh a complement than a criticism, nitpicking a bit, to point out this small gap. It is not as if we would have to hold him to anything approaching a prediction but some general trends and even longshot options would have been appreciated and nice to consider. Elements of this are present within the current text (on cans alone, see tab opening, widemouth, and the 360° design) but a chapter dedicated specifically to future developments would have been very welcome. 
@@ -52,5 +56,7 @@ This is a title worth grabbing and digging into. The layout is clean and clear, 
 [Smoke Photo by rawpixel.com from Pexels](https://www.pexels.com/photo/orange-white-and-pink-smoke-digital-wallpaper-1328891/)
 
 [Pencils Photo by Joanna Kosinska on Unsplash](https://unsplash.com/photos/1_CMoFsPfso)
+
+[Labesl Photo by sydney Rae on Unsplash](https://unsplash.com/photos/l8MNr08fUO8)
 
 <b id="f1">1</b> Though in the beginning many seem to keep around bottles or glassware as forms of trophies.  [↩](#a1) <br>
