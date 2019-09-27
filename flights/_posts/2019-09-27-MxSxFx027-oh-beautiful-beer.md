@@ -28,3 +28,24 @@ The social influence of prohibition speaks to how the closing of bars push drink
 
 For all of the finely interwoven storytelling I was left wanting one perspective, the forward-looking one. Difficult as it is to connect the dots looking backward, at least the events are set. Arranging and connecting the disparate objects takes time, attention and effort. The author should be applauded for doing all of these things, and doing them well. So it is as much a complement as a criticism to point out this small gap. It is not as if we would have to hold him to anything approaching a prediction but some general trends and even longshot options would have been appreciated and nice to consider. Elements of this are present within the current text but a chapter dedicated specifically to future developments would have been very welcome. Part of this could have entertained previously attempted marketing attempts by beverage companies that had fallen flat, part could have looked at general food and beverage development for hints at what could come, inspiration could come from changing demographics, living situations and incomes, The fact that craft beer has become an international phenomenon would lead one to imagine that the drive to change are inevitable, just a glimpse at how other cultures have expressed themselves could’ve been leveraged.
 This is a title worth grabbing and digging into. The layout is clean and clear, the intentions are fulfilled from one chapter to the next and the book allows for a different kind of springboard into one of our favorite topics. Taste is king but we are open to influence when it comes to how we perceive taste. The aroma, flavors, temperature and setting have a lot to do with it, as does the packaging and presentation. Beautiful beer provides a supplementary way for complementing the drinking experience.
+
+
+<p align="center">
+<img src="/flights/imgs/19-2/katie-drazdauskaite-xKFVBD4UAQA-unsplash.jpg"	alt="" align="middle" width="75%" /><br />
+</p>
+
+ 
+
+--- 
+
+**Notes**
+
+_You made it this far. Reward yourself with... [a certificate](https://docs.google.com/presentation/d/1cJSeoxAfqQse5GTXF6VyOCjsztpeK9jujJPLEOAYZrM/edit?usp=sharing)!_
+
+[Diplomas Photo by Luiza Leite from Flickr](https://flic.kr/p/VfoDh)
+
+[Hops Photo by ELEVATE from Pexels](https://www.pexels.com/photo/green-hops-1267340/)
+
+[Burger, fries, beer Photo by Edward Franklin on Unsplash](https://unsplash.com/photos/Nb_Q-M3Cdzg)
+
+[Map Photo by Katie Drazdauskaite on Unsplash](https://unsplash.com/photos/xKFVBD4UAQA)
