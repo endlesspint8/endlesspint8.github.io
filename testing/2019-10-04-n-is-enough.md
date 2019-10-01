@@ -1,11 +1,10 @@
 ---
 layout: post
-title: To bar, or not to bar - what is the intention
-subtitle: Ponying Up to a 'Simply Complexity' Example
-tags: ["complexity", "simulation"]
+title: N is Enough
+subtitle: temp
+tags: ["health", "heuristics"]
 shortlink: 
 image: http://endlesspint.com/gallery/2018/beer-prplxd/pr_links.png
-sideof: ["Second level beers", "http://eepurl.com/cj8urH", " into top PR style (grandparent sytles)."]
 ---
 
 ## More Dat
@@ -15,12 +14,17 @@ source(s):
 * https://jsfiddle.net/8p3ftmuh/2/
 * https://www.keycdn.com/support/inline-small-css-and-javascript
 
+v 1.3
 
 <style>
 .checkbox-grid li {
   display: block;
   float: left;
   width: 50%;
+}
+  
+label {
+    font-weight: 400;
 }
 </style>
 
@@ -30,14 +34,6 @@ source(s):
 <input id="total" readonly>
 
 <ul class="checkbox-grid">
-  <li><input type="checkbox" name="text1" value="100" /><label for="text1">Text 1</label></li>
-  <li><input type="checkbox" name="text2" value="110" /><label for="text2">Text 2</label></li>
-  <li><input type="checkbox" name="text3" value="235" /><label for="text3">Text 3</label></li>
-  <li><input type="checkbox" name="text4" value="554" /><label for="text4">Text 4</label></li>
-  <li><input type="checkbox" name="text5" value="785" /><label for="text5">Text 5</label></li>
-  <li><input type="checkbox" name="text6" value="111" /><label for="text6">Text 6</label></li>
-  <li><input type="checkbox" name="text7" value="962" /><label for="text7">Text 7</label></li>
-  <li><input type="checkbox" name="text8" value="474" /><label for="text8">Text 8</label></li>
   <li><input type="checkbox" name="Kentucky_Toppling1" value="3" /><label for="Kentucky_Toppling1">Kentucky Brunch Brand Stout -    Toppling Goliath Brewing Company, 12.00%</label></li>
   <li><input type="checkbox" name="Bourbon_Goose9" value="2.41875" /><label for="Bourbon_Goose9">Bourbon County Brand Coffee Stout - Goose Island Beer Co., 12.90%</label></li>
   <li><input type="checkbox" name="Pliny_Russian7" value="2.5625" /><label for="Pliny_Russian7">Pliny The Younger - Russian River Brewing Company, 10.25%</label></li>
