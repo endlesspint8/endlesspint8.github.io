@@ -1,18 +1,13 @@
 ---
 layout: post
 title: N is Enough
-subtitle: temp
+subtitle: Gotta draw the line somewhere
 tags: ["health", "heuristics"]
 shortlink: 
-image: http://endlesspint.com/gallery/2018/beer-prplxd/pr_links.png
+image: http://endlesspint.com/gallery/2019/n_enough/abv_serv_size.png
 ---
 
 ## More Dat
-
-source(s): 
-* https://yonaba.github.io/2012/08/14/List-your-GitHub-projects-using-JavaScript-and-jQuery.md.html
-* https://jsfiddle.net/8p3ftmuh/2/
-* https://www.keycdn.com/support/inline-small-css-and-javascript
 
 v 1.4
 
@@ -29,15 +24,24 @@ label {
 </style>
 
 	
-	
+_Fourteen drinks, Ha. What’s this number and why does it matter? Even if, and I am not admitting it, but even if 14 drinks a week were some sort of guidance, and mind you I’m not agreeing that it is, it’s not as if that weren’t a sufficient quantity. I don’t even know the last time I had 10 drinks. Ha? What is that? You’re now telling me that a pint isn’t a pint? What kind of new math is this? Of course, a drink is a drink. Sure, some beers are a little stronger than others so they are not exactly equivalent to each other. Fine, let’s call those heavier beers a beer and a half. Not enough? What do you mean not enough? I’m cutting down the portion too. Is there no pleasing you? With all these demands I doubt I can ever get around to a point of view you would agree to. You’ll just switch it up on me all over again. A drink is a drink, what more is there to it? Sure, like I said, some beers are stronger than others. Fine, so I’ll pour a little less of those. Now you’re saying my intuition is wrong and that even with smaller portions they should count for more than a drink. Who came up with a drink unit? Hmm, tied to the human metabolic rate. By weight. And sex. You don’t say. All this back-and-forth hardly matters anyway. You can count all you want, I’m not the one who needs to keep track. No way I consume near the limit. Not in one week, not in any week. I don’t care what a drink unit is and I’m not worried by my consumption. I am well within the required range, even if, like I said, I don’t trust those numbers. If I were to keep track or, as you suggest, just extrapolate, it would just be a waste of time. So you have a guidance already provided? And you’re going to show how quickly the numbers add up? Whatever. It’s not for me, not about me, doesn’t concern me in the least._
 
-	
+<img src="/gallery/2019/n_enough/rand1.png" alt="rand1" align="middle" width="100%" /><br />
 
+_And who are you anyway to tell me what to do, what to drink, how much to drink? No one asked you your opinion. You’re simply spewing your nonsense as if it comes from on up high. What, you don’t think I have other things to worry about, that perhaps a drink here and there helps with dealing with some of the stress? I’m not going to tow the line of your stupid standard which, regardless of whatever biological things you claim, appear outright arbitrary. The hell with your points and unsolicited advice. In a word, this is bullshit. I’m free to do what I wish and if that means having a few too many, whether one day or over a week, that is no one‘s business but my own. I can’t believe you have the nerve to sit there and write to me about what is an acceptable amount of alcohol to consume. This from the guy who writes about beer on a silly, small, glorified blog. Ha, why don’t you go and do something about the quality, regularity and underlying logic to your pieces and not worry so much about other people. We’ll be just fine with our drinks. And without you. Again, where do you get the nerve? Mind your own business. Isn’t that where “p’s” and “q’s” comes from? Mind your own pints and quarts and don’t trouble yourself too much about what others are doing. Besides, you wanna group us all into one group. We’re each different. Who are you to say that 14 drinks a week is sufficient. Maybe it is for you, you pansy. Real men drink real beer. And as much of it as they want. Matter of fact, I’m going to have a pint right now. It’ll help calm me down a bit._
 
 <img src="/gallery/2019/n_enough/abv_serv_size.png" alt="abv_serv_size" align="middle" width="100%" /><br />
-<img src="/gallery/2019/n_enough/rand1.png" alt="rand1" align="middle" width="100%" /><br />
+
+_Fourteen isn’t such a low number but let’s bump it to 15 to make it easier to remember. Maybe 20 so we have a nice round number. No, you sure? OK, fine we’ll stick with 14. I can work with that. Fourteen, hmm? So, if I have just one pint on any given day, perhaps at lunch, or just one for dinner, does that count? But is that fair, shouldn’t it only count when you have a couple or more? That’s when the health impacts have to be more pronounced and compounding. Just one beer is nothing. You say that’s the point: that having one can, bottle, or pint isn’t really, and shouldn’t count, as one drink. Right, right the whole alcohol content plus quantity thing. So if I have half a pint and it calculates to one drink using your goofy math then does that count? Really, how am I supposed to do that? Just count every alcohol gram. Next thing you’ll have me doing is keeping track of my carbs and counting steps. Yes, yes I know those are good things to be aware of as well. But I’m not a machine. I’m a human who listens to their body. If my body can handle a few drinks then it can’t be that bad. I’m backsliding? Really? OK, where were we? Just 14 drinks in any given week and not much more than three on any one day. I’m not sure I can make that work. It’s not that I drink every day, even, but if I have a few I don’t want to be held back by some arbitrary conditions._
+
 <img src="/gallery/2019/n_enough/rand2.png" alt="rand2" align="middle" width="100%" /><br />
+
+_Oh, what’s the point? Obviously, there’s a limit beyond which there’s been too much alcohol had. If you’re right, given my age, sex, and weight, that number is closer to what you’re suggesting than what I originally had in mind. I just don’t see what to do about it. This takes all the fun out of drinking. I don’t want to be doing math when I’m drinking. I simply want to enjoy the moment. Of course this would be something too good to be true. I feel like the characters in [the Seinfeld episode after finding out their favorite non-fat yogurt](https://youtu.be/4rRQbvdnJFU) was not non-fat after all. Thanks a lot, party pooper. You’ve taken the fun out of the whole thing. What’s the point? Probably never bother drinking again. After having one last rager to put it all behind me._
+
 <img src="/gallery/2019/n_enough/rand3.png" alt="rand3" align="middle" width="100%" /><br />
+
+_Right, there’s only so much any of us should be consuming, if anything really, in a day, week, however long. It makes sense to base these limits on our biological makeup so that they have the greatest relevance for our well-being. What other candidate standards could be more important? It’s not that choice is being taken away if I think about it. Sure, before there was no limit in mind other than boredom, satiation, or passing out, but now with a (soft?) cap decisions on what, when and how much to drink are forced to be more deliberate. The choice is mine and that requires I take responsibility for my actions. Hmm, funny that this would be an empowering experience. What else? He puts in stronger focus what drinks I do enjoy and makes me less forgiving of crap. Why bother having a pint of swill, might as well drink something I enjoy. Reminds me of desserts: why eat an Entenmann’s donut when you can get a fancy bakery cupcake, or vice versa?<sup id="a1">[1](#f1)</sup> The preference depends on the person but the preference should be considered and if you’re only going to have one go with your gut. Literally. I know it’ll take some time to fully implement this new approach but I see that it’s worthwhile and that a stumble here or there will simply be part of the (fun?) learning process. Not to undercut what I just said about deliberate action but I can see that part of the goal is to eventually make these kinds of discriminations more automatic, that it becomes a new habit. Not that that should undercut personal decisions. I deliberately brush my teeth every day but I don’t give it much thought. Teeth brushing is apropos in that curating my drinking is a form of hygiene, both physical and mental. I’m ready for the challenge. I’m ready to have some fun and reorient my intuition about what is sufficient. This is a new day and I’m not getting any younger. I have to admit that I already was not drinking as much, as often, or recovering as quickly as I used to anyway. Looks like my body was ahead of my mind, which is only now starting to catch up._
+	
 <img src="/gallery/2019/n_enough/rand4.png" alt="rand4" align="middle" width="100%" /><br />
 
 
@@ -105,4 +109,11 @@ label {
 
 **Notes**
 
+<b id="f1">1</b> I’d go for the Entenmann’s. [↩](#a1) <br> 
+
 <sub>Data Source: <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6101a4.htm?s_cid=mm6101a4_w" target="_blank">CDC</a> & <a href="https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf" target="_blank">US Census</a> </sub>
+
+source(s): 
+* https://yonaba.github.io/2012/08/14/List-your-GitHub-projects-using-JavaScript-and-jQuery.md.html
+* https://jsfiddle.net/8p3ftmuh/2/
+* https://www.keycdn.com/support/inline-small-css-and-javascript
