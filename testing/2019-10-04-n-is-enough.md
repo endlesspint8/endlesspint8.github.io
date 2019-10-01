@@ -14,7 +14,7 @@ source(s):
 * https://jsfiddle.net/8p3ftmuh/2/
 * https://www.keycdn.com/support/inline-small-css-and-javascript
 
-v 1.3
+v 1.4
 
 <style>
 .checkbox-grid li {
@@ -44,7 +44,7 @@ label {
   <li><input type="checkbox" name="Bourbon_Goose36" value="2.79375" /><label for="Bourbon_Goose36">Bourbon County Brand Vanilla Stout - Goose Island Beer Co., 14.90%</label></li>
   <li><input type="checkbox" name="Zenne_325" value="2.625" /><label for="Zenne_325">Zenne Y Frontera - 3 Fonteinen, 7.00%</label></li>
 
-</ul>
+</ul><br>
 
 <script src="http://ajax.microsoft.com/ajax/jquery/jquery-2.1.3.min.js" type="text/javascript"></script>
 <script type="text/javascript">
