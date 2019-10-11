@@ -22,7 +22,7 @@ subtitle: aka Past Newsletters
 * _[The Comic Book Story of Beer](http://endlesspint.com/2019-09-06-MxSxFx025-comic-book-story-beer)_
 * _[My Beer Year](http://endlesspint.com/2019-09-20-MxSxFx026-my-beer-year)_
 * _[Oh Beautiful Beer](http://endlesspint.com/2019-09-27-MxSxFx027-oh-beautiful-beer)_
-* _[The Brewer's Tale](http://endlesspint.com/link)_
+* _[The Brewer's Tale](http://endlesspint.com/2019-10-11-MxSxFx028-brewers-tale)_
 * _[The Complete Beer Course](http://endlesspint.com/link)_
 * _[B is for Beer](http://endlesspint.com/link)_
 
