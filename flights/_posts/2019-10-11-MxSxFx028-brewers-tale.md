@@ -10,7 +10,7 @@ sideof: []
 ---
 
 <p align="center">
-<img src="/flights/imgs/19-2/989px-Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg"	alt="" align="middle" width="75%" /><br />
+<img src="/flights/imgs/19-2/989px-Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg"	alt="" align="middle" width="100%" /><br />
 </p>
 	
 
