@@ -5,7 +5,7 @@ subtitle: Bootstrapping for Beer Buffs
 tags: ["books", "grounding"]
 shortlink: 
 twitimg: 
-image: http://endlesspint.com/flights/imgs/19-2/989px-Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg
+image: http://endlesspint.com/flights/imgs/19-2/calum-macaulay-CxYHfBkC0vs-unsplash.jpg
 sideof: []
 ---
 
@@ -22,7 +22,7 @@ Twelve lessons across a variety of subject matters, primarily beer styles, but a
 <img src="/flights/imgs/19-2/calum-macaulay-CxYHfBkC0vs-unsplash.jpg"	alt="" align="middle" width="100%" /><br />
 </p>
 
-##Appearance
+## Appearance
 
 [Perhaps begin with physical appearance, i.e., dimension, weight, gloss] Twelve logically laid out chapters. First, everyone is brought up to speed on beer making and tasting. A common vocabulary is presented so that the remainder of the book is coherent and makes sense to the reader. Plenty of photos and sidebars to keep the presentation fresh and break up the amount of material. A scan and zoom approach (not quite fractal): find a style, go to chapter, browse through, find sub style descriptions, present day examples, go to the store and sample in real life. A good setup that we can work with.
 
@@ -37,7 +37,7 @@ Twelve lessons across a variety of subject matters, primarily beer styles, but a
 Part of what you are looking for in a book of this sort is its effectiveness as a reference guide. Perhaps this is what most people look for, even after reading it front to back. And I case this title may be added to a handful of others that are candidates for this role in your own library. There’s no saying you cannot have more than one reference book. In fact, I recommend a few of the classics to have by your side: _Tasting Beer_ and Oliver’s _The Brewmaster’s Table_ to name just two. This title fits among and between the two classics, digging a bit deeper on some topics than the first without being as exhaustive on the food aspect, naturally, as the latter.
 
 <p align="center">
-<img src="/flights/imgs/19-2/alice-donovan-rouse-AFTYTQCt9aQ-unsplash.jpg	"	alt="" align="middle" width="100%" /><br />
+<img src="/flights/imgs/19-2/alice-donovan-rouse-unsplash.jpg"	alt="" align="middle" width="100%" /><br />
 </p>
 
 A well thought out and structured approach to tackling the seemingly endless beer styles out there. The chapters have a consistent framework while avoiding becoming formulaic. There is enough variety sprinkled into the predictable patterns of the chapters to avoid their becoming repetitive. This continued freshness is no easy task for a subject so large, at least it is no easy temptation to sidestep. The opening two chapters are the longest and a true crash course in getting readers on equal footing with respect to beer ingredients, production, and serving presentation. With this backbone in place the book commences to branch out, running through various beer styles and categories.
