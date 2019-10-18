@@ -14,7 +14,7 @@ Next six:
 &#10004; [B]()
 
 * [L@Me](2019-07-25-so-lame-you-probably-think-post-about-you)
-* [brewers](2019-10-11-MxSxFx028-brewers-tale)
+* [course](2019-10-19-MxSxFx029-complete-beer-course)
 * [blank]()
 * [blank]()
 * [blank]()
