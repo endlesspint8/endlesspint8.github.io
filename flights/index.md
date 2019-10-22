@@ -23,7 +23,7 @@ subtitle: aka Past Newsletters
 * _[My Beer Year](http://endlesspint.com/2019-09-20-MxSxFx026-my-beer-year)_
 * _[Oh Beautiful Beer](http://endlesspint.com/2019-09-27-MxSxFx027-oh-beautiful-beer)_
 * _[The Brewer's Tale](http://endlesspint.com/2019-10-11-MxSxFx028-brewers-tale)_
-* _[The Complete Beer Course](http://endlesspint.com/link)_
+* _[The Complete Beer Course](http://endlesspint.com/2019-10-22-MxSxFx029-complete-beer-course)_
 * _[B is for Beer](http://endlesspint.com/link)_
 
 
