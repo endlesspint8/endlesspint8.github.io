@@ -4,6 +4,8 @@ title: G.A.S.P. - Who's Really Being Obtuse?
 subtitle: A little Gerry goes a long way to bouncing checks (& balances)
 ---
 
+**(links and images still need to prettify'd, but the text is set)** 
+
 > "There is no such thing as a dysfunctional organization, because every organization is perfectly aligned to achieve the results it currently gets.” - Jeff Lawrence
 
 https://www.flickr.com/photos/kennycole/8541063901/in/photostream/
