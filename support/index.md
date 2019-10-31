@@ -25,7 +25,7 @@ However, to insure promptness and the continued flow of posts click the pint log
 |Themes 	|Techniques	|Tools	| Topography |  Troves  |
 |---	|---	|---	| ---	| ---	|
 | bars	| 	| 	|  	|  311	|
-| [bitter](/tag/bitter) 	| bayes  	| Bokeh  	| bullet  | BeerAdvocate |
+| [bitter](/tag/bitter) 	| [bayes](/tag/bayes)  	| Bokeh  	| bullet  | BeerAdvocate |
 | [books](/tag/books)   	| distributions  	| CartoDB  	| [heatmap](/tag/heatmap) | BreweryDB |
 | [boxing](/tag/boxing)   	| ELO  	| CausalImpact 	| tornado | CraftBeer  |
 | [complexity](/tag/complexity)  	|  game theory 	| D3  	| chord |   |
