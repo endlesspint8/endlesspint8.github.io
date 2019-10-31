@@ -5,6 +5,8 @@ subtitle: Drink slow, think deep, make a stink
 ---
 
 
+**(links and images still need to prettify'd, but the text is set)** 
+
 “As Paul Newman explained in The Sting, the key to a great con is that the victim never realizes he was conned — indeed, he believes he is about to be a big winner right up until the last moment.” The Four, Scott Galloway
 
 https://www.infrastructurereportcard.org/
