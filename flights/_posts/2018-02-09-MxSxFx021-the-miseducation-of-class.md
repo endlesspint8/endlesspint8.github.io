@@ -4,6 +4,8 @@ title: G.A.S.P. - The Miseducation Of Class
 subtitle: Some more equal than others
 ---
 
+**(links and images still need to prettify'd, but the text is set)** 
+
 “Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." Oscar Wilde
 https://www.flickr.com/photos/aarika/
 Nastassia Davis
