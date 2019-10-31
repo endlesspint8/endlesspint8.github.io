@@ -24,7 +24,7 @@ subtitle: aka Past Newsletters
 * _[Oh Beautiful Beer](http://endlesspint.com/2019-09-27-MxSxFx027-oh-beautiful-beer)_
 * _[The Brewer's Tale](http://endlesspint.com/2019-10-11-MxSxFx028-brewers-tale)_
 * _[The Complete Beer Course](http://endlesspint.com/2019-10-22-MxSxFx029-complete-beer-course)_
-* _[B is for Beer](http://endlesspint.com/link)_
+* _[B is for Beer](http://endlesspint.com/2019-10-31-MxSxFx030-b-is-for-beer-d-is-for-drain-pour)_
 
 
 <br>
@@ -38,12 +38,12 @@ subtitle: aka Past Newsletters
   <br>
 </p>
 
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
-* _[title](http://endlesspint.com/link)_
+* _[Precarious Isolation](http://endlesspint.com/2018-01-12-MxSxFx019-Precarious-Isolation)_
+* _[Stacked Market Cooperation](http://endlesspint.com/2018-01-25-MxSxFx020-Stacked-Market-Cooperation)_
+* _[The Miseducation Of Class](http://endlesspint.com/2018-02-09-MxSxFx021-the-miseducation-of-class)_
+* _[Neither Families Nor Values, Discuss](http://endlesspint.com/2018-02-16-MxSxFx022-neither-families-nor-values-discuss)_
+* _[Paper Darwinians](http://endlesspint.com/2018-03-02-MxSxFx023-paper-darwinians)_
+* _[Who's Really Being Obtuse?](http://endlesspint.com/2018-03-19-MxSxFx024-whos-really-being-obtuse)_
 
 
 <br>
