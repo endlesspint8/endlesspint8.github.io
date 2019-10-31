@@ -1,9 +1,10 @@
 ---
 layout: post
-title: G.A.S.P. - Yeast & Hops are Wild
+title: G.A.S.P. - Paper Darwinians
 subtitle: These wages are making me thirsty
 ---
 
+**(links and images still need to prettify'd, but the text is set)** 
 
 > The first English that the International Harvester Company taught its Polish workers in 1870 was: "I hear the whistle. I must hurry." America, he concludes, "was not a society but a means of making money."  _We, Robots_ (Curtis White)
 
