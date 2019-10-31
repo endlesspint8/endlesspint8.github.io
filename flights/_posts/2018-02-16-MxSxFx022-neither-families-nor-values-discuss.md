@@ -4,6 +4,8 @@ title: G.A.S.P. - Neither Families Nor Values, Discuss
 subtitle: Daddy needs a drink
 ---
 
+**(links and images still need to prettify'd, but the text is set)** 
+
 
 "Family Values" is neither about family nor about values. Discuss.
 http://www.independent.co.uk/news/world/americas/paid-maternity-leave-us-worst-countres-world-donald-trump-family-leave-plan-women-republican-social-a7606036.html
