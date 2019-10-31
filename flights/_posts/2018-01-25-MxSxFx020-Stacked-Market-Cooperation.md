@@ -4,6 +4,8 @@ title: G.A.S.P. - Stacked Market Cooperation
 subtitle: A toast to health[care reform] 
 ---
 
+**(links and images still need to prettify'd, but the text is set)** 
+
 
 > “The easiest way to steal a man's wallet is to tell him you're going to steal his watch.” -Leigh Bardugoh
 
