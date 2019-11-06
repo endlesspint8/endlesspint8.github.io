@@ -9,18 +9,28 @@ subtitle: The last 1,001 titles
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|	Batman: The Killing Joke	|	Alan Moore	|	EBOOK	|		|
-|	The Most Important Thing Illuminated	|	Howard Marks	|	EBOOK	|		|
-|	The Iceman Cometh	|	Eugene O'Neill	|	EBOOK	|		|
-|	The Emperor of All Maladies	|	Siddhartha Mukherjee	|	AUDIOBOOK	|		|
+|	Batman: The Killing Joke	|	Alan Moore	|	EBOOK	|	[Forbidden Planet 50] and the release of latest Joker movie made it a timely choice.	|
+|	The Most Important Thing Illuminated	|	Howard Marks	|	EBOOK	|	I'm spiritually a value investor.	|
+|	The Iceman Cometh	|	Eugene O'Neill	|	EBOOK	|	Great theatre; no further explanation needed. 	|
+|	The Emperor of All Maladies	|	Siddhartha Mukherjee	|	AUDIOBOOK	|	[Time 100 Nonfiction]	|
 |	Capitalist Realism	|	Mark Fisher	|	EBOOK	|		|
-|	Algorithms to Live By	|	Brian Christian and Tom Griffiths	|	EBOOK	|		|
-|	DUNE	|	Frank Herbert	|	EBOOK	|		|
+|	Algorithms to Live By	|	Brian Christian and Tom Griffiths	|	EBOOK	|	Brother put me onto an author interview. Thought the book might provide inspiration for further posts on the site.	|
+|	DUNE	|	Frank Herbert	|	EBOOK	|	Been curious about this title for years. Even had it as a hold for 12+ months at library. Seeing that a new film version was scheduled for the following year was the final straw in my taking the dive. I was blown away. 	|
 |	Pretending Is Lying	|	Dominique Goblet	|	EBOOK	|		|
-|	Tragedy, the Greeks, and Us	|	Simon Critchley	|	EBOOK	|		|
-|	The Sandman (1989), Volume 1	|	Neil Gaiman	|	EBOOK	|		|
-|	A Streetcar Named Desire	|	Tennessee Williams	|	EBOOK	|		|
-|	The World in a Grain	|	Vince Beiser	|	AUDIOBOOK	|		|
-|	Prisoners of Geography	|	Tim Marshall	|	AUDIOBOOK	|		|
-|	This Is Marketing	|	Seth Godin	|	AUDIOBOOK	|		|
-|	Pale Fire	|	Vladimir Nabokov	|	EBOOK	|		|
+|	Tragedy, the Greeks, and Us	|	Simon Critchley	|	EBOOK	|	Heard author interview and found his presentation engaging. The book was even better (e.g., Tragedy's philosophy v Philosophy's tragedy).	|
+|	The Sandman (1989), Volume 1	|	Neil Gaiman	|	EBOOK	|	[Forbidden Planet 50]	|
+|	A Streetcar Named Desire	|	Tennessee Williams	|	EBOOK	|	Great theatre; no further explanation needed. 	|
+|	The World in a Grain	|	Vince Beiser	|	AUDIOBOOK	|	Heard author on podcast and found the idea of the world running out of sand both fascinating and frightening.	|
+|	Prisoners of Geography	|	Tim Marshall	|	AUDIOBOOK	|	A sucker for geopolitical angles.	|
+|	This Is Marketing	|	Seth Godin	|	AUDIOBOOK	|	Godin always provides insightful, cleary articulated 	|
+|	Pale Fire	|	Vladimir Nabokov	|	EBOOK	|	Well, it's Nabokov and [Time 100 Novels] |
+
+
+
+---
+
+**Notes**
+
+[Time 100 Novels]: http://entertainment.time.com/2005/10/16/all-time-100-novels/slide/all/
+[Time 100 Nonfiction]: http://entertainment.time.com/2011/08/30/all-time-100-best-nonfiction-books/slide/all/
+[Forbidden Planet 50]: https://forbiddenplanet.com/posts/50-best-best-graphic-novels/
