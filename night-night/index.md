@@ -34,3 +34,5 @@ subtitle: The last 1,001 titles
 [Time 100 Novels]: http://entertainment.time.com/2005/10/16/all-time-100-novels/slide/all/
 [Time 100 Nonfiction]: http://entertainment.time.com/2011/08/30/all-time-100-best-nonfiction-books/slide/all/
 [Forbidden Planet 50]: https://forbiddenplanet.com/posts/50-best-best-graphic-novels/
+[Flavorwire 25 Greatest Essay Collections]: https://www.flavorwire.com/378123/the-25-greatest-essay-collections-of-all-time
+[Flavorwire 50 Essential Books of Poetry]: https://www.flavorwire.com/449473/50-essential-books-of-poetry-that-everyone-should-read
