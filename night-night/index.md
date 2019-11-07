@@ -23,7 +23,7 @@ Completed to date: 1.5%
 |	A Streetcar Named Desire	|	Tennessee Williams	|	EBOOK	|	Great theatre; no further explanation needed. 	|
 |	The World in a Grain	|	Vince Beiser	|	AUDIOBOOK	|	Heard author on podcast and found the idea of the world running out of sand both fascinating and frightening.	|
 |	Prisoners of Geography	|	Tim Marshall	|	AUDIOBOOK	|	A sucker for geopolitical angles.	|
-|	This Is Marketing	|	Seth Godin	|	AUDIOBOOK	|	Godin always provides insightful, cleary articulated 	|
+|	This Is Marketing	|	Seth Godin	|	AUDIOBOOK	|	Godin always provides cleary articulated insights. |
 |	Pale Fire	|	Vladimir Nabokov	|	EBOOK	|	Well, it's Nabokov and [Time 100 Novels] |
 
 
@@ -37,3 +37,4 @@ Completed to date: 1.5%
 [Forbidden Planet 50]: https://forbiddenplanet.com/posts/50-best-best-graphic-novels/
 [Flavorwire 25 Greatest Essay Collections]: https://www.flavorwire.com/378123/the-25-greatest-essay-collections-of-all-time
 [Flavorwire 50 Essential Books of Poetry]: https://www.flavorwire.com/449473/50-essential-books-of-poetry-that-everyone-should-read
+[Nobel Prize in Literature]: https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-literature
