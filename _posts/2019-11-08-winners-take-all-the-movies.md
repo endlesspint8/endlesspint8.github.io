@@ -19,7 +19,7 @@ Even a cursory glance at the US movie sales numbers made it clear that some roug
 
 <img src="/gallery/2019/wta_movies/wta_movies_pareto.jpg" alt="wta_movies_pareto" align="middle" width="100%" /><br />
 
-Each of these options had their benefits and trade-offs. Intending this as a simple analysis, and only looking to get a good rule of thumb out of it, I did not make too much of a science of it, but I did have some fun exploring the nature of the film industry these past several decades. This analysis led to some simple but informative graphs. They confirm what many of us already suspected, that movie grosses are top-heavy with a long tail. Typically, the top 23 movies take home half the total gross for any given year, leaving the other 50% to be split among the 120+ remaining releases. Moreover, some studios live in the big movie space while others feed off the remains.
+Each of these options had their benefits and trade-offs. Intending this as a simple analysis, and only looking to get a good rule of thumb out of it, I did not make too much of a science of it, but I did have some fun exploring the nature of the film industry these past several decades. This analysis led to some simple but informative graphs. They confirm what many of us already suspected, that movie grosses are top-heavy with a long tail. Typically, the top 23 movies take home half the total gross for any given year, leaving the other 50% to be split among the 120+ remaining releases. Moreover, some studios live in the big movie space while others feed off the remains.<sup id="a2">[2](#f2)</sup> 
 
 <img src="/gallery/2019/wta_movies/wta_movies_top23.jpg" alt="wta_movies_top23" align="middle" width="100%" /><br />
 
@@ -29,25 +29,20 @@ The idea being to have a simple and interpretable model in hand I only made a fe
 <img src="/gallery/2019/wta_movies/wta_movies_model_ci.jpg" alt="wta_movies_model_ci" align="middle" width="80%" /><br />
 </p>  
 
+So, beyond making my point was I also right about the $200 million? Not quite. The total take home according to my data source was just shy at $171M. On the bright side, the model used appears to be reasonably reliable given its ease of use: start with a baker’s dozen million dollars, multiply the opening week’s take by 3 and add the two together. Viola, you have yourself a solid guess at where a movie will end up. 
+
+<p align="center">
+  <b> * * * </b>
+</p> 
+
 The first installment of John Wick was a revelation, the second true to the spirit if perhaps a bit derivative, the third a self-parody of its two siblings. The film makers were no doubt giving some viewers what they wanted and more of it, primarily in the form of action sequences and choreography. The trouble is that they turned one dial up to 11 and thereby drowning out all the other elements, or nearly so. The movie is recognizable to the style and appearance of the prior two, but it is also something else. At times the action was so drawn out that it felt as if I were watching a video game; in the case of the gun scenes it was akin to viewing a first-person shooter. Watching video games, while not playing them yourself, is entertaining to a point. Soon after the limit is passed it dovetails into frustration and boredom. Ultimately you must ask yourself what the point of your viewing is. 
 
-Truthfully, I almost turned off the movie. There was hardly a compelling reason to see it through [other than I had made it as far as I had already](link to drain pour). It is too bad that half the time devoted to ingenious ways of maiming and killing a person were not given over to plot development and additional world development. Yes, I know, I sound ridiculous making this gripe about a comic book-esq piece of work. But this is neither so farfetched a request (see intro to The Walking Dead, Volume1 for a creator's take on gore and violence<sup id="a2">[2](#f2)</sup>) nor something whose material to do just what I am lamenting were not so clearly visible. 
+Truthfully, I almost turned off the movie. There was hardly a compelling reason to see it through [other than I had made it as far as I had already](link to drain pour). It is too bad that half the time devoted to ingenious ways of maiming and killing a person were not given over to plot development and additional world development. Yes, I know, I sound ridiculous making this gripe about a comic book-esq piece of work. But this is neither so farfetched a request (see intro to The Walking Dead, Volume1 for a creator's take on gore and violence<sup id="a3">[3](#f3)</sup>) nor something whose material to do just what I am lamenting were not so clearly visible. 
 
 To recap: John Wick is being hunted and given no quarter due to his having killed a member of the underworld in a sanctuary space – a Manhattan hotel that caters to this sort of clientele, to be precise. It was not the killing itself that was the main offense but the grounds on which it took place. Once again, rules and order. The movie consists almost entirely of Wick attempting to survive disparate persons’ attempts on his life for the bounty placed on it, while he also searches out the head of the organization to ask for leniency. However, it is not only Mr. Wick who is having a bad week. Two associates who granted him a bit of grace prior to the posting of the bounty are also being relieved of their positions. The ruling against these two comes down by strict interpretation and sticking to the letter of the law (or the code in this case). While the associates could have anticipated some level of displeasure for their momentary leniency they find the sentences overly harsh. They were after all no longer assisting JW once the contract was out, they simply provided a moment of grace, going by the spirit of the law. The letter of the law versus its spirit. Grace versus rigidity. Hmmm, paging Billy Shakespeare. Thematically there is something here to work with, to play off of, but this is never given a chance to breathe, suffocated by all of the glorified video game violence. Providing one more manner of unnecessary killing. This time of the story itself.
 
-So, beyond making my point was I also right about the $200 million? Not quite. The total take home according to my data source was just shy at $171M. On the bright side, the model used appears to be reasonably reliable given its ease of use: start with a baker’s dozen million dollars, multiply the opening week’s take by 3 and add the two together. Viola, you have yourself a solid guess at where a movie will end up. 
-
-
 
 <img src="/gallery/2019/wta_movies/wta_movies_bayes.jpg" alt="wta_movies_bayes" align="middle" width="100%" /><br />
-
-<p align="center">
-<img src="/gallery/2019/wta_movies/wta_movies_lorenz.jpg" alt="wta_movies_lorenz" align="middle" width="80%" /><br />
-</p>
-
-
-  
-
 
 
 ---
@@ -56,12 +51,16 @@ So, beyond making my point was I also right about the $200 million? Not quite. T
 
 [Preview Puppy Photo by Marcus Wallis on Unsplash](https://unsplash.com/photos/4zfacTKyZ7w)
 
-https://nbviewer.jupyter.org/github/endlesspint8/endlesspint8.github.io/blob/master/code/wta_movies/ch04_wta_movies.ipynb
+Code @[nbviewer](https://nbviewer.jupyter.org/github/endlesspint8/endlesspint8.github.io/blob/master/code/wta_movies/ch04_wta_movies.ipynb)
 
 <b id="f1">1</b> Making Shit Up.  [↩](#a1) <br>
-<b id="f2">2</b> _"To me, the best zombie movies aren’t the splatter fests of gore and violence with goofy characters and tongue in cheek antics. Good zombie movies show us how messed up we are, they make us question our station in society… and our society’s station in the world. They show us gore and violence and all that cool stuff too… but there’s always an undercurrent of social commentary and thoughtfulness._
+<b id="f2">2</b> For a further visual representation of disparity: 
 
-_“Give me ‘Dawn of the Dead’ over ‘Return of the Living Dad’ any day. To me zombie movies are thought provoking, dramatic fiction, on par with any Oscar worthy garbage that’s rolled out year after year. Movies that make you question the fabric of our very society are what I like. And in GOOD zombie movies… you get that by the truckload.”_ [↩](#a2) <br>
-<sup id="a3">[3](#f3)</sup> <b id="f3">3</b>  [↩](#a3) <br>
-<sup id="a4">[4](#f4)</sup> <b id="f4">4</b>  [↩](#a4) <br>
-<sup id="a5">[5](#f5)</sup> <b id="f5">5</b>  [↩](#a5) <br>
+<p align="center">
+<img src="/gallery/2019/wta_movies/wta_movies_lorenz.jpg" alt="wta_movies_lorenz" align="middle" width="80%" /><br />
+</p>
+[↩](#a2) <br>
+<b id="f3">3</b> _"To me, the best zombie movies aren’t the splatter fests of gore and violence with goofy characters and tongue in cheek antics. Good zombie movies show us how messed up we are, they make us question our station in society… and our society’s station in the world. They show us gore and violence and all that cool stuff too… but there’s always an undercurrent of social commentary and thoughtfulness._
+
+_“Give me ‘Dawn of the Dead’ over ‘Return of the Living Dad’ any day. To me zombie movies are thought provoking, dramatic fiction, on par with any Oscar worthy garbage that’s rolled out year after year. Movies that make you question the fabric of our very society are what I like. And in GOOD zombie movies… you get that by the truckload.”_ [↩](#a3) <br>
+
