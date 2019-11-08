@@ -5,7 +5,7 @@ subtitle: And all this for what, a puppy?
 tags: ["digressions", "bayes"]
 shortlink: 
 twitimg: 
-image: http://endlesspint.com/gallery/2019/boxing/spence_act_v_exp.png
+image: http://endlesspint.com/gallery/2019/wta_movies/marcus-wallis-4zfacTKyZ7w-unsplash.jpg
 sideof: []
 ---
 
@@ -30,8 +30,15 @@ So, beyond making my point was I also right about the $200 million? Not quite. T
 <img src="/gallery/2019/wta_movies/wta_movies_ts.jpg" alt="wta_movies_ts" align="middle" width="100%" /><br />
 
 <img src="/gallery/2019/wta_movies/wta_movies_bayes.jpg" alt="wta_movies_bayes" align="middle" width="100%" /><br />
-<img src="/gallery/2019/wta_movies/wta_movies_lorenz.jpg" alt="wta_movies_lorenz" align="middle" width="100%" /><br />
-<img src="/gallery/2019/wta_movies/wta_movies_model_ci.jpg" alt="wta_movies_model_ci" align="middle" width="100%" /><br />
+
+<p align="center">
+<img src="/gallery/2019/wta_movies/wta_movies_lorenz.jpg" alt="wta_movies_lorenz" align="middle" width="80%" /><br />
+</p>
+
+<p align="center">
+<img src="/gallery/2019/wta_movies/wta_movies_model_ci.jpg" alt="wta_movies_model_ci" align="middle" width="80%" /><br />
+</p>  
+  
 <img src="/gallery/2019/wta_movies/wta_movies_pareto.jpg" alt="wta_movies_pareto" align="middle" width="100%" /><br />
 <img src="/gallery/2019/wta_movies/wta_movies_top23.jpg" alt="wta_movies_top23" align="middle" width="100%" /><br />
 
@@ -39,6 +46,8 @@ So, beyond making my point was I also right about the $200 million? Not quite. T
 ---
 
 **Notes**
+
+[Preview Puppy Photo by Marcus Wallis on Unsplash](https://unsplash.com/photos/4zfacTKyZ7w)
 
 https://nbviewer.jupyter.org/github/endlesspint8/endlesspint8.github.io/blob/master/code/wta_movies/ch04_wta_movies.ipynb
 
