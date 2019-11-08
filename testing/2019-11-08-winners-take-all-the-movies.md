@@ -27,9 +27,20 @@ To recap: John Wick is being hunted and given no quarter due to his having kille
 
 So, beyond making my point was I also right about the $200 million? Not quite. The total take home according to my data source was just shy at $171M. On the bright side, the model used appears to be reasonably reliable given its ease of use: start with a baker’s dozen million dollars, multiply the opening week’s take by 3 and add the two together. Viola, you have yourself a solid guess at where a movie will end up. 
 
+<img src="/gallery/2019/wta_movies/wta_movies_ts.jpg" alt="wta_movies_ts" align="middle" width="100%" /><br />
+
+<img src="/gallery/2019/wta_movies/wta_movies_bayes.jpg" alt="wta_movies_bayes" align="middle" width="100%" /><br />
+<img src="/gallery/2019/wta_movies/wta_movies_lorenz.jpg" alt="wta_movies_lorenz" align="middle" width="100%" /><br />
+<img src="/gallery/2019/wta_movies/wta_movies_model_ci.jpg" alt="wta_movies_model_ci" align="middle" width="100%" /><br />
+<img src="/gallery/2019/wta_movies/wta_movies_pareto.jpg" alt="wta_movies_pareto" align="middle" width="100%" /><br />
+<img src="/gallery/2019/wta_movies/wta_movies_top23.jpg" alt="wta_movies_top23" align="middle" width="100%" /><br />
+
+
 ---
 
 **Notes**
+
+https://nbviewer.jupyter.org/github/endlesspint8/endlesspint8.github.io/blob/master/code/wta_movies/ch04_wta_movies.ipynb
 
 <sup id="a1">[1](#f1)</sup> <b id="f1">1</b>  [↩](#a1) <br>
 <sup id="a2">[2](#f2)</sup> <b id="f2">2</b>  [↩](#a2) <br>
