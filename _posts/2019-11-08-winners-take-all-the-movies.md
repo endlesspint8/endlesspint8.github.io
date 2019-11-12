@@ -14,14 +14,17 @@ I will be avoiding John Wick's rampage but his story ties into this investigatio
 The sequel extended this world and some viewers preferred it to the first. Though I believe the first movie edges its sequel, the two together signified a strong franchise. By the time JW3 rolled around I was more aware of the hype. In fact, a group of friends were passing along not entirely ironic enthusiastic remarks about the latest John Wick movie. I joked about not being able to wait for the fourth, even before the third had been released. In this age of sequels any successful film invites the opportunity for spinoffs and franchise building. A friend saw the film opening night, said it left the plot open to further exploitation, and I replied that “of course there would be a future release given that this one would rake in a couple of hundred million.” It was a number thrown out there to make a point, not win an argument, but also backed by my MSU degree.<sup id="a1">[1](#f1)</sup> As is often the case, I was left wondering how much I agreed with what I just said. What would it mean to gross $200 million, how common is this yearly, and was I talking domestic or international (obviously, whatever would bring my comment closer to the truth)? I figured I could find some of the answers on the line. Pulling together several decades’ worth of domestic movie grosses I was able to investigate the idea further.
 
 <img src="/gallery/2019/wta_movies/wta_movies_ts.jpg" alt="wta_movies_ts" align="middle" width="100%" /><br />
+<sub>Data Source: <a href="https://www.boxofficemojo.com/?ref_=bo_nb_yld_mojologo" target="_blank">Box Office Mojo</a> </sub>
 
 Even a cursory glance at the US movie sales numbers made it clear that some rough estimate could be made. Most notably, a substantial amount of the overall gross was made in the first nights/weekend. This rings true to the hype and focus we hear about when it comes to who tops the box office and where they debuted. However, a closer look also showed that some monster sized movies also started out in limited release, with puny take-homes versus their final numbers. This was a wrinkle worth keeping in mind. A couple of ideas sprang to mind as to how to deal with it. The first option, as usual, was to do nothing. The wrinkle had been noted but would remain neglected. The second option was to drop these movies from the analysis. The thought of another “Frozen” starting out on just a handful of screens and having to predict its eventual number perhaps not worth the effort. Third, fourth, and fifth, somewhere in there and intertwined with one another, was to use this bit of information as just another variable, determine a scale for interpreting it, and comparing the resulting models. 
 
 <img src="/gallery/2019/wta_movies/wta_movies_pareto.jpg" alt="wta_movies_pareto" align="middle" width="100%" /><br />
+<sub>Data Source: <a href="https://www.boxofficemojo.com/?ref_=bo_nb_yld_mojologo" target="_blank">Box Office Mojo</a> </sub>
 
 Each of these options had their benefits and trade-offs. Intending this as a simple analysis, and only looking to get a good rule of thumb out of it, I did not make too much of a science of it, but I did have some fun exploring the nature of the film industry these past several decades. This analysis led to some simple but informative graphs. They confirm what many of us already suspected, that movie grosses are top-heavy with a long tail. Typically, the top 23 movies take home half the total gross for any given year, leaving the other 50% to be split among the 120+ remaining releases. Moreover, some studios live in the big movie space while others feed off the remains.<sup id="a2">[2](#f2)</sup> 
 
 <img src="/gallery/2019/wta_movies/wta_movies_top23.jpg" alt="wta_movies_top23" align="middle" width="100%" /><br />
+<sub>Data Source: <a href="https://www.boxofficemojo.com/?ref_=bo_nb_yld_mojologo" target="_blank">Box Office Mojo</a> </sub>
 
 The idea being to have a simple and interpretable model in hand I only made a few variations and tested them for effectiveness. There were a few options to click on or off, but each had at least the opening weekend gross included. Beyond that I messed around with basic Gaussian versus student-T, adding a second feature for percentile of opening day/weekend theaters versus previous year, and lastly, I did one polynomial version out of curiosity. Nothing crazy overall. The data was trained on the most recent full year (20198), testing was done on another nine years (2009 – 17) where overall grosses were in the $10 billion range, with a final check on the movies closed in 2019 (October timeframe).
 
@@ -54,8 +57,9 @@ Code @[nbviewer](https://nbviewer.jupyter.org/github/endlesspint8/endlesspint8.g
 <b id="f2">2</b> For a further visual representation of disparity: 
 
 <p align="center">
-<img src="/gallery/2019/wta_movies/wta_movies_lorenz.jpg" alt="wta_movies_lorenz" align="middle" width="80%" /><br />
+  <img src="/gallery/2019/wta_movies/wta_movies_lorenz.jpg" alt="wta_movies_lorenz" align="middle" width="80%" /><br />
 </p>
+<sub>Data Source: <a href="https://www.boxofficemojo.com/?ref_=bo_nb_yld_mojologo" target="_blank">Box Office Mojo</a> </sub>
 
 [↩](#a2) <br>
 
