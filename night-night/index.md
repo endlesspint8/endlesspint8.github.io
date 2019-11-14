@@ -10,6 +10,7 @@ Completed to date: 1.5%
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
+| White Teeth | Zadie Smith | PRINT | |
 |	Batman: The Killing Joke	|	Alan Moore	|	EBOOK	|	[Forbidden Planet 50] and the release of latest Joker movie made it a timely choice.	|
 |	The Most Important Thing Illuminated	|	Howard Marks	|	EBOOK	|	I'm spiritually a value investor.	|
 |	The Iceman Cometh	|	Eugene O'Neill	|	EBOOK	|	Great theatre; no further explanation needed. 	|
