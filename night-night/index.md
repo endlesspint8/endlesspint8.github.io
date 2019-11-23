@@ -10,7 +10,6 @@ Completed to date: 1.5%
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-
 |	Dune Messiah |	Frank Herbert | EBOOK	| DUNE |
 | White Teeth | Zadie Smith | PRINT | |
 |	Batman: The Killing Joke	|	Alan Moore	|	EBOOK	|	[Forbidden Planet 50] and the release of latest Joker movie made it a timely choice.	|
