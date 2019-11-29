@@ -6,10 +6,14 @@ subtitle: The last 1,001 titles
 
 Completed to date: 1.5%
 
-## Autumn '19 - 15 titles
+## Autumn '19 - 20 titles
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
+|		|		|		|		|
+|	Touching a Nerve	|	Patricia S. Churchland	|	AUDIOBOOK	|	Love me some consciousness exploration.	|
+|	Bayesian Analysis with Python (1st ed.) |	Osvaldo Martin	|	PRINTED	|	One of the six subject areas I'm particularly keen on at the moment. Also, found early perusals to show this as a strong text on fundimentals of the topic.	|
+|	Hellblazer (1988), Volume 1	|	Jamie Delano	|	EBOOK	|	The Sandman (1989), Volume 1: wasn't familiar with J. Constantine when he popped up in the story + [Forbidden Planet 50]	|
 |	Dune Messiah |	Frank Herbert | EBOOK	| DUNE |
 | White Teeth | Zadie Smith | PRINT | |
 |	Batman: The Killing Joke	|	Alan Moore	|	EBOOK	|	[Forbidden Planet 50] and the release of latest Joker movie made it a timely choice.	|
