@@ -4,13 +4,16 @@ title: Night Night
 subtitle: The last 1,001 titles
 ---
 
-Completed to date: 1.5%
+Completed to date: 2.3%
 
-## Autumn '19 - 20 titles
+## Autumn '19 - 23 titles
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
+|   |   |   |   |
+| Saudi America | Bethany McLean  | AUDIOBOOK  | Heard author on podcast; short and sweet.  |
+|	The Broom of the System	|	David Foster Wallace	|	PRINT	|	After his essay collections (Lobster & Fun Thing) I thought it about time to tackle one of his fiction works.	|
+|	The True History of Chocolate	|	Sophie D. Coe	|	EBOOK	|	One of the [bitter](/tag/bitter) cousins. It was alright, a bit of a let-down in comparison to Uncommon Grounds (coffee).	|
 |	Touching a Nerve	|	Patricia S. Churchland	|	AUDIOBOOK	|	Love me some consciousness exploration.	|
 |	Bayesian Analysis with Python (1st ed.) |	Osvaldo Martin	|	PRINTED	|	One of the six subject areas I'm particularly keen on at the moment. Also, found early perusals to show this as a strong text on fundimentals of the topic.	|
 |	Hellblazer (1988), Volume 1	|	Jamie Delano	|	EBOOK	|	The Sandman (1989), Volume 1: wasn't familiar with J. Constantine when he popped up in the story + [Forbidden Planet 50]	|
