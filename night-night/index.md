@@ -8,6 +8,10 @@ Completed to date: 2.3%
 
 ## Autumn '19 - 23 titles
 
+_Between Meals_
+~~_Aesthetic Intelligence_~~
+_A Moveable Feast_
+
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
