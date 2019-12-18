@@ -5,11 +5,23 @@ subtitle: Switch!
 tags: ["grounding", "bayes", ""]
 shortlink: 
 twitimg: 
-image: http://endlesspint.com/gallery/2019/wta_movies/marcus-wallis-4zfacTKyZ7w-unsplash.jpg
+image: http://endlesspint.com/gallery/2019/diversify/eggs-in-tray-on-white-surface-1556707.jpg
 sideof: []
 ---
 
-I will be avoi
+<p align="center">
+<img src="/gallery/2019/diversify/daniel-mccullough-FwjWUGbrxOU-unsplash.jpg" alt="" align="middle" width="80%" /><br />
+</p>  
+
+<p align="center">
+<img src="/gallery/2019/diversify/randy-fath-G1yhU1Ej-9A-unsplash.jpg" alt="" align="middle" width="80%" /><br />
+</p>  
+
+<p align="center">
+<img src="/gallery/2019/diversify/eggs-in-tray-on-white-surface-1556707.jpg" alt="" align="middle" width="80%" /><br />
+</p>  
+
+	
 
 
 
