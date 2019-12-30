@@ -6,6 +6,17 @@ subtitle: The last 1,001 titles
 
 Completed to date: 2.3%
 
+## Winter '20 - z titles
+
+_The Great Debate_
+~~_Love in the Time of Cholera_
+_Speed the Plow_
+
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|   |   |   |   |
+
+
 ## Autumn '19 - 23 titles
 
 _Between Meals_
