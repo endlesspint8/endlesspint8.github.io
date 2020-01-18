@@ -4,6 +4,14 @@ title: Night Night
 subtitle: The last 1,001 titles
 ---
 
+poems 
+essays
+short stories
+graphic novel
+plays
+one of six
+
+
 Completed to date: 2.3%
 
 ## Winter '20 - z titles
