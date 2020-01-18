@@ -9,7 +9,9 @@ Completed to date: 2.3%
 ## Winter '20 - z titles
 
 
-
+_Yevgeny Onegin_
+_Ritual A Very Short Introduction_
+_The Power Broker_
 _Doctor Zhivago_
 _The Great Debate_
 _Love in the Time of Cholera_
