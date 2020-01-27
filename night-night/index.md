@@ -16,29 +16,31 @@ Completed to date: 2.3%
 
 ## Winter '20 - z titles
 
-
-_Yevgeny Onegin_
-_Ritual A Very Short Introduction_
-_The Power Broker_
-_Doctor Zhivago_
-_The Great Debate_
-_Love in the Time of Cholera_
-_Speed the Plow_
+_Life and Fate_
+_Surv Cap_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
+|   |   |   |   |
+| _Hadji Murad_  |   |   |   |
+| _Yevgeny Onegin_  |   |   |   |
+| _Ritual A Very Short Introduction_  |   |   |   |
+| _The Power Broker_  |   |   |   |
+| _Doctor Zhivago_  |   |   |   |
+| _The Great Debate_  |   |   |   |
+| _Love in the Time of Cholera_  |   |   |   |
+| _Speed the Plow_  |   |   |   |
 
 
-## Autumn '19 - 23 titles
+## Autumn '19 - 25 titles, 1 abandoned
 
-_Between Meals_
-~~_Aesthetic Intelligence_~~
-_A Moveable Feast_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|   |   |   |   |
+| _Between Meals_  |   |   |   |
+| ~~_Aesthetic Intelligence_~~  |   |   | sandwiched bt two masterly written titles dealing with Paris, and implicitely style/taste, it could not stand up  |
+| _A Moveable Feast_  |   |   |   |
 | _Saudi America_ | Bethany McLean  | AUDIOBOOK  | Heard author on podcast; short and sweet.  |
 |	_The Broom of the System_	|	David Foster Wallace	|	PRINT	|	After his essay collections (Lobster & Fun Thing) I thought it about time to tackle one of his fiction works.	|
 |	_The True History of Chocolate_	|	Sophie D. Coe	|	EBOOK	|	One of the [bitter](/tag/bitter) cousins. It was alright, a bit of a let-down in comparison to Uncommon Grounds (coffee).	|
