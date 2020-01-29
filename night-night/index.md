@@ -16,21 +16,23 @@ Completed to date: 3.3%
 
 ## Winter '20 - z titles
 
-_Life and Fate_
+_Life and Fate_ Vasily Grossman (trans Robert Chandler)
 _Surv Cap_
+
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
 |   |   |   |   |
-| _Hadji Murad_  |   |   |   |
-| _Yevgeny Onegin_  |   |   |   |
-| _Ritual A Very Short Introduction_  |   |   |   |
-| _The Power Broker_  |   |   |   |
-| _Doctor Zhivago_  |   |   |   |
-| _The Great Debate_  |   |   |   |
-| _Love in the Time of Cholera_  |   |   |   |
-| _Speed the Plow_  |   |   |   |
+| _Hadji Murad_  | Leo Tolstoy (trans Alymer Maude)  | EBOOK  |   |
+| _A Brief History of Vice_  | Robert Evans  | AUDIOBOOK  |   |
+| _Yevgeny Onegin_  | Alexander Pushkin (trans Antony Briggs)  | EBOOK  |   |
+| _Ritual: A Very Short Introduction_  | Barry Stephenson | EBOOK  |   |
+| _The Power Broker_  |   | AUDIOBOOK  |   |
+| _Doctor Zhivago_  | Boris Pasternak (trans Richard Pevear)  | EBOOK  |   |
+| _The Great Debate_  |   | AUDIOBOOK  |   |
+| _Love in the Time of Cholera_  |   | PRINT  |   |
+| _Speed the Plow_  |   | EBOOK  |   |
 
 
 ## Autumn '19 - 25 titles, 1 abandoned
@@ -38,9 +40,9 @@ _Surv Cap_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-| _Between Meals_  |   |   |   |
+| _Between Meals_  | A. J. Liebling  | EBOOK  |   |
 | ~~_Aesthetic Intelligence_~~  |   |   | sandwiched bt two masterfully written titles dealing with Paris, and implicitely style/taste, it could not stand up  |
-| _A Moveable Feast_  |   |   |   |
+| _A Moveable Feast_  | Ernest Hemingway  | PRINT |   |
 | _Saudi America_ | Bethany McLean  | AUDIOBOOK  | Heard author on podcast; short and sweet.  |
 |	_The Broom of the System_	|	David Foster Wallace	|	PRINT	|	After his essay collections (Lobster & Fun Thing) I thought it about time to tackle one of his fiction works.	|
 |	_The True History of Chocolate_	|	Sophie D. Coe	|	EBOOK	|	One of the [bitter](/tag/bitter) cousins. It was alright, a bit of a let-down in comparison to Uncommon Grounds (coffee).	|
