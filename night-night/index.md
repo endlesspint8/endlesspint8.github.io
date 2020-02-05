@@ -14,6 +14,15 @@ one of six
 
 Completed to date: 3.3%
 
+## Spring '20 - z titles
+
+_Native Guard_
+_Solace of Open Spaces_
+_Hateship, Friendship_
+_On a Sunbeam_
+_V Monologues_
+_The Origins of Totalitarianism_
+
 ## Winter '20 - z titles
 
 _Life and Fate_ Vasily Grossman (trans Robert Chandler)
@@ -24,14 +33,14 @@ _Surv Cap_
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
 |   |   |   |   |
-| _Hadji Murad_  | Leo Tolstoy (trans Alymer Maude)  | EBOOK  |   |
+| _Hadji Murad_  | Leo Tolstoy (trans Alymer Maude)  | EBOOK  | Harold Bloom interview.  |
 | _A Brief History of Vice_  | Robert Evans  | AUDIOBOOK  |   |
-| _Yevgeny Onegin_  | Alexander Pushkin (trans Antony Briggs)  | EBOOK  |   |
-| _Ritual: A Very Short Introduction_  | Barry Stephenson | EBOOK  |   |
-| _The Power Broker_  |   | AUDIOBOOK  |   |
-| _Doctor Zhivago_  | Boris Pasternak (trans Richard Pevear)  | EBOOK  |   |
-| _The Great Debate_  |   | AUDIOBOOK  |   |
-| _Love in the Time of Cholera_  |   | PRINT  |   |
+| _Yevgeny Onegin_  | Alexander Pushkin (trans Antony Briggs)  | EBOOK  | Intro of _Doctor Zhivago_  |
+| _Ritual: A Very Short Introduction_  | Barry Stephenson | EBOOK  | One of six primary topics of interest  |
+| _The Power Broker_  |  Robert Caro (Vol 3 of 3) | AUDIOBOOK  |   |
+| _Doctor Zhivago_  | Boris Pasternak (trans Richard Pevear)  | EBOOK  | [Nobel Prize in Literature]  |
+| _The Great Debate_  |   | AUDIOBOOK  | Referenced in discussion bt Hedges, West and Wolfe  |
+| _Love in the Time of Cholera_  | Gabriel García Márquez  | PRINT  | _One Hundred Years of Solitude_  |
 | _Speed the Plow_  |   | EBOOK  |   |
 
 
@@ -41,7 +50,7 @@ _Surv Cap_
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 | _Between Meals_  | A. J. Liebling  | EBOOK  |   |
-| ~~_Aesthetic Intelligence_~~  |   |   | sandwiched bt two masterfully written titles dealing with Paris, and implicitely style/taste, it could not stand up  |
+| ~~_Aesthetic Intelligence_~~  |   |   | sandwiched bt two masterfully written titles dealing with Paris, and implicitly style/taste, it could not stand up  |
 | _A Moveable Feast_  | Ernest Hemingway  | PRINT |   |
 | _Saudi America_ | Bethany McLean  | AUDIOBOOK  | Heard author on podcast; short and sweet.  |
 |	_The Broom of the System_	|	David Foster Wallace	|	PRINT	|	After his essay collections (Lobster & Fun Thing) I thought it about time to tackle one of his fiction works.	|
