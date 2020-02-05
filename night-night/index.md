@@ -22,6 +22,7 @@ _Hateship, Friendship_
 _On a Sunbeam_
 _V Monologues_
 _The Origins of Totalitarianism_
+_Illness as Metaphor_
 
 ## Winter '20 - z titles
 
