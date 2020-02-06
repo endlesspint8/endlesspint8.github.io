@@ -25,6 +25,19 @@ _The Origins of Totalitarianism_
 _Illness as Metaphor_
 _Their Eyes Were Watching God_
 _The Year of Magical Thinking_
+_Fates and Furies_
+_Oryx and Crake_
+_Invisible Women_
+_Train to Trieste_
+_Cities and the Wealth of Nations_
+_The Drama of the Gifted Child_
+_alphabet, Inger Christensen_
+_Limits to Growth_
+_The Second Sex_
+_On Boxing_
+_The Bell Jar_
+_Fame & Folly_
+_The Essential Ellen Willis_
 
 ## Winter '20 - z titles
 
@@ -42,7 +55,7 @@ _Surv Cap_
 | _Ritual: A Very Short Introduction_  | Barry Stephenson | EBOOK  | One of six primary topics of interest  |
 | _The Power Broker_  |  Robert Caro (Vol 3 of 3) | AUDIOBOOK  |   |
 | _Doctor Zhivago_  | Boris Pasternak (trans Richard Pevear)  | EBOOK  | [Nobel Prize in Literature]  |
-| _The Great Debate_  |   | AUDIOBOOK  | Referenced in discussion bt Hedges, West and Wolfe.  |
+| _The Great Debate_  |   | AUDIOBOOK  | Referenced in discussion bt Hedges, West and Wolff.  |
 | _Love in the Time of Cholera_  | Gabriel García Márquez  | PRINT  | _One Hundred Years of Solitude_  |
 | _Speed the Plow_  |   | EBOOK  |   |
 
