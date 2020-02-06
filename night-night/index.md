@@ -23,6 +23,8 @@ _On a Sunbeam_
 _V Monologues_
 _The Origins of Totalitarianism_
 _Illness as Metaphor_
+_Their Eyes Were Watching God_
+_The Year of Magical Thinking_
 
 ## Winter '20 - z titles
 
@@ -34,13 +36,13 @@ _Surv Cap_
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
 |   |   |   |   |
-| _Hadji Murad_  | Leo Tolstoy (trans Alymer Maude)  | EBOOK  | Harold Bloom interview.  |
+| _Hadji Murad_  | Leo Tolstoy (trans Alymer Maude)  | EBOOK  | Harold Bloom interview, _Anna Karenina_ and _Resurrection_ besides.  |
 | _A Brief History of Vice_  | Robert Evans  | AUDIOBOOK  |   |
 | _Yevgeny Onegin_  | Alexander Pushkin (trans Antony Briggs)  | EBOOK  | Intro of _Doctor Zhivago_  |
 | _Ritual: A Very Short Introduction_  | Barry Stephenson | EBOOK  | One of six primary topics of interest  |
 | _The Power Broker_  |  Robert Caro (Vol 3 of 3) | AUDIOBOOK  |   |
 | _Doctor Zhivago_  | Boris Pasternak (trans Richard Pevear)  | EBOOK  | [Nobel Prize in Literature]  |
-| _The Great Debate_  |   | AUDIOBOOK  | Referenced in discussion bt Hedges, West and Wolfe  |
+| _The Great Debate_  |   | AUDIOBOOK  | Referenced in discussion bt Hedges, West and Wolfe.  |
 | _Love in the Time of Cholera_  | Gabriel García Márquez  | PRINT  | _One Hundred Years of Solitude_  |
 | _Speed the Plow_  |   | EBOOK  |   |
 
