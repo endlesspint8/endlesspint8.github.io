@@ -42,6 +42,7 @@ _The Essential Ellen Willis_
 ## Winter '20 - z titles
 
 _Life and Fate_ Vasily Grossman (trans Robert Chandler)
+_Pushkin Hills_ 
 _Surv Cap_
 
 
