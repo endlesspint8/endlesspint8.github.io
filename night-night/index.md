@@ -41,15 +41,16 @@ _The Essential Ellen Willis_
 
 ## Winter '20 - z titles
 
-_Life and Fate_ Vasily Grossman (trans Robert Chandler)
-_Pushkin Hills_ 
-_Surv Cap_
-
+_Philosophy and Real Politics_ Raymond Geuss
+_War Primer_ Bertolt Brecht
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
-|   |   |   |   |
+| _The Beggar and Other Stories_  | Gaito Gazdanov (trans Bryan Karetnyk)  | EBOOK  |   |
+| _Life and Fate_  | Vasily Grossman (trans Robert Chandler)  | EBOOK  |   |
+| _Pushkin Hills_   | Sergei Dovlatov (trans Katherine Dovlatov) | EBOOK  |   |
+| _The Age of Surveillance Capitalism_  | Shoshana Zuboff  | AUDIOBOOK  |   |
 | _Hadji Murad_  | Leo Tolstoy (trans Alymer Maude)  | EBOOK  | Harold Bloom interview, _Anna Karenina_ and _Resurrection_ besides.  |
 | _A Brief History of Vice_  | Robert Evans  | AUDIOBOOK  |   |
 | _Yevgeny Onegin_  | Alexander Pushkin (trans Antony Briggs)  | EBOOK  | Intro of _Doctor Zhivago_  |
