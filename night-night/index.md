@@ -41,12 +41,16 @@ _The Essential Ellen Willis_
 
 ## Winter '20 - z titles
 
-_Philosophy and Real Politics_ Raymond Geuss
-_War Primer_ Bertolt Brecht
+_The Complete Short Novels_ Anton Chekhov
+_The Strange Order of Things_ Antonio Damasio
+ 
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
+|   |   |   |   |
+| _Philosophy and Real Politics_  | Raymond Geuss  | EBOOK  |   |
+| _War Primer_  | Bertolt Brecht  | EBOOK  |   |
 | _The Beggar and Other Stories_  | Gaito Gazdanov (trans Bryan Karetnyk)  | EBOOK  |   |
 | _Life and Fate_  | Vasily Grossman (trans Robert Chandler)  | EBOOK  |   |
 | _Pushkin Hills_   | Sergei Dovlatov (trans Katherine Dovlatov) | EBOOK  |   |
@@ -57,9 +61,9 @@ _War Primer_ Bertolt Brecht
 | _Ritual: A Very Short Introduction_  | Barry Stephenson | EBOOK  | One of six primary topics of interest  |
 | _The Power Broker_  |  Robert Caro (Vol 3 of 3) | AUDIOBOOK  |   |
 | _Doctor Zhivago_  | Boris Pasternak (trans Richard Pevear)  | EBOOK  | [Nobel Prize in Literature]  |
-| _The Great Debate_  |   | AUDIOBOOK  | Referenced in discussion bt Hedges, West and Wolff.  |
+| _The Great Debate_  | Yuval Levin  | AUDIOBOOK  | Referenced in discussion bt Hedges, West and Wolff.  |
 | _Love in the Time of Cholera_  | Gabriel García Márquez  | PRINT  | _One Hundred Years of Solitude_  |
-| _Speed the Plow_  |   | EBOOK  |   |
+| _Speed the Plow_  | David Mamet | EBOOK  |   |
 
 
 ## Autumn '19 - 25 titles, 1 abandoned
