@@ -14,7 +14,7 @@ one of six
 
 Completed to date: 3.3%
 
-## Spring '20 - z titles
+## Spring '20 - y titles, z abandoned
 
 _Native Guard_
 _Solace of Open Spaces_
@@ -39,16 +39,17 @@ _The Bell Jar_
 _Fame & Folly_
 _The Essential Ellen Willis_
 
-## Winter '20 - z titles
+## Winter '20 - y titles, z abandoned
 
 _The Complete Short Novels_ Anton Chekhov
-_The Strange Order of Things_ Antonio Damasio
+_Anti-Intellectualism in American Life_ Richard Hofstadter
  
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
 |   |   |   |   |
+| ~~_The Strange Order of Things_~~  |   |  AUDIOBOOK | Simply didn't grab me.  |
 | _Philosophy and Real Politics_  | Raymond Geuss  | EBOOK  |   |
 | _War Primer_  | Bertolt Brecht  | EBOOK  |   |
 | _The Beggar and Other Stories_  | Gaito Gazdanov (trans Bryan Karetnyk)  | EBOOK  |   |
