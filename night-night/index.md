@@ -49,7 +49,7 @@ _Anti-Intellectualism in American Life_ Richard Hofstadter
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
 |   |   |   |   |
-| ~~_The Strange Order of Things_~~  |   |  AUDIOBOOK | Simply didn't grab me.  |
+| ~~_The Strange Order of Things_~~  |  ~~Antonio Damasio~~ |  ~~AUDIOBOOK~~ | Simply didn't grab me. Surprising given my interest in the intertwining of biology + society. |
 | _Philosophy and Real Politics_  | Raymond Geuss  | EBOOK  |   |
 | _War Primer_  | Bertolt Brecht  | EBOOK  |   |
 | _The Beggar and Other Stories_  | Gaito Gazdanov (trans Bryan Karetnyk)  | EBOOK  |   |
@@ -73,7 +73,7 @@ _Anti-Intellectualism in American Life_ Richard Hofstadter
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 | _Between Meals_  | A. J. Liebling  | EBOOK  |   |
-| ~~_Aesthetic Intelligence_~~  |   |   | sandwiched bt two masterfully written titles dealing with Paris, and implicitly style/taste, it could not stand up  |
+| ~~_Aesthetic Intelligence_~~  |  ~~Pauline Brown~~ |  ~~EBOOK~~ | sandwiched bt two masterfully written titles dealing with Paris, and implicitly style/taste, it could not stand up  |
 | _A Moveable Feast_  | Ernest Hemingway  | PRINT |   |
 | _Saudi America_ | Bethany McLean  | AUDIOBOOK  | Heard author on podcast; short and sweet.  |
 |	_The Broom of the System_	|	David Foster Wallace	|	PRINT	|	After his essay collections (Lobster & Fun Thing) I thought it about time to tackle one of his fiction works.	|
