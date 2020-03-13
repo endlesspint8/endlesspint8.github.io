@@ -48,7 +48,7 @@ _Anti-Intellectualism in American Life_ Richard Hofstadter
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
-| ~~_The Complete Short Novels_~~  | ~~Anton Chekhov~~  | EBOOK  | Apologies to the master but I ran out of time on the library loan due to too many tasks. However, I did read the first three of the five stories. Amazing, naturally. Intend to pick back up. Maybe next year we can do another Russian theme. |
+| ~~_The Complete Short Novels_~~  | ~~Anton Chekhov (trans Larissa Volokhonsky)~~  | ~~EBOOK~~  | Apologies to the master but I ran out of time on the library loan due to too many tasks. However, I did read the first three of the five stories. Amazing, naturally. Intend to pick back up. Maybe next year we can do another Russian theme. |
 | ~~_The Strange Order of Things_~~  |  ~~Antonio Damasio~~ |  ~~AUDIOBOOK~~ | Simply didn't grab me. Surprising given my interest in the intertwining of biology + society. |
 | _Philosophy and Real Politics_  | Raymond Geuss  | EBOOK  |   |
 | _War Primer_  | Bertolt Brecht  | EBOOK  |   |
