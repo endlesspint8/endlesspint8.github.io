@@ -12,9 +12,9 @@ plays
 one of six
 
 
-Completed to date: 3.3%
+Completed to date: 4.1%
 
-## Spring '20 - y titles, z abandoned
+## Spring '20 - y titles, z abandoned, theme: 
 
 _Native Guard_
 _Solace of Open Spaces_
@@ -39,15 +39,22 @@ _The Bell Jar_
 _Fame & Folly_
 _The Essential Ellen Willis_
 
-## Winter '20 - y titles, z abandoned
-
-_We_ Yevgeny Zamyatin
 _Anti-Intellectualism in American Life_ Richard Hofstadter
- 
+
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
+## Winter '20 - 16 titles, 2 abandoned, theme: Russian literature
+ 
+
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+| _We_  | Yevgeny Zamyatin  | EBOOK  | Take that Orwell! Huxley, too?  |
 | ~~_The Complete Short Novels_~~  | ~~Anton Chekhov (trans Larissa Volokhonsky)~~  | ~~EBOOK~~  | Apologies to the master but I ran out of time on the library loan due to too many tasks. However, I did read the first three of the five stories. Amazing, naturally. Intend to pick back up. Maybe next year we can do another Russian theme. |
 | ~~_The Strange Order of Things_~~  |  ~~Antonio Damasio~~ |  ~~AUDIOBOOK~~ | Simply didn't grab me. Surprising given my interest in the intertwining of biology + society. |
 | _Philosophy and Real Politics_  | Raymond Geuss  | EBOOK  |   |
@@ -67,7 +74,7 @@ _Anti-Intellectualism in American Life_ Richard Hofstadter
 | _Speed the Plow_  | David Mamet | EBOOK  |   |
 
 
-## Autumn '19 - 25 titles, 1 abandoned
+## Autumn '19 - 25 titles, 1 abandoned, theme: graphic novels?
 
 
 |	title	|	author	|	media	|	alibi	|
