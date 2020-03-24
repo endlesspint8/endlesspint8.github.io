@@ -16,8 +16,7 @@ Completed to date: 4.1%
 
 ## Spring '20 - y titles, z abandoned, theme: 
 
-_Native Guard_
-_Solace of Open Spaces_
+
 _Hateship, Friendship_
 _On a Sunbeam_
 _V Monologues_
@@ -27,7 +26,6 @@ _Their Eyes Were Watching God_
 _The Year of Magical Thinking_
 _Fates and Furies_
 _Oryx and Crake_
-_Invisible Women_
 _Train to Trieste_
 _Cities and the Wealth of Nations_
 _The Drama of the Gifted Child_
@@ -39,15 +37,18 @@ _The Bell Jar_
 _Fame & Folly_
 _The Essential Ellen Willis_
 
-_Anti-Intellectualism in American Life_ Richard Hofstadter
+ 
 
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| _Invisible Women_  | Caroline Criado Perez  | AUDIOBOOK  |   |
+| _Life on Mars_  | Tracy K. Smith  | EBOOK  |   |
+| _Solace of Open Spaces_ | Gretel Ehrlich  | EBOOK  |   |
+| ~~_Anti-Intellectualism in American Life_~~  | ~~Richard Hofstadter~~  | ~~AUDIOBOOK~~  | Got a bit more than halfway through, but my COVID-shattered commute limited the opportunity to get through this.   |
+| _Native Guard_  | Natasha Trethewey  | EBOOK  |   |
 
 ## Winter '20 - 16 titles, 2 abandoned, theme: Russian literature
  
