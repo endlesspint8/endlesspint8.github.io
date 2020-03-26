@@ -44,8 +44,8 @@ _The Essential Ellen Willis_
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
-| _On a Sunbeam_  |   |   |   |
-| _Hateship, Friendship_  |   |   |   |
+| _On a Sunbeam_  | Tillie Walden  | [ONLINE](https://www.onasunbeam.com/)  |   |
+| _Hateship, Friendship, Courtship, Loveship, Marriage_  | Alice Munro  | EBOOK  |   |
 | _Invisible Women_  | Caroline Criado Perez  | AUDIOBOOK  |   |
 | _Life on Mars_  | Tracy K. Smith  | EBOOK  |   |
 | _Solace of Open Spaces_ | Gretel Ehrlich  | EBOOK  |   |
