@@ -17,8 +17,6 @@ Completed to date: 4.1%
 ## Spring '20 - y titles, z abandoned, theme: 
 
 
-_Hateship, Friendship_
-_On a Sunbeam_
 _V Monologues_
 _The Origins of Totalitarianism_
 _Illness as Metaphor_
@@ -44,6 +42,10 @@ _The Essential Ellen Willis_
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
 |   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+| _On a Sunbeam_  |   |   |   |
+| _Hateship, Friendship_  |   |   |   |
 | _Invisible Women_  | Caroline Criado Perez  | AUDIOBOOK  |   |
 | _Life on Mars_  | Tracy K. Smith  | EBOOK  |   |
 | _Solace of Open Spaces_ | Gretel Ehrlich  | EBOOK  |   |
