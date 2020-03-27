@@ -47,10 +47,10 @@ _The Essential Ellen Willis_
 | _On a Sunbeam_  | Tillie Walden  | [ONLINE](https://www.onasunbeam.com/)  |   |
 | _Hateship, Friendship, Courtship, Loveship, Marriage_  | Alice Munro  | EBOOK  |   |
 | _Invisible Women_  | Caroline Criado Perez  | AUDIOBOOK  |   |
-| _Life on Mars_  | Tracy K. Smith  | EBOOK  |   |
-| _Solace of Open Spaces_ | Gretel Ehrlich  | EBOOK  |   |
+| _Life on Mars_  | Tracy K. Smith  | EBOOK  | [Flavorwire 50 Essential Books of Poetry]  |
+| _Solace of Open Spaces_ | Gretel Ehrlich  | EBOOK  | [Flavorwire 25 Greatest Essay Collections]  |
 | ~~_Anti-Intellectualism in American Life_~~  | ~~Richard Hofstadter~~  | ~~AUDIOBOOK~~  | Got a bit more than halfway through, but my COVID-shattered commute limited the opportunity to get through this.   |
-| _Native Guard_  | Natasha Trethewey  | EBOOK  |   |
+| _Native Guard_  | Natasha Trethewey  | EBOOK  | [Flavorwire 50 Essential Books of Poetry]  |
 
 ## Winter '20 - 16 titles, 2 abandoned, theme: Russian literature
  
