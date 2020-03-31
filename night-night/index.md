@@ -81,7 +81,7 @@ _The Essential Ellen Willis_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-| _Between Meals_  | A. J. Liebling  | EBOOK  |   |
+| _Between Meals_  | A. J. Liebling  | EBOOK  | _The Sweet Science_ and the repeated referencing of this title as an example of classic style in _Clear and Simple as the Truth_  |
 | ~~_Aesthetic Intelligence_~~  |  ~~Pauline Brown~~ |  ~~EBOOK~~ | sandwiched bt two masterfully written titles dealing with Paris, and implicitly style/taste, it could not stand up  |
 | _A Moveable Feast_  | Ernest Hemingway  | PRINT |   |
 | _Saudi America_ | Bethany McLean  | AUDIOBOOK  | Heard author on podcast; short and sweet.  |
