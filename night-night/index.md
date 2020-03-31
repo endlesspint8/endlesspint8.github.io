@@ -17,7 +17,6 @@ Completed to date: 4.1%
 ## Spring '20 - y titles, z abandoned, theme: 
 
 
-_V Monologues_
 _The Origins of Totalitarianism_
 _Illness as Metaphor_
 _Their Eyes Were Watching God_
@@ -27,7 +26,6 @@ _Oryx and Crake_
 _Train to Trieste_
 _Cities and the Wealth of Nations_
 _The Drama of the Gifted Child_
-_alphabet, Inger Christensen_
 _Limits to Growth_
 _The Second Sex_
 _On Boxing_
@@ -43,10 +41,11 @@ _The Essential Ellen Willis_
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
-|   |   |   |   |
+| _alphabet_  | Inger Christensen  | EBOOK  | [Flavorwire 50 Essential Books of Poetry]  |
 | _On a Sunbeam_  | Tillie Walden  | [ONLINE](https://www.onasunbeam.com/)  |   |
 | _Hateship, Friendship, Courtship, Loveship, Marriage_  | Alice Munro  | EBOOK  |   |
 | _Invisible Women_  | Caroline Criado Perez  | AUDIOBOOK  |   |
+| _The Vagina Monologues_  | Eve Ensler  | EBOOK  | 20th Anniversary Edition  |
 | _Life on Mars_  | Tracy K. Smith  | EBOOK  | [Flavorwire 50 Essential Books of Poetry]  |
 | _Solace of Open Spaces_ | Gretel Ehrlich  | EBOOK  | [Flavorwire 25 Greatest Essay Collections]  |
 | ~~_Anti-Intellectualism in American Life_~~  | ~~Richard Hofstadter~~  | ~~AUDIOBOOK~~  | Got a bit more than halfway through, but my COVID-shattered commute limited the opportunity to get through this.   |
