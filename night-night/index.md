@@ -91,7 +91,7 @@ _The Essential Ellen Willis_
 | _Yevgeny Onegin_  | Alexander Pushkin (trans Antony Briggs)  | EBOOK  | Intro of _Doctor Zhivago_  |
 | _Ritual: A Very Short Introduction_  | Barry Stephenson | EBOOK  | One of six primary topics of interest  |
 | _The Power Broker_  |  Robert Caro (Vol 3 of 3) | AUDIOBOOK  |   |
-| _Doctor Zhivago_  | Boris Pasternak (trans Richard Pevear)  | EBOOK  | [Nobel Prize in Literature]  |
+| _Doctor Zhivago_  | Boris Pasternak (trans Richard Pevear)  | EBOOK  | [Nobel Prize in Literature], "for his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition"  |
 | _The Great Debate_  | Yuval Levin  | AUDIOBOOK  | Referenced in discussion bt Hedges, West and Wolff.  |
 | _Love in the Time of Cholera_  | Gabriel García Márquez  | PRINT  | _One Hundred Years of Solitude_  |
 | _Speed the Plow_  | David Mamet | EBOOK  |   |
