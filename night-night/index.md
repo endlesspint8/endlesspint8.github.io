@@ -12,9 +12,32 @@ plays
 one of six
 
 
+## Summer '20 - x titles (y abandoned), theme: z
+
+_The Long Emergency_
+_American Violence_
+_War on Peace_
+_Dreamland_
+_The Rise and Fall of the Great Powers_
+_Days of Destruction, Days of Revolt_
+_The Sleepwalkers_
+_1177 B.C._
+_Limits to Growth_
+_Drawdown_
+_Scale_
+_The Broken Road_
+
+
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
+
 Completed to date: 4.1%
 
-## Spring '20 - y titles, z abandoned, theme: 
+## Spring '20 - x titles (y abandoned), theme: z
 
 
 _The Origins of Totalitarianism_
@@ -33,8 +56,6 @@ _The Bell Jar_
 _Fame & Folly_
 _The Essential Ellen Willis_
 
- 
-
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -51,7 +72,7 @@ _The Essential Ellen Willis_
 | ~~_Anti-Intellectualism in American Life_~~  | ~~Richard Hofstadter~~  | ~~AUDIOBOOK~~  | Got a bit more than halfway, but my COVID-shattered commute limited the opportunity to get through this.   |
 | _Native Guard_  | Natasha Trethewey  | EBOOK  | [Flavorwire 50 Essential Books of Poetry]  |
 
-## Winter '20 - 16 titles, 2 abandoned, theme: Russian literature
+## Winter '20 - 16 titles (2 abandoned), theme: Russian literature
  
 
 |	title	|	author	|	media	|	alibi	|
@@ -76,7 +97,7 @@ _The Essential Ellen Willis_
 | _Speed the Plow_  | David Mamet | EBOOK  |   |
 
 
-## Autumn '19 - 25 titles, 1 abandoned, theme: graphic novels?
+## Autumn '19 - 25 titles (1 abandoned), theme: graphic novels?
 
 
 |	title	|	author	|	media	|	alibi	|
