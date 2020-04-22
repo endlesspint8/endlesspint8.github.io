@@ -12,7 +12,7 @@ plays
 one of six
 
 
-## Summer '20 - x titles (y abandoned), theme: z
+## Summer '20 - x titles (y abandoned), theme: The Centre Cannot Hold
 
 _The Long Emergency_
 _American Violence_
@@ -37,7 +37,7 @@ _The Broken Road_
 
 Completed to date: 4.1%
 
-## Spring '20 - x titles (y abandoned), theme: z
+## Spring '20 - x titles (y abandoned), theme: The Second Sex
 
 
 _The Origins of Totalitarianism_
@@ -60,10 +60,10 @@ _The Essential Ellen Willis_
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-| _alphabet_  | Inger Christensen  | EBOOK  | [Flavorwire 50 Essential Books of Poetry]  |
 | _On a Sunbeam_  | Tillie Walden  | [ONLINE](https://www.onasunbeam.com/)  |   |
+|   |   |   |   |
+| _High Output Management_  | Andrew S. Grove  | EBOOK  | work related, not directly for the soul  |
+| _alphabet_  | Inger Christensen  | EBOOK  | [Flavorwire 50 Essential Books of Poetry]  |
 | _Hateship, Friendship, Courtship, Loveship, Marriage_  | Alice Munro  | EBOOK  | [Nobel Prize in Literature], "master of the contemporary short story"  |
 | _Invisible Women_  | Caroline Criado Perez  | AUDIOBOOK  |   |
 | _The Vagina Monologues_  | Eve Ensler  | EBOOK  | 20th Anniversary Edition  |
