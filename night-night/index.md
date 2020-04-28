@@ -60,8 +60,11 @@ _The Essential Ellen Willis_
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
-| _On a Sunbeam_  | Tillie Walden  | [ONLINE](https://www.onasunbeam.com/)  |   |
 |   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+| _On a Sunbeam_  | Tillie Walden  | [ONLINE](https://www.onasunbeam.com/)  |   |
+| _Children of Dune_  | Frank Herbert  | EBOOK  | _DUNE_, _Dune Messiah_ . . . had to complete the (first) trilogy  |
 | _High Output Management_  | Andrew S. Grove  | EBOOK  | work related, not directly for the soul  |
 | _alphabet_  | Inger Christensen  | EBOOK  | [Flavorwire 50 Essential Books of Poetry]  |
 | _Hateship, Friendship, Courtship, Loveship, Marriage_  | Alice Munro  | EBOOK  | [Nobel Prize in Literature], "master of the contemporary short story"  |
