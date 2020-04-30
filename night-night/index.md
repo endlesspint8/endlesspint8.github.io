@@ -57,17 +57,20 @@ _Fame & Folly_
 _The Essential Ellen Willis_
 
 
+
+
+
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| _The Fox Was Ever the Hunter_  | Herta Müller  | EBOOK  | [Nobel Prize in Literature], _"who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed"_ |
+| _The Lost Art of Scripture_  | Karen Armstrong  | AUDIOBOOK  | _A History of God_  |
 | _On a Sunbeam_  | Tillie Walden  | [ONLINE](https://www.onasunbeam.com/)  |   |
 | _Children of Dune_  | Frank Herbert  | EBOOK  | _DUNE_, _Dune Messiah_ . . . had to complete the (first) trilogy  |
 | _High Output Management_  | Andrew S. Grove  | EBOOK  | work related, not directly for the soul  |
 | _alphabet_  | Inger Christensen  | EBOOK  | [Flavorwire 50 Essential Books of Poetry]  |
-| _Hateship, Friendship, Courtship, Loveship, Marriage_  | Alice Munro  | EBOOK  | [Nobel Prize in Literature], "master of the contemporary short story"  |
+| _Hateship, Friendship, Courtship, Loveship, Marriage_  | Alice Munro  | EBOOK  | [Nobel Prize in Literature], _"master of the contemporary short story"_  |
 | _Invisible Women_  | Caroline Criado Perez  | AUDIOBOOK  |   |
 | _The Vagina Monologues_  | Eve Ensler  | EBOOK  | 20th Anniversary Edition  |
 | _Life on Mars_  | Tracy K. Smith  | EBOOK  | [Flavorwire 50 Essential Books of Poetry]  |
@@ -94,7 +97,7 @@ _The Essential Ellen Willis_
 | _Yevgeny Onegin_  | Alexander Pushkin (trans Antony Briggs)  | EBOOK  | Intro of _Doctor Zhivago_  |
 | _Ritual: A Very Short Introduction_  | Barry Stephenson | EBOOK  | One of six primary topics of interest  |
 | _The Power Broker_  |  Robert Caro (Vol 3 of 3) | AUDIOBOOK  |   |
-| _Doctor Zhivago_  | Boris Pasternak (trans Richard Pevear)  | EBOOK  | [Nobel Prize in Literature], "for his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition"  |
+| _Doctor Zhivago_  | Boris Pasternak (trans Richard Pevear)  | EBOOK  | [Nobel Prize in Literature], _"for his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition"_  |
 | _The Great Debate_  | Yuval Levin  | AUDIOBOOK  | Referenced in discussion bt Hedges, West and Wolff.  |
 | _Love in the Time of Cholera_  | Gabriel García Márquez  | PRINT  | _One Hundred Years of Solitude_  |
 | _Speed the Plow_  | David Mamet | EBOOK  |   |
