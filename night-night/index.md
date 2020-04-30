@@ -11,6 +11,12 @@ graphic novel
 plays
 one of six
 
+## Autumn '20 - x titles (y abandoned), theme: Perception
+
+_The Pursuit of Lonelines_ Philip Slater
+_The Order-Disorder Paradox_ Nathan Schwartz-Salant
+_Consumer Society Reader_
+
 
 ## Summer '20 - x titles (y abandoned), theme: The Centre Cannot Hold
 
@@ -26,6 +32,17 @@ _Limits to Growth_
 _Drawdown_
 _Scale_
 _The Broken Road_
+_The Bell Jar_
+_Against the Grain_
+_The Storm Before the Storm_
+_Love in the Ruins_
+_The End is Always Near_
+_Success Stories_ Russell Banks
+_Betrayal_ Harold Pinter
+_The Drought_ J. G. Ballard
+_Flowers of Evil_ Charles Baudelaire (Marthiel Mathews)
+_The Best and the Brightest_ David Halberstam
+_Darkness Visible_ William Styron
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -40,23 +57,22 @@ Completed to date: 4.1%
 ## Spring '20 - x titles (y abandoned), theme: The Second Sex
 
 
-_The Origins of Totalitarianism_
-_Illness as Metaphor_
-_Their Eyes Were Watching God_
-_The Year of Magical Thinking_
-_Fates and Furies_
-_Oryx and Crake_
+_The Essential Ellen Willis_
 _Train to Trieste_
 _Cities and the Wealth of Nations_
 _The Drama of the Gifted Child_
 _Limits to Growth_
 _The Second Sex_
 _On Boxing_
-_The Bell Jar_
+
+
+_The Origins of Totalitarianism_
+_Illness as Metaphor_
+_Their Eyes Were Watching God_
+_The Year of Magical Thinking_
+_Fates and Furies_
+_Oryx and Crake_
 _Fame & Folly_
-_The Essential Ellen Willis_
-
-
 
 
 
@@ -117,7 +133,7 @@ _The Essential Ellen Willis_
 |	_Touching a Nerve_	|	Patricia S. Churchland	|	AUDIOBOOK	|	Love me some consciousness exploration.	|
 |	_Bayesian Analysis with Python (1st ed.)_ |	Osvaldo Martin	|	PRINTED	|	One of the six subject areas I'm particularly keen on at the moment. Also, found early perusals to show this as a strong text on fundimentals of the topic.	|
 |	_Hellblazer (1988), Volume 1_	|	Jamie Delano	|	EBOOK	|	The Sandman (1989), Volume 1: wasn't familiar with J. Constantine when he popped up in the story + [Forbidden Planet 50]	|
-|	_Dune Messiah_ |	Frank Herbert | EBOOK	| DUNE |
+|	_Dune Messiah_ |	Frank Herbert | EBOOK	| _DUNE_ |
 |	_White Teeth_ | Zadie Smith | PRINT | [Time 100 Novels] |
 |	_Batman: The Killing Joke_	|	Alan Moore	|	EBOOK	|	[Forbidden Planet 50] and the release of latest Joker movie made it a timely choice.	|
 |	_The Most Important Thing Illuminated_	|	Howard Marks	|	EBOOK	|	I'm spiritually a value investor.	|
