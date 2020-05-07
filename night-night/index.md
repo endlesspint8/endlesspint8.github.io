@@ -16,6 +16,8 @@ one of six
 _The Pursuit of Lonelines_ Philip Slater
 _The Order-Disorder Paradox_ Nathan Schwartz-Salant
 _Consumer Society Reader_
+_The Roots of Romanticism_ Isaiah Berlin
+Husserl, Heidegger, Sartre, Mearleau-Ponty (naturally)
 
 
 ## Summer '20 - x titles (y abandoned), theme: The Centre Cannot Hold
@@ -43,6 +45,7 @@ _The Drought_ J. G. Ballard
 _Flowers of Evil_ Charles Baudelaire (Marthiel Mathews)
 _The Best and the Brightest_ David Halberstam
 _Darkness Visible_ William Styron
+_The Crooked Timber of Humanity_ Isaiah Berlin
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -69,7 +72,7 @@ _On Boxing_
 _The Origins of Totalitarianism_
 _Illness as Metaphor_
 _Their Eyes Were Watching God_
-_The Year of Magical Thinking_
+
 _Fates and Furies_
 _Oryx and Crake_
 _Fame & Folly_
@@ -81,6 +84,7 @@ _Fame & Folly_
 |   |   |   |   |
 |   |   |   |   |
 | _The Fox Was Ever the Hunter_  | Herta Müller  | EBOOK  | [Nobel Prize in Literature], _"who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed"_ |
+| _The Year of Magical Thinking_  | Joan Didion  | EBOOK  | _Slouching Towards Bethlehem_, _The White Album_, _Play It As It Lays_  |
 | _The Lost Art of Scripture_  | Karen Armstrong  | AUDIOBOOK  | _A History of God_  |
 | _On a Sunbeam_  | Tillie Walden  | [ONLINE](https://www.onasunbeam.com/)  |   |
 | _Children of Dune_  | Frank Herbert  | EBOOK  | _DUNE_, _Dune Messiah_ . . . had to complete the (first) trilogy  |
