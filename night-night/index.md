@@ -104,11 +104,11 @@ _Fame & Folly_
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 | _We_  | Yevgeny Zamyatin  | EBOOK  | Take that Orwell! Huxley, too?  |
-| ~~_The Complete Short Novels_~~  | ~~Anton Chekhov (trans Larissa Volokhonsky)~~  | ~~EBOOK~~  | Apologies to the master but I ran out of time on the library loan due to too many tasks. However, I did read the first three of the five stories. Amazing, naturally. Intend to pick back up. Maybe next year we can do another Russian theme. |
+| ~~_The Complete Short Novels_~~  | ~~Anton Chekhov (trans Larissa Volokhonsky)~~  | ~~EBOOK~~  | Apologies to the master but I ran out of time on the library loan due to too many tasks. However, I did read the first three of five stories. Amazing, naturally. Intend to pick back up. Maybe next year we can do another Russian theme. |
 | ~~_The Strange Order of Things_~~  |  ~~Antonio Damasio~~ |  ~~AUDIOBOOK~~ | Simply didn't grab me. Surprising given my interest in the intertwining of biology + society. |
 | _Philosophy and Real Politics_  | Raymond Geuss  | EBOOK  |   |
 | _War Primer_  | Bertolt Brecht  | EBOOK  |   |
-| _The Beggar and Other Stories_  | Gaito Gazdanov (trans Bryan Karetnyk)  | EBOOK  |   |
+| _The Beggar and Other Stories_  | Gaito Gazdanov (trans Bryan Karetnyk)  | EBOOK  | What a find! This short story collection reminded me of Chiang's _Exhalation_ in its precision.   |
 | _Life and Fate_  | Vasily Grossman (trans Robert Chandler)  | EBOOK  |   |
 | _Pushkin Hills_   | Sergei Dovlatov (trans Katherine Dovlatov) | EBOOK  |   |
 | _The Age of Surveillance Capitalism_  | Shoshana Zuboff  | AUDIOBOOK  |   |
@@ -129,14 +129,14 @@ _Fame & Folly_
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 | _Between Meals_  | A. J. Liebling  | EBOOK  | _The Sweet Science_ and the repeated referencing of this title as an example of classic style in _Clear and Simple as the Truth_  |
-| ~~_Aesthetic Intelligence_~~  |  ~~Pauline Brown~~ |  ~~EBOOK~~ | sandwiched bt two masterfully written titles dealing with Paris, and implicitly style/taste, it could not stand up  |
-| _A Moveable Feast_  | Ernest Hemingway  | PRINT |   |
+| ~~_Aesthetic Intelligence_~~  |  ~~Pauline Brown~~ |  ~~EBOOK~~ | Sandwiched bt two masterfully written titles dealing with Paris, and implicitly style/taste, it could not stand up  |
+| _A Moveable Feast_  | Ernest Hemingway  | PRINT | [Time 100 Nonfiction]  |
 | _Saudi America_ | Bethany McLean  | AUDIOBOOK  | Heard author on podcast; short and sweet.  |
-|	_The Broom of the System_	|	David Foster Wallace	|	PRINT	|	After his essay collections (Lobster & Fun Thing) I thought it about time to tackle one of his fiction works.	|
-|	_The True History of Chocolate_	|	Sophie D. Coe	|	EBOOK	|	One of the [bitter](/tag/bitter) cousins. It was alright, a bit of a let-down in comparison to Uncommon Grounds (coffee).	|
+|	_The Broom of the System_	|	David Foster Wallace	|	PRINT	|	After his essay collections (_Consider the Lobster_ & _A Supposedly Fun Thing I'll Never Do Again_) I thought it about time to tackle one of his fiction works.	|
+|	_The True History of Chocolate_	|	Sophie D. Coe	|	EBOOK	|	One of the [bitter](/tag/bitter) cousins. It was alright, a bit of a let-down in comparison to _Uncommon Grounds_ ([coffee](/2019-05-17-sleep-no-more-caffeine)).	|
 |	_Touching a Nerve_	|	Patricia S. Churchland	|	AUDIOBOOK	|	Love me some consciousness exploration.	|
 |	_Bayesian Analysis with Python (1st ed.)_ |	Osvaldo Martin	|	PRINTED	|	One of the six subject areas I'm particularly keen on at the moment. Also, found early perusals to show this as a strong text on fundimentals of the topic.	|
-|	_Hellblazer (1988), Volume 1_	|	Jamie Delano	|	EBOOK	|	The Sandman (1989), Volume 1: wasn't familiar with J. Constantine when he popped up in the story + [Forbidden Planet 50]	|
+|	_Hellblazer (1988), Volume 1_	|	Jamie Delano	|	EBOOK	|	_The Sandman (1989), Volume 1_; wasn't familiar with J. Constantine when he popped up in the story + [Forbidden Planet 50]	|
 |	_Dune Messiah_ |	Frank Herbert | EBOOK	| _DUNE_ |
 |	_White Teeth_ | Zadie Smith | PRINT | [Time 100 Novels] |
 |	_Batman: The Killing Joke_	|	Alan Moore	|	EBOOK	|	[Forbidden Planet 50] and the release of latest Joker movie made it a timely choice.	|
