@@ -23,4 +23,4 @@ bigimg:
 
 <img src="/hairs-of-the-dog/img/FullSizeRender25.jpg">
 
-**Some motivations are [first introduced](punt001).**
+**Some motivations are [first introduced](2020-05-19-punt001).**
