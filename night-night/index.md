@@ -11,7 +11,7 @@ graphic novel
 plays
 one of six
 
-## Autumn '20 - x titles (y abandoned), theme: Perception
+## Autumn '20 - x titles (y abandoned), theme: Perception, Perspective and Perspicacity
 
 _The Pursuit of Lonelines_ Philip Slater
 _The Order-Disorder Paradox_ Nathan Schwartz-Salant
@@ -49,6 +49,7 @@ _The Best and the Brightest_ David Halberstam
 _Darkness Visible_ William Styron
 _The Crooked Timber of Humanity_ Isaiah Berlin
 _Limits to Growth_
+_The Origins of Totalitarianism_
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -68,11 +69,7 @@ _Train to Trieste_
 _Cities and the Wealth of Nations_
 _The Drama of the Gifted Child_
 
-
 _On Boxing_
-
-
-_The Origins of Totalitarianism_
 
 _Fates and Furies_
 _Oryx and Crake_
