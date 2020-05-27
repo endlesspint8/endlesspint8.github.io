@@ -18,6 +18,8 @@ _The Order-Disorder Paradox_ Nathan Schwartz-Salant
 _Consumer Society Reader_
 _The Roots of Romanticism_ Isaiah Berlin
 Husserl, Heidegger, Sartre, Mearleau-Ponty (naturally)
+_Fame & Folly_
+_The Second Sex_
 
 
 ## Summer '20 - x titles (y abandoned), theme: The Centre Cannot Hold
@@ -46,6 +48,7 @@ _Flowers of Evil_ Charles Baudelaire (Marthiel Mathews)
 _The Best and the Brightest_ David Halberstam
 _Darkness Visible_ William Styron
 _The Crooked Timber of Humanity_ Isaiah Berlin
+_Limits to Growth_
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -64,26 +67,27 @@ _The Essential Ellen Willis_
 _Train to Trieste_
 _Cities and the Wealth of Nations_
 _The Drama of the Gifted Child_
-_Limits to Growth_
-_The Second Sex_
+
+
 _On Boxing_
 
 
 _The Origins of Totalitarianism_
-_Illness as Metaphor_
-_Their Eyes Were Watching God_
 
 _Fates and Furies_
 _Oryx and Crake_
-_Fame & Folly_
 
 
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |   |   |   |   |
-|   |   |   |   |
-| _The Fox Was Ever the Hunter_  | Herta Müller  | EBOOK  | [Nobel Prize in Literature], _"who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed"_ |
+| _The Feminine Mystique_  | Betty Friedan  | EBOOK | [Time 100 Nonfiction]  |
+| _Their Eyes Were Watching God_  |   |   |   |
+| _Illness as Metaphor_  | Susan Sontag  | PDF  |   |
+| _Under the Net_  | Iris Murdoch  | EBOOK  | Some light hearted reading in the midst of serious titles, and [Time 100 Novels] besides  |
+| _The Five Invitations_  | Frank Ostaseski  | AUDIOBOOK  | _Death is not waiting for us at the end of a long road. Death is always with us, in the marrow of every passing moment. She is the secret teacher hiding in plain sight, helping us to discover what matters most._ |
+| _The Fox Was Ever the Hunter_  | Herta Müller (trans Philip Boehm) | EBOOK  | [Nobel Prize in Literature], _"who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed"_ |
 | _The Year of Magical Thinking_  | Joan Didion  | EBOOK  | _Slouching Towards Bethlehem_, _The White Album_, _Play It As It Lays_  |
 | _The Lost Art of Scripture_  | Karen Armstrong  | AUDIOBOOK  | _A History of God_  |
 | _On a Sunbeam_  | Tillie Walden  | [ONLINE](https://www.onasunbeam.com/)  |   |
