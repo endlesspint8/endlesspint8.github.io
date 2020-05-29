@@ -20,6 +20,8 @@ _The Roots of Romanticism_ Isaiah Berlin
 Husserl, Heidegger, Sartre, Mearleau-Ponty (naturally)
 _Fame & Folly_
 _The Second Sex_
+_The Sea, The Sea_
+_Fates and Furies_
 
 
 ## Summer '20 - x titles (y abandoned), theme: The Centre Cannot Hold
@@ -48,7 +50,6 @@ _Flowers of Evil_ Charles Baudelaire (Marthiel Mathews)
 _The Best and the Brightest_ David Halberstam
 _Darkness Visible_ William Styron
 _The Crooked Timber of Humanity_ Isaiah Berlin
-_Limits to Growth_
 _The Origins of Totalitarianism_
 
 
@@ -62,18 +63,6 @@ _The Origins of Totalitarianism_
 Completed to date: 4.1%
 
 ## Spring '20 - x titles (y abandoned), theme: The Second Sex
-
-
-_The Essential Ellen Willis_
-_Train to Trieste_
-_Cities and the Wealth of Nations_
-_The Drama of the Gifted Child_
-
-_On Boxing_
-
-_Fates and Furies_
-_Oryx and Crake_
-
 
 
 |	title	|	author	|	media	|	alibi	|
