@@ -11,6 +11,8 @@ graphic novel
 plays
 one of six
 
+Completed to date: 5.9%
+
 ## Autumn '20 - x titles (y abandoned), theme: Perception, Perspective and Perspicacity
 
 _The Pursuit of Lonelines_ Philip Slater
@@ -31,26 +33,36 @@ _American Violence_
 _War on Peace_
 _Dreamland_
 _The Rise and Fall of the Great Powers_
-_Days of Destruction, Days of Revolt_
+
 _The Sleepwalkers_
 _1177 B.C._
 _Limits to Growth_
 _Drawdown_
 _Scale_
 _The Broken Road_
-_The Bell Jar_
+
 _Against the Grain_
 _The Storm Before the Storm_
-_Love in the Ruins_
-_The End is Always Near_
-_Success Stories_ Russell Banks
-_Betrayal_ Harold Pinter
-_The Drought_ J. G. Ballard
+
 _Flowers of Evil_ Charles Baudelaire (Marthiel Mathews)
 _The Best and the Brightest_ David Halberstam
 _Darkness Visible_ William Styron
+
+_The Bell Jar_
+_Days of Destruction, Days of Revolt_
+_Love in the Ruins_
+_Collapse_ Jared Diamond
+_Collapse of Complex Societies_
 _The Crooked Timber of Humanity_ Isaiah Berlin
 _The Origins of Totalitarianism_
+_Success Stories_ Russell Banks
+_Betrayal_ Harold Pinter
+_The Drought_ J. G. Ballard
+_The End is Always Near_ Dan Carlin
+_The Great Leveler_ Walter Scheidel
+_Field Notes from a Catastrophe_ Elizabeth Kolbert
+_Stabilizing an Unstable Economy_ Hyman P. Minsky
+_Riddley Walker_ Russell Hoban
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -60,17 +72,16 @@ _The Origins of Totalitarianism_
 |   |   |   |   |
 
 
-Completed to date: 4.1%
 
-## Spring '20 - x titles (y abandoned), theme: The Second Sex
+
+## Spring '20 - 18 titles (1 abandoned), theme: The Second Sex
 
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|   |   |   |   |
+| _Their Eyes Were Watching God_  | Zora Neale Hurston  | EBOOK  | [Time 100 Novels]  |
+| _Illness as Metaphor_  | Susan Sontag  | PDF  | _The Emperor of All Maladies_, among other sources  |
 | _The Feminine Mystique_  | Betty Friedan  | EBOOK | [Time 100 Nonfiction]  |
-| _Their Eyes Were Watching God_  |   |   |   |
-| _Illness as Metaphor_  | Susan Sontag  | PDF  |   |
 | _Under the Net_  | Iris Murdoch  | EBOOK  | Some light hearted reading in the midst of serious titles, and [Time 100 Novels] besides  |
 | _The Five Invitations_  | Frank Ostaseski  | AUDIOBOOK  | _Death is not waiting for us at the end of a long road. Death is always with us, in the marrow of every passing moment. She is the secret teacher hiding in plain sight, helping us to discover what matters most._ |
 | _The Fox Was Ever the Hunter_  | Herta Müller (trans Philip Boehm) | EBOOK  | [Nobel Prize in Literature], _"who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed"_ |
