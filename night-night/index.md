@@ -80,7 +80,7 @@ _Riddley Walker_ Russell Hoban
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 | _Their Eyes Were Watching God_  | Zora Neale Hurston  | EBOOK  | [Time 100 Novels]  |
-| _Illness as Metaphor_  | Susan Sontag  | PDF  | _The Emperor of All Maladies_, among other sources  |
+| _Illness as Metaphor_  | Susan Sontag  | PDF  | _Against Interpretation_, _The Emperor of All Maladies_, and other sources  |
 | _The Feminine Mystique_  | Betty Friedan  | EBOOK | [Time 100 Nonfiction]  |
 | _Under the Net_  | Iris Murdoch  | EBOOK  | Some light hearted reading in the midst of serious titles, and [Time 100 Novels] besides  |
 | _The Five Invitations_  | Frank Ostaseski  | AUDIOBOOK  | _Death is not waiting for us at the end of a long road. Death is always with us, in the marrow of every passing moment. She is the secret teacher hiding in plain sight, helping us to discover what matters most._ |
