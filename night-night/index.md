@@ -48,6 +48,7 @@ _Flowers of Evil_ Charles Baudelaire (Marthiel Mathews)
 _The Best and the Brightest_ David Halberstam
 _Darkness Visible_ William Styron
 
+
 _The Bell Jar_
 _Days of Destruction, Days of Revolt_
 _Love in the Ruins_
@@ -57,9 +58,7 @@ _The Crooked Timber of Humanity_ Isaiah Berlin
 _The Origins of Totalitarianism_
 _Success Stories_ Russell Banks
 _Betrayal_ Harold Pinter
-_The Drought_ J. G. Ballard
-_The End is Always Near_ Dan Carlin
-_The Great Leveler_ Walter Scheidel
+
 _Field Notes from a Catastrophe_ Elizabeth Kolbert
 _Stabilizing an Unstable Economy_ Hyman P. Minsky
 _Riddley Walker_ Russell Hoban
@@ -67,9 +66,13 @@ _Riddley Walker_ Russell Hoban
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+| _The Drought_   | J. G. Ballard  | EBOOK  | _High-Rise_ and _The Drowned World_. No reason not to go through the catalogue.  |
+| _The Great Leveler_   | Walter Scheidel  | AUDIOBOOK  | _"Thousands of years of history boil down to a simple truth. Ever since the dawn of civilisation, ongoing advances in economic capacity and state-building favoured growing inequality but did little if anything to bring it under control."_  |
+| _The End is Always Near_   | Dan Carlin  | EBOOK  | The podcast, _Hardcore History_, naturally. Skip if not a fan.  |
 
 
 
