@@ -171,7 +171,11 @@ _The Bell Jar_
 >
 > _"We all are, act accordingly."_
 
-So says Jack Nicholson's character, Frank Costello, to a nobody characater in _The Departed_. A seamingly superflous bit of banter who's short exchange belies what can be unpacked, both within the movie and when we step out of the theater. Our hour on the stage is all we have yet how often do we 
+So says Jack Nicholson's character, Frank Costello, to a nobody sitting at the bar in _The Departed_. A seamingly superflous bit of banter whose short exchange belies what can be unpacked, both within the movie and when we step out of the theater. Our hour on the stage is all we have, all we know, and difficult to see beyond, as if we were blinded by the stage lights. The show will end. And though we know this we rarely know it with all of our being. Rather the knowledge of our inevitable demise is more often akin to being vaguely aware of an historical factoid. Interesting at times, amusing perhaps, but somehow inapplicable to daily life. 
+
+Books are not life but they are one of the few things that I have found to make it richer. Reading is not the same thing as acting in the world but it is still one of the most rewarding activities available. I remain amused by my own death, regarding it more as theoretically true than the most incontrovertible fact of my existence. However, I am beginning to take it seriously enough to reconsider how I spend my life. A good part of that, of what remains, should be spent on reading only the things I find valuable and interesting. No excuses. 
+
+There are undoubtedly more important things to address with what's left of one's time but I see no reason not to take the approach towards books as well. Exercising the culling of unnecessary objects, practices, and relationships from one's life while you still have the chance, the saying of "no", seems to me like a wonderful way to get a handle on what really counts, saying "yes".
 
 ---
 
