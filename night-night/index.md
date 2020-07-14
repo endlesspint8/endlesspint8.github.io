@@ -31,7 +31,7 @@ _Metaphors we live by_ George Lakoff
 
 ## Summer '20 - x titles (y abandoned), theme: The Centre Cannot Hold
 
-**honorable mention:** Ronald Wright's Massey Lectures, [_A Shorty History of Progress_](https://www.cbc.ca/radio/ideas/the-2004-cbc-massey-lectures-a-short-history-of-progress-1.2946872)
+**honorable mention:** Ronald Wright's Massey Lectures, [_A Shorty History of Progress_](https://www.cbc.ca/radio/ideas/the-2004-cbc-massey-lectures-a-short-history-of-progress-1.2946872); _Cadillac Desert_; _The Great Influenza_
 
 _The Long Emergency_
 _American Violence_
