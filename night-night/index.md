@@ -25,6 +25,8 @@ _The Second Sex_
 _The Sea, The Sea_
 _Fates and Furies_
 _Why Place Matters_
+_Metaphors we live by_ George Lakoff
+
 
 
 ## Summer '20 - x titles (y abandoned), theme: The Centre Cannot Hold
@@ -49,21 +51,18 @@ _Flowers of Evil_ Charles Baudelaire (Marthiel Mathews)
 _The Best and the Brightest_ David Halberstam
 _Darkness Visible_ William Styron
 
-
-_The Bell Jar_
 _Days of Destruction, Days of Revolt_
 _Love in the Ruins_
-_Collapse_ Jared Diamond
 _Collapse of Complex Societies_
 _The Crooked Timber of Humanity_ Isaiah Berlin
 _The Origins of Totalitarianism_
 _Success Stories_ Russell Banks
 _Betrayal_ Harold Pinter
 
+_Collapse_ Jared Diamond
 _Field Notes from a Catastrophe_ Elizabeth Kolbert
 _Stabilizing an Unstable Economy_ Hyman P. Minsky
-_Riddley Walker_ Russell Hoban
-
+_The Bell Jar_
 
 
 
@@ -71,6 +70,10 @@ _Riddley Walker_ Russell Hoban
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_Riddley Walker_	|	Russell Hoban	|	EBOOK	|		|
 |	_The Cage_	|	Martin Vaughn-James	|	EBOOK	|		|
 |	_Winners Take All_	|	Anand Giridharadas	|	AUDIOBOOK	|	... and paid off with interesting pieces by x, y, and [Chiara Cordelli](https://www.academia.edu/19558958/Philanthropy_in_Democratic_Societies_History_Institutions_Values_edited_volume_The_University_of_Chicago_Press_2016)	|
 | _The Drought_   | J. G. Ballard  | EBOOK  | _High-Rise_ and _The Drowned World_. No reason not to go through the catalogue.  |
@@ -162,7 +165,13 @@ _Riddley Walker_ Russell Hoban
 |	_This Is Marketing_	|	Seth Godin	|	AUDIOBOOK	|	Godin always provides cleary articulated insights. |
 |	_Pale Fire_	|	Vladimir Nabokov	|	EBOOK	|	Well, it's Nabokov and [Time 100 Novels] |
 
+> _"How's your mother?"_
+>
+> _"Ah, she's on her way out."_
+>
+> _"We all are, act accordingly."_
 
+So says Jack Nicholson's character, Frank Costello, to a nobody characater in _The Departed_. A seamingly superflous bit of banter who's short exchange belies what can be unpacked, both within the movie and when we step out of the theater. Our hour on the stage is all we have yet how often do we 
 
 ---
 
