@@ -31,6 +31,8 @@ _Metaphors we live by_ George Lakoff
 
 ## Summer '20 - x titles (y abandoned), theme: The Centre Cannot Hold
 
+**honorable mention:** Ronald Wright's Massey Lectures, [_A Shorty History of Progress_](https://www.cbc.ca/radio/ideas/the-2004-cbc-massey-lectures-a-short-history-of-progress-1.2946872)
+
 _The Long Emergency_
 _American Violence_
 _War on Peace_
@@ -135,6 +137,7 @@ _The Bell Jar_
 
 ## Autumn '19 - 25 titles (1 abandoned), theme: graphic novels?
 
+**honorable mention:** The Dark Knight Returns, Watchmen, V for Vendetta, From Hell, Maus, 300, Jimmy Corrigan, Epileptic, Understanding Comics
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -165,6 +168,8 @@ _The Bell Jar_
 |	_This Is Marketing_	|	Seth Godin	|	AUDIOBOOK	|	Godin always provides cleary articulated insights. |
 |	_Pale Fire_	|	Vladimir Nabokov	|	EBOOK	|	Well, it's Nabokov and [Time 100 Novels] |
 
+### Read Accordingly 
+
 > _"How's your mother?"_
 >
 > _"Ah, she's on her way out."_
@@ -183,7 +188,10 @@ There are undoubtedly more important things to address with what's left of one's
 
 [Time 100 Novels]: http://entertainment.time.com/2005/10/16/all-time-100-novels/slide/all/
 [Time 100 Nonfiction]: http://entertainment.time.com/2011/08/30/all-time-100-best-nonfiction-books/slide/all/
-[Forbidden Planet 50]: https://forbiddenplanet.com/posts/50-best-best-graphic-novels/
+[Forbidden Planet 50]: https://www.listchallenges.com/forbidden-planets-50-best-graphic-novels
+
+https://forbiddenplanet.com/posts/50-best-best-graphic-novels/
+
 [Flavorwire 25 Greatest Essay Collections]: https://www.flavorwire.com/378123/the-25-greatest-essay-collections-of-all-time
 [Flavorwire 50 Essential Books of Poetry]: https://www.flavorwire.com/449473/50-essential-books-of-poetry-that-everyone-should-read
 [Nobel Prize in Literature]: https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-literature
