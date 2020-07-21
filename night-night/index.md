@@ -73,7 +73,7 @@ _The Storm Before the Storm_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Supply Chain Risk Management_	|	Donald Waters	|	EBOOK	|		|
 |	_Collapse_	|	EBOOK	|	Jared Diamond	|	_Guns, Germs, and Steel_	|
 |	_Riddley Walker_	|	Russell Hoban	|	EBOOK	|		|
 |	_The Cage_	|	Martin Vaughn-James	|	EBOOK	|		|
