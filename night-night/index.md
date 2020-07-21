@@ -31,7 +31,7 @@ _Metaphors we live by_ George Lakoff
 
 ## Summer '20 - x titles (y abandoned), theme: The Centre Cannot Hold
 
-**honorable mention:** Ronald Wright's Massey Lectures, [_A Shorty History of Progress_](https://www.cbc.ca/radio/ideas/the-2004-cbc-massey-lectures-a-short-history-of-progress-1.2946872); _Cadillac Desert_; _The Great Influenza_
+**honorable mention:** Ronald Wright's Massey Lectures, [_A Shorty History of Progress_](https://www.cbc.ca/radio/ideas/the-2004-cbc-massey-lectures-a-short-history-of-progress-1.2946872); _Cadillac Desert_; _The Great Influenza_; _Silent Spring_; _The March of Folly_
 
 _The Long Emergency_
 _American Violence_
@@ -47,7 +47,7 @@ _Scale_
 _The Broken Road_
 
 _Against the Grain_
-_The Storm Before the Storm_
+
 
 _Flowers of Evil_ Charles Baudelaire (Marthiel Mathews)
 _The Best and the Brightest_ David Halberstam
@@ -60,11 +60,11 @@ _The Crooked Timber of Humanity_ Isaiah Berlin
 _The Origins of Totalitarianism_
 _Success Stories_ Russell Banks
 _Betrayal_ Harold Pinter
-
-_Collapse_ Jared Diamond
+ 
 _Field Notes from a Catastrophe_ Elizabeth Kolbert
 _Stabilizing an Unstable Economy_ Hyman P. Minsky
 _The Bell Jar_
+_The Storm Before the Storm_
 
 
 
@@ -74,7 +74,7 @@ _The Bell Jar_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Collapse_	|	EBOOK	|	Jared Diamond	|	_Guns, Germs, and Steel_	|
 |	_Riddley Walker_	|	Russell Hoban	|	EBOOK	|		|
 |	_The Cage_	|	Martin Vaughn-James	|	EBOOK	|		|
 |	_Winners Take All_	|	Anand Giridharadas	|	AUDIOBOOK	|	Touching on [The Gospel of Wealth](https://www.carnegie.org/about/our-history/gospelofwealth/), a [potentially new gospel](https://www.fordfoundation.org/ideas/equals-change-blog/posts/toward-a-new-gospel-of-wealth/) and views from philosopher [Chiara Cordelli](https://www.academia.edu/19558958/Philanthropy_in_Democratic_Societies_History_Institutions_Values_edited_volume_The_University_of_Chicago_Press_2016) who's coming out with a book of her own on the same subject.	|
