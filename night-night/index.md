@@ -48,20 +48,18 @@ _The Broken Road_
 
 _Against the Grain_
 
-_Flowers of Evil_ Charles Baudelaire (Marthiel Mathews)
 _The Best and the Brightest_ David Halberstam
 _Darkness Visible_ William Styron
 
 _Love in the Ruins_
 _Collapse of Complex Societies_
-_The Crooked Timber of Humanity_ Isaiah Berlin
+
 _The Origins of Totalitarianism_
 _Success Stories_ Russell Banks
  
 _Field Notes from a Catastrophe_ Elizabeth Kolbert
 _Stabilizing an Unstable Economy_ Hyman P. Minsky
 
-_The Storm Before the Storm_
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -69,9 +67,12 @@ _The Storm Before the Storm_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Flowers of Evil_ 	|	Charles Baudelaire (ed. Marthiel Mathews)	|	EBOOK	|		|
+|	_The Windup Girl_	|	Paolo Bacigalupi	|	EBOOK	|		|
+|	_The Storm Before the Storm_	|	Mike Duncan	|	AUDIOBOOK	|	A distant mirror of sorts. 	|
+|	_The Crooked Timber of Humanity_ 	|	Isaiah Berlin	|	EBOOK	|	_Against the Grain_	|
 |	_Betrayal_	|	Harold Pinter	|	EBOOK	|		|
-|	_Days of Destruction, Days of Revolt_	|		|	EBOOK	|		|
+|	_Days of Destruction, Days of Revolt_	|	Chris Hedges	|	EBOOK	|	Pick anything he's written	|
 |	_The Bell Jar_	|		|	EBOOK	|		|
 |	_Supply Chain Risk Management_	|	Donald Waters	|	EBOOK	|		|
 |	_Collapse_	|	Jared Diamond	|	EBOOK	|	_Guns, Germs, and Steel_	|
