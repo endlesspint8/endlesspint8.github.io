@@ -32,7 +32,7 @@ _Scale_
 
 ## Summer '20 - x titles (y abandoned), theme: The Centre Cannot Hold
 
-**honorable mention:** Ronald Wright's Massey Lectures, [_A Shorty History of Progress_](https://www.cbc.ca/radio/ideas/the-2004-cbc-massey-lectures-a-short-history-of-progress-1.2946872); _Cadillac Desert_; _The Great Influenza_; _Silent Spring_; _The March of Folly_
+**honorable mention:** Ronald Wright's Massey Lectures, [_A Shorty History of Progress_](https://www.cbc.ca/radio/ideas/the-2004-cbc-massey-lectures-a-short-history-of-progress-1.2946872); _Cadillac Desert_; _The Great Influenza_; _Silent Spring_; _The March of Folly_; _The Lorax_
 
 _The Long Emergency_
 _American Violence_
@@ -46,27 +46,23 @@ _Limits to Growth_
 _Drawdown_
 _The Broken Road_
 
-_Against the Grain_
-
 _The Best and the Brightest_ David Halberstam
 _Darkness Visible_ William Styron
+_Success Stories_ Russell Banks
 
-_Love in the Ruins_
 _Collapse of Complex Societies_
 
 _The Origins of Totalitarianism_
-_Success Stories_ Russell Banks
- 
-_Field Notes from a Catastrophe_ Elizabeth Kolbert
+_Against the Grain_
 _Stabilizing an Unstable Economy_ Hyman P. Minsky
-
+_Love in the Ruins_
 
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Field Notes from a Catastrophe_ 	|	Elizabeth Kolbert	|	EBOOK	|	_The Sixth Extinction_	|
 |	_Flowers of Evil_ 	|	Charles Baudelaire (ed. Marthiel Mathews)	|	EBOOK	|		|
 |	_The Windup Girl_	|	Paolo Bacigalupi	|	EBOOK	|		|
 |	_The Storm Before the Storm_	|	Mike Duncan	|	AUDIOBOOK	|	A distant mirror of sorts. 	|
