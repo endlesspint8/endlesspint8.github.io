@@ -43,6 +43,7 @@ _The Map and the Territory_
 _Sources of Power_
 _Brilliant Orange_
 _Understanding Media_
+_Animal Liberation_
 
 
 
