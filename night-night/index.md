@@ -50,7 +50,7 @@ _Animal Liberation_
 
 ## Summer '20 - x titles (y abandoned), theme: The Centre Cannot Hold
 
-**honorable mention:** Ronald Wright's Massey Lectures, [_A Shorty History of Progress_](https://www.cbc.ca/radio/ideas/the-2004-cbc-massey-lectures-a-short-history-of-progress-1.2946872); _Cadillac Desert_; _The Great Influenza_; _Silent Spring_; _The March of Folly_; _The Lorax_; [Doomsday Clock](https://thebulletin.org/doomsday-clock/current-time/#full-statement); [IPCC](https://www.ipcc.ch/sr15/); _The Mandibles_
+**honorable mention:** Ronald Wright's Massey Lectures, [_A Shorty History of Progress_](https://www.cbc.ca/radio/ideas/the-2004-cbc-massey-lectures-a-short-history-of-progress-1.2946872); _Cadillac Desert_; _The Great Influenza_; _Silent Spring_; _The March of Folly_; _The Lorax_; [Doomsday Clock](https://thebulletin.org/doomsday-clock/current-time/#full-statement); [IPCC](https://www.ipcc.ch/sr15/); _The Mandibles_; _The Stand_
 
 **another time (_maybe_):** _The Long Emergency_; _American Violence_; _War on Peace_; _Dreamland_; _The Rise and Fall of the Great Powers_; _The Sleepwalkers_; _1177 B.C._; _Limits to Growth_; _Drawdown_; _The Broken Road_; _The Best and the Brightest_ David Halberstam; _Darkness Visible_ William Styron; _Success Stories_ Russell Banks; _Stabilizing an Unstable Economy_ Hyman P. Minsky
 
