@@ -19,39 +19,44 @@ _Consumer Society Reader_
 _The Origins of Totalitarianism_
 _Sources of Power_
 _Propoganda_
+_Merchants of Doubt_
+_Dynamics in Action_ Juarrero (PDF)
 
 
 ## Autumn '20 - x titles (y abandoned), theme: Perception, Perspective and Perspicacity
 
+**honorable mention:** Isaiah Berlin's [_The Roots of Romanticism_ lectures](https://www.youtube.com/playlist?list=PLBHxLhKiPKxBjK6Udz8i0QTlFZAXKzTtF),
+
 _The Pursuit of Lonelines_ Philip Slater
 _The Order-Disorder Paradox_ Nathan Schwartz-Salant
 
-_The Roots of Romanticism_ Isaiah Berlin
-Husserl, Heidegger, Sartre, Mearleau-Ponty (naturally)
 _Fame & Folly_
 _The Second Sex_
-_The Sea, The Sea_
 _Fates and Furies_
-_Why Place Matters_
-_Metaphors we live by_ George Lakoff
+
 _Scale_
-_Thirteen Ways of Looking at a Black Man_
+_Brilliant Orange_
 
-
-_Merchants of Doubt_
 _Radical Uncertainty_
 _Darkness Visible_
+
+_The Alteration_
+_The Map and the Territory_
+_The Sea, The Sea_
+
+_Understanding Media_
+_Animal Liberation_
 _A World Without Why_
 _The Symbolic Species_
 _The Structure of Scientific Revolutions_
 _The Myth of Human Supremacy_
 _Primitive Man as Philosopher_
-_The Alteration_
-_The Map and the Territory_
+_Metaphors we live by_ George Lakoff (PDF)
+_Thirteen Ways of Looking at a Black Man_
+_Why Place Matters_
 
-_Brilliant Orange_
-_Understanding Media_
-_Animal Liberation_
+Husserl, Heidegger, Sartre, Mearleau-Ponty (naturally)
+
 
 _Collapse of Complex Societies_ (hold over)
 
@@ -60,7 +65,7 @@ _Collapse of Complex Societies_ (hold over)
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Doors of Perception_ & _Heaven and Hell_	|	Aldous Huxley	|	PRINT	|		|
 
 
 ## Summer '20 - 21 titles, theme: The Centre Cannot Hold
