@@ -13,7 +13,7 @@ one of six
 
 Completed to date: 8.0%
 
-## Winter '21 - x titles (y abandoned), theme: Collective Action
+## Winter '21 - x titles (y abandoned), theme: Collective Distr/In/Mis/Re/Action
 
 _Consumer Society Reader_
 _The Origins of Totalitarianism_
@@ -21,6 +21,8 @@ _Sources of Power_
 _Propoganda_
 _Merchants of Doubt_
 _Dynamics in Action_ Juarrero (PDF)
+_The Evolution of Cooperation_
+_Linked_ 
 
 
 ## Autumn '20 - x titles (y abandoned), theme: Perception, Perspective and Perspicacity
