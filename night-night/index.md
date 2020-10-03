@@ -23,6 +23,7 @@ _Merchants of Doubt_
 _Dynamics in Action_ Juarrero (PDF)
 _The Evolution of Cooperation_
 _Linked_ 
+_Active Measures_
 
 
 ## Autumn '20 - x titles (y abandoned), theme: Perception, Perspective and Perspicacity
