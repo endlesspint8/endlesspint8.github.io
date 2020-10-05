@@ -16,7 +16,7 @@ Completed to date: 8.0%
 ## Winter '21 - x titles (y abandoned), theme: Collective Distr/In/Mis/Re/Action
 
 _Consumer Society Reader_
-_The Origins of Totalitarianism_
+_The Origins of Totalitarianism_ (hold over)
 _Sources of Power_
 _Propoganda_
 _Merchants of Doubt_
@@ -24,7 +24,7 @@ _Dynamics in Action_ Juarrero (PDF)
 _The Evolution of Cooperation_
 _Linked_ 
 _Active Measures_
-
+_Collapse of Complex Societies_ (hold over)
 
 ## Autumn '20 - x titles (y abandoned), theme: Perception, Perspective and Perspicacity
 
@@ -32,11 +32,9 @@ _Active Measures_
 
 _The Pursuit of Lonelines_ Philip Slater
 _The Order-Disorder Paradox_ Nathan Schwartz-Salant
-
 _Fame & Folly_
 _The Second Sex_
 _Fates and Furies_
-
 _Scale_
 _Brilliant Orange_
 
@@ -44,7 +42,6 @@ _Radical Uncertainty_
 _Darkness Visible_
 
 _The Alteration_
-_The Map and the Territory_
 _The Sea, The Sea_
 
 _Understanding Media_
@@ -61,13 +58,13 @@ _Why Place Matters_
 Husserl, Heidegger, Sartre, Mearleau-Ponty (naturally)
 
 
-_Collapse of Complex Societies_ (hold over)
-
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|	_The Map and the Territory_	|	Michel Houellebecq	|	EBOOK	|		|
+|	_The Misbehavior of Markets_	|	Benoit Mandelbrot	|	AUDIOBOOK	|		|
 |	_The Doors of Perception_ & _Heaven and Hell_	|	Aldous Huxley	|	PRINT	|		|
 
 
