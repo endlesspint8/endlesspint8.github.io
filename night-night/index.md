@@ -25,6 +25,7 @@ _The Evolution of Cooperation_
 _Linked_ 
 _Active Measures_
 _Collapse of Complex Societies_ (hold over)
+_Understanding Media_
 
 ## Autumn '20 - x titles (y abandoned), theme: Perception, Perspective and Perspicacity
 
@@ -42,10 +43,8 @@ _Radical Uncertainty_
 _Darkness Visible_
 
 _The Alteration_
-_The Sea, The Sea_
 
-_Understanding Media_
-_Animal Liberation_
+
 _A World Without Why_
 _The Symbolic Species_
 _The Structure of Scientific Revolutions_
@@ -56,6 +55,8 @@ _Thirteen Ways of Looking at a Black Man_
 _Why Place Matters_
 
 Husserl, Heidegger, Sartre, Mearleau-Ponty (naturally)
+_The Sea, The Sea_
+_How to Change Your Mind_
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -63,6 +64,8 @@ Husserl, Heidegger, Sartre, Mearleau-Ponty (naturally)
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|	_Lucid Dreaming_	|	Robert Waggoner	|	PRINT	|	Perennially curious on the topic, so why not?	|
 |	_The Map and the Territory_	|	Michel Houellebecq	|	EBOOK	|		|
 |	_The Misbehavior of Markets_	|	Benoit Mandelbrot	|	AUDIOBOOK	|		|
 |	_The Doors of Perception_ & _Heaven and Hell_	|	Aldous Huxley	|	PRINT	|		|
