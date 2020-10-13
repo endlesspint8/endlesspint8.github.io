@@ -26,6 +26,7 @@ _Linked_
 _Active Measures_
 _Collapse of Complex Societies_ (hold over)
 _Understanding Media_
+_The Uninhabitable Earth_
 
 ## Autumn '20 - x titles (y abandoned), theme: Perception, Perspective and Perspicacity
 
