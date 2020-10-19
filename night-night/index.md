@@ -13,6 +13,13 @@ one of six
 
 Completed to date: 8.0%
 
+Decision Making
+_Radical Uncertainty_
+
+Sabatical
+_Brilliant Orange_
+
+
 ## Winter '21 - x titles (y abandoned), theme: Collective Distr/In/Mis/Re/Action
 
 _Consumer Society Reader_
@@ -32,31 +39,21 @@ _The Uninhabitable Earth_
 
 **honorable mention:** Isaiah Berlin's [_The Roots of Romanticism_ lectures](https://www.youtube.com/playlist?list=PLBHxLhKiPKxBjK6Udz8i0QTlFZAXKzTtF),
 
-_The Pursuit of Lonelines_ Philip Slater
-_The Order-Disorder Paradox_ Nathan Schwartz-Salant
-_Fame & Folly_
-_The Second Sex_
-_Fates and Furies_
-_Scale_
-_Brilliant Orange_
 
-_Radical Uncertainty_
 _Darkness Visible_
 
 _The Alteration_
-
-
 _A World Without Why_
-_The Symbolic Species_
+
 _The Structure of Scientific Revolutions_
 _The Myth of Human Supremacy_
 _Primitive Man as Philosopher_
 _Metaphors we live by_ George Lakoff (PDF)
 _Thirteen Ways of Looking at a Black Man_
 _Why Place Matters_
-
+_Scale_
 Husserl, Heidegger, Sartre, Mearleau-Ponty (naturally)
-_The Sea, The Sea_
+_The Symbolic Species_
 _How to Change Your Mind_
 
 
@@ -64,8 +61,8 @@ _How to Change Your Mind_
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_The Sea, The Sea_	|	Iris Murdoch	|	EBOOK	|		|
+|	_Animal Liberation_	|	Peter Singer	|	EBOOK	|		|
 |	_Lucid Dreaming_	|	Robert Waggoner	|	PRINT	|	Perennially curious on the topic, so why not?	|
 |	_The Map and the Territory_	|	Michel Houellebecq	|	EBOOK	|		|
 |	_The Misbehavior of Markets_	|	Benoit Mandelbrot	|	AUDIOBOOK	|		|
