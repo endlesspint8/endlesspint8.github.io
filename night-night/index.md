@@ -15,6 +15,7 @@ Completed to date: 8.0%
 
 Decision Making
 _Radical Uncertainty_
+_Sources of Power_
 
 Sabatical
 _Brilliant Orange_
@@ -24,7 +25,7 @@ _Brilliant Orange_
 
 _Consumer Society Reader_
 _The Origins of Totalitarianism_ (hold over)
-_Sources of Power_
+_The Great Transformation_
 _Propoganda_
 _Merchants of Doubt_
 _Dynamics in Action_ Juarrero (PDF)
@@ -34,6 +35,7 @@ _Active Measures_
 _Collapse of Complex Societies_ (hold over)
 _Understanding Media_
 _The Uninhabitable Earth_
+_Strangers in Their Own Land_
 
 ## Autumn '20 - x titles (y abandoned), theme: Perception, Perspective and Perspicacity
 
@@ -45,13 +47,15 @@ _Darkness Visible_
 _The Alteration_
 _A World Without Why_
 
-_The Structure of Scientific Revolutions_
 _The Myth of Human Supremacy_
-_Primitive Man as Philosopher_
-_Metaphors we live by_ George Lakoff (PDF)
 _Thirteen Ways of Looking at a Black Man_
 _Why Place Matters_
 _Scale_
+
+_The Case Against Reality_
+_The Structure of Scientific Revolutions_
+_Primitive Man as Philosopher_
+_Metaphors we live by_ George Lakoff (PDF)
 Husserl, Heidegger, Sartre, Mearleau-Ponty (naturally)
 _The Symbolic Species_
 _How to Change Your Mind_
