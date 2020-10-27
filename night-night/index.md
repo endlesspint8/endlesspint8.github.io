@@ -36,10 +36,11 @@ _Collapse of Complex Societies_ (hold over)
 _Understanding Media_
 _The Uninhabitable Earth_
 _Strangers in Their Own Land_
+_The Myth of Human Supremacy_
 
 ## Autumn '20 - x titles (y abandoned), theme: Perception, Perspective and Perspicacity
 
-**honorable mention:** Isaiah Berlin's [_The Roots of Romanticism_ lectures](https://www.youtube.com/playlist?list=PLBHxLhKiPKxBjK6Udz8i0QTlFZAXKzTtF),
+**honorable mention:** Isaiah Berlin's [_The Roots of Romanticism_ lectures](https://www.youtube.com/playlist?list=PLBHxLhKiPKxBjK6Udz8i0QTlFZAXKzTtF); _The Mezzanine_
 
 
 _Darkness Visible_
@@ -47,7 +48,6 @@ _Darkness Visible_
 _The Alteration_
 _A World Without Why_
 
-_The Myth of Human Supremacy_
 _Thirteen Ways of Looking at a Black Man_
 _Why Place Matters_
 _Scale_
@@ -56,15 +56,19 @@ _The Case Against Reality_
 _The Structure of Scientific Revolutions_
 _Primitive Man as Philosopher_
 _Metaphors we live by_ George Lakoff (PDF)
-Husserl, Heidegger, Sartre, Mearleau-Ponty (naturally)
 _The Symbolic Species_
-_How to Change Your Mind_
+
 
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_The Transcendence of the Ego_	|	Jean-Paul Sartre	|	PRINT	|	_No Exit_, _Nausea_, _The Wall_, and I believe this title based on the marginalia. |
+|	_How to Change Your Mind_	|	Michael Pollan	|	AUDIOBOOK	|		|
+|	_The Idea of Phenomenology_	|	Edmund Husserl	|	PRINT	|		|
 |	_The Sea, The Sea_	|	Iris Murdoch	|	EBOOK	|		|
 |	_Animal Liberation_	|	Peter Singer	|	EBOOK	|		|
 |	_Lucid Dreaming_	|	Robert Waggoner	|	PRINT	|	Perennially curious on the topic, so why not?	|
