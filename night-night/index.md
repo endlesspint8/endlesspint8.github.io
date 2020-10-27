@@ -14,8 +14,16 @@ one of six
 Completed to date: 8.0%
 
 Decision Making
+hon mention: 
+
 _Radical Uncertainty_
 _Sources of Power_
+_The Perfect Bet_
+_Simple Rules_
+_Heuristic Reasoning_ (pdf)
+a negotiating title
+_Gut Feelings_
+
 
 Sabatical
 _Brilliant Orange_
@@ -24,6 +32,7 @@ _Brilliant Orange_
 ## Winter '21 - x titles (y abandoned), theme: Collective Distr/In/Mis/Re/Action
 
 _Consumer Society Reader_
+Sam Bowles text
 _The Origins of Totalitarianism_ (hold over)
 _The Great Transformation_
 _Propoganda_
@@ -31,6 +40,10 @@ _Merchants of Doubt_
 _Dynamics in Action_ Juarrero (PDF)
 _The Evolution of Cooperation_
 _Linked_ 
+_Connected_
+_Social_
+_Behave_
+_The Evolution of Cooperation_
 _Active Measures_
 _Collapse of Complex Societies_ (hold over)
 _Understanding Media_
