@@ -13,7 +13,9 @@ sideof: []
 <img src="/gallery/2020/lame/pexels-prateek-katyal-2694434.jpg" alt="heart-and-zero-neon-light-signage" align="middle" width="100%" /><br />
 
 
-_The world is burning, above the Arctic included, and we are all too busy making sure we share our opinions. As if that were not pathetic enough, too often the topic of conversation and opinion is ourselves. "Look at me, everyone!" (L@Me), is what we all seem to screaming out. My sanity has been spared much of this self referential vortex by stearing clear of social media. Even so, I have not been completely isolated by what can happen to a mind when one spends an inordinate amount of time refreshing their feeds and serving up unlenting brain farts, never stopping to question the point or consequences of wasting one's limited time in this way. I too have a "crazy uncle" of sorts and their rantings on group message chats have allowed me a peak into a mind pickled by too much (mostly bad) information._
+_The world is burning, above the Arctic included, and we are all too busy making sure we share our opinions. As if that were not pathetic enough, too often the topic of conversation and opinion is ourselves. "Look at me, everyone!" (L@Me), is what we all seem to be screaming out. My sanity has been spared much of this self referential vortex by stearing clear of social media. Even so, I have not been completely isolated by what can happen to a mind when one spends an inordinate amount of time refreshing their feeds and serving up undigested brain farts, never stopping to question the point or consequences of wasting one's limited time in this way (and others'). I too have a "crazy uncle" of sorts and their rantings on group message chats have allowed me a peak into a mind pickled by too much (mostly bad) information._
+
+_Below, an open letter to all the crazy uncles that can still be saved._
 
 --- 
 
