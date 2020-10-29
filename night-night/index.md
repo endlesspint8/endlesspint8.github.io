@@ -206,6 +206,18 @@ _The Symbolic Species_
 |	_This Is Marketing_	|	Seth Godin	|	AUDIOBOOK	|	Godin always provides cleary articulated insights. |
 |	_Pale Fire_	|	Vladimir Nabokov	|	EBOOK	|	Well, it's Nabokov and [Time 100 Novels] |
 
+### Slow Down
+### Themes Not Such a New Thing
+
+### Fear is the mind-killer
+
+Books are intimidating. They should be intimidating. If you have not been intimidated recently by a text then you have not faced up to, literally brought within inches of your nose, greatness. In an age when we can carry personal libraries in our back pocket that would have been the envy of kings past there's no excuse. Better said, there are only excuses. Let's face up to that. It is part of life, part of being human. To bring it full circle, one of the best resources to help you face life, understand your own (human) being, are books.
+
+Fear is also a gift. It is a signal of danger and we should be grateful for such warning signs. Though we are not talking about physical harm (unless you have Jason Bourne punching out your throught with a book spine in mind) there is still a danger with great books. The most obvious that I can think of is that you are found wanting. Not fully ready to understand a text you're left dejected, perhaps angry. Basically you've failed in some way and you are intimately aware of this. The other main candidate for fear is change. Change is uncomfortable and when extreme enough it can result in our ceasing to be who we (think we) are at the moment of fear. 
+
+In this second, I would argue even more prevalent, form fear can be our guide to growth. We should face our fears in order to better understand them, to better understand ourselves. What is this fear driving at? What does that mean for me? The fear is a clue. 
+
+
 ### Read Accordingly 
 
 > _"How's your mother?"_
