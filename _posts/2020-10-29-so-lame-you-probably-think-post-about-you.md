@@ -13,7 +13,7 @@ sideof: []
 <img src="/gallery/2020/lame/pexels-prateek-katyal-2694434.jpg" alt="heart-and-zero-neon-light-signage" align="middle" width="100%" /><br />
 
 
-_The world is burning, above the Arctic included, and we are all too busy making sure we share our opinions. As if that were not pathetic enough, too often the topic of conversation and opinion is ourselves. "Look at me, everyone!" (L@Me), is what we all seem to be screaming out. My sanity has been spared much of this self referential vortex by stearing clear of social media. Even so, I have not been completely isolated by what can happen to a mind when one spends an inordinate amount of time refreshing their feeds and serving up undigested brain farts, never stopping to question the point or consequences of wasting one's limited time in this way (and others'). I too have a "crazy uncle" of sorts and their rantings on group message chats have allowed me a peak into a mind pickled by too much (mostly bad) information._
+_The world is burning, above the Arctic included, and we are all too busy making sure we share our opinions. As if that were not pathetic enough, too often the topic of conversation and opinion is ourselves. "Look at me, everyone!" (L@Me), is what we all seem to be screaming out. My sanity has been spared much of this self referential vortex by stearing clear of social media. Even so, I have not been completely isolated by what can happen to a mind when one spends an inordinate amount of time refreshing their feeds and serving up their own undigested brain farts, never stopping to question the point or consequences of wasting one's limited time in this way (and others'). I too have a "crazy uncle" of sorts and their rantings on group message chats have allowed me a peak into a mind pickled by too much (mostly bad) information._
 
 _Below, an open letter to all the crazy uncles that can still be saved._
 
@@ -41,9 +41,9 @@ At this point we have to ask ourselves what it is your messages have expressed. 
 
 Of course, the same set of arguments should carry equal weight regardless of the media but that is a naive view that foolishly oversimplifies human communication and discounts context. Different media favor and inhibit different factors. It is clear that you have conformed your online communications to a rapid-fire combative environment that places a premium on reactive type-first-think-later participation. Leaving aside the desirability of pursuing such a model of communication it is worth acknowledging that it is the antithesis of thoughtful conversation. 
 
-Having the ability to do something, i.e. post and share ideas, people cannot help feeling compelled to make use of it, rarely considering how infrequently they have, or ever would, address in person the same number of people, with the same ideas, in the same way. The lowered inhibitions induced by a social platform frequently encourage a lowered standard of thought, accountability, and civil discourse. 
+Having the ability to do something, e.g., post and share ideas, people cannot help feeling compelled to make use of it, rarely considering how infrequently they have, or ever would, address in person the same number of people, with the same ideas, in the same way. The lowered inhibitions induced by a social platform frequently encourage a lowered standard of thought, accountability, and civil discourse. 
 
-Finally, consider someone arguing for their favorite movie, pizza joint, or sports team in the manner you have: sweeping generalizations backed up by flimsy evidence, insults, and declarations about how smart they were. We would dismiss this person's opinion. How could anyone imagine this same behavior would carry weight on a topic as serious as the future of our democratic society?
+Finally, consider someone arguing for their favorite movie, pizza joint, or sports team in the manner you have: sweeping generalizations backed up by flimsy evidence, insults, and declarations about how smart they were. We would dismiss this person's opinion. How could anyone imagine this same behavior carrying weight on a topic as serious as the future of our democratic society?
 
 ---
 
