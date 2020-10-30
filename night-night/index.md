@@ -14,7 +14,7 @@ one of six
 Completed to date: 8.0%
 
 Decision Making
-hon mention: 
+hon mention: _Thinking in Bets_
 
 _Radical Uncertainty_
 _Sources of Power_
@@ -72,13 +72,12 @@ _Metaphors we live by_ George Lakoff (PDF)
 _The Symbolic Species_
 
 
-
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Spectre of Alexander Wolf_	|	Gaito Gazdanov	|	EBOOK	|	_The Beggar and Other Stories_	|
 |	_The Transcendence of the Ego_	|	Jean-Paul Sartre	|	PRINT	|	_No Exit_, _Nausea_, _The Wall_, and I believe this title based on the marginalia. |
 |	_How to Change Your Mind_	|	Michael Pollan	|	AUDIOBOOK	|		|
 |	_The Idea of Phenomenology_	|	Edmund Husserl	|	PRINT	|		|
