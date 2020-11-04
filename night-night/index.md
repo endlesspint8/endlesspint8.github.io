@@ -9,11 +9,11 @@ essays
 short stories
 graphic novel
 plays
-one of six
+one of six topics
 
 Completed to date: 8.0%
 
-Decision Making
+## Decision Making
 hon mention: _Thinking in Bets_
 
 _Radical Uncertainty_
@@ -25,9 +25,12 @@ a negotiating title
 _Gut Feelings_
 
 
-Sabatical
+## Sabatical
 _Brilliant Orange_
-
+_The Alteration_
+_A World Without Why_
+_Thirteen Ways of Looking at a Black Man_
+_Scale_
 
 ## Winter '21 - x titles (y abandoned), theme: Collective Distr/In/Mis/Re/Action
 
@@ -50,24 +53,18 @@ _Understanding Media_
 _The Uninhabitable Earth_
 _Strangers in Their Own Land_
 _The Myth of Human Supremacy_
+_Why Place Matters_
 
 ## Autumn '20 - x titles (y abandoned), theme: Perception, Perspective and Perspicacity
 
 **honorable mention:** Isaiah Berlin's [_The Roots of Romanticism_ lectures](https://www.youtube.com/playlist?list=PLBHxLhKiPKxBjK6Udz8i0QTlFZAXKzTtF); _The Mezzanine_
 
+_The Structure of Scientific Revolutions_
+_Primitive Man as Philosopher_
 
 _Darkness Visible_
 
-_The Alteration_
-_A World Without Why_
-
-_Thirteen Ways of Looking at a Black Man_
-_Why Place Matters_
-_Scale_
-
 _The Case Against Reality_
-_The Structure of Scientific Revolutions_
-_Primitive Man as Philosopher_
 _Metaphors we live by_ George Lakoff (PDF)
 _The Symbolic Species_
 
@@ -77,6 +74,8 @@ _The Symbolic Species_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|	_This Is Your Brain on Music_	|	Daniel J. Levitin	|	AUDIOBOOK	|		|
+|	_Miss Lonelyhearts_	|	Nathanael West	|	EBOOK	|		|
 |	_The Spectre of Alexander Wolf_	|	Gaito Gazdanov	|	EBOOK	|	_The Beggar and Other Stories_	|
 |	_The Transcendence of the Ego_	|	Jean-Paul Sartre	|	PRINT	|	_No Exit_, _Nausea_, _The Wall_, and I believe this title based on the marginalia. |
 |	_How to Change Your Mind_	|	Michael Pollan	|	AUDIOBOOK	|		|
