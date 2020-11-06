@@ -55,9 +55,9 @@ _Strangers in Their Own Land_
 _The Myth of Human Supremacy_
 _Why Place Matters_
 
-## Autumn '20 - x titles (y abandoned), theme: Perception, Perspective and Perspicacity
+## Autumn '20 - x titles (1 abandoned), theme: Perception, Perspective and Perspicacity
 
-**honorable mention:** Isaiah Berlin's [_The Roots of Romanticism_ lectures](https://www.youtube.com/playlist?list=PLBHxLhKiPKxBjK6Udz8i0QTlFZAXKzTtF); _The Mezzanine_
+**honorable mention:** _The Embodied Mind_; Isaiah Berlin's [_The Roots of Romanticism_ lectures](https://www.youtube.com/playlist?list=PLBHxLhKiPKxBjK6Udz8i0QTlFZAXKzTtF); _The Mezzanine_; _At The Existentialist Cafe_
 
 _The Structure of Scientific Revolutions_
 _Primitive Man as Philosopher_
@@ -66,7 +66,6 @@ _Darkness Visible_
 
 _The Case Against Reality_
 _Metaphors we live by_ George Lakoff (PDF)
-_The Symbolic Species_
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -74,7 +73,9 @@ _The Symbolic Species_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
 |	_This Is Your Brain on Music_	|	Daniel J. Levitin	|	AUDIOBOOK	|		|
+|	~~_The Symbolic Species_~~	|	~~Terrence W. Deacon~~	|	~~EBOOK~~	|	Read Part One but got distracted with other items and titles, time ran out on the loan, and (wouldn't you know it?!) the license on the copy ran out so I could not even re-check it out. Huh. 	|
 |	_Miss Lonelyhearts_	|	Nathanael West	|	EBOOK	|		|
 |	_The Spectre of Alexander Wolf_	|	Gaito Gazdanov	|	EBOOK	|	_The Beggar and Other Stories_	|
 |	_The Transcendence of the Ego_	|	Jean-Paul Sartre	|	PRINT	|	_No Exit_, _Nausea_, _The Wall_, and I believe this title based on the marginalia. |
