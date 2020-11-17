@@ -59,21 +59,16 @@ _Why Place Matters_
 
 **honorable mention:** _The Embodied Mind_; Isaiah Berlin's [_The Roots of Romanticism_ lectures](https://www.youtube.com/playlist?list=PLBHxLhKiPKxBjK6Udz8i0QTlFZAXKzTtF); _The Mezzanine_; _At The Existentialist Cafe_
 
-_The Structure of Scientific Revolutions_
-_Primitive Man as Philosopher_
+**another time (_maybe_):** _The Structure of Scientific Revolutions_; _Primitive Man as Philosopher_; _Darkness Visible_
 
-_Darkness Visible_
-
-_The Case Against Reality_
 _Metaphors we live by_ George Lakoff (PDF)
-
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_The Case Against Reality_	|	Donald Hoffman	|	EBOOK	|		|
+|	_Emperor God of Dune_	|	Frank Herbert	|	PRINT	|	The sage continues!	|
 |	_This Is Your Brain on Music_	|	Daniel J. Levitin	|	AUDIOBOOK	|	I'll let the author explain: _The story of your brain on music is the story of an exquisite orchestration of brain regions, involving both the oldest and newest parts of the human brain... It invloves a precision choreography of neuorochemical release and uptake between logical prediction systems and emotional reward systems._	|
 |	~~_The Symbolic Species_~~	|	~~Terrence W. Deacon~~	|	~~EBOOK~~	|	Read Part One but got distracted with other items and titles, time ran out on the loan, and (wouldn't you know it?!) the license on the copy ran out so I could not even re-check it out. Huh. 	|
 |	_Miss Lonelyhearts_	|	Nathanael West	|	EBOOK	|		|
@@ -91,7 +86,7 @@ _Metaphors we live by_ George Lakoff (PDF)
 
 ## Summer '20 - 21 titles, theme: The Centre Cannot Hold
 
-**honorable mention:** Ronald Wright's Massey Lectures, [_A Shorty History of Progress_](https://www.cbc.ca/radio/ideas/the-2004-cbc-massey-lectures-a-short-history-of-progress-1.2946872); _Cadillac Desert_; _The Great Influenza_; _Silent Spring_; _The March of Folly_; _The Lorax_; [Doomsday Clock](https://thebulletin.org/doomsday-clock/current-time/#full-statement); [IPCC](https://www.ipcc.ch/sr15/); _The Mandibles_; _The Stand_
+**honorable mention:** Ronald Wright's Massey Lectures, [_A Shorty History of Progress_](https://www.cbc.ca/radio/ideas/the-2004-cbc-massey-lectures-a-short-history-of-progress-1.2946872); _Cadillac Desert_; _The Great Influenza_; _Silent Spring_; _The March of Folly_; _The Lorax_; [Doomsday Clock](https://thebulletin.org/doomsday-clock/current-time/#full-statement); [IPCC](https://www.ipcc.ch/sr15/); _The Mandibles_; _The Stand_; _The Road_
 
 **another time (_maybe_):** _The Long Emergency_; _American Violence_; _War on Peace_; _Dreamland_; _The Rise and Fall of the Great Powers_; _The Sleepwalkers_; _1177 B.C._; _Limits to Growth_; _Drawdown_; _The Broken Road_; _The Best and the Brightest_ David Halberstam; _Darkness Visible_ William Styron; _Success Stories_ Russell Banks; _Stabilizing an Unstable Economy_ Hyman P. Minsky
 
