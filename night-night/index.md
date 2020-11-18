@@ -34,6 +34,7 @@ _Scale_
 
 ## Winter '21 - x titles (y abandoned), theme: Collective Distr/In/Mis/Re/Action
 
+**yes**: _Collective Action_
 _Consumer Society Reader_
 Sam Bowles text
 _The Origins of Totalitarianism_ (hold over)
@@ -41,17 +42,18 @@ _The Great Transformation_
 _Propoganda_
 _Merchants of Doubt_
 _Dynamics in Action_ Juarrero (PDF)
-_The Evolution of Cooperation_
-_Linked_ 
-_Connected_
-_Social_
-_Behave_
-_The Evolution of Cooperation_
 _Active Measures_
 _Collapse of Complex Societies_ (hold over)
 _Understanding Media_
 _The Uninhabitable Earth_
 _Strangers in Their Own Land_
+
+**meh**: _The Evolution of Cooperation_
+_Linked_ 
+_Connected_
+_Social_
+_Behave_
+_The Evolution of Cooperation_
 _The Myth of Human Supremacy_
 _Why Place Matters_
 
