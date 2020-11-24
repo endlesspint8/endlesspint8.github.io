@@ -69,8 +69,10 @@ _Metaphors we live by_ George Lakoff (PDF)
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|	_Inherent Vice_	|	Thomas Pynchon	|	EBOOK	|	_The Crying of Lot 49_	|
 |	_The Case Against Reality_	|	Donald Hoffman	|	EBOOK	|		|
-|	_Emperor God of Dune_	|	Frank Herbert	|	PRINT	|	The sage continues!	|
+|	_Emperor God of Dune_	|	Frank Herbert	|	PRINT	|	The saga continues!	|
 |	_This Is Your Brain on Music_	|	Daniel J. Levitin	|	AUDIOBOOK	|	I'll let the author explain: _The story of your brain on music is the story of an exquisite orchestration of brain regions, involving both the oldest and newest parts of the human brain... It invloves a precision choreography of neuorochemical release and uptake between logical prediction systems and emotional reward systems._	|
 |	~~_The Symbolic Species_~~	|	~~Terrence W. Deacon~~	|	~~EBOOK~~	|	Read Part One but got distracted with other items and titles, time ran out on the loan, and (wouldn't you know it?!) the license on the copy ran out so I could not even re-check it out. Huh. 	|
 |	_Miss Lonelyhearts_	|	Nathanael West	|	EBOOK	|		|
