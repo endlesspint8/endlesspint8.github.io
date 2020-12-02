@@ -61,15 +61,16 @@ _Why Place Matters_
 
 **honorable mention:** _The Embodied Mind_; Isaiah Berlin's [_The Roots of Romanticism_ lectures](https://www.youtube.com/playlist?list=PLBHxLhKiPKxBjK6Udz8i0QTlFZAXKzTtF); _The Mezzanine_; _At The Existentialist Cafe_
 
-**another time (_maybe_):** _The Structure of Scientific Revolutions_; _Primitive Man as Philosopher_; _Darkness Visible_
+**another time (_maybe_):** _The Structure of Scientific Revolutions_; _Primitive Man as Philosopher_; _Darkness Visible_; _Basic Writings: Martin Heidegger_; _Metaphors we live by_ George Lakoff (PDF)
 
-_Metaphors we live by_ George Lakoff (PDF)
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Two Brothers_	|	Gabriel Ba	|	EBOOK	|		|
+|	_Sensemaking_	|	Christian Madsbjerg	|	AUDIOBOOK	|		|
+|	~~_The Phenomenology of Perception_~~	|	~~_Maurice Merleau-Ponty_~~	|	PRINT	|	_World of Perception_; I started the text too late in the season. Another time. |
 |	_Inherent Vice_	|	Thomas Pynchon	|	EBOOK	|	_The Crying of Lot 49_	|
 |	_The Case Against Reality_	|	Donald Hoffman	|	EBOOK	|		|
 |	_Emperor God of Dune_	|	Frank Herbert	|	PRINT	|	The saga continues!	|
