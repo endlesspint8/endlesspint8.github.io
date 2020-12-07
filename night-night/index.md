@@ -31,6 +31,7 @@ _The Alteration_
 _A World Without Why_
 _Thirteen Ways of Looking at a Black Man_
 _Scale_
+_Understanding Media_
 
 ## Winter '21 - x titles (y abandoned), theme: Collective Distr/In/Mis/Re/Action
 
@@ -44,7 +45,6 @@ _Merchants of Doubt_
 _Dynamics in Action_ Juarrero (PDF)
 _Active Measures_
 _Collapse of Complex Societies_ (hold over)
-_Understanding Media_
 _The Uninhabitable Earth_
 _Strangers in Their Own Land_
 
@@ -61,7 +61,7 @@ _Why Place Matters_
 
 **honorable mention:** _The Embodied Mind_; Isaiah Berlin's [_The Roots of Romanticism_ lectures](https://www.youtube.com/playlist?list=PLBHxLhKiPKxBjK6Udz8i0QTlFZAXKzTtF); _The Mezzanine_; _At The Existentialist Cafe_
 
-**another time (_maybe_):** _The Structure of Scientific Revolutions_; _Primitive Man as Philosopher_; _Darkness Visible_; _Basic Writings: Martin Heidegger_; _Metaphors we live by_ George Lakoff (PDF)
+**another time (_maybe_):** _The Structure of Scientific Revolutions_; _Primitive Man as Philosopher_; _Darkness Visible_; _Basic Writings: Martin Heidegger_; _Metaphors we live by_ George Lakoff (PDF); _A World Without Why_
 
 
 |	title	|	author	|	media	|	alibi	|
