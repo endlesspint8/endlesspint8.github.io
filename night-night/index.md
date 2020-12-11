@@ -13,6 +13,16 @@ one of six topics
 
 Completed to date: 9.9%
 
+## Dangerous Ideas
+
+_A Room of One's Own_
+_Emma Goldman_
+_WEB Du Bois_
+
+## Just Literature
+
+_Don Quixote_
+
 ## Decision Making
 hon mention: _Thinking in Bets_
 
@@ -57,6 +67,10 @@ _The Evolution of Cooperation_
 _The Myth of Human Supremacy_
 _Why Place Matters_
 
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|		|		|		|		|
+
 ## Autumn '20 - 19 titles (2 abandoned), theme: Perception, Perspective and Perspicacity
 
 **honorable mention:** _The Embodied Mind_; Isaiah Berlin's [_The Roots of Romanticism_ lectures](https://www.youtube.com/playlist?list=PLBHxLhKiPKxBjK6Udz8i0QTlFZAXKzTtF); _The Mezzanine_; _At The Existentialist Cafe_
@@ -66,7 +80,6 @@ _Why Place Matters_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
 |	_Great Apes_	|	Will Self	|	EBOOK	|		|
 |	_Two Brothers_	|	Gabriel Ba	|	EBOOK	|		|
 |	_My Struggle: Book 1_	|	Karl Ove Knausgaard  (trans Don Bartlett)	|	EBOOK	|		|
