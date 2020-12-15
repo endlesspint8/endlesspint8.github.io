@@ -15,9 +15,12 @@ Completed to date: 9.9%
 
 ## Dangerous Ideas
 
+**honorable mention:** _All Quiet on the Western Front_; _The Autobiography of Malcolm X_; _Brave New World_; _The Communist Manifesto_; _Doctor Zhivago_; _The Grapes of Wrath_; _High_Rise_; _The Jungle_; _Lolita_; _Madame Bovary_; _The Master and Margarita_; _Friedrich Nietzsche_; _Rights of Man_; _The Sorrows of Young Werther_; _The Story of O_; _Tropic of Cancer_; _Uncle Tom's Cabin_; _The Wretched of the Earth_
+
 _A Room of One's Own_
 _Emma Goldman_
 _WEB Du Bois_
+_The Satanic Verses_
 
 ## Just Literature
 
@@ -45,16 +48,16 @@ _Understanding Media_
 
 ## Winter '21 - x titles (y abandoned), theme: Collective Distr/In/Mis/Re/Action
 
-**yes**: _Collective Action_
+**yes**: _Collective Action_ (PDF)
 _Consumer Society Reader_
-Sam Bowles text
+Sam Bowles text (PDF)
 _The Origins of Totalitarianism_ (hold over)
-_The Great Transformation_
+_The Great Transformation_ (PDF)
 _Propoganda_
 _Merchants of Doubt_
 _Dynamics in Action_ Juarrero (PDF)
 _Active Measures_
-_Collapse of Complex Societies_ (hold over)
+_Collapse of Complex Societies_ (hold over, PDF)
 _The Uninhabitable Earth_
 _Strangers in Their Own Land_
 
