@@ -15,12 +15,13 @@ Completed to date: 9.9%
 
 ## Dangerous Ideas
 
-**honorable mention:** _All Quiet on the Western Front_; _The Autobiography of Malcolm X_; _Brave New World_; _The Communist Manifesto_; _Doctor Zhivago_; _The Grapes of Wrath_; _High_Rise_; _The Jungle_; _Lolita_; _Madame Bovary_; _The Master and Margarita_; _Friedrich Nietzsche_; _Rights of Man_; _The Sorrows of Young Werther_; _The Story of O_; _Tropic of Cancer_; _Uncle Tom's Cabin_; _The Wretched of the Earth_
+**honorable mention:** _All Quiet on the Western Front_; _The Autobiography of Malcolm X_; _Brave New World_; _Catch-22_; _The Communist Manifesto_; _Doctor Zhivago_; _The Grapes of Wrath_; _High_Rise_; _The Jungle_; _Lolita_; _Madame Bovary_; _The Master and Margarita_; _Friedrich Nietzsche_; _Rights of Man_; _Slaughterhouse-Five_; _The Sorrows of Young Werther_; _The Story of O_; _Tropic of Cancer_; _Uncle Tom's Cabin_; _The Wretched of the Earth_
 
 _A Room of One's Own_
 _Emma Goldman_
 _WEB Du Bois_
 _The Satanic Verses_
+_The Good Soldier Švejk_
 
 ## Just Literature
 
@@ -70,9 +71,14 @@ _The Evolution of Cooperation_
 _The Myth of Human Supremacy_
 _Why Place Matters_
 
+
+
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	~~_The Forgotten Man_~~	|	~~Amity Shlaes~~	|	~~AUDIOBOOK~~	|	Oh how I tried... but this was a dud. What a way to kick off the new season. |
 
 ## Autumn '20 - 19 titles (2 abandoned), theme: Perception, Perspective and Perspicacity
 
