@@ -15,7 +15,7 @@ Completed to date: 9.9%
 
 ## Dangerous Ideas
 
-**honorable mention:** _All Quiet on the Western Front_; _The Autobiography of Malcolm X_; _Brave New World_; _Catch-22_; _The Communist Manifesto_; _Doctor Zhivago_; _The Grapes of Wrath_; _High_Rise_; _The Jungle_; _Lolita_; _Madame Bovary_; _The Master and Margarita_; _Friedrich Nietzsche_; _Rights of Man_; _Slaughterhouse-Five_; _The Sorrows of Young Werther_; _The Story of O_; _Tropic of Cancer_; _Uncle Tom's Cabin_; _The Wretched of the Earth_
+**honorable mention:** _All Quiet on the Western Front_; _The Autobiography of Malcolm X_; _Brave New World_; _Bury My Heart at Wounded Knee_; _Cane_ (Toomer); _Catch-22_; _The Communist Manifesto_; _Doctor Zhivago_; _The Grapes of Wrath_; _High_Rise_; _The Jungle_; _Lolita_; _Madame Bovary_; _The Master and Margarita_; _Friedrich Nietzsche_; _Rights of Man_; _Slaughterhouse-Five_; _The Sorrows of Young Werther_; _The Story of O_; _Tropic of Cancer_; _Uncle Tom's Cabin_; _The Wretched of the Earth_
 
 _A Room of One's Own_
 _Emma Goldman_
@@ -26,6 +26,8 @@ _The Good Soldier Švejk_
 ## Just Literature
 
 _Don Quixote_
+_Moby Dick_
+_The Brothers Karamazov_
 
 ## Decision Making
 hon mention: _Thinking in Bets_
@@ -40,6 +42,7 @@ _Gut Feelings_
 
 
 ## Sabatical
+
 _Brilliant Orange_
 _The Alteration_
 _A World Without Why_
