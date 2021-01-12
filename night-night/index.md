@@ -55,12 +55,10 @@ Sam Bowles text (PDF)
 _The Origins of Totalitarianism_ (hold over)
 _The Great Transformation_ (PDF)
 _Propoganda_
-_Merchants of Doubt_
 _Dynamics in Action_ Juarrero (PDF)
 _Active Measures_
 _Collapse of Complex Societies_ (hold over, PDF)
-_The Uninhabitable Earth_
-_Strangers in Their Own Land_
+
 
 **meh**: _The Evolution of Cooperation_
 _Linked_ 
@@ -72,12 +70,21 @@ _The Myth of Human Supremacy_
 _Why Place Matters_
 
 
+by 
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|	_Merchants of Doubt_	|	Naomi Oreskes	|	EBOOK	|		|
+|	_The Spy Who Came in From the Cold_	|	John Le Carre	|	EBOOK	|	In light of the author's recent passing it seemed as good a time as any to dive in.	|
+|	_The Rock_	|	Wallace Stevens	|	EBOOK	|		|
+|	_Serotonin_	|	Michel Houellebecq	|	EBOOK	|		|
+|	_Strangers in Their Own Land_	|	Arlie Russell Hochschild	|	EBOOK	|		|
+|	_Concrete_	|	Thomas Bernhard	|	EBOOK	|		|
+|	_The Uninhabitable Earth_	|	David Wallace-Wells	|	EBOOK	|		|
 |	~~_The Forgotten Man_~~	|	~~Amity Shlaes~~	|	~~AUDIOBOOK~~	|	Oh how I tried... but this was a dud. What a way to kick off the new season. |
 
 ## Autumn '20 - 19 titles (2 abandoned), theme: Perception, Perspective and Perspicacity
