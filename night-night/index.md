@@ -91,6 +91,18 @@ _Why Place Matters_
 |	_The Uninhabitable Earth_	|	David Wallace-Wells	|	EBOOK	|		|
 |	~~_The Forgotten Man_~~	|	~~Amity Shlaes~~	|	~~AUDIOBOOK~~	|	Oh how I tried... but this was a dud. What a way to kick off the new season. |
 
+### Favorite Five Fiction 2 (last four Q's rolling)
+
+* _The Beggar and Other Stories_,	Gaito Gazdanov 
+* _Doctor Zhivago_,		Boris Pasternak 
+* _Life and Fate_,		Vasily Grossman 
+* **_My Struggle: Book 1_, Karl Ove Knausgaard**
+* ~~_Under the Net_,		Iris Murdoch~~
+* _Yevgeny Onegin_,		Alexander Pushkin
+
+**honorable mention:** _Great Apes; Miss Lonelyhearts; The Spectre of Alexander Wolf; The Sea, The Sea_
+
+
 ## Autumn '20 - 19 titles (2 abandoned), theme: Perception, Perspective and Perspicacity
 
 **honorable mention:** _The Embodied Mind_; Isaiah Berlin's [_The Roots of Romanticism_ lectures](https://www.youtube.com/playlist?list=PLBHxLhKiPKxBjK6Udz8i0QTlFZAXKzTtF); _The Mezzanine_; _At The Existentialist Cafe_
@@ -122,7 +134,15 @@ _Why Place Matters_
 |	_The Misbehavior of Markets_	|	Benoit Mandelbrot	|	AUDIOBOOK	|		|
 |	_The Doors of Perception_ & _Heaven and Hell_	|	Aldous Huxley	|	PRINT	|		|
 
-### Favorite Five Fiction, last four Q's rolling
+### Favorite Five Fiction 1 (last four Q's rolling)
+
+* _The Beggar and Other Stories_,	Gaito Gazdanov 
+* _Doctor Zhivago_,		Boris Pasternak 
+* _Life and Fate_,		Vasily Grossman 
+* _Under the Net_,		Iris Murdoch
+* _Yevgeny Onegin_,		Alexander Pushkin
+
+**honorable mention:** _Dune Messiah; The Sandman (1989), Volume 1; Pale Fire; The Fox Was Ever the Hunter; Love in the Ruins; Riddley Walker; The Drought; Pushkin Hills_
 
 
 ## Summer '20 - 21 titles, theme: The Centre Cannot Hold
