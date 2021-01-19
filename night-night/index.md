@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Night Night
-subtitle: The last 1,001 titles
+subtitle: Out, out, brief candle - the last 1,001 titles
 ---
 
 poems 
@@ -57,7 +57,7 @@ _Consumer Society Reader_
 Sam Bowles text (PDF)
 _The Origins of Totalitarianism_ (hold over)
 _The Great Transformation_ (PDF)
-_Propoganda_
+
 _Dynamics in Action_ Juarrero (PDF)
 _Active Measures_
 _Collapse of Complex Societies_ (hold over, PDF)
@@ -73,14 +73,15 @@ _The Myth of Human Supremacy_
 _Why Place Matters_
 
 
-by 
-
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|	_Propoganda_	|	Edward Bernays	|	EBOOK	|		|
+|	_Y: The Last Man (2002), Volume 1_	|	Brian K. Vaughan	|	EBOOK	|		|
+|	_Life for Sale_	|	Yukio Mishima	|	EBOOK	|		|
 |	_Merchants of Doubt_	|	Naomi Oreskes	|	EBOOK	|		|
 |	_The Spy Who Came in From the Cold_	|	John Le Carre	|	EBOOK	|	In light of the author's recent passing it seemed as good a time as any to dive in.	|
 |	_The Rock_	|	Wallace Stevens	|	EBOOK	|		|
@@ -120,6 +121,8 @@ by
 |	_The Map and the Territory_	|	Michel Houellebecq	|	EBOOK	|		|
 |	_The Misbehavior of Markets_	|	Benoit Mandelbrot	|	AUDIOBOOK	|		|
 |	_The Doors of Perception_ & _Heaven and Hell_	|	Aldous Huxley	|	PRINT	|		|
+
+### Favorite Five Fiction, last four Q's rolling
 
 
 ## Summer '20 - 21 titles, theme: The Centre Cannot Hold
