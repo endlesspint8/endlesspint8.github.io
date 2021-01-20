@@ -13,6 +13,13 @@ one of six topics
 
 Completed to date: 9.9%
 
+## Death & Co.
+
+_Martial Arts and Philosophy_
+_How to Live_, Sarah Bakewell
+_Japanese Death Poems_, Yoel Hoffmann
+_Dead Souls_, Nikolai Gogol
+
 ## Dangerous Ideas
 
 **honorable mention:** _All Quiet on the Western Front_; _The Autobiography of Malcolm X_; _Brave New World_; _Bury My Heart at Wounded Knee_; _Cane_ (Toomer); _Catch-22_; _The Communist Manifesto_; _Doctor Zhivago_; _The Grapes of Wrath_; _High_Rise_; _The Jungle_; _Lolita_; _Madame Bovary_; _The Master and Margarita_; _Friedrich Nietzsche_; _Rights of Man_; _Slaughterhouse-Five_; _The Sorrows of Young Werther_; _The Story of O_; _Tropic of Cancer_; _Uncle Tom's Cabin_; _The Wretched of the Earth_
