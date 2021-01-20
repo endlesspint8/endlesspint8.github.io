@@ -29,6 +29,8 @@ _Emma Goldman_
 _WEB Du Bois_
 _The Satanic Verses_
 _The Good Soldier Švejk_
+_Democracy Incorporated_
+_Achieving our Country_ (Rorty)
 
 ## Just Literature
 
