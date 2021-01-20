@@ -91,16 +91,20 @@ _Why Place Matters_
 |	_The Uninhabitable Earth_	|	David Wallace-Wells	|	EBOOK	|		|
 |	~~_The Forgotten Man_~~	|	~~Amity Shlaes~~	|	~~AUDIOBOOK~~	|	Oh how I tried... but this was a dud. What a way to kick off the new season. |
 
-### Favorite Five Fiction 2 (last four Q's rolling)
+---
 
-* _The Beggar and Other Stories_,	Gaito Gazdanov 
-* _Doctor Zhivago_,		Boris Pasternak 
-* _Life and Fate_,		Vasily Grossman 
-* **_My Struggle: Book 1_, Karl Ove Knausgaard**
-* ~~_Under the Net_,		Iris Murdoch~~
-* _Yevgeny Onegin_,		Alexander Pushkin
+### Triple Five Roll  #2 (last four quarters)
 
-**honorable mention:** _Great Apes; Miss Lonelyhearts; The Spectre of Alexander Wolf; The Sea, The Sea_
+|	Best Fiction-ish	|	Most Entertaining	| Think on It |
+|	---	|	---	|	---	|
+| _The Beggar and Other Stories_,	Gaito Gazdanov | **_Great Apes_,	Will Self** | _The Age of Surveillance Capitalism_,	Shoshana Zuboff |
+| _Doctor Zhivago_,		Boris Pasternak  | **_Inherent Vice_,	Thomas Pynchon** | _Dark Money_,	Jane Mayer |
+| _Life and Fate_,		Vasily Grossman  | **_The Map and the Territory_,		Michel Houellebecq** | **_The Drought_,	J. G. Ballard** |
+| **_My Struggle: Book 1_, Karl Ove Knausgaard** | _Pushkin Hills_,	Sergei Dovlatov | _Field Notes from a Catastrophe_,	Elizabeth Kolbert |
+| _Yevgeny Onegin_,		Alexander Pushkin | _Under the Net_,	Iris Murdoch | _Philosophy and Real Politics_,	Raymond Geuss |
+
+**honorable mention:** _Miss Lonelyhearts; The Spectre of Alexander Wolf; The Sea, The Sea_
+
 
 
 ## Autumn '20 - 19 titles (2 abandoned), theme: Perception, Perspective and Perspicacity
@@ -134,19 +138,21 @@ _Why Place Matters_
 |	_The Misbehavior of Markets_	|	Benoit Mandelbrot	|	AUDIOBOOK	|		|
 |	_The Doors of Perception_ & _Heaven and Hell_	|	Aldous Huxley	|	PRINT	|		|
 
-### Triple Five Roll  #1 (last four Q's rolling)
 
 
+### Triple Five Roll  #1 (last four quarters)
 
-|	Best Fiction-ish	|	Most Fun	| Think on It |
+|	Best Fiction-ish	|	Most Entertaining	| Think on It |
 |	---	|	---	|	---	|
 | _The Beggar and Other Stories_,	Gaito Gazdanov | _Between Meals_, A. J. Liebling | _The Age of Surveillance Capitalism_,	Shoshana Zuboff |
-| _Doctor Zhivago_,		Boris Pasternak  | _A Moveable Feast_,	Ernest Hemingway | _Dark Money_,	Jane Mayer |
-| _Life and Fate_,		Vasily Grossman  | _Love in the Ruins_,		Walker Percy | _Field Notes from a Catastrophe_,	Elizabeth Kolbert |
-| _Under the Net_,		Iris Murdoch | _Pushkin Hills_,	Sergei Dovlatov | _The Lost Art of Scripture_,	Karen Armstrong |
+| _Doctor Zhivago_,		Boris Pasternak  | _Love in the Ruins_,		Walker Percy | _Dark Money_,	Jane Mayer |
+| _Life and Fate_,		Vasily Grossman  | _A Moveable Feast_,	Ernest Hemingway | _Field Notes from a Catastrophe_,	Elizabeth Kolbert |
+| _Under the Net_,		Iris Murdoch | _Pushkin Hills_,	Sergei Dovlatov | _Philosophy and Real Politics_,	Raymond Geuss |
 | _Yevgeny Onegin_,		Alexander Pushkin | _Under the Net_,	Iris Murdoch | _Tragedy, the Greeks, and Us_,	Simon Critchley |
 
-**honorable mention:** _Dune Messiah; The Sandman (1989), Volume 1; Pale Fire; The Fox Was Ever the Hunter; ; Riddley Walker; The Drought_
+**honorable mention:** _Dune Messiah; The Sandman (1989), Volume 1; Pale Fire; The Fox Was Ever the Hunter; The Lost Art of Scripture; Riddley Walker; The Drought_
+
+	
 
 
 ## Summer '20 - 21 titles, theme: The Centre Cannot Hold
