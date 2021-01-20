@@ -134,15 +134,19 @@ _Why Place Matters_
 |	_The Misbehavior of Markets_	|	Benoit Mandelbrot	|	AUDIOBOOK	|		|
 |	_The Doors of Perception_ & _Heaven and Hell_	|	Aldous Huxley	|	PRINT	|		|
 
-### Favorite Five Fiction 1 (last four Q's rolling)
+### Triple Five Roll  #1 (last four Q's rolling)
 
-* _The Beggar and Other Stories_,	Gaito Gazdanov 
-* _Doctor Zhivago_,		Boris Pasternak 
-* _Life and Fate_,		Vasily Grossman 
-* _Under the Net_,		Iris Murdoch
-* _Yevgeny Onegin_,		Alexander Pushkin
 
-**honorable mention:** _Dune Messiah; The Sandman (1989), Volume 1; Pale Fire; The Fox Was Ever the Hunter; Love in the Ruins; Riddley Walker; The Drought; Pushkin Hills_
+
+|	Best Fiction-ish	|	Most Fun	| Think on It |
+|	---	|	---	|	---	|
+| _The Beggar and Other Stories_,	Gaito Gazdanov | _Between Meals_, A. J. Liebling | _The Age of Surveillance Capitalism_,	Shoshana Zuboff |
+| _Doctor Zhivago_,		Boris Pasternak  | _A Moveable Feast_,	Ernest Hemingway | _Dark Money_,	Jane Mayer |
+| _Life and Fate_,		Vasily Grossman  | _Love in the Ruins_,		Walker Percy | _Field Notes from a Catastrophe_,	Elizabeth Kolbert |
+| _Under the Net_,		Iris Murdoch | _Pushkin Hills_,	Sergei Dovlatov | _The Lost Art of Scripture_,	Karen Armstrong |
+| _Yevgeny Onegin_,		Alexander Pushkin | _Under the Net_,	Iris Murdoch | _Tragedy, the Greeks, and Us_,	Simon Critchley |
+
+**honorable mention:** _Dune Messiah; The Sandman (1989), Volume 1; Pale Fire; The Fox Was Ever the Hunter; ; Riddley Walker; The Drought_
 
 
 ## Summer '20 - 21 titles, theme: The Centre Cannot Hold
