@@ -19,6 +19,7 @@ _Martial Arts and Philosophy_
 _How to Live_, Sarah Bakewell
 _Japanese Death Poems_, Yoel Hoffmann
 _Dead Souls_, Nikolai Gogol
+_The Posthumous Memoirs of Brás Cubas_, Joaquim Maria Machado de Assis
 
 ## Dangerous Ideas
 
@@ -30,7 +31,7 @@ _WEB Du Bois_
 _The Satanic Verses_
 _The Good Soldier Švejk_
 _Democracy Incorporated_
-_Achieving our Country_ (Rorty)
+_Achieving our Country_ (Rorty, PDF)
 
 ## Just Literature
 
