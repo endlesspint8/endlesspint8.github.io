@@ -29,7 +29,10 @@ _American Violence_, Richard Hofstadter
 _Sickness onto Death_
 _Last Works_, Mark C. Taylor
 
+
 ## Speculate This
+
+**honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; _
 
 _American Gods_
 _Ender's Game_
@@ -41,6 +44,8 @@ _The Gods Themselves_
 _Rendezvous with Rama_
 _The Left Hand of Darkness_
 _This Is How You Lose the Time War_
+_Oryx and Crake_
+_The Fifth Season_
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
