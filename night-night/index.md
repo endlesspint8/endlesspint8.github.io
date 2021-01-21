@@ -20,6 +20,24 @@ _How to Live_, Sarah Bakewell
 _Japanese Death Poems_, Yoel Hoffmann
 _Dead Souls_, Nikolai Gogol
 _The Posthumous Memoirs of Brás Cubas_, Joaquim Maria Machado de Assis
+_Death on the Installment Plan_
+_Chasing the Scream_
+_Madwomen_
+_Cancer Ward_ Aleksandr Solzhenitsyn
+_The Best American Noir of the Century_, James Ellroy
+_American Violence_, Richard Hofstadter
+_Sickness onto Death_
+_Last Works_, Mark C. Taylor
+
+## Drinking & Co.
+
+_Everyday Drinking_, Kingsley Amis
+_Tobacco_, Iain Gately
+_Long Day's Journey into Night_, Eugene O'Neill
+_Drunks_, Christopher Finan
+_On Booze_, F. Scott Fitzgerald
+_I Drink Therefore I Am_, Roger Scruton
+
 
 ## Dangerous Ideas
 
@@ -59,15 +77,16 @@ _A World Without Why_
 _Thirteen Ways of Looking at a Black Man_
 _Scale_
 _Understanding Media_
+_The Broken Road_, Patrick Leigh Fermor
 
 ## Winter '21 - x titles (y abandoned), theme: Collective Distr/In/Mis/Re/Action
 
 **yes**: _Collective Action_ (PDF)
 _Consumer Society Reader_
-Sam Bowles text (PDF)
 _The Origins of Totalitarianism_ (hold over)
 _The Great Transformation_ (PDF)
 
+Sam Bowles text (PDF)
 _Dynamics in Action_ Juarrero (PDF)
 _Active Measures_
 _Collapse of Complex Societies_ (hold over, PDF)
