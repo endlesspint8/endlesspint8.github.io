@@ -29,6 +29,22 @@ _American Violence_, Richard Hofstadter
 _Sickness onto Death_
 _Last Works_, Mark C. Taylor
 
+## Speculate This
+
+_American Gods_
+_Ender's Game_
+_The Yiddish Policeman’s Union_
+_The Dispossessed_
+_The Forever War_
+_Ancillary Justice_
+_The Gods Themselves_
+_Rendezvous with Rama_
+_The Left Hand of Darkness_
+_This Is How You Lose the Time War_
+
+https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
+
+
 ## Drinking & Co.
 
 _Everyday Drinking_, Kingsley Amis
