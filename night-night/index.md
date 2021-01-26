@@ -28,6 +28,7 @@ _The Best American Noir of the Century_, James Ellroy
 _American Violence_, Richard Hofstadter
 _Sickness onto Death_
 _Last Works_, Mark C. Taylor
+_The Stoic Challenge_
 
 
 ## Speculate This
@@ -71,6 +72,7 @@ _The Satanic Verses_
 _The Good Soldier Švejk_
 _Democracy Incorporated_
 _Achieving our Country_ (Rorty, PDF)
+_H.L. Mencken_
 
 ## Just Literature
 
@@ -99,14 +101,13 @@ _Thirteen Ways of Looking at a Black Man_
 _Scale_
 _Understanding Media_
 _The Broken Road_, Patrick Leigh Fermor
+_Under the Volcano_
 
 ## Winter '21 - x titles (y abandoned), theme: Collective Distr/In/Mis/Re/Action
 
-**yes**: _Collective Action_ (PDF)
-_Consumer Society Reader_
+**yes**: _Consumer Society Reader_
 _The Origins of Totalitarianism_ (hold over)
 _The Great Transformation_ (PDF)
-
 Sam Bowles text (PDF)
 _Dynamics in Action_ Juarrero (PDF)
 _Active Measures_
@@ -123,12 +124,17 @@ _The Myth of Human Supremacy_
 _Why Place Matters_
 
 
+_The Logic of Collective Action_ (PDF)
+_Tenth of December_, George Saunders
+_Angels in America_, Tony Kushner
+
+
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_The End of Policing_	|	Alex S. Vitale	|	EBOOK	|		|
 |	_Propoganda_	|	Edward Bernays	|	EBOOK	|		|
 |	_Y: The Last Man (2002), Volume 1_	|	Brian K. Vaughan	|	EBOOK	|		|
 |	_Life for Sale_	|	Yukio Mishima	|	EBOOK	|		|
