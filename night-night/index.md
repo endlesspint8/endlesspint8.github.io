@@ -102,31 +102,21 @@ _Scale_
 _Understanding Media_
 _The Broken Road_, Patrick Leigh Fermor
 _Under the Volcano_
+_The Great Transformation_ (PDF)
+Sam Bowles text (PDF)
+_Dynamics in Action_ Juarrero (PDF)
 
 ## Winter '21 - x titles (y abandoned), theme: Collective Distr/In/Mis/Re/Action
 
 **yes**: _Consumer Society Reader_
 _The Origins of Totalitarianism_ (hold over)
-_The Great Transformation_ (PDF)
-Sam Bowles text (PDF)
-_Dynamics in Action_ Juarrero (PDF)
 _Active Measures_
 _Collapse of Complex Societies_ (hold over, PDF)
 
-
-**meh**: _The Evolution of Cooperation_
-_Linked_ 
-_Connected_
-_Social_
-_Behave_
-_The Evolution of Cooperation_
-_The Myth of Human Supremacy_
-_Why Place Matters_
-
+**meh**: _The Evolution of Cooperation_; _Linked_; _Connected_; _Social_; _Behave_; _The Myth of Human Supremacy_; _Why Place Matters_
 
 _The Logic of Collective Action_ (PDF)
-_Tenth of December_, George Saunders
-_Angels in America_, Tony Kushner
+_Beware of Pity_
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -134,6 +124,8 @@ _Angels in America_, Tony Kushner
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|	_Angels in America_	|	Tony Kushner	|	EBOOK	|		|
+|	_Tenth of December_	|	George Saunders	|	EBOOK	|	_The Braindead Megaphone_	|
 |	_The End of Policing_	|	Alex S. Vitale	|	EBOOK	|		|
 |	_Propoganda_	|	Edward Bernays	|	EBOOK	|		|
 |	_Y: The Last Man (2002), Volume 1_	|	Brian K. Vaughan	|	EBOOK	|		|
@@ -327,8 +319,11 @@ _Angels in America_, Tony Kushner
 |	_This Is Marketing_	|	Seth Godin	|	AUDIOBOOK	|	Godin always provides cleary articulated insights. |
 |	_Pale Fire_	|	Vladimir Nabokov	|	EBOOK	|	Well, it's Nabokov and [Time 100 Novels] |
 
+
 ### Slow Down
 ### Themes Not Such a New Thing
+
+## Other Projects
 
 ### Fear is the mind-killer
 
