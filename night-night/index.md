@@ -105,18 +105,16 @@ _Under the Volcano_
 _The Great Transformation_ (PDF)
 Sam Bowles text (PDF)
 _Dynamics in Action_ Juarrero (PDF)
-
-## Winter '21 - x titles (y abandoned), theme: Collective Distr/In/Mis/Re/Action
-
-**yes**: _Consumer Society Reader_
+_Consumer Society Reader_
 _The Origins of Totalitarianism_ (hold over)
-_Active Measures_
 _Collapse of Complex Societies_ (hold over, PDF)
 
-**meh**: _The Evolution of Cooperation_; _Linked_; _Connected_; _Social_; _Behave_; _The Myth of Human Supremacy_; _Why Place Matters_
+## Winter '21 - x titles (1 abandoned), theme: Collective Distr/In/Mis/Re/Action
 
+_Active Measures_
 _The Logic of Collective Action_ (PDF)
-_Beware of Pity_
+_Engine Empire_
+_Rushing to Paradise_ J. G. Ballard
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -124,6 +122,8 @@ _Beware of Pity_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|	_Beware of Pity_	|	Stefan Zweig	|	EBOOK	|		|
 |	_Angels in America_	|	Tony Kushner	|	EBOOK	|		|
 |	_Tenth of December_	|	George Saunders	|	EBOOK	|	_The Braindead Megaphone_	|
 |	_The End of Policing_	|	Alex S. Vitale	|	EBOOK	|		|
