@@ -59,6 +59,7 @@ _Long Day's Journey into Night_, Eugene O'Neill
 _Drunks_, Christopher Finan
 _On Booze_, F. Scott Fitzgerald
 _I Drink Therefore I Am_, Roger Scruton
+_Chasing the Scream_
 
 
 ## Dangerous Ideas
@@ -111,10 +112,7 @@ _Collapse of Complex Societies_ (hold over, PDF)
 
 ## Winter '21 - x titles (1 abandoned), theme: Collective Distr/In/Mis/Re/Action
 
-_Active Measures_
-_The Logic of Collective Action_ (PDF)
-_Engine Empire_
-_Rushing to Paradise_ J. G. Ballard
+_Active Measures_ 
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -122,7 +120,9 @@ _Rushing to Paradise_ J. G. Ballard
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Rushing to Paradise_	|	J. G. Ballard	|	EBOOK	|		|
+|	_Engine Empire_	|	Cathy Park Hong	|	EBOOK	|		|
+|	_The Logic of Collective Action_	|	Mancur Olson	|	PDF	|		|
 |	_Beware of Pity_	|	Stefan Zweig	|	EBOOK	|		|
 |	_Angels in America_	|	Tony Kushner	|	EBOOK	|		|
 |	_Tenth of December_	|	George Saunders	|	EBOOK	|	_The Braindead Megaphone_	|
