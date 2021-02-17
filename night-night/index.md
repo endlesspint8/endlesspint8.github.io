@@ -325,6 +325,12 @@ _Active Measures_
 
 ## Other Projects
 
+Time, energy, opportunities. Couple these with good health and a little spending paper, what else do you need? Love, I guess. But that's another story, another entry. There's an opportunity cost to most things that we often times overlook. I believe this is most times, for most people, something done out of habit. We find a groove and we tend to stick with it as long as it's providing some sort of return. My reading books has been a habit for as long as I can remember. I was thankfully brainwashed into believing it a good use of one's time early on. This love affair with books has been a gift. Yet even the positives in life can be tarnished, or tarnish other activities, if taken too far. 
+
+My becoming more strict about the books I read and putting a little added energy into the endeavor does not come without some drawbacks and risks. For one, I have not done much writing in the past couple of years, a time frame coincidental (?) to my above project. I've also steared away from shorter form media: articles, journals, magazines in general. 
+
+There are various aspects of life that I am interested in and want to pursue, if only in an amateurish way. Getting comfortable with being uncomfortable is part of the growth process. [ramble, ramble] 
+
 ### Fear is the mind-killer
 
 Books are intimidating. They should be intimidating. If you have not been intimidated recently by a text then you have not faced up to, literally brought within inches of your nose, greatness. In an age when we can carry personal libraries in our back pocket that would have been the envy of kings past there's no excuse. Better said, there are only excuses. Let's face up to that. It is part of life, part of being human. To bring it full circle, one of the best resources to help you face life, understand your own (human) being, are books.
