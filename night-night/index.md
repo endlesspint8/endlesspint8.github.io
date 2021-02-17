@@ -120,7 +120,7 @@ _Active Measures_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|	_Rushing to Paradise_	|	J. G. Ballard	|	EBOOK	|		|
+|	_Rushing to Paradise_	|	J. G. Ballard	|	EBOOK	|	Coleridge's _The Rime of the Ancient Mariner_; _The Drought_, _The Drowned World_, & _High-Rise_ 	|
 |	_Engine Empire_	|	Cathy Park Hong	|	EBOOK	|		|
 |	_The Logic of Collective Action_	|	Mancur Olson	|	PDF	|		|
 |	_Beware of Pity_	|	Stefan Zweig	|	EBOOK	|		|
@@ -128,14 +128,14 @@ _Active Measures_
 |	_Tenth of December_	|	George Saunders	|	EBOOK	|	_The Braindead Megaphone_	|
 |	_The End of Policing_	|	Alex S. Vitale	|	EBOOK	|		|
 |	_Propoganda_	|	Edward Bernays	|	EBOOK	|		|
-|	_Y: The Last Man (2002), Volume 1_	|	Brian K. Vaughan	|	EBOOK	|		|
+|	_Y: The Last Man (2002), Volume 1_	|	Brian K. Vaughan	|	EBOOK	|	[Forbidden Planet 50]	|
 |	_Life for Sale_	|	Yukio Mishima	|	EBOOK	|		|
-|	_Merchants of Doubt_	|	Naomi Oreskes	|	EBOOK	|		|
+|	_Merchants of Doubt_	|	Naomi Oreskes	|	EBOOK	|	The title kept popping up in other places, most notably for me in Kolbert's _Field Notes from a Catastrophe_	|
 |	_The Spy Who Came in From the Cold_	|	John Le Carre	|	EBOOK	|	In light of the author's recent passing it seemed as good a time as any to dive in.	|
 |	_The Rock_	|	Wallace Stevens	|	EBOOK	|		|
 |	_Serotonin_	|	Michel Houellebecq	|	EBOOK	|		|
 |	_Strangers in Their Own Land_	|	Arlie Russell Hochschild	|	EBOOK	|		|
-|	_Concrete_	|	Thomas Bernhard	|	EBOOK	|		|
+|	_Concrete_	|	Thomas Bernhard	|	EBOOK	|	Knausgaard's mention of the author's work in _My Struggle: Book 1_	|
 |	_The Uninhabitable Earth_	|	David Wallace-Wells	|	EBOOK	|		|
 |	~~_The Forgotten Man_~~	|	~~Amity Shlaes~~	|	~~AUDIOBOOK~~	|	Oh how I tried... but this was a dud. What a way to kick off the new season. |
 
@@ -179,7 +179,7 @@ _Active Measures_
 |	_The Transcendence of the Ego_	|	Jean-Paul Sartre	|	PRINT	|	_No Exit_, _Nausea_, _The Wall_, and I believe this title based on the marginalia. |
 |	_How to Change Your Mind_	|	Michael Pollan	|	AUDIOBOOK	|		|
 |	_The Idea of Phenomenology_	|	Edmund Husserl	|	PRINT	|		|
-|	_The Sea, The Sea_	|	Iris Murdoch	|	EBOOK	|		|
+|	_The Sea, The Sea_	|	Iris Murdoch	|	EBOOK	|	_Under the Net_	|
 |	_Animal Liberation_	|	Peter Singer	|	EBOOK	|		|
 |	_Lucid Dreaming_	|	Robert Waggoner	|	PRINT	|	Perennially curious on the topic, so why not?	|
 |	_The Map and the Territory_	|	Michel Houellebecq	|	EBOOK	|		|
