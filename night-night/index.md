@@ -119,7 +119,7 @@ _Active Measures_
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Glengarry Glen Ross_	|	David Mamet	|	EBOOK	|	_Speed the Plow_; [the movie (1992)](https://www.imdb.com/video/vi1890189593?playlistId=tt0104348&ref_=tt_ov_vi) with Pacino as Roma and Lemon as Levene, [the 2012 Broadway revival](https://www.playbill.com/video/highlights-from-glengarry-glen-ross-starring-al-pacino-com-224213) with Cannavale as Roma and Pacino as Levene	|
 |	_Rushing to Paradise_	|	J. G. Ballard	|	EBOOK	|	Coleridge's _The Rime of the Ancient Mariner_; _The Drought_, _The Drowned World_, & _High-Rise_ 	|
 |	_Engine Empire_	|	Cathy Park Hong	|	EBOOK	|		|
 |	_The Logic of Collective Action_	|	Mancur Olson	|	PDF	|		|
