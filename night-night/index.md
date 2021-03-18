@@ -31,26 +31,6 @@ _Last Works_, Mark C. Taylor
 _The Stoic Challenge_
 
 
-## Speculate This
-
-**honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; Hitchhikers Guide series; Narnia series_
-
-_American Gods_
-_Ender's Game_
-_The Yiddish Policeman’s Union_
-_The Dispossessed_
-_The Forever War_
-_Ancillary Justice_
-_The Gods Themselves_
-_Rendezvous with Rama_
-_The Left Hand of Darkness_
-_This Is How You Lose the Time War_
-_Oryx and Crake_
-_The Fifth Season_
-
-https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
-
-
 ## Drinking & Co.
 
 _Everyday Drinking_, Kingsley Amis
@@ -92,6 +72,25 @@ _Heuristic Reasoning_ (pdf)
 a negotiating title
 _Gut Feelings_
 
+## Speculate This
+
+**honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; Hitchhikers Guide series; Narnia series_
+
+_American Gods_
+_Ender's Game_
+_The Yiddish Policeman’s Union_
+_The Dispossessed_
+_The Forever War_
+_Ancillary Justice_
+_The Gods Themselves_
+_Rendezvous with Rama_
+_The Left Hand of Darkness_
+_This Is How You Lose the Time War_
+_Oryx and Crake_
+_The Fifth Season_
+
+https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
+
 
 ## Sabatical
 
@@ -110,15 +109,21 @@ _Consumer Society Reader_
 _The Origins of Totalitarianism_ (hold over)
 _Collapse of Complex Societies_ (hold over, PDF)
 
-## Winter '21 - x titles (1 abandoned), theme: Collective Distr/In/Mis/Re/Action
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|		|		|		|		|
+|		|		|		|		|
+
+## Winter '21 - 24 titles (1 abandoned), theme: Collective Distr/In/Mis/Re/Action
 
 _Active Measures_ 
 
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
-|		|		|		|		|
+|	_Flights_	|	Olga Tokarczuk	|	EBOOK	|		|
+|	_Moral Man and Immoral Society_	|	Reinhold Niebuhr	|	EBOOK	|		|
+|	_Essentials of Supply Chain Management_	|	Michael Hugos	|	PRINT	|		|
 |	_Omon Ra_	|	Victor Pelevin  (trans Andrew Bromfield)	|	EBOOK	|		|
 |	_The Sandman (1989), Volume 2_	|	Neil Gaiman	|	EBOOK	|	_The Sandman (1989), Volume 1_ & [Forbidden Planet 50]	|
 |	_Active Measures_	|	Thomas Rid	|	EBOOK	|		|
