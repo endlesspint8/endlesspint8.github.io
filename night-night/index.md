@@ -88,6 +88,9 @@ _The Left Hand of Darkness_
 _This Is How You Lose the Time War_
 _Oryx and Crake_
 _The Fifth Season_
+_The Buried Giant_ Kazuo Ishiguro
+_The Color of Magic_ Terry Pratchett
+_The City & the City_ China Miéville
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
@@ -109,10 +112,19 @@ _Consumer Society Reader_
 _The Origins of Totalitarianism_ (hold over)
 _Collapse of Complex Societies_ (hold over, PDF)
 
+
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_The New Great Depression_	|	James Rickards	|	EBOOK	|	A bunch of his other books I've read.	|
 
 ## Winter '21 - 24 titles (1 abandoned), theme: Collective Distr/In/Mis/Re/Action
 
