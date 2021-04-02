@@ -4,12 +4,8 @@ title: Night Night
 subtitle: Out, out, brief candle - the last 1,001 titles
 ---
 
-poems 
-essays
-short stories
-graphic novel
-plays
-one of six topics
+
+
 
 Completed to date: 9.9%
 
@@ -99,11 +95,8 @@ https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-
 
 _Brilliant Orange_
 _The Alteration_
-_A World Without Why_
-_Thirteen Ways of Looking at a Black Man_
 _Scale_
 _Understanding Media_
-_The Broken Road_, Patrick Leigh Fermor
 _Under the Volcano_
 _The Great Transformation_ (PDF)
 Sam Bowles text (PDF)
@@ -111,6 +104,11 @@ _Dynamics in Action_ Juarrero (PDF)
 _Consumer Society Reader_
 _The Origins of Totalitarianism_ (hold over)
 _Collapse of Complex Societies_ (hold over, PDF)
+
+_The Broken Road_, Patrick Leigh Fermor
+_A World Without Why_
+_Thirteen Ways of Looking at a Black Man_
+
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -123,7 +121,7 @@ _Collapse of Complex Societies_ (hold over, PDF)
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Sweat_	|	Lynn Nottage	|	EBOOK	|		|
 |	_The New Great Depression_	|	James Rickards	|	EBOOK	|	A bunch of his other books I've read.	|
 
 ## Winter '21 - 24 titles (1 abandoned), theme: Collective Distr/In/Mis/Re/Action
@@ -343,7 +341,13 @@ _Active Measures_
 ### Slow Down
 ### Themes Not Such a New Thing
 
-## Other Projects
+### Three Lanes
+
+* poems, plays & pictures
+* expository & essays
+* fiction, long & short
+
+### Other Projects
 
 Time, energy, opportunities. Couple these with good health and a little spending paper, what else do you need? Love, I guess. But that's another story, another entry. There's an opportunity cost to most things that we often times overlook. I believe this is most times, for most people, something done out of habit. We find a groove and we tend to stick with it as long as it's providing some sort of return. My reading books has been a habit for as long as I can remember. I was thankfully brainwashed into believing it a good use of one's time early on. This love affair with books has been a gift. Yet even the positives in life can be tarnished, or tarnish other activities, if taken too far. 
 
