@@ -91,7 +91,7 @@ _The City & the City_ China Miéville
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
 
-## Sabatical
+## Spring '21 - x titles (y abandoned), theme: no-theme, sabatical season
 
 _Brilliant Orange_
 _The Alteration_
@@ -108,6 +108,7 @@ _Collapse of Complex Societies_ (hold over, PDF)
 _The Broken Road_, Patrick Leigh Fermor
 _A World Without Why_
 _Thirteen Ways of Looking at a Black Man_
+		
 
 
 
@@ -120,7 +121,7 @@ _Thirteen Ways of Looking at a Black Man_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Heretics of Dune_	|	Frank Herbert	|	PRINT	|	The penultimate. Can't stop now.	|
 |	_Sweat_	|	Lynn Nottage	|	EBOOK	|		|
 |	_The New Great Depression_	|	James Rickards	|	EBOOK	|	A bunch of his other books I've read.	|
 
