@@ -67,6 +67,9 @@ _Simple Rules_
 _Heuristic Reasoning_ (pdf)
 a negotiating title
 _Gut Feelings_
+_Superforecasting_
+_How to Decide_
+_The Alteration_
 
 ## Speculate This
 
@@ -94,7 +97,7 @@ https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-
 ## Spring '21 - x titles (y abandoned), theme: no-theme, sabatical season
 
 _Brilliant Orange_
-_The Alteration_
+
 _Scale_
 _Understanding Media_
 _Under the Volcano_
@@ -120,7 +123,7 @@ _Thirteen Ways of Looking at a Black Man_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Air-Conditioned Nightmare_	|	Henry Miller	|	EBOOK	|	_The Colossus of Maroussi_ & _Tropic of Cancer_	|
 |	_Heretics of Dune_	|	Frank Herbert	|	PRINT	|	The penultimate. Can't stop now.	|
 |	_Sweat_	|	Lynn Nottage	|	EBOOK	|		|
 |	_The New Great Depression_	|	James Rickards	|	EBOOK	|	A bunch of his other books I've read.	|
