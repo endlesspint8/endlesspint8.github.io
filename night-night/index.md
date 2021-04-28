@@ -25,6 +25,7 @@ _American Violence_, Richard Hofstadter
 _Sickness onto Death_
 _Last Works_, Mark C. Taylor
 _The Stoic Challenge_
+_Intoxicated by My Illness_, Anatole Broyard
 
 
 ## Drinking & Co.
@@ -110,8 +111,10 @@ _Collapse of Complex Societies_ (hold over, PDF)
 
 _The Broken Road_, Patrick Leigh Fermor
 _A World Without Why_
-_Thirteen Ways of Looking at a Black Man_
-		
+
+Refusing Heaven by Jack Gilbert
+
+The Paper Menagerie and Other Stories by Ken Liu
 
 
 
@@ -123,6 +126,10 @@ _Thirteen Ways of Looking at a Black Man_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|	_Thirteen Ways of Looking at a Black Man_	|	Henry Louis Gates, Jr.	|	EBOOK	|	[Flavorwire 25 Greatest Essay Collections], almost done with list	|
+|	_The Underground Railroad_	|	Colson Whitehead	|	EBOOK	|		|
+|	_Minor Feelings_	|	Cathy Park Hong	|	EBOOK	|	_Engine Empire_	|
+|	_The Sandman (1989), Volume 3 - Dream Country_	|	Neil Gaiman	|	EBOOK	|		|
 |	_The Air-Conditioned Nightmare_	|	Henry Miller	|	EBOOK	|	_The Colossus of Maroussi_ & _Tropic of Cancer_	|
 |	_Heretics of Dune_	|	Frank Herbert	|	PRINT	|	The penultimate. Can't stop now.	|
 |	_Sweat_	|	Lynn Nottage	|	EBOOK	|		|
@@ -139,7 +146,7 @@ _Active Measures_
 |	_Moral Man and Immoral Society_	|	Reinhold Niebuhr	|	EBOOK	|		|
 |	_Essentials of Supply Chain Management_	|	Michael Hugos	|	PRINT	|		|
 |	_Omon Ra_	|	Victor Pelevin  (trans Andrew Bromfield)	|	EBOOK	|		|
-|	_The Sandman (1989), Volume 2_	|	Neil Gaiman	|	EBOOK	|	_The Sandman (1989), Volume 1_ & [Forbidden Planet 50]	|
+|	_The Sandman (1989), Volume 2 - The Doll's House_	|	Neil Gaiman	|	EBOOK	|	_The Sandman (1989), Volume 1_ & [Forbidden Planet 50]	|
 |	_Active Measures_	|	Thomas Rid	|	EBOOK	|		|
 |	_Glengarry Glen Ross_	|	David Mamet	|	EBOOK	|	_Speed the Plow_; [the movie (1992)](https://www.imdb.com/video/vi1890189593?playlistId=tt0104348&ref_=tt_ov_vi) with Pacino as Roma and Lemon as Levene, [the 2012 Broadway revival](https://www.playbill.com/video/highlights-from-glengarry-glen-ross-starring-al-pacino-com-224213) with Cannavale as Roma and Pacino as Levene	|
 |	_Rushing to Paradise_	|	J. G. Ballard	|	EBOOK	|	Coleridge's _The Rime of the Ancient Mariner_; _The Drought_, _The Drowned World_, & _High-Rise_ 	|
@@ -334,7 +341,7 @@ _Active Measures_
 |	_DUNE_	|	Frank Herbert	|	EBOOK	|	Been curious about this title for years. Even had it as a hold for 12+ months at library. Seeing that a new film version was scheduled for the following year was the final straw in my taking the dive. I was blown away. 	|
 |	_Pretending Is Lying_	|	Dominique Goblet	|	EBOOK	|	Always on the lookout for a solid graphic novel. Her portrayal of her father and his temper. Her portrayal of her lover and the presence of his ex were brilliant.	|
 |	_Tragedy, the Greeks, and Us_	|	Simon Critchley	|	EBOOK	|	Heard author interview and found his presentation engaging. The book was even better (e.g., Tragedy's philosophy v Philosophy's tragedy).	|
-|	_The Sandman (1989), Volume 1_	|	Neil Gaiman	|	EBOOK	|	[Forbidden Planet 50]	|
+|	_The Sandman (1989), Volume 1 - Preludes & Nocturnes_	|	Neil Gaiman	|	EBOOK	|	[Forbidden Planet 50]	|
 |	_A Streetcar Named Desire_	|	Tennessee Williams	|	EBOOK	|	Great theatre; no further explanation needed. 	|
 |	_The World in a Grain_	|	Vince Beiser	|	AUDIOBOOK	|	Heard author on podcast and found the idea of the world running out of sand both fascinating and frightening.	|
 |	_Prisoners of Geography_	|	Tim Marshall	|	AUDIOBOOK	|	A sucker for geopolitical angles.	|
