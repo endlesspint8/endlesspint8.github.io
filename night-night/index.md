@@ -135,6 +135,20 @@ The Paper Menagerie and Other Stories by Ken Liu
 |	_Sweat_	|	Lynn Nottage	|	EBOOK	|		|
 |	_The New Great Depression_	|	James Rickards	|	EBOOK	|	A bunch of his other books I've read.	|
 
+---
+
+### Triple Five Roll  #3 (last four quarters)
+
+|	Best Fiction-ish	|	Most Entertaining	| Think on It |
+|	---	|	---	|	---	|
+| _Beware of Pity_, Stefan Zweig | _Great Apes_, Will Self | _Against the Grain_, James C. Scott |
+| _Engine Empire_, Cathy Park Hong  | _Life for Sale_, Yukio Mishima | _Dark Money_,	Jane Mayer |
+| _Flights_, Olga Tokarczuk  | _Love in the Ruins_, Walker Percy | _The Drought_,	J. G. Ballard |
+| _Serotonin_, Michel Houellebecq | _The Map and the Territory_, Michel Houellebecq | _Moral Man and Immoral Society_, Reinhold Niebuhr |
+| _Tenth of December_, George Saunders | _Under the Net_,	Iris Murdoch | _The Uninhabitable Earth_, David Wallace-Wells |
+
+**honorable mention:** _alphabet; Hateship, Friendship...; The Great Leveler_
+
 ## Winter '21 - 24 titles (1 abandoned), theme: Collective Distr/In/Mis/Re/Action
 
 _Active Measures_ 
