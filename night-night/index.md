@@ -98,23 +98,21 @@ https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-
 ## Spring '21 - x titles (y abandoned), theme: no-theme, sabatical season
 
 _Brilliant Orange_
-
 _Scale_
 _Understanding Media_
-_Under the Volcano_
-_The Great Transformation_ (PDF)
 Sam Bowles text (PDF)
 _Dynamics in Action_ Juarrero (PDF)
 _Consumer Society Reader_
 _The Origins of Totalitarianism_ (hold over)
 _Collapse of Complex Societies_ (hold over, PDF)
 
-_The Broken Road_, Patrick Leigh Fermor
+
+_Under the Volcano_
 _A World Without Why_
-
+_The Great Transformation_
 Refusing Heaven by Jack Gilbert
+_The Broken Road_, Patrick Leigh Fermor
 
-The Paper Menagerie and Other Stories by Ken Liu
 
 
 
@@ -125,7 +123,7 @@ The Paper Menagerie and Other Stories by Ken Liu
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Paper Menagerie and Other Stories_	|	Ken Liu	|	EBOOK	|	Indirectly, his translation of Cixin Liu's _The Three-Body Problem_ 	|
 |	_Thirteen Ways of Looking at a Black Man_	|	Henry Louis Gates, Jr.	|	EBOOK	|	[Flavorwire 25 Greatest Essay Collections], almost done with list	|
 |	_The Underground Railroad_	|	Colson Whitehead	|	EBOOK	|		|
 |	_Minor Feelings_	|	Cathy Park Hong	|	EBOOK	|	_Engine Empire_	|
