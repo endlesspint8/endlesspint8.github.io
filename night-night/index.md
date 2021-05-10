@@ -91,6 +91,7 @@ _The Fifth Season_
 _The Buried Giant_ Kazuo Ishiguro
 _The Color of Magic_ Terry Pratchett
 _The City & the City_ China Miéville
+_The Posthumous Memoirs of Brás Cubas_
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
@@ -110,8 +111,9 @@ _Collapse of Complex Societies_ (hold over, PDF)
 _Under the Volcano_
 _A World Without Why_
 _The Great Transformation_
-Refusing Heaven by Jack Gilbert
+_Refusing Heaven_ Jack Gilbert
 _The Broken Road_, Patrick Leigh Fermor
+_Pnin_
 
 
 
