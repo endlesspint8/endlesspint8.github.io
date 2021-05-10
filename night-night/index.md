@@ -71,6 +71,7 @@ _Gut Feelings_
 _Superforecasting_
 _How to Decide_
 _The Alteration_
+_Framers_
 
 ## Speculate This
 
