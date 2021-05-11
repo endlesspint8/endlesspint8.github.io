@@ -70,8 +70,8 @@ a negotiating title
 _Gut Feelings_
 _Superforecasting_
 _How to Decide_
-_The Alteration_
 _Framers_
+_Dynamics in Action_ Juarrero (PDF)
 
 ## Speculate This
 
@@ -93,6 +93,7 @@ _The Buried Giant_ Kazuo Ishiguro
 _The Color of Magic_ Terry Pratchett
 _The City & the City_ China Miéville
 _The Posthumous Memoirs of Brás Cubas_
+_The Alteration_
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
@@ -103,20 +104,16 @@ _Brilliant Orange_
 _Scale_
 _Understanding Media_
 Sam Bowles text (PDF)
-_Dynamics in Action_ Juarrero (PDF)
+
 _Consumer Society Reader_
 _The Origins of Totalitarianism_ (hold over)
 _Collapse of Complex Societies_ (hold over, PDF)
 
-
 _Under the Volcano_
 _A World Without Why_
 _The Great Transformation_
-_Refusing Heaven_ Jack Gilbert
 _The Broken Road_, Patrick Leigh Fermor
 _Pnin_
-
-
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -125,7 +122,7 @@ _Pnin_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Refusing Heaven_	|	Jack Gilbert	|	EBOOK	|		|
 |	_The Paper Menagerie and Other Stories_	|	Ken Liu	|	EBOOK	|	Indirectly, his translation of Cixin Liu's _The Three-Body Problem_ 	|
 |	_Thirteen Ways of Looking at a Black Man_	|	Henry Louis Gates, Jr.	|	EBOOK	|	[Flavorwire 25 Greatest Essay Collections], almost done with list	|
 |	_The Underground Railroad_	|	Colson Whitehead	|	EBOOK	|		|
