@@ -28,10 +28,28 @@ _The Stoic Challenge_
 _Intoxicated by My Illness_, Anatole Broyard
 
 
-## Carpathians & Balkans
+## Eastern Europe!
 
 _Eastern Europe!_
 _The Balkan Wars_
+_Iron Curtain_ Anne Applebaum
+_Bloodlands_ Timothy Snyder
+_My Century_ Aleksander Wat
+_The Fault Line_ Paolo Rumiz
+_The Good Soldier Švejk_
+
+
+## I am serious and don't call me Shirley
+
+**honorable mention:** _Catch-22_; _The Master and Margarita_;
+
+_The House of God_ Samuel Shem, M.D.
+_Look Who's Back_ Timur Vermes
+_The Sympathizer_ Viet Thanh Nguyen
+_The Zone_ Sergei Dovlatov
+_Her Body and Other Parties_ Carmen Maria Machado
+_Diary of an Oxygen Thief_ Anonymous
+_Boomsday_ Christopher Buckley
 
 
 ## Drinking & Co.
@@ -53,7 +71,6 @@ _A Room of One's Own_
 _Emma Goldman_
 _WEB Du Bois_
 _The Satanic Verses_
-_The Good Soldier Švejk_
 _Democracy Incorporated_
 _Achieving our Country_ (Rorty, PDF)
 _H.L. Mencken_
@@ -101,6 +118,7 @@ _The Color of Magic_ Terry Pratchett
 _The City & the City_ China Miéville
 _The Posthumous Memoirs of Brás Cubas_
 _The Alteration_
+_Frankenstein_
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
