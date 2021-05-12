@@ -28,6 +28,12 @@ _The Stoic Challenge_
 _Intoxicated by My Illness_, Anatole Broyard
 
 
+## Carpathians & Balkans
+
+_Eastern Europe!_
+_The Balkan Wars_
+
+
 ## Drinking & Co.
 
 _Everyday Drinking_, Kingsley Amis
@@ -72,6 +78,7 @@ _Superforecasting_
 _How to Decide_
 _Framers_
 _Dynamics in Action_ Juarrero (PDF)
+_If Then_ Jill Lepore
 
 ## Speculate This
 
