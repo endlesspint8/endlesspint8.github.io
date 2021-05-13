@@ -44,7 +44,7 @@ _An Untouched House_ Willem Frederik Hermans
 
 ## Between the Woods and the Water
 
-**honorable mention:** _The Broken Road_; _Flights_; _The Fox Was Ever the Hunter_; _The Futurological Congress_; _The Master and Margarita_; _The Trial_; _The Unbearable Lightness of Being_; 
+**honorable mention:** _The Broken Road_; _Flights_; _The Fox Was Ever the Hunter_; _The Futurological Congress_; _The Master and Margarita_; _Rhinoceros_; _The Trial_; _The Unbearable Lightness of Being_; 
 
 **wish list:** _Ashes and Diamonds_; _The Good Life Elsewhere_; 
 
@@ -71,9 +71,9 @@ LT: _Vilnius Poker_ Ricardas Gavelis
 
 PL: Stanislaw Lem (e.g., _One Human Minute_); _The Painted Bird_ Jerzy Kosinski; _The Mountains of Parnassus_ Czesław Miłosz
 
-RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
+RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_; _Diary of a Short-Sighted Adolescent_ Mircea Eliade
 
-RU: _One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE); _Secondhand Time_ Svetlana Alexievich
+RU: _One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE); _Secondhand Time_ Svetlana Alexievich; _The Gambler_ Fyodor Dostoyevsky
 
 
 ## I am serious and don't call me Shirley
