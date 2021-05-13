@@ -57,12 +57,17 @@ Stanislaw Lem (e.g., _One Human Minute_)
 _Waiting for the Dark, Waiting for the Light_
 _The Physics of Sorrow_
 _Blinding_ Mircea Cartarescu
-Bohumil Hrabal
+_Dancing Lessons for the Advanced in Age_ Bohumil Hrabal
 _Train to Trieste_
 _Secondhand Time_
 _The Painted Bird_ Jerzy Kosinski
 _Messages from a Lost World_, Stefan Zweig
 _The Mountains of Parnassus_
+_The Traitor's Niche_ Ismail Kadare
+_18% Gray_ Zachary Karabashliev
+_Vilnius Poker_ Ricardas Gavelis
+_No-Signal Area_ Robert Perisic
+_Cyclops_ Ranko Marinkovic
 
 
 ## I am serious and don't call me Shirley
