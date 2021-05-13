@@ -35,7 +35,12 @@ _The Wanderers_ Richard Price
 _Kafka Was the Rage_ Anatole Broyard
 
 
+## Going Dutch
 
+_Brilliant Orange_ David Winner
+_Going Dutch_
+_Embarrassment of Riches_
+_An Untouched House_ Willem Frederik Hermans
 
 ## Between the Woods and the Water
 
@@ -48,7 +53,7 @@ _Bloodlands_ Timothy Snyder
 _My Century_ Aleksander Wat
 _The Fault Line_ Paolo Rumiz
 _The Good Soldier Švejk_
-Stanislaw Lem
+Stanislaw Lem (e.g., _One Human Minute_)
 _Waiting for the Dark, Waiting for the Light_
 _The Physics of Sorrow_
 _Blinding_ Mircea Cartarescu
@@ -56,6 +61,8 @@ Bohumil Hrabal
 _Train to Trieste_
 _Secondhand Time_
 _The Painted Bird_ Jerzy Kosinski
+_Messages from a Lost World_, Stefan Zweig
+_The Mountains of Parnassus_
 
 
 ## I am serious and don't call me Shirley
@@ -93,6 +100,7 @@ _The Satanic Verses_
 _Democracy Incorporated_
 _Achieving our Country_ (Rorty, PDF)
 _H.L. Mencken_
+_Creating Freedom_ Raoul Martinez
 
 ## Just Literature
 
@@ -115,6 +123,9 @@ _How to Decide_
 _Framers_
 _Dynamics in Action_ Juarrero (PDF)
 _If Then_ Jill Lepore
+_The Mating Mind_ Geoffrey Miller
+_Capitalism, Socialism, Ecology_ Andre Gorz
+_The Pleasure Trap_ Douglas J. Lisle, Ph.D.
 
 ## Speculate This
 
@@ -139,6 +150,7 @@ _The Posthumous Memoirs of Brás Cubas_
 _The Alteration_
 _Frankenstein_
 Stanislaw Lem
+_Natural-Born Cyborgs_ Andy Clark
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
