@@ -26,9 +26,20 @@ _Sickness onto Death_
 _Last Works_, Mark C. Taylor
 _The Stoic Challenge_
 _Intoxicated by My Illness_, Anatole Broyard
+_Cancer Ward_ by Aleksandr Solzhenitsyn
 
 
-## Eastern Europe!
+## The Rotten Apple
+
+_The Wanderers_ Richard Price
+_Kafka Was the Rage_ Anatole Broyard
+
+
+
+
+## Between the Woods and the Water
+
+**honorable mention:** _The Broken Road_; _Flights_; _The Fox Was Ever the Hunter_; _The Futurological Congress_; _The Master and Margarita_; _The Trial_; _The Unbearable Lightness of Being_; 
 
 _Eastern Europe!_
 _The Balkan Wars_
@@ -37,6 +48,14 @@ _Bloodlands_ Timothy Snyder
 _My Century_ Aleksander Wat
 _The Fault Line_ Paolo Rumiz
 _The Good Soldier Švejk_
+Stanislaw Lem
+_Waiting for the Dark, Waiting for the Light_
+_The Physics of Sorrow_
+_Blinding_ Mircea Cartarescu
+Bohumil Hrabal
+_Train to Trieste_
+_Secondhand Time_
+_The Painted Bird_ Jerzy Kosinski
 
 
 ## I am serious and don't call me Shirley
@@ -119,6 +138,7 @@ _The City & the City_ China Miéville
 _The Posthumous Memoirs of Brás Cubas_
 _The Alteration_
 _Frankenstein_
+Stanislaw Lem
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
