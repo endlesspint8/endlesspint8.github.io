@@ -44,7 +44,7 @@ _An Untouched House_ Willem Frederik Hermans
 
 ## Between the Woods and the Water
 
-**honorable mention:** _The Broken Road_; _Flights_; _The Fox Was Ever the Hunter_; _The Futurological Congress_; _The Master and Margarita_; _Rhinoceros_; _The Trial_; _The Unbearable Lightness of Being_; 
+**honorable mention:** _The Book of My Lives_; _The Broken Road_; _Flights_; _The Fox Was Ever the Hunter_; _The Futurological Congress_; _The Master and Margarita_; _Rhinoceros_; _The Trial_; _The Unbearable Lightness of Being_; 
 
 **wish list:** _Ashes and Diamonds_; _The Good Life Elsewhere_; 
 
@@ -58,6 +58,8 @@ _The Fault Line_ Paolo Rumiz
 AL: _The Traitor's Niche_ Ismail Kadare
 
 AT-HU: _Messages from a Lost World_ Stefan Zweig
+
+BA: _Nowhere Man_ Aleksandar Hemon
 
 BG: _The Physics of Sorrow_ Georgi Gospodinov; _18% Gray_ Zachary Karabashliev
 
