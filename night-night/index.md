@@ -71,7 +71,7 @@ LT: _Vilnius Poker_ Ricardas Gavelis
 
 PL: Stanislaw Lem (e.g., _One Human Minute_); _The Painted Bird_ Jerzy Kosinski; _The Mountains of Parnassus_ Czesław Miłosz
 
-RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_; _Diary of a Short-Sighted Adolescent_ Mircea Eliade
+RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea Eliade; _Adventures In Immediate Irreality_ Max Blecher; _Train to Trieste_
 
 RU: _One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE); _Secondhand Time_ Svetlana Alexievich; _The Gambler_ Fyodor Dostoyevsky
 
