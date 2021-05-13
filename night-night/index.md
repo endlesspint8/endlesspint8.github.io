@@ -46,28 +46,34 @@ _An Untouched House_ Willem Frederik Hermans
 
 **honorable mention:** _The Broken Road_; _Flights_; _The Fox Was Ever the Hunter_; _The Futurological Congress_; _The Master and Margarita_; _The Trial_; _The Unbearable Lightness of Being_; 
 
+**wish list:** _Ashes and Diamonds_; _The Good Life Elsewhere_; 
+
 _Eastern Europe!_
 _The Balkan Wars_
 _Iron Curtain_ Anne Applebaum
 _Bloodlands_ Timothy Snyder
 _My Century_ Aleksander Wat
 _The Fault Line_ Paolo Rumiz
-_The Good Soldier Švejk_
-Stanislaw Lem (e.g., _One Human Minute_)
-_Waiting for the Dark, Waiting for the Light_
-_The Physics of Sorrow_
-_Blinding_ Mircea Cartarescu
-_Dancing Lessons for the Advanced in Age_ Bohumil Hrabal
-_Train to Trieste_
-_Secondhand Time_
-_The Painted Bird_ Jerzy Kosinski
-_Messages from a Lost World_, Stefan Zweig
-_The Mountains of Parnassus_
-_The Traitor's Niche_ Ismail Kadare
-_18% Gray_ Zachary Karabashliev
-_Vilnius Poker_ Ricardas Gavelis
-_No-Signal Area_ Robert Perisic
-_Cyclops_ Ranko Marinkovic
+
+AL: _The Traitor's Niche_ Ismail Kadare
+
+AT-HU: _Messages from a Lost World_ Stefan Zweig
+
+BG: _The Physics of Sorrow_ Georgi Gospodinov; _18% Gray_ Zachary Karabashliev
+
+CZ: _The Good Soldier Švejk_; _Waiting for the Dark, Waiting for the Light_ Ivan Klíma; _Dancing Lessons for the Advanced in Age_ Bohumil Hrabal
+
+HU: _Embers_ Sandor Marai; _Cyclops_ Ranko Marinkovic
+
+HR: _No-Signal Area_ Robert Perisic
+
+LT: _Vilnius Poker_ Ricardas Gavelis
+
+PL: Stanislaw Lem (e.g., _One Human Minute_); _The Painted Bird_ Jerzy Kosinski; _The Mountains of Parnassus_ Czesław Miłosz
+
+RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
+
+RU: _One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE); _Secondhand Time_ Svetlana Alexievich
 
 
 ## I am serious and don't call me Shirley
