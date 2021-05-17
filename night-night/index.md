@@ -88,7 +88,8 @@ _The Sympathizer_ Viet Thanh Nguyen
 _The Zone_ Sergei Dovlatov
 _Her Body and Other Parties_ Carmen Maria Machado
 _Diary of an Oxygen Thief_ Anonymous
-_Boomsday_ Christopher Buckley
+_Boomsday_ Christopher Buckle
+_Don Juan_ Lord Byron
 
 
 ## Drinking & Co.
@@ -108,14 +109,17 @@ _Chasing the Scream_
 
 _A Room of One's Own_
 _Emma Goldman_
+_Rosa Luxemburg_
 _WEB Du Bois_
 _The Satanic Verses_
 _Democracy Incorporated_
 _Achieving our Country_ (Rorty, PDF)
 _H.L. Mencken_
 _Creating Freedom_ Raoul Martinez
+_The Deficit Myth_
 
-## Just Literature
+
+## Top Shelf Literature
 
 _Don Quixote_
 _Moby Dick_
@@ -142,7 +146,7 @@ _The Pleasure Trap_ Douglas J. Lisle, Ph.D.
 
 ## Speculate This
 
-**honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; Hitchhikers Guide series; Narnia series_
+**honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; Hitchhikers Guide series; Narnia series; W. Gibson; N. Stephenson_
 
 _American Gods_
 _Ender's Game_
@@ -164,6 +168,8 @@ _The Alteration_
 _Frankenstein_
 Stanislaw Lem
 _Natural-Born Cyborgs_ Andy Clark
+_Evolution in Four Dimensions_
+_Cryptonomicon_ Neal Stephenson
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
@@ -186,12 +192,13 @@ _The Broken Road_, Patrick Leigh Fermor
 _Pnin_
 
 
+
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Cat on a Hot Tin Roof_	|	Tennessee Williams	|	EBOOK	|		|
 |	_Refusing Heaven_	|	Jack Gilbert	|	EBOOK	|		|
 |	_The Paper Menagerie and Other Stories_	|	Ken Liu	|	EBOOK	|	Indirectly, his translation of Cixin Liu's _The Three-Body Problem_ 	|
 |	_Thirteen Ways of Looking at a Black Man_	|	Henry Louis Gates, Jr.	|	EBOOK	|	[Flavorwire 25 Greatest Essay Collections], almost done with list	|
