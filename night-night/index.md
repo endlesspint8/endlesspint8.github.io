@@ -147,7 +147,7 @@ _The Pleasure Trap_ Douglas J. Lisle, Ph.D.
 
 ## On the Road
 
-**honorable mention:** _Fear and Loathing in Las Vegas_; _In Patagonia_; _On the Road_; PLF's Journey Across Europe trilogy; _Travel's with Charlie_
+**honorable mention:** _Adrift_; _The Art of Travel_; _Blue Highways_; _The Colossus of Maroussi_; _Fear and Loathing in Las Vegas_; _The Hitchhiker's Guide to the Galaxy_ (series); _Jupiter's Travels_; _The Long Way Round_; _In Patagonia_; _Into the Wild_; _The Motorcycle Diaries_; _On the Road_; PLF's Journey Across Europe trilogy; _Sex Lives Of Cannibals_; _Shantaram_; _Travel's with Charlie_; _Vagabonding_; _A Walk in the Woods_
 
 _The Road to Oxiana_ Robert Byron [PLF]
 
