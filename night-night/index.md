@@ -144,9 +144,18 @@ _The Mating Mind_ Geoffrey Miller
 _Capitalism, Socialism, Ecology_ Andre Gorz
 _The Pleasure Trap_ Douglas J. Lisle, Ph.D.
 
+
+## On the Road
+
+**honorable mention:** _Fear and Loathing in Las Vegas_; _In Patagonia_; _On the Road_; PLF's Journey Across Europe trilogy; _Travel's with Charlie_
+
+_The Road to Oxiana_ Robert Byron [PLF]
+
+
+
 ## Speculate This
 
-**honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; Hitchhikers Guide series; Narnia series; W. Gibson; N. Stephenson_
+**honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; Hitchhikers Guide series; Narnia series; D. Adams; W. Gibson; N. Stephenson_
 
 _American Gods_
 _Ender's Game_
@@ -187,8 +196,9 @@ _Collapse of Complex Societies_ (hold over, PDF)
 
 _Under the Volcano_
 _A World Without Why_
+
+
 _The Great Transformation_
-_The Broken Road_, Patrick Leigh Fermor
 _Pnin_
 
 
@@ -198,6 +208,10 @@ _Pnin_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_The Broken Road_	|	Patrick Leigh Fermor	|	EBOOK	|	_A Time of Gifts_ and _Between the Woods and the Water_	|
 |	_Cat on a Hot Tin Roof_	|	Tennessee Williams	|	EBOOK	|		|
 |	_Refusing Heaven_	|	Jack Gilbert	|	EBOOK	|		|
 |	_The Paper Menagerie and Other Stories_	|	Ken Liu	|	EBOOK	|	Indirectly, his translation of Cixin Liu's _The Three-Body Problem_ 	|
