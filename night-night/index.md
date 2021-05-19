@@ -31,6 +31,8 @@ _Cancer Ward_ by Aleksandr Solzhenitsyn
 
 ## The Rotten Apple
 
+**honorable mention:** _Burr; _
+
 _The Wanderers_ Richard Price
 _Kafka Was the Rage_ Anatole Broyard
 
@@ -129,12 +131,12 @@ _The Deficit Myth_
 
 ## Top Shelf Literature
 
-**honorable mention:** _The Amazing Adventures of Kavalier and Clay; As I Lay Dying; Catch-22; The Bell Jar; A Clockword Orange; In Cold Blood; East of Eden; The Golden Notebook; The Grapes of Wrath; Heart of Darkness; Midnight's Children; Money: A Suicide Note; Pail Fire; Portnoy's Complaint; The Sun Also Rises; Tropic of Cancer_
+**honorable mention:** _The Amazing Adventures of Kavalier and Clay; Anna Karenina; As I Lay Dying; Catch-22; The Bell Jar; A Clockword Orange; In Cold Blood; East of Eden; Crime and Punishment; The Golden Notebook; The Grapes of Wrath; Heart of Darkness; Midnight's Children; Money: A Suicide Note; Pail Fire; Portnoy's Complaint; The Sun Also Rises; Tropic of Cancer_
 
 _Don Quixote_
 _Moby Dick_
 _The Brothers Karamazov_
-Faulkner 
+something Faulkner 
 
 ## Decision Making
 
@@ -160,7 +162,7 @@ _Consumer Society Reader_
 
 ## On the Road
 
-**honorable mention:** _Adrift_; _The Art of Travel_; _Blue Highways_; _The Colossus of Maroussi_; _Fear and Loathing in Las Vegas_; _The Hitchhiker's Guide to the Galaxy_ (series); _Jupiter's Travels_; _The Long Way Round_; _In Patagonia_; _Into the Wild_; _The Motorcycle Diaries_; _On the Road_; PLF's Journey Across Europe trilogy; _The Road_; _Sex Lives Of Cannibals_; _Shantaram_; _Travel's with Charlie_; _Vagabonding_; _A Walk in the Woods_
+**honorable mention:** _Adrift_; _The Art of Travel_; _Blue Highways_; _The Colossus of Maroussi_; _Fear and Loathing in Las Vegas_; _The Hitchhiker's Guide to the Galaxy_ (series); _Jupiter's Travels_; _The Long Way Round_; _In Patagonia_; _Into the Wild_; _The Motorcycle Diaries_; _The Odyssey_; _On the Road_; PLF's Journey Across Europe trilogy; _The Road_; _Sex Lives Of Cannibals_; _Shantaram_; _Travel's with Charlie_; _Vagabonding_; _A Walk in the Woods_
 
 _The Road to Oxiana_ Robert Byron [PLF]
 _Dark Star Safari_ Paul Theroux
@@ -170,14 +172,16 @@ _Dark Star Safari_ Paul Theroux
 
 **honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; Hitchhikers Guide series; Narnia series; D. Adams; W. Gibson; N. Stephenson; Gabriel García Márquez_
 
-_American Gods_
+
 _Ender's Game_
-_The Yiddish Policeman’s Union_
 _The Dispossessed_
 _The Forever War_
 _Ancillary Justice_
 _The Gods Themselves_
 _Rendezvous with Rama_
+Stanislaw Lem
+
+_American Gods_
 _The Left Hand of Darkness_
 _This Is How You Lose the Time War_
 _Oryx and Crake_
@@ -185,13 +189,13 @@ _The Fifth Season_
 _The Buried Giant_ Kazuo Ishiguro
 _The Color of Magic_ Terry Pratchett
 _The City & the City_ China Miéville
-_The Posthumous Memoirs of Brás Cubas_
+_The Yiddish Policeman’s Union_
 _The Alteration_
 _Frankenstein_
-Stanislaw Lem
 _Natural-Born Cyborgs_ Andy Clark
 _Evolution in Four Dimensions_
 _Cryptonomicon_ Neal Stephenson
+_A World Without Why_
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
@@ -205,12 +209,8 @@ Sam Bowles text (PDF)
 _The Origins of Totalitarianism_ (hold over)
 _Collapse of Complex Societies_ (hold over, PDF)
 
-_A World Without Why_
-
 _The Great Transformation_
 _Pnin_
-
-
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -245,11 +245,10 @@ _Pnin_
 | _Serotonin_, Michel Houellebecq | _The Map and the Territory_, Michel Houellebecq | _Moral Man and Immoral Society_, Reinhold Niebuhr |
 | _Tenth of December_, George Saunders | _Under the Net_,	Iris Murdoch | _The Uninhabitable Earth_, David Wallace-Wells |
 
-**honorable mention:** _alphabet; Hateship, Friendship...; The Great Leveler_
+**honorable mention:** _alphabet; Hateship, Friendship...; Concrete; The Great Leveler_
+
 
 ## Winter '21 - 24 titles (1 abandoned), theme: Collective Distr/In/Mis/Re/Action
-
-_Active Measures_ 
 
 
 |	title	|	author	|	media	|	alibi	|
