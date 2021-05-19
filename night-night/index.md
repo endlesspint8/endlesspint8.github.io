@@ -131,7 +131,7 @@ _The Deficit Myth_
 
 ## Top Shelf Literature
 
-**honorable mention:** _The Amazing Adventures of Kavalier and Clay; Anna Karenina; As I Lay Dying; Catch-22; The Bell Jar; A Clockword Orange; In Cold Blood; East of Eden; Crime and Punishment; The Golden Notebook; The Grapes of Wrath; Heart of Darkness; Midnight's Children; Money: A Suicide Note; Pail Fire; Portnoy's Complaint; The Sun Also Rises; Tropic of Cancer_
+**honorable mention:** _1984; The Amazing Adventures of Kavalier and Clay; Anna Karenina; As I Lay Dying; Catch-22; The Bell Jar; Brave New World; A Clockword Orange; In Cold Blood; East of Eden; Crime and Punishment; Go Tell it on the Mountain; The Golden Notebook; The Grapes of Wrath; The Great Gatsby; Heart of Darkness; Invisible Man; Midnight's Children; Money: A Suicide Note; Pail Fire; Portnoy's Complaint; A Portrait of the Artist as a Young Man; Ragtime; The Secret Agent; The Sun Also Rises; Tender is the Night; To the Lighthouse; Tropic of Cancer; Under the Net_
 
 _Don Quixote_
 _Moby Dick_
