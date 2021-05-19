@@ -91,6 +91,8 @@ _Diary of an Oxygen Thief_ Anonymous
 _Boomsday_ Christopher Buckle
 _Don Juan_ Lord Byron
 _Gulliver's Travels_
+_Broken Glass_ Alain Mabanckou
+_A Visit from The Goon Squad_
 
 
 ## Drinking & Co.
@@ -122,7 +124,7 @@ _The Deficit Myth_
 
 ## Top Shelf Literature
 
-**honorable mention:** _As I Lay Dying; Catch-22; The Bell Jar; A Clockword Orange; In Cold Blood; East of Eden; The Golden Notebook; The Grapes of Wrath; Heart of Darkness; Midnight's Children; Money: A Suicide Note; Pail Fire; Portnoy's Complaint; The Sun Also Rises; Tropic of Cancer_
+**honorable mention:** _The Amazing Adventures of Kavalier and Clay; As I Lay Dying; Catch-22; The Bell Jar; A Clockword Orange; In Cold Blood; East of Eden; The Golden Notebook; The Grapes of Wrath; Heart of Darkness; Midnight's Children; Money: A Suicide Note; Pail Fire; Portnoy's Complaint; The Sun Also Rises; Tropic of Cancer_
 
 _Don Quixote_
 _Moby Dick_
