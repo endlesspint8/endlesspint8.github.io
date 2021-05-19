@@ -41,6 +41,7 @@ _Brilliant Orange_ David Winner
 _Going Dutch_
 _Embarrassment of Riches_
 _An Untouched House_ Willem Frederik Hermans
+_Brilliant Orange_
 
 ## Between the Woods and the Water
 
@@ -93,9 +94,12 @@ _Don Juan_ Lord Byron
 _Gulliver's Travels_
 _Broken Glass_ Alain Mabanckou
 _A Visit from The Goon Squad_
+_Arms and the Man_ George Bernard Shaw
 
 
 ## Drinking & Co.
+
+**honorable mention:** _Drinking with Men; The Iceman Cometh_
 
 _Everyday Drinking_, Kingsley Amis
 _Tobacco_, Iain Gately
@@ -104,6 +108,7 @@ _Drunks_, Christopher Finan
 _On Booze_, F. Scott Fitzgerald
 _I Drink Therefore I Am_, Roger Scruton
 _Chasing the Scream_
+_Under the Volcano_
 
 
 ## Dangerous Ideas
@@ -150,6 +155,7 @@ _If Then_ Jill Lepore
 _The Mating Mind_ Geoffrey Miller
 _Capitalism, Socialism, Ecology_ Andre Gorz
 _The Pleasure Trap_ Douglas J. Lisle, Ph.D.
+_Consumer Society Reader_
 
 
 ## On the Road
@@ -157,7 +163,7 @@ _The Pleasure Trap_ Douglas J. Lisle, Ph.D.
 **honorable mention:** _Adrift_; _The Art of Travel_; _Blue Highways_; _The Colossus of Maroussi_; _Fear and Loathing in Las Vegas_; _The Hitchhiker's Guide to the Galaxy_ (series); _Jupiter's Travels_; _The Long Way Round_; _In Patagonia_; _Into the Wild_; _The Motorcycle Diaries_; _On the Road_; PLF's Journey Across Europe trilogy; _The Road_; _Sex Lives Of Cannibals_; _Shantaram_; _Travel's with Charlie_; _Vagabonding_; _A Walk in the Woods_
 
 _The Road to Oxiana_ Robert Byron [PLF]
-
+_Dark Star Safari_ Paul Theroux
 
 
 ## Speculate This
@@ -192,18 +198,14 @@ https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-
 
 ## Spring '21 - x titles (y abandoned), theme: no-theme, sabatical season
 
-_Brilliant Orange_
 _Scale_
 _Understanding Media_
 Sam Bowles text (PDF)
 
-_Consumer Society Reader_
 _The Origins of Totalitarianism_ (hold over)
 _Collapse of Complex Societies_ (hold over, PDF)
 
-_Under the Volcano_
 _A World Without Why_
-
 
 _The Great Transformation_
 _Pnin_
