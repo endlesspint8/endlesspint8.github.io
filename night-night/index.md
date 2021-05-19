@@ -90,6 +90,7 @@ _Her Body and Other Parties_ Carmen Maria Machado
 _Diary of an Oxygen Thief_ Anonymous
 _Boomsday_ Christopher Buckle
 _Don Juan_ Lord Byron
+_Gulliver's Travels_
 
 
 ## Drinking & Co.
@@ -121,12 +122,16 @@ _The Deficit Myth_
 
 ## Top Shelf Literature
 
+**honorable mention:** _As I Lay Dying; Catch-22; The Bell Jar; A Clockword Orange; In Cold Blood; East of Eden; The Golden Notebook; The Grapes of Wrath; Heart of Darkness; Midnight's Children; Money: A Suicide Note; Pail Fire; Portnoy's Complaint; The Sun Also Rises; Tropic of Cancer_
+
 _Don Quixote_
 _Moby Dick_
 _The Brothers Karamazov_
+Faulkner 
 
 ## Decision Making
-hon mention: _Thinking in Bets_
+
+**honorable mention:** _Thinking in Bets_
 
 _Radical Uncertainty_
 _Sources of Power_
@@ -147,7 +152,7 @@ _The Pleasure Trap_ Douglas J. Lisle, Ph.D.
 
 ## On the Road
 
-**honorable mention:** _Adrift_; _The Art of Travel_; _Blue Highways_; _The Colossus of Maroussi_; _Fear and Loathing in Las Vegas_; _The Hitchhiker's Guide to the Galaxy_ (series); _Jupiter's Travels_; _The Long Way Round_; _In Patagonia_; _Into the Wild_; _The Motorcycle Diaries_; _On the Road_; PLF's Journey Across Europe trilogy; _Sex Lives Of Cannibals_; _Shantaram_; _Travel's with Charlie_; _Vagabonding_; _A Walk in the Woods_
+**honorable mention:** _Adrift_; _The Art of Travel_; _Blue Highways_; _The Colossus of Maroussi_; _Fear and Loathing in Las Vegas_; _The Hitchhiker's Guide to the Galaxy_ (series); _Jupiter's Travels_; _The Long Way Round_; _In Patagonia_; _Into the Wild_; _The Motorcycle Diaries_; _On the Road_; PLF's Journey Across Europe trilogy; _The Road_; _Sex Lives Of Cannibals_; _Shantaram_; _Travel's with Charlie_; _Vagabonding_; _A Walk in the Woods_
 
 _The Road to Oxiana_ Robert Byron [PLF]
 
@@ -155,7 +160,7 @@ _The Road to Oxiana_ Robert Byron [PLF]
 
 ## Speculate This
 
-**honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; Hitchhikers Guide series; Narnia series; D. Adams; W. Gibson; N. Stephenson_
+**honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; Hitchhikers Guide series; Narnia series; D. Adams; W. Gibson; N. Stephenson; Gabriel García Márquez_
 
 _American Gods_
 _Ender's Game_
