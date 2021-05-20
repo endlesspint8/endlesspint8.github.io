@@ -35,6 +35,7 @@ _Cancer Ward_ by Aleksandr Solzhenitsyn
 
 _The Wanderers_ Richard Price
 _Kafka Was the Rage_ Anatole Broyard
+_Another Country_ James Baldwin
 
 
 ## Going Dutch
@@ -97,6 +98,7 @@ _Gulliver's Travels_
 _Broken Glass_ Alain Mabanckou
 _A Visit from The Goon Squad_
 _Arms and the Man_ George Bernard Shaw
+_Scoop_ Evelyn Waugh
 
 
 ## Drinking & Co.
@@ -131,7 +133,7 @@ _The Deficit Myth_
 
 ## Top Shelf Literature
 
-**honorable mention:** _1984; The Amazing Adventures of Kavalier and Clay; Anna Karenina; As I Lay Dying; Catch-22; The Bell Jar; Brave New World; A Clockword Orange; In Cold Blood; East of Eden; Crime and Punishment; Go Tell it on the Mountain; The Golden Notebook; The Grapes of Wrath; The Great Gatsby; Heart of Darkness; Invisible Man; Midnight's Children; Money: A Suicide Note; Pail Fire; Portnoy's Complaint; A Portrait of the Artist as a Young Man; Ragtime; The Secret Agent; The Sun Also Rises; Tender is the Night; To the Lighthouse; Tropic of Cancer; Under the Net_
+**honorable mention:** _1984; The Amazing Adventures of Kavalier and Clay; Anna Karenina; As I Lay Dying; The Bell Jar; Brave New World; Catch-22; A Clockword Orange; In Cold Blood; Crime and Punishment; East of Eden; Go Tell it on the Mountain; The Golden Notebook; The Grapes of Wrath; The Great Gatsby; Heart of Darkness; The Iliad; Invisible Man; Midnight's Children; Money: A Suicide Note; The Odyssey; One Hundred Years of Solitude; Pail Fire; Portnoy's Complaint; A Portrait of the Artist as a Young Man; Ragtime; The Secret Agent; Shakespeare; The Sun Also Rises; Tender is the Night; To the Lighthouse; Tropic of Cancer; Under the Net_
 
 _Don Quixote_
 _Moby Dick_
@@ -181,6 +183,7 @@ _The Gods Themselves_
 _Rendezvous with Rama_
 Stanislaw Lem
 
+_Orlando_ Virginia Woolf 
 _American Gods_
 _The Left Hand of Darkness_
 _This Is How You Lose the Time War_
@@ -210,7 +213,7 @@ _The Origins of Totalitarianism_ (hold over)
 _Collapse of Complex Societies_ (hold over, PDF)
 
 _The Great Transformation_
-_Pnin_
+
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -219,7 +222,7 @@ _Pnin_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Pnin_	|	Vladimir Nabokov	|	EBOOK	|	_Pale Fire_ and _Lolita_	|
 |	_The Broken Road_	|	Patrick Leigh Fermor	|	EBOOK	|	_A Time of Gifts_ and _Between the Woods and the Water_	|
 |	_Cat on a Hot Tin Roof_	|	Tennessee Williams	|	EBOOK	|		|
 |	_Refusing Heaven_	|	Jack Gilbert	|	EBOOK	|		|
@@ -245,7 +248,7 @@ _Pnin_
 | _Serotonin_, Michel Houellebecq | _The Map and the Territory_, Michel Houellebecq | _Moral Man and Immoral Society_, Reinhold Niebuhr |
 | _Tenth of December_, George Saunders | _Under the Net_,	Iris Murdoch | _The Uninhabitable Earth_, David Wallace-Wells |
 
-**honorable mention:** _alphabet; Hateship, Friendship...; Concrete; The Great Leveler_
+**honorable mention:** _alphabet; Concrete; The Great Leveler; Hateship, Friendship...; Omon Ra_
 
 
 ## Winter '21 - 24 titles (1 abandoned), theme: Collective Distr/In/Mis/Re/Action
