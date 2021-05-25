@@ -31,9 +31,9 @@ _Cancer Ward_ by Aleksandr Solzhenitsyn
 
 ## The Rotten Apple
 
-**honorable mention:** _Burr_
+**honorable mention:** _Burr (Vidal); Downtown (Hamill); Go Tell it on the Mountain; The Great Bridge (McCullough); The Power Broker; Up in the Old Hotel and Other Stories_
 
-_The Wanderers_ Richard Price
+_The Wanderers_ Richard Price (_Lush Life_)
 _Kafka Was the Rage_ Anatole Broyard
 _Another Country_ James Baldwin
 
@@ -57,7 +57,13 @@ _The Balkan Wars_
 _Iron Curtain_ Anne Applebaum
 _Bloodlands_ Timothy Snyder
 _My Century_ Aleksander Wat
-_The Fault Line_ Paolo Rumiz
+_Balkan Ghosts_ (SimplyE)
+_In Europe's Shadow_
+
+another section: _The Fault Line_ Paolo Rumiz; _Fire and Blood_ ; LT: _Vilnius Poker_ Ricardas Gavelis
+
+another Russia: RU: _One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE); _Secondhand Time_ Svetlana Alexievich; _The Gambler_ Fyodor Dostoyevsky
+
 
 AL: _The Traitor's Niche_ Ismail Kadare
 
@@ -73,13 +79,9 @@ HU: _Embers_ Sandor Marai; _Cyclops_ Ranko Marinkovic
 
 HR: _No-Signal Area_ Robert Perisic
 
-LT: _Vilnius Poker_ Ricardas Gavelis
-
 PL: Stanislaw Lem (e.g., _One Human Minute_); _The Painted Bird_ Jerzy Kosinski; _The Mountains of Parnassus_ Czesław Miłosz
 
 RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea Eliade; _Adventures In Immediate Irreality_ Max Blecher; _Train to Trieste_
-
-RU: _One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE); _Secondhand Time_ Svetlana Alexievich; _The Gambler_ Fyodor Dostoyevsky
 
 
 ## I am serious and don't call me Shirley
@@ -103,7 +105,7 @@ _Scoop_ Evelyn Waugh
 
 ## Drinking & Co.
 
-**honorable mention:** _Drinking with Men; A Fan's Notes; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Rum Diaries_
+**honorable mention:** _Babylon Revisited; Drinking with Men; A Fan's Notes; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Rum Diaries_
 
 _Everyday Drinking_, Kingsley Amis
 _Tobacco_, Iain Gately
