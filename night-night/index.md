@@ -31,7 +31,7 @@ _Cancer Ward_ by Aleksandr Solzhenitsyn
 
 ## The Rotten Apple
 
-**honorable mention:** _Burr; _
+**honorable mention:** _Burr_
 
 _The Wanderers_ Richard Price
 _Kafka Was the Rage_ Anatole Broyard
@@ -103,7 +103,7 @@ _Scoop_ Evelyn Waugh
 
 ## Drinking & Co.
 
-**honorable mention:** _Drinking with Men; The Iceman Cometh_
+**honorable mention:** _Drinking with Men; A Fan's Notes; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Rum Diaries_
 
 _Everyday Drinking_, Kingsley Amis
 _Tobacco_, Iain Gately
@@ -220,8 +220,10 @@ _The Great Transformation_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_Lincoln in the Bardo_	|	George Saunders	|	EBOOK	|	_Tenth of December_	|
+|	_Citizen_	|	Claudia Rankine	|	EBOOK	|	Cathy Park Hong's _Minor Feelings_	|
+|	~~_Citizen Rex_~~	|	~~Gilbert Hernandez~~	|	~~EBOOK~~	|		|
+|	_Cat on a Hot Tin Roof_	|	Tennessee Williams	|	EBOOK	|	_A Streetcar Named Desire_	|
 |	_Pnin_	|	Vladimir Nabokov	|	EBOOK	|	_Pale Fire_ and _Lolita_	|
 |	_The Broken Road_	|	Patrick Leigh Fermor	|	EBOOK	|	_A Time of Gifts_ and _Between the Woods and the Water_	|
 |	_Cat on a Hot Tin Roof_	|	Tennessee Williams	|	EBOOK	|		|
