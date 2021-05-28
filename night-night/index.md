@@ -86,7 +86,7 @@ RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea E
 
 ## I am serious and don't call me Shirley
 
-**honorable mention:** _Catch-22_; _The Master and Margarita_;
+**honorable mention:** _Catch-22_; _The Master and Margarita_
 
 _The House of God_ Samuel Shem, M.D.
 _Look Who's Back_ Timur Vermes
@@ -101,6 +101,7 @@ _Broken Glass_ Alain Mabanckou
 _A Visit from The Goon Squad_
 _Arms and the Man_ George Bernard Shaw
 _Scoop_ Evelyn Waugh
+_The Red Room_ August Strindberg
 
 
 ## Drinking & Co.
