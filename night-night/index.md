@@ -164,6 +164,12 @@ _The Pleasure Trap_ Douglas J. Lisle, Ph.D.
 _Consumer Society Reader_
 
 
+## You're All My Favorites
+
+_Catch-22_
+_Ubik_
+
+
 ## On the Road
 
 **honorable mention:** _Adrift_; _The Art of Travel_; _Blue Highways_; _The Colossus of Maroussi_; _Fear and Loathing in Las Vegas_; _The Hitchhiker's Guide to the Galaxy_ (series); _Jupiter's Travels_; _The Long Way Round_; _In Patagonia_; _Into the Wild_; _The Motorcycle Diaries_; _The Odyssey_; _On the Road_; PLF's Journey Across Europe trilogy; _The Road_; _Sex Lives Of Cannibals_; _Shantaram_; _Travel's with Charlie_; _Vagabonding_; _A Walk in the Woods_
@@ -215,13 +221,14 @@ _The Origins of Totalitarianism_ (hold over)
 _Collapse of Complex Societies_ (hold over, PDF)
 
 _The Great Transformation_
+_The Black Prince_
 
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Long Day's Journey into Night_	|	Eugene O'Neill	|	EBOOK	|	_The Iceman Cometh_	|
 |	_Lincoln in the Bardo_	|	George Saunders	|	EBOOK	|	_Tenth of December_	|
 |	_Citizen_	|	Claudia Rankine	|	EBOOK	|	Cathy Park Hong's _Minor Feelings_	|
 |	~~_Citizen Rex_~~	|	~~Gilbert Hernandez~~	|	~~EBOOK~~	|		|
