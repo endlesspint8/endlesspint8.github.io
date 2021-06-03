@@ -116,6 +116,8 @@ _On Booze_, F. Scott Fitzgerald
 _I Drink Therefore I Am_, Roger Scruton
 _Chasing the Scream_
 _Under the Volcano_
+_The Shining_
+_Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slingerland
 
 
 ## Dangerous Ideas
@@ -227,6 +229,7 @@ _The Black Prince_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
+|		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
 |	_Long Day's Journey into Night_	|	Eugene O'Neill	|	EBOOK	|	_The Iceman Cometh_	|
