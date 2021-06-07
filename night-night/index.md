@@ -48,9 +48,9 @@ _Brilliant Orange_
 
 ## Between the Woods and the Water
 
-**honorable mention:** _The Book of My Lives_; _The Broken Road_; _Flights_; _The Fox Was Ever the Hunter_; _The Futurological Congress_; _The Master and Margarita_; _Rhinoceros_; _The Trial_; _The Unbearable Lightness of Being_; 
+**honorable mention:** _The Book of My Lives; The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Unbearable Lightness of Being; Zorba the Greek_
 
-**wish list:** _Ashes and Diamonds_; _The Good Life Elsewhere_; 
+**wish list:** _Ashes and Diamonds; The Good Life Elsewhere; Little Infamies_
 
 _Eastern Europe!_
 _The Balkan Wars_
