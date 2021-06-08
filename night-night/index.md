@@ -245,7 +245,6 @@ _The Black Prince_
 |	_Cat on a Hot Tin Roof_	|	Tennessee Williams	|	EBOOK	|	_A Streetcar Named Desire_	|
 |	_Pnin_	|	Vladimir Nabokov	|	EBOOK	|	_Pale Fire_ and _Lolita_	|
 |	_The Broken Road_	|	Patrick Leigh Fermor	|	EBOOK	|	_A Time of Gifts_ and _Between the Woods and the Water_	|
-|	_Cat on a Hot Tin Roof_	|	Tennessee Williams	|	EBOOK	|		|
 |	_Refusing Heaven_	|	Jack Gilbert	|	EBOOK	|		|
 |	_The Paper Menagerie and Other Stories_	|	Ken Liu	|	EBOOK	|	Indirectly, his translation of Cixin Liu's _The Three-Body Problem_ 	|
 |	_Thirteen Ways of Looking at a Black Man_	|	Henry Louis Gates, Jr.	|	EBOOK	|	[Flavorwire 25 Greatest Essay Collections], almost done with list	|
