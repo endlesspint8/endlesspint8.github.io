@@ -31,7 +31,7 @@ _Cancer Ward_ by Aleksandr Solzhenitsyn
 
 ## The Rotten Apple
 
-**honorable mention:** _Burr (Vidal); Downtown (Hamill); Go Tell it on the Mountain; The Great Bridge (McCullough); The Power Broker; Up in the Old Hotel and Other Stories_
+**honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; The Bonfire of the Vanities; Bright Lights, Big City; Burr (Vidal); Call it Sleep; The Catcher in the Rye; Downtown (Hamill); Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; Invisible Man; Lush Life; Motherless Brooklyn; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Up in the Old Hotel and Other Stories_
 
 _The Wanderers_ Richard Price (_Lush Life_)
 _Kafka Was the Rage_ Anatole Broyard
@@ -171,6 +171,7 @@ _Consumer Society Reader_
 ## You're All My Favorites
 
 _Catch-22_
+_Invisible Man_
 _Ubik_
 
 
