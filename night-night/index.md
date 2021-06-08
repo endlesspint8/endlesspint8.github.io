@@ -195,6 +195,11 @@ _The Gods Themselves_
 _Rendezvous with Rama_
 Stanislaw Lem
 
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|		|		|		|		|
+|		|		|		|		|
+
 _Orlando_ Virginia Woolf 
 _American Gods_
 _The Left Hand of Darkness_
@@ -232,7 +237,7 @@ _The Black Prince_
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Sabrina_	|	Nick Drnaso	|	EBOOK	|	Man Booker longlist and [Just Write video](https://youtu.be/Yuyu1y1m1s4)	|
 |	_Long Day's Journey into Night_	|	Eugene O'Neill	|	EBOOK	|	_The Iceman Cometh_	|
 |	_Lincoln in the Bardo_	|	George Saunders	|	EBOOK	|	_Tenth of December_	|
 |	_Citizen_	|	Claudia Rankine	|	EBOOK	|	Cathy Park Hong's _Minor Feelings_	|
