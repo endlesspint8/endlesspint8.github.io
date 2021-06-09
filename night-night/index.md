@@ -231,13 +231,13 @@ _The Origins of Totalitarianism_ (hold over)
 _Collapse of Complex Societies_ (hold over, PDF)
 
 _The Great Transformation_
-_The Black Prince_
+
 
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Black Prince_	|	Iris Murdoch	|	EBOOK	|	_The Sea, The Sea_ and _Under the Net_	|
 |	_Sabrina_	|	Nick Drnaso	|	EBOOK	|	Man Booker longlist and [Just Write video](https://youtu.be/Yuyu1y1m1s4)	|
 |	_Long Day's Journey into Night_	|	Eugene O'Neill	|	EBOOK	|	_The Iceman Cometh_	|
 |	_Lincoln in the Bardo_	|	George Saunders	|	EBOOK	|	_Tenth of December_	|
