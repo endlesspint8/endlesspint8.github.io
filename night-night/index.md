@@ -136,6 +136,15 @@ _H.L. Mencken_
 _Creating Freedom_ Raoul Martinez
 _The Deficit Myth_
 
+## Hold Overs
+
+_Scale_
+_Understanding Media_
+Sam Bowles text (PDF)
+
+_The Origins of Totalitarianism_ (hold over)
+_Collapse of Complex Societies_ (hold over, PDF)
+
 
 ## Top Shelf Literature
 
@@ -221,22 +230,12 @@ _A World Without Why_
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
 
-## Spring '21 - x titles (y abandoned), theme: no-theme, sabatical season
-
-_Scale_
-_Understanding Media_
-Sam Bowles text (PDF)
-
-_The Origins of Totalitarianism_ (hold over)
-_Collapse of Complex Societies_ (hold over, PDF)
-
-_The Great Transformation_
-
+## Spring '21 - 19 titles (1 abandoned), theme: no-theme, sabatical season
 
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
+|	_The Great Transformation_	|		|		|		|
 |	_The Black Prince_	|	Iris Murdoch	|	EBOOK	|	_The Sea, The Sea_ and _Under the Net_	|
 |	_Sabrina_	|	Nick Drnaso	|	EBOOK	|	Man Booker longlist and [Just Write video](https://youtu.be/Yuyu1y1m1s4)	|
 |	_Long Day's Journey into Night_	|	Eugene O'Neill	|	EBOOK	|	_The Iceman Cometh_	|
