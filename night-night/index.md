@@ -7,7 +7,7 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 
 
 
-Completed to date: 9.9%
+Completed to date: 14%
 
 ## Death & Co.
 
@@ -192,7 +192,7 @@ _The Road to Oxiana_ Robert Byron [PLF]
 _Dark Star Safari_ Paul Theroux
 
 
-## Speculate This
+## Summer '21 - x titles (y abandoned), theme: Speculate This
 
 **honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; Hitchhikers Guide series; Narnia series; D. Adams; W. Gibson; N. Stephenson; Gabriel García Márquez_
 
@@ -209,23 +209,34 @@ Stanislaw Lem
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_The Fifth Season_	|	N. K. Jemisin	|	EBOOK	|		|
 
 _Orlando_ Virginia Woolf 
 _American Gods_
 _The Left Hand of Darkness_
 _This Is How You Lose the Time War_
 _Oryx and Crake_
-_The Fifth Season_
+
 _The Buried Giant_ Kazuo Ishiguro
 _The Color of Magic_ Terry Pratchett
 _The City & the City_ China Miéville
 _The Yiddish Policeman’s Union_
-_The Alteration_
-_Frankenstein_
-_Natural-Born Cyborgs_ Andy Clark
-_Evolution in Four Dimensions_
 _Cryptonomicon_ Neal Stephenson
+_Frankenstein_
+
+_Natural-Born Cyborgs_ Andy Clark
 _A World Without Why_
+
+_The Sandman (1989), Volume 4 - Season of Mists_ Neil Gaiman
+_The Alteration_
+_Evolution in Four Dimensions_
+
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
