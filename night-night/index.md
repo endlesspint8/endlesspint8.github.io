@@ -175,6 +175,7 @@ _The Mating Mind_ Geoffrey Miller
 _Capitalism, Socialism, Ecology_ Andre Gorz
 _The Pleasure Trap_ Douglas J. Lisle, Ph.D.
 _Consumer Society Reader_
+_HBR's 10 Must Reads on Strategy_
 
 
 ## You're All My Favorites
