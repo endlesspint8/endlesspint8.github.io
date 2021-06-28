@@ -215,7 +215,7 @@ Stanislaw Lem
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Sandman (1989), Volume 4 - Season of Mists_	|	Neil Gaiman	|	EBOOK	|		|
 |	_The Fifth Season_	|	N. K. Jemisin	|	EBOOK	|		|
 
 _Orlando_ Virginia Woolf 
@@ -234,7 +234,6 @@ _Frankenstein_
 _Natural-Born Cyborgs_ Andy Clark
 _A World Without Why_
 
-_The Sandman (1989), Volume 4 - Season of Mists_ Neil Gaiman
 _The Alteration_
 _Evolution in Four Dimensions_
 
