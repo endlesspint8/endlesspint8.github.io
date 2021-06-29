@@ -38,6 +38,16 @@ _Kafka Was the Rage_ Anatole Broyard
 _Another Country_ James Baldwin
 
 
+
+## From Russia with Letters
+
+_A Swim in a Pond in the Rain_ George Sauders
+_One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE)
+_Secondhand Time_ Svetlana Alexievich
+_The Gambler_ Fyodor Dostoyevsky
+
+
+
 ## Going Dutch
 
 _Brilliant Orange_ David Winner
@@ -61,8 +71,6 @@ _Balkan Ghosts_ (SimplyE)
 _In Europe's Shadow_
 
 another section: _The Fault Line_ Paolo Rumiz; _Fire and Blood_ ; LT: _Vilnius Poker_ Ricardas Gavelis
-
-another Russia: RU: _One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE); _Secondhand Time_ Svetlana Alexievich; _The Gambler_ Fyodor Dostoyevsky
 
 
 AL: _The Traitor's Niche_ Ismail Kadare
@@ -193,18 +201,14 @@ _The Road to Oxiana_ Robert Byron [PLF]
 _Dark Star Safari_ Paul Theroux
 
 
+
 ## Summer '21 - x titles (y abandoned), theme: Speculate This
 
 **honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; Hitchhikers Guide series; Narnia series; D. Adams; W. Gibson; N. Stephenson; Gabriel García Márquez_
 
+_The Alteration_
+_Evolution in Four Dimensions_
 
-_Ender's Game_
-_The Dispossessed_
-_The Forever War_
-_Ancillary Justice_
-_The Gods Themselves_
-_Rendezvous with Rama_
-Stanislaw Lem
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -234,8 +238,15 @@ _Frankenstein_
 _Natural-Born Cyborgs_ Andy Clark
 _A World Without Why_
 
-_The Alteration_
-_Evolution in Four Dimensions_
+
+
+_Ender's Game_
+_The Dispossessed_
+_The Forever War_
+_Ancillary Justice_
+_The Gods Themselves_
+_Rendezvous with Rama_
+Stanislaw Lem
 
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
