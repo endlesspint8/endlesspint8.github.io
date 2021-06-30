@@ -206,8 +206,10 @@ _Dark Star Safari_ Paul Theroux
 
 **honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; Hitchhikers Guide series; Narnia series; D. Adams; W. Gibson; N. Stephenson; Gabriel García Márquez_
 
-_The Alteration_
+
 _Evolution in Four Dimensions_
+_The Left Hand of Darkness_
+_This Is How You Lose the Time War_
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -218,14 +220,12 @@ _Evolution in Four Dimensions_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Alteration_	|	Kingsley Amis	|	EBOOK	|	_Lucky Jim_ and _That Certain Feeling_	|
 |	_The Sandman (1989), Volume 4 - Season of Mists_	|	Neil Gaiman	|	EBOOK	|		|
 |	_The Fifth Season_	|	N. K. Jemisin	|	EBOOK	|		|
 
 _Orlando_ Virginia Woolf 
 _American Gods_
-_The Left Hand of Darkness_
-_This Is How You Lose the Time War_
 _Oryx and Crake_
 
 _The Buried Giant_ Kazuo Ishiguro
