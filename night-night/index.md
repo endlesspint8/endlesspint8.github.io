@@ -209,7 +209,6 @@ _Dark Star Safari_ Paul Theroux
 
 _Evolution in Four Dimensions_
 _The Left Hand of Darkness_
-_This Is How You Lose the Time War_
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -219,7 +218,7 @@ _This Is How You Lose the Time War_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_This Is How You Lose the Time War_	|	Amal El-Mohtar and Max Gladstone	|	EBOOK	|		|
 |	_The Alteration_	|	Kingsley Amis	|	EBOOK	|	_Lucky Jim_ and _That Certain Feeling_	|
 |	_The Sandman (1989), Volume 4 - Season of Mists_	|	Neil Gaiman	|	EBOOK	|		|
 |	_The Fifth Season_	|	N. K. Jemisin	|	EBOOK	|		|
@@ -237,8 +236,6 @@ _Frankenstein_
 
 _Natural-Born Cyborgs_ Andy Clark
 _A World Without Why_
-
-
 
 _Ender's Game_
 _The Dispossessed_
