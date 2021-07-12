@@ -204,11 +204,11 @@ _Dark Star Safari_ Paul Theroux
 
 ## Summer '21 - x titles (y abandoned), theme: Speculate This
 
-**honorable mention:** _Vonnegut; PKD; Foundation; Space Odyssey series; Hitchhikers Guide series; Narnia series; D. Adams; W. Gibson; N. Stephenson; Gabriel García Márquez_
+**honorable mention:** _Asimov; Vonnegut; PKD; Space Odyssey series; Hitchhikers Guide series; Narnia series; W. Gibson; N. Stephenson; Gabriel García Márquez; Bram Stoker's Dracula_
 
 
 _Evolution in Four Dimensions_
-_The Left Hand of Darkness_
+_The Grace of Kings_ Ken Liu 
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -218,6 +218,10 @@ _The Left Hand of Darkness_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_The Left Hand of Darkness_	|	Ursula K. Le Guin	|	EBOOK	|	Her short fiction. This is the first of her novels for me.	|
 |	_This Is How You Lose the Time War_	|	Amal El-Mohtar and Max Gladstone	|	EBOOK	|		|
 |	_The Alteration_	|	Kingsley Amis	|	EBOOK	|	_Lucky Jim_ and _That Certain Feeling_	|
 |	_The Sandman (1989), Volume 4 - Season of Mists_	|	Neil Gaiman	|	EBOOK	|		|
