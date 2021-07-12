@@ -27,6 +27,7 @@ _Last Works_, Mark C. Taylor
 _The Stoic Challenge_
 _Intoxicated by My Illness_, Anatole Broyard
 _Cancer Ward_ by Aleksandr Solzhenitsyn
+_Natural Causes_ Barbara Ehrenreich
 
 
 ## The Rotten Apple
