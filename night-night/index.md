@@ -57,62 +57,6 @@ _Embarrassment of Riches_
 _An Untouched House_ Willem Frederik Hermans
 _Brilliant Orange_
 
-## Between the Woods and the Water
-
-**honorable mention:** _The Book of My Lives; The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Unbearable Lightness of Being; Zorba the Greek_
-
-**wish list:** _Ashes and Diamonds; The Good Life Elsewhere; Little Infamies_
-
-_Eastern Europe!_
-_The Balkan Wars_
-_Iron Curtain_ Anne Applebaum
-_Bloodlands_ Timothy Snyder
-_My Century_ Aleksander Wat
-_Balkan Ghosts_ (SimplyE)
-_In Europe's Shadow_
-
-another section: _The Fault Line_ Paolo Rumiz; _Fire and Blood_ ; LT: _Vilnius Poker_ Ricardas Gavelis
-
-
-AL: _The Traitor's Niche_ Ismail Kadare
-
-AT-HU: _Messages from a Lost World_ Stefan Zweig
-
-BA: _Nowhere Man_ Aleksandar Hemon
-
-BG: _The Physics of Sorrow_ Georgi Gospodinov; _18% Gray_ Zachary Karabashliev
-
-CZ: _The Good Soldier Švejk_; _Waiting for the Dark, Waiting for the Light_ Ivan Klíma; _Dancing Lessons for the Advanced in Age_ Bohumil Hrabal
-
-HU: _Embers_ Sandor Marai; _Cyclops_ Ranko Marinkovic
-
-HR: _No-Signal Area_ Robert Perisic
-
-PL: Stanislaw Lem (e.g., _One Human Minute_); _The Painted Bird_ Jerzy Kosinski; _The Mountains of Parnassus_ Czesław Miłosz
-
-RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea Eliade; _Adventures In Immediate Irreality_ Max Blecher; _Train to Trieste_
-
-
-## I am serious and don't call me Shirley
-
-**honorable mention:** _Catch-22; Fear and Loathing in Las Vegas; The Master and Margarita; The Sellout_
-
-_The House of God_ Samuel Shem, M.D.
-_Look Who's Back_ Timur Vermes
-_The Sympathizer_ Viet Thanh Nguyen
-_The Zone_ Sergei Dovlatov
-_Her Body and Other Parties_ Carmen Maria Machado
-_Diary of an Oxygen Thief_ Anonymous
-_Boomsday_ Christopher Buckle
-_Don Juan_ Lord Byron
-_Gulliver's Travels_
-_Broken Glass_ Alain Mabanckou
-_A Visit from The Goon Squad_
-_Arms and the Man_ George Bernard Shaw
-_Scoop_ Evelyn Waugh
-_The Red Room_ August Strindberg
-_The Life and Opinions of Tristram Shandy_
-
 
 ## Drinking & Co.
 
@@ -204,6 +148,62 @@ _The Road to Oxiana_ Robert Byron [PLF]
 _Dark Star Safari_ Paul Theroux
 
 
+## I am serious and don't call me Shirley
+
+**honorable mention:** _Catch-22; Fear and Loathing in Las Vegas; The Master and Margarita; The Sellout_
+
+_The House of God_ Samuel Shem, M.D.
+_Look Who's Back_ Timur Vermes
+_The Sympathizer_ Viet Thanh Nguyen
+_The Zone_ Sergei Dovlatov
+_Her Body and Other Parties_ Carmen Maria Machado
+_Diary of an Oxygen Thief_ Anonymous
+_Boomsday_ Christopher Buckle
+_Don Juan_ Lord Byron
+_Gulliver's Travels_
+_Broken Glass_ Alain Mabanckou
+_A Visit from The Goon Squad_
+_Arms and the Man_ George Bernard Shaw
+_Scoop_ Evelyn Waugh
+_The Red Room_ August Strindberg
+_The Life and Opinions of Tristram Shandy_
+
+
+## Between the Woods and the Water
+
+**honorable mention:** _The Book of My Lives; The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Unbearable Lightness of Being; Zorba the Greek_
+
+**wish list:** _Ashes and Diamonds; The Good Life Elsewhere; Little Infamies_
+
+_Eastern Europe!_
+_The Balkan Wars_
+_Iron Curtain_ Anne Applebaum
+_Bloodlands_ Timothy Snyder
+_My Century_ Aleksander Wat
+_Balkan Ghosts_ (SimplyE)
+_In Europe's Shadow_
+
+another section, another time: _The Fault Line_ Paolo Rumiz; _Fire and Blood_ ; LT: _Vilnius Poker_ Ricardas Gavelis
+
+
+AL: _The Traitor's Niche_ Ismail Kadare
+
+AT-HU: _Messages from a Lost World_ Stefan Zweig
+
+BA: _Nowhere Man_ Aleksandar Hemon
+
+BG: _The Physics of Sorrow_ Georgi Gospodinov; _18% Gray_ Zachary Karabashliev
+
+CZ: _The Good Soldier Švejk_; _Waiting for the Dark, Waiting for the Light_ Ivan Klíma; _Dancing Lessons for the Advanced in Age_ Bohumil Hrabal
+
+HU: _Embers_ Sandor Marai; _Cyclops_ Ranko Marinkovic
+
+HR: _No-Signal Area_ Robert Perisic
+
+PL: Stanislaw Lem (e.g., _One Human Minute_); _The Painted Bird_ Jerzy Kosinski; _The Mountains of Parnassus_ Czesław Miłosz
+
+RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea Eliade; _Adventures In Immediate Irreality_ Max Blecher; _Train to Trieste_
+
 
 ## Summer '21 - x titles (y abandoned), theme: Speculate This
 
@@ -253,6 +253,20 @@ Stanislaw Lem
 
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
+
+---
+
+### Triple Five Roll 4 (last four quarters)
+
+|	Best Fiction-ish	|	Most Entertaining	| Think on It |
+|	---	|	---	|	---	|
+| _Beware of Pity_, Stefan Zweig 	| _Concrete_, Thomas Bernhard 	| _Against the Grain_, James C. Scott |
+| _Engine Empire_, Cathy Park Hong 	| _Life for Sale_, Yukio Mishima 	| _The Cage_, Martin Vaughn-James |
+| _Flights_, Olga Tokarczuk 	| _Love in the Ruins_, Walker Percy 	| _Dark Money_, Jane Mayer |
+| _Refusing Heaven_, Jack Gilbert 	| _Omon Ra_, Victor Pelevin (trans Andrew Bromfield) 	| _The Drought_, J. G. Ballard |
+| _Serotonin_, Michel Houellebecq 	| _The Paper Menagerie and Other Stories_, Ken Liu 	| _The Uninhabitable Earth_, David Wallace-Wells |
+
+**honorable mention:** _Angels in America; Collapse; Glengarry Glen Ross; Heretics of Dune; Long Day's Journey into Night; Minor Feelings; Winners Take All_
 
 
 ## Spring '21 - 19 titles (1 abandoned), theme: no-theme, sabatical season
