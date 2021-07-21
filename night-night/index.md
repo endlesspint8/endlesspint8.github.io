@@ -192,6 +192,8 @@ _HBR's 10 Must Reads on Strategy_
 _Catch-22_
 _Invisible Man_
 _Ubik_
+_Heart of Darkness_
+_Slaughterhouse Five_
 
 
 ## On the Road
@@ -208,7 +210,8 @@ _Dark Star Safari_ Paul Theroux
 **honorable mention:** _Asimov; Vonnegut; PKD; Space Odyssey series; Hitchhikers Guide series; Narnia series; W. Gibson; N. Stephenson; Gabriel García Márquez; Bram Stoker's Dracula_
 
 
-_Evolution in Four Dimensions_
+_A World Without Why_ Raymond Geuss
+_Frankenstein_
 _The Grace of Kings_ Ken Liu 
 
 
@@ -221,26 +224,24 @@ _The Grace of Kings_ Ken Liu
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Evolution in Four Dimensions_	|	Eva Jablonka and Marion J. Lamb	|	EBOOK	|	Cognitive Edge recommendation	|
 |	_The Left Hand of Darkness_	|	Ursula K. Le Guin	|	EBOOK	|	Her short fiction. This is the first of her novels for me.	|
 |	_This Is How You Lose the Time War_	|	Amal El-Mohtar and Max Gladstone	|	EBOOK	|		|
 |	_The Alteration_	|	Kingsley Amis	|	EBOOK	|	_Lucky Jim_ and _That Certain Feeling_	|
 |	_The Sandman (1989), Volume 4 - Season of Mists_	|	Neil Gaiman	|	EBOOK	|		|
 |	_The Fifth Season_	|	N. K. Jemisin	|	EBOOK	|		|
 
+
 _Orlando_ Virginia Woolf 
 _American Gods_
 _Oryx and Crake_
-
 _The Buried Giant_ Kazuo Ishiguro
 _The Color of Magic_ Terry Pratchett
 _The City & the City_ China Miéville
 _The Yiddish Policeman’s Union_
 _Cryptonomicon_ Neal Stephenson
-_Frankenstein_
-
 _Natural-Born Cyborgs_ Andy Clark
-_A World Without Why_
+
 
 _Ender's Game_
 _The Dispossessed_
