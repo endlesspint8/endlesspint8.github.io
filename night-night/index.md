@@ -28,15 +28,18 @@ _The Stoic Challenge_
 _Intoxicated by My Illness_, Anatole Broyard
 _Cancer Ward_ by Aleksandr Solzhenitsyn
 _Natural Causes_ Barbara Ehrenreich
+_The Mansion of Happiness_
 
 
 ## The Rotten Apple
 
-**honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; The Bonfire of the Vanities; Bright Lights, Big City; Burr (Vidal); Call it Sleep; The Catcher in the Rye; Downtown (Hamill); Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; Invisible Man; Lush Life; Motherless Brooklyn; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Up in the Old Hotel and Other Stories_
+**honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; The Bonfire of the Vanities; Bright Lights, Big City; Burr (Vidal); Call it Sleep; The Catcher in the Rye; Downtown (Hamill); The Epic of New York City; Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; How the Other Half Lives; Invisible Man; Kitchen Confidential; Lush Life; Miles (Davis); Motherless Brooklyn; Paradise Alley; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Unlubricated; Up in the Old Hotel and Other Stories; A Walker in the City_
 
 _The Wanderers_ Richard Price (_Lush Life_)
 _Kafka Was the Rage_ Anatole Broyard
 _Another Country_ James Baldwin
+_Beyond the Melting Pot_
+_Gotham_
 
 
 
@@ -60,7 +63,7 @@ _Brilliant Orange_
 
 ## Drinking & Co.
 
-**honorable mention:** _Babylon Revisited; Drinking with Men; A Fan's Notes; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Rum Diaries_
+**honorable mention:** _Babylon Revisited; The Brewmaster's Table; Drinking with Men; A Fan's Notes; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Rum Diaries; Tasting Bear_
 
 _Everyday Drinking_, Kingsley Amis
 _Tobacco_, Iain Gately
@@ -72,6 +75,7 @@ _Chasing the Scream_
 _Under the Volcano_
 _The Shining_
 _Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slingerland
+_Jigger, Beaker and Glass_
 
 
 ## Dangerous Ideas
@@ -138,14 +142,22 @@ _Invisible Man_
 _Ubik_
 _Heart of Darkness_
 _Slaughterhouse Five_
+_Unbearable Lightness of Being_
+_Steppenwolf_
+_The Death and Life of Great American Cities_
+_Lincoln_ Gore Vidal
+_A Confederacy of Dunces_
 
 
 ## On the Road
 
-**honorable mention:** _Adrift_; _The Art of Travel_; _Blue Highways_; _The Colossus of Maroussi_; _Fear and Loathing in Las Vegas_; _The Hitchhiker's Guide to the Galaxy_ (series); _Jupiter's Travels_; _The Long Way Round_; _In Patagonia_; _Into the Wild_; _The Motorcycle Diaries_; _The Odyssey_; _On the Road_; PLF's Journey Across Europe trilogy; _The Road_; _Sex Lives Of Cannibals_; _Shantaram_; _Travel's with Charlie_; _Vagabonding_; _A Walk in the Woods_
+**honorable mention:** _Adrift_; _The Art of Travel_; _Blue Highways_; _The Colossus of Maroussi_; _Fear and Loathing in Las Vegas_; _The Hitchhiker's Guide to the Galaxy_ (series); _Jupiter's Travels_; _The Long Way Round_; _In Patagonia_; _Into the Wild_; _The Motorcycle Diaries_; _The Odyssey_; _On the Road_; PLF's Journey Across Europe trilogy; _The Road_; _Road Fever-; _Sex Lives Of Cannibals_; _Shantaram_; _Travels with Charlie_; _Vagabonding_; _A Walk in the Woods_
 
 _The Road to Oxiana_ Robert Byron [PLF]
 _Dark Star Safari_ Paul Theroux
+_The Travels of Ibn Battuta_
+_Discovery of India_
+_Let Us Now Praise Famous Men_
 
 
 ## I am serious and don't call me Shirley
@@ -407,7 +419,7 @@ https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-
 
 ## Summer '20 - 21 titles, theme: The Centre Cannot Hold
 
-**honorable mention:** Ronald Wright's Massey Lectures, [_A Shorty History of Progress_](https://www.cbc.ca/radio/ideas/the-2004-cbc-massey-lectures-a-short-history-of-progress-1.2946872); _Cadillac Desert_; _The Great Influenza_; _Silent Spring_; _The March of Folly_; _The Lorax_; [Doomsday Clock](https://thebulletin.org/doomsday-clock/current-time/#full-statement); [IPCC](https://www.ipcc.ch/sr15/); _The Mandibles_; _The Stand_; _The Road_
+**honorable mention:** Ronald Wright's Massey Lectures, [_A Shorty History of Progress_](https://www.cbc.ca/radio/ideas/the-2004-cbc-massey-lectures-a-short-history-of-progress-1.2946872); _Cadillac Desert_; _The Great Influenza_; _Silent Spring_; _The March of Folly_; _The Lorax_; [Doomsday Clock](https://thebulletin.org/doomsday-clock/current-time/#full-statement); [IPCC](https://www.ipcc.ch/sr15/); _The Mandibles_; _Pale Horse, Pale Rider_; _The Stand_; _The Road_
 
 **another time (_maybe_):** _The Long Emergency_; _American Violence_; _War on Peace_; _Dreamland_; _The Rise and Fall of the Great Powers_; _The Sleepwalkers_; _1177 B.C._; _Limits to Growth_; _Drawdown_; _The Broken Road_; _The Best and the Brightest_ David Halberstam; _Darkness Visible_ William Styron; _Success Stories_ Russell Banks; _Stabilizing an Unstable Economy_ Hyman P. Minsky
 
