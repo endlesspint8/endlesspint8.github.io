@@ -63,7 +63,7 @@ _Brilliant Orange_
 
 ## Drinking & Co.
 
-**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Drinking Life; Drinking with Men; A Fan's Notes; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Money; Rum Diaries; Tasting Bear; The Thought Gang_
+**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Drinking Life; Drinking with Men; A Fan's Notes; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Money; Rum Diaries; Tasting Bear; The Thought Gang_
 
 _Everyday Drinking_, Kingsley Amis
 _Tobacco_, Iain Gately
@@ -153,6 +153,7 @@ _Gay Science_
 _Watchmen_
 _The Four Tragedies_
 _Snow Crash or/er Diamond Age_
+_Otherwise Known as the Human Condition_
 
 
 ## On the Road
@@ -226,7 +227,7 @@ RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea E
 
 ## Summer '21 - x titles (y abandoned), theme: Speculate This
 
-**honorable mention:** _Asimov; Bram Stoker's Dracula; W. Gibson; Her Smoke Rose Up Forever; Hitchhikers Guide series; Gabriel García Márquez; Narnia series; PKD; Space Odyssey series; N. Stephenson; Vonnegut_
+**honorable mention:** _Asimov; Bram Stoker's Dracula; Her Smoke Rose Up Forever; Hitchhikers Guide series; Invisible Cities; Gabriel García Márquez; Narnia series; Neuromancer; PKD; Space Odyssey series; N. Stephenson; Vonnegut_
 
 
 _A World Without Why_ Raymond Geuss
@@ -509,7 +510,7 @@ https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-
 
 ## Autumn '19 - 25 titles (1 abandoned), theme: graphic novels?
 
-**honorable mention:** _The Dark Knight Returns, Watchmen, V for Vendetta, From Hell, Maus, 300, Jimmy Corrigan, Epileptic, Understanding Comics_
+**honorable mention:** _300; The Complete Persepolis; The Dark Knight Returns; Epileptic; From Hell; Jimmy Corrigan; Maus; Understanding Comic; V for Vendetta; Watchmen_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
