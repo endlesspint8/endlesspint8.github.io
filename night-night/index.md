@@ -80,7 +80,7 @@ _Jigger, Beaker and Glass_
 
 ## Dangerous Ideas
 
-**honorable mention:** _All Quiet on the Western Front_; _The Autobiography of Malcolm X_; _Brave New World_; _Bury My Heart at Wounded Knee_; _Cane_ (Toomer); _Catch-22_; _The Communist Manifesto_; _Doctor Zhivago_; _The Grapes of Wrath_; _High_Rise_; _The Jungle_; _Lolita_; _Madame Bovary_; _The Master and Margarita_; _Friedrich Nietzsche_; _Rights of Man_; _Slaughterhouse-Five_; _The Sorrows of Young Werther_; _The Story of O_; _Tropic of Cancer_; _Uncle Tom's Cabin_; _The Wretched of the Earth_
+**honorable mention:** _All Quiet on the Western Front; The Autobiography of Malcolm X; Brave New World; Bury My Heart at Wounded Knee; Cane (Toomer); Catch-22; The Communist Manifesto; Doctor Zhivago; The Grapes of Wrath; High_Rise; The Jungle; Lolita; Madame Bovary; The Master and Margarita; Montaigne's Essays; Friedrich Nietzsche; Rights of Man; Slaughterhouse-Five; The Sorrows of Young Werther; The Story of O; Tropic of Cancer; Uncle Tom's Cabin; The Wretched of the Earth_
 
 _A Room of One's Own_
 _Emma Goldman_
@@ -92,6 +92,9 @@ _Achieving our Country_ (Rorty, PDF)
 _H.L. Mencken_
 _Creating Freedom_ Raoul Martinez
 _The Deficit Myth_
+_Julie; or, The New Heloise_
+_The Last Temptation of Christ_
+
 
 ## Hold Overs
 
