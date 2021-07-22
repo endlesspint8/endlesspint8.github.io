@@ -63,7 +63,7 @@ _Brilliant Orange_
 
 ## Drinking & Co.
 
-**honorable mention:** _Babylon Revisited; The Brewmaster's Table; Drinking with Men; A Fan's Notes; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Rum Diaries; Tasting Bear_
+**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Drinking Life; Drinking with Men; A Fan's Notes; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Money; Rum Diaries; Tasting Bear; The Thought Gang_
 
 _Everyday Drinking_, Kingsley Amis
 _Tobacco_, Iain Gately
@@ -147,6 +147,12 @@ _Steppenwolf_
 _The Death and Life of Great American Cities_
 _Lincoln_ Gore Vidal
 _A Confederacy of Dunces_
+_Paris Spleen_
+_The Colossus of Maroussi_
+_Gay Science_
+_Watchmen_
+_The Four Tragedies_
+_Snow Crash or/er Diamond Age_
 
 
 ## On the Road
@@ -179,6 +185,7 @@ _Arms and the Man_ George Bernard Shaw
 _Scoop_ Evelyn Waugh
 _The Red Room_ August Strindberg
 _The Life and Opinions of Tristram Shandy_
+Aristophanes
 
 
 ## Between the Woods and the Water
@@ -219,7 +226,7 @@ RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea E
 
 ## Summer '21 - x titles (y abandoned), theme: Speculate This
 
-**honorable mention:** _Asimov; Vonnegut; PKD; Space Odyssey series; Hitchhikers Guide series; Narnia series; W. Gibson; N. Stephenson; Gabriel García Márquez; Bram Stoker's Dracula_
+**honorable mention:** _Asimov; Bram Stoker's Dracula; W. Gibson; Her Smoke Rose Up Forever; Hitchhikers Guide series; Gabriel García Márquez; Narnia series; PKD; Space Odyssey series; N. Stephenson; Vonnegut_
 
 
 _A World Without Why_ Raymond Geuss
