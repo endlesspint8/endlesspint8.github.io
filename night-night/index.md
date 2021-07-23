@@ -230,7 +230,7 @@ RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea E
 
 ## Summer '21 - x titles (y abandoned), theme: Speculate This
 
-**honorable mention:** _Asimov; Bram Stoker's Dracula; Her Smoke Rose Up Forever; Hitchhikers Guide series; Invisible Cities; Gabriel García Márquez; Narnia series; Neuromancer; PKD; Space Odyssey series; N. Stephenson; Vonnegut_
+**honorable mention:** _Asimov; Borges; Bram Stoker's Dracula; Chiang's Exhalation (Stories); Her Smoke Rose Up Forever; Hitchhikers Guide series; The Hobbit; Invisible Cities; Stanislaw Lem; Gabriel García Márquez; Narnia series; Neuromancer; PKD; Space Odyssey series; N. Stephenson; Vonnegut_
 
 
 _A World Without Why_ Raymond Geuss
@@ -263,6 +263,8 @@ _The Color of Magic_ Terry Pratchett
 _The City & the City_ China Miéville
 _The Yiddish Policeman’s Union_
 _Cryptonomicon_ Neal Stephenson
+
+_Code_
 _Natural-Born Cyborgs_ Andy Clark
 
 
@@ -272,7 +274,7 @@ _The Forever War_
 _Ancillary Justice_
 _The Gods Themselves_
 _Rendezvous with Rama_
-Stanislaw Lem
+
 
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
