@@ -291,7 +291,7 @@ https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-
 | _Refusing Heaven_, Jack Gilbert 	| _Omon Ra_, Victor Pelevin (trans Andrew Bromfield) 	| _The Drought_, J. G. Ballard |
 | _Serotonin_, Michel Houellebecq 	| _The Paper Menagerie and Other Stories_, Ken Liu 	| _The Uninhabitable Earth_, David Wallace-Wells |
 
-**honorable mention:** _Angels in America; Collapse; Glengarry Glen Ross; Heretics of Dune; Long Day's Journey into Night; Minor Feelings; Winners Take All_
+**honorable mention:** _Angels in America; The Black Prince; Collapse; Glengarry Glen Ross; Heretics of Dune; Long Day's Journey into Night; Minor Feelings; Winners Take All_
 
 
 ## Spring '21 - 19 titles (1 abandoned), theme: no-theme, sabatical season
