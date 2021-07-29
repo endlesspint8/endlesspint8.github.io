@@ -304,7 +304,7 @@ https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-
 | _Refusing Heaven_, Jack Gilbert 	| _Omon Ra_, Victor Pelevin (trans Andrew Bromfield) 	| _The Drought_, J. G. Ballard |
 | _Serotonin_, Michel Houellebecq 	| _The Paper Menagerie and Other Stories_, Ken Liu 	| _The Uninhabitable Earth_, David Wallace-Wells |
 
-**honorable mention:** _Angels in America; The Black Prince; Collapse; Glengarry Glen Ross; Heretics of Dune; Long Day's Journey into Night; Minor Feelings; Winners Take All_
+**honorable mention:** _Angels in America; The Black Prince; Collapse; Glengarry Glen Ross; The Great Transformation; Heretics of Dune; Long Day's Journey into Night; Minor Feelings; Winners Take All_
 
 
 ## Spring '21 - 19 titles (1 abandoned), theme: no-theme, sabatical season
@@ -312,7 +312,7 @@ https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|	_The Great Transformation_	|		|		|		|
+|	_The Great Transformation_	|	Karl Polanyi	|	EBOOK	|		|
 |	_The Black Prince_	|	Iris Murdoch	|	EBOOK	|	_The Sea, The Sea_ and _Under the Net_	|
 |	_Sabrina_	|	Nick Drnaso	|	EBOOK	|	Man Booker longlist and [Just Write video](https://youtu.be/Yuyu1y1m1s4)	|
 |	_Long Day's Journey into Night_	|	Eugene O'Neill	|	EBOOK	|	_The Iceman Cometh_	|
