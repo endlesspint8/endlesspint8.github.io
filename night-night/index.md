@@ -248,7 +248,7 @@ RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea E
 
 _A World Without Why_ Raymond Geuss
 _Frankenstein_
-_The Grace of Kings_ Ken Liu 
+_American Gods_
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -259,7 +259,7 @@ _The Grace of Kings_ Ken Liu
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Grace of Kings_	|	Ken Liu 	|	EBOOK	|	_The Paper Menagerie and Other Stories_	|
 |	_Evolution in Four Dimensions_	|	Eva Jablonka and Marion J. Lamb	|	EBOOK	|	Cognitive Edge recommendation	|
 |	_The Left Hand of Darkness_	|	Ursula K. Le Guin	|	EBOOK	|	Her short fiction. This is the first of her novels for me.	|
 |	_This Is How You Lose the Time War_	|	Amal El-Mohtar and Max Gladstone	|	EBOOK	|		|
@@ -269,7 +269,6 @@ _The Grace of Kings_ Ken Liu
 
 
 _Orlando_ Virginia Woolf 
-_American Gods_
 _Oryx and Crake_
 _The Buried Giant_ Kazuo Ishiguro
 _The Color of Magic_ Terry Pratchett
