@@ -88,7 +88,7 @@ _Brilliant Orange_
 
 ## Cane
 
-**honorable mention:** _The Autobiography of Malcolm X; Between the World and Me; Black Boy; Cane; Citizen; Dreams from my Father; Go Tell it on the Mountain; I Know Why the Caged Bird Sings; Lincoln; Narrative of The Life of Frederick Douglass; Notes of a Native Son; A Raisin in the Sun; Roots; Their Eyes Were Watching God; Uncle Tom's Cabin; The Underground Railroad; Unforgivable Blackness: The Rise and Fall of Jack Johnson; We Were Eight Years in Power; The Wretched of the Earth_
+**honorable mention:** _The Autobiography of Malcolm X; Between the World and Me; Black Boy; Cane; Citizen; Dreams from my Father; Go Tell it on the Mountain; I Know Why the Caged Bird Sings; Lincoln; Narrative of The Life of Frederick Douglass; Native Guard; Notes of a Native Son; A Raisin in the Sun; Roots; Their Eyes Were Watching God; Thirteen Ways of Looking at a Black Man; Uncle Tom's Cabin; The Underground Railroad; Unforgivable Blackness: The Rise and Fall of Jack Johnson; We Were Eight Years in Power; The Wretched of the Earth_
 
 Beloved
 My Bondage and My Freedom 
