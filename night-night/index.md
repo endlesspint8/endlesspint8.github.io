@@ -50,6 +50,7 @@ _Open City_
 _The Colossus of New York_
 _Another Country_
 _The Assistant_
+_Manchild in the Promised Land_ (SimplyE)
 
 https://www.penguinrandomhouse.com/the-read-down/new-york-city-books
 https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday
@@ -121,11 +122,12 @@ _Collapse of Complex Societies_ (hold over, PDF)
 
 ## Top Shelf Literature
 
-**honorable mention:** _1984; The Amazing Adventures of Kavalier and Clay; Anna Karenina; As I Lay Dying; The Bell Jar; Brave New World; Catch-22; A Clockword Orange; In Cold Blood; Crime and Punishment; East of Eden; Go Tell it on the Mountain; The Golden Notebook; The Grapes of Wrath; The Great Gatsby; Heart of Darkness; The Iliad; Invisible Man; Midnight's Children; Money: A Suicide Note; The Odyssey; One Hundred Years of Solitude; Pail Fire; Portnoy's Complaint; A Portrait of the Artist as a Young Man; Ragtime; The Secret Agent; Shakespeare; The Sun Also Rises; Tender is the Night; To the Lighthouse; Tropic of Cancer; Under the Net_
+**honorable mention:** _1984; The Amazing Adventures of Kavalier and Clay; Anna Karenina; As I Lay Dying; The Bell Jar; Brave New World; Cane; Catch-22; A Clockword Orange; In Cold Blood; Crime and Punishment; East of Eden; Go Tell it on the Mountain; The Golden Notebook; The Grapes of Wrath; The Great Gatsby; Heart of Darkness; The Iliad; Invisible Man; Madame Bovary; Midnight's Children; Money: A Suicide Note; The Odyssey; One Hundred Years of Solitude; Pail Fire; Portnoy's Complaint; A Portrait of the Artist as a Young Man; Ragtime; The Secret Agent; Shakespeare; The Sorrows of Young Werther; The Sun Also Rises; Tender is the Night; To the Lighthouse; Tropic of Cancer; Under the Net_
 
 _Don Quixote_
 _Moby Dick_
 _The Brothers Karamazov_
+_Paradise Lost_
 something Faulkner 
 
 ## Decision Making
@@ -245,6 +247,7 @@ RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea E
 
 **honorable mention:** _Asimov; Borges; Bram Stoker's Dracula; Chiang's Exhalation (Stories); Her Smoke Rose Up Forever; Hitchhikers Guide series; The Hobbit; Invisible Cities; Stanislaw Lem; Gabriel García Márquez; Narnia series; Neuromancer; PKD; Space Odyssey series; N. Stephenson; Vonnegut_
 
+**another time (_maybe_):** _Ender's Game; The Dispossessed; The Forever War; Ancillary Justice; The Gods Themselves; Rendezvous with Rama_
 
 _A World Without Why_ Raymond Geuss
 _Frankenstein_
@@ -276,18 +279,9 @@ _The City & the City_ China Miéville
 _The Yiddish Policeman’s Union_
 _Cryptonomicon_ Neal Stephenson
 
+_The Code Book_
 _Code_
 _Natural-Born Cyborgs_ Andy Clark
-
-
-_Ender's Game_
-_The Dispossessed_
-_The Forever War_
-_Ancillary Justice_
-_The Gods Themselves_
-_Rendezvous with Rama_
-
-
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
