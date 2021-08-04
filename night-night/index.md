@@ -48,9 +48,9 @@ _Breakfast at Tiffany's_
 _New York 2140_
 _Open City_
 _The Colossus of New York_
-_Another Country_
-_The Assistant_
+_The Assistant_ (SimplyE)
 _Manchild in the Promised Land_ (SimplyE)
+_Wrestling with Moses_
 
 https://www.penguinrandomhouse.com/the-read-down/new-york-city-books
 https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday
@@ -65,6 +65,17 @@ _Secondhand Time_ Svetlana Alexievich
 _The Gambler_ Fyodor Dostoyevsky
 
 
+## The Sweet Science?
+
+**honorable mention:** _Cinderella Man; Fat City; A Fighter's Heart; The Fight; On Boxing; Pound for Pound; The Professional; The Sweet Science; Tunney; Unforgivable Blackness_
+
+Four Kings
+A Neutral Corner
+Ghosts of Manilla
+At the Fights
+I Fight for a Living
+Boxing: A Cultural History
+
 
 ## Going Dutch
 
@@ -75,13 +86,31 @@ _An Untouched House_ Willem Frederik Hermans
 _Brilliant Orange_
 
 
+## Cane
+
+**honorable mention:** _The Autobiography of Malcolm X; Between the World and Me; Black Boy; Cane; Citizen; Dreams from my Father; Go Tell it on the Mountain; I Know Why the Caged Bird Sings; Lincoln; Narrative of The Life of Frederick Douglass; Notes of a Native Son; A Raisin in the Sun; Roots; Their Eyes Were Watching God; Uncle Tom's Cabin; The Underground Railroad; Unforgivable Blackness: The Rise and Fall of Jack Johnson; We Were Eight Years in Power; The Wretched of the Earth_
+
+Beloved
+My Bondage and My Freedom 
+The Confessions of Nat Turner
+The Souls of Black Folk
+The Ways of White Folks
+Race Matters
+The Warmth of Other Suns
+The Water Dancer
+New Jim Crow
+The Devil Finds Work 
+The Collected Essays of Ralph Ellison
+A Colony in a Nation
+Slavery by Another Name
+
+
 ## Drinking & Co.
 
-**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Drinking Life; Drinking with Men; A Fan's Notes; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Money; Rum Diaries; Tasting Bear; The Thought Gang_
+**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Drinking Life; Drinking with Men; A Fan's Notes; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Rum Diaries; Tasting Bear; The Thought Gang_
 
 _Everyday Drinking_, Kingsley Amis
 _Tobacco_, Iain Gately
-_Long Day's Journey into Night_, Eugene O'Neill
 _Drunks_, Christopher Finan
 _On Booze_, F. Scott Fitzgerald
 _I Drink Therefore I Am_, Roger Scruton
@@ -172,6 +201,7 @@ _Watchmen_
 _The Four Tragedies_
 _Snow Crash or/er Diamond Age_
 _Otherwise Known as the Human Condition_
+_The Fight_
 
 
 ## On the Road
