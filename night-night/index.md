@@ -33,7 +33,7 @@ _The Mansion of Happiness_
 
 ## The Rotten Apple
 
-**honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; Big City; The Bonfire of the Vanities; The Brief Wondrous Life of Oscar Wao; Bright Lights, Burr (Vidal); Call it Sleep; The Catcher in the Rye; Downtown (Hamill); The Death and Life of Great American Cities; The Epic of New York City; Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; How the Other Half Lives; Invisible Man; Kitchen Confidential; Lush Life; Miles (Davis); Money; Motherless Brooklyn; My Misspent Youth; The New York Trilogy; Paradise Alley; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Unlubricated; Up in the Old Hotel and Other Stories; A Walker in the City; Washington Square; Watchmen_
+**honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; Big City; The Bonfire of the Vanities; Born to Use Mics; The Brief Wondrous Life of Oscar Wao; Bright Lights, Burr (Vidal); Call it Sleep; Can't Stop Won't Stop; The Catcher in the Rye; Downtown (Hamill); The Death and Life of Great American Cities; The Epic of New York City; Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; Honky; How the Other Half Lives; Invisible Man; Kitchen Confidential; Lush Life; Miles (Davis); Money; Motherless Brooklyn; My Misspent Youth; The New York Trilogy; Paradise Alley; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Unlubricated; Up in the Old Hotel and Other Stories; A Walker in the City; Washington Square; Watchmen_
 
 _The Wanderers_ Richard Price (_Lush Life_)
 _Kafka Was the Rage_ Anatole Broyard
@@ -103,7 +103,7 @@ The Devil Finds Work
 The Collected Essays of Ralph Ellison
 A Colony in a Nation
 Slavery by Another Name
-Parting the Waters
+Parting the Waters (SimplyE)
 
 
 ## Drinking & Co.
