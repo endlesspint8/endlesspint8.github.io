@@ -88,7 +88,7 @@ _Brilliant Orange_
 
 ## Cane
 
-**honorable mention:** _The Autobiography of Malcolm X; Between the World and Me; Black Boy; Cane; Citizen; Dreams from my Father; Go Tell it on the Mountain; I Know Why the Caged Bird Sings; Lincoln; Narrative of The Life of Frederick Douglass; Native Guard; Notes of a Native Son; A Raisin in the Sun; Roots; Their Eyes Were Watching God; Thirteen Ways of Looking at a Black Man; Uncle Tom's Cabin; The Underground Railroad; Unforgivable Blackness: The Rise and Fall of Jack Johnson; We Were Eight Years in Power; The Wretched of the Earth_
+**honorable mention:** _The Autobiography of Malcolm X; Between the World and Me; Black Boy; Cane; Citizen; Dreams from my Father; Go Tell it on the Mountain; I Know Why the Caged Bird Sings; Lincoln; Narrative of The Life of Frederick Douglass; Native Guard; Notes of a Native Son; A People's History of the United States; A Raisin in the Sun; Roots; Their Eyes Were Watching God; Thirteen Ways of Looking at a Black Man; Uncle Tom's Cabin; The Underground Railroad; Unforgivable Blackness: The Rise and Fall of Jack Johnson; We Were Eight Years in Power; The Wretched of the Earth_
 
 Beloved
 My Bondage and My Freedom 
@@ -103,6 +103,7 @@ The Devil Finds Work
 The Collected Essays of Ralph Ellison
 A Colony in a Nation
 Slavery by Another Name
+Parting the Waters
 
 
 ## Drinking & Co.
@@ -123,7 +124,7 @@ _Jigger, Beaker and Glass_
 
 ## Dangerous Ideas
 
-**honorable mention:** _All Quiet on the Western Front; The Autobiography of Malcolm X; Brave New World; Bury My Heart at Wounded Knee; Cane (Toomer); Catch-22; The Communist Manifesto; Doctor Zhivago; The Grapes of Wrath; High_Rise; The Jungle; Lolita; Madame Bovary; The Master and Margarita; Montaigne's Essays; Friedrich Nietzsche; Rights of Man; Slaughterhouse-Five; The Sorrows of Young Werther; The Story of O; Tropic of Cancer; Uncle Tom's Cabin; The Wretched of the Earth_
+**honorable mention:** _All Quiet on the Western Front; The Autobiography of Malcolm X; Brave New World; Bury My Heart at Wounded Knee; Cane (Toomer); Catch-22; The Communist Manifesto; Doctor Zhivago; The Grapes of Wrath; High_Rise; The Jungle; Lolita; Madame Bovary; The Master and Margarita; Montaigne's Essays; Friedrich Nietzsche; A People's History of the United States; Rights of Man; Slaughterhouse-Five; The Sorrows of Young Werther; The Story of O; Tropic of Cancer; Uncle Tom's Cabin; The Wretched of the Earth_
 
 _A Room of One's Own_
 _Emma Goldman_
