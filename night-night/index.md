@@ -280,9 +280,16 @@ RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea E
 
 **another time (_maybe_):** _Ender's Game; The Dispossessed; The Forever War; Ancillary Justice; The Gods Themselves; Rendezvous with Rama_
 
-_A World Without Why_ Raymond Geuss
-_Frankenstein_
-_American Gods_
+_Cryptonomicon_ Neal Stephenson
+_The Buried Giant_ Kazuo Ishiguro
+_The Color of Magic_ Terry Pratchett
+_The City & the City_ China Miéville
+_The Code Book_
+_Code_
+
+_Natural-Born Cyborgs_ Andy Clark
+_American Gods_ Neil Gaiman
+_The Wanderer_ Peter Van den Ende
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -293,26 +300,22 @@ _American Gods_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_A World Without Why_	|	Raymond Geuss	|	EBOOK	|	_Philosophy and Real Politics_	|
+|	_Frankenstein_	|	Mary Shelley	|	EBOOK	|		|
 |	_The Grace of Kings_	|	Ken Liu 	|	EBOOK	|	_The Paper Menagerie and Other Stories_	|
 |	_Evolution in Four Dimensions_	|	Eva Jablonka and Marion J. Lamb	|	EBOOK	|	Cognitive Edge recommendation	|
 |	_The Left Hand of Darkness_	|	Ursula K. Le Guin	|	EBOOK	|	Her short fiction. This is the first of her novels for me.	|
 |	_This Is How You Lose the Time War_	|	Amal El-Mohtar and Max Gladstone	|	EBOOK	|		|
 |	_The Alteration_	|	Kingsley Amis	|	EBOOK	|	_Lucky Jim_ and _That Certain Feeling_	|
-|	_The Sandman (1989), Volume 4 - Season of Mists_	|	Neil Gaiman	|	EBOOK	|		|
+|	_The Sandman (1989), Volume 4 - Season of Mists_	|	Neil Gaiman	|	EBOOK	|	_The Sandman (1989), Volume 3 - Dream Country_	|
 |	_The Fifth Season_	|	N. K. Jemisin	|	EBOOK	|		|
 
 
 _Orlando_ Virginia Woolf 
 _Oryx and Crake_
-_The Buried Giant_ Kazuo Ishiguro
-_The Color of Magic_ Terry Pratchett
-_The City & the City_ China Miéville
 _The Yiddish Policeman’s Union_
-_Cryptonomicon_ Neal Stephenson
-
-_The Code Book_
-_Code_
-_Natural-Born Cyborgs_ Andy Clark
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
@@ -351,7 +354,7 @@ https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-
 |	_Thirteen Ways of Looking at a Black Man_	|	Henry Louis Gates, Jr.	|	EBOOK	|	[Flavorwire 25 Greatest Essay Collections], almost done with list	|
 |	_The Underground Railroad_	|	Colson Whitehead	|	EBOOK	|		|
 |	_Minor Feelings_	|	Cathy Park Hong	|	EBOOK	|	_Engine Empire_	|
-|	_The Sandman (1989), Volume 3 - Dream Country_	|	Neil Gaiman	|	EBOOK	|		|
+|	_The Sandman (1989), Volume 3 - Dream Country_	|	Neil Gaiman	|	EBOOK	|	_The Sandman (1989), Volume 2 - The Doll's House_	|
 |	_The Air-Conditioned Nightmare_	|	Henry Miller	|	EBOOK	|	_The Colossus of Maroussi_ & _Tropic of Cancer_	|
 |	_Heretics of Dune_	|	Frank Herbert	|	PRINT	|	The penultimate. Can't stop now.	|
 |	_Sweat_	|	Lynn Nottage	|	EBOOK	|		|
