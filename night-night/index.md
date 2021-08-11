@@ -287,9 +287,9 @@ _The City & the City_ China Miéville
 _The Code Book_
 _Code_
 
+_The Dunwich Horror_ H. P. Lovecraft
 _Natural-Born Cyborgs_ Andy Clark
 _American Gods_ Neil Gaiman
-_The Wanderer_ Peter Van den Ende
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -301,7 +301,7 @@ _The Wanderer_ Peter Van den Ende
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Wanderer_	|	Peter Van den Ende	|	EBOOK	|		|
 |	_A World Without Why_	|	Raymond Geuss	|	EBOOK	|	_Philosophy and Real Politics_	|
 |	_Frankenstein_	|	Mary Shelley	|	EBOOK	|		|
 |	_The Grace of Kings_	|	Ken Liu 	|	EBOOK	|	_The Paper Menagerie and Other Stories_	|
