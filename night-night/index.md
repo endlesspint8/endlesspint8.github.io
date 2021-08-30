@@ -214,6 +214,7 @@ _Dark Star Safari_ Paul Theroux
 _The Travels of Ibn Battuta_
 _Discovery of India_
 _Let Us Now Praise Famous Men_
+Marco Polo
 
 
 ## I am serious and don't call me Shirley
@@ -242,7 +243,7 @@ Aristophanes
 
 **honorable mention:** _The Book of My Lives; The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Unbearable Lightness of Being; Zorba the Greek_
 
-**wish list:** _Ashes and Diamonds; The Good Life Elsewhere; Little Infamies_
+**wish list:** _Ashes and Diamonds; The Good Life Elsewhere; Little Infamies; From Peoples into Nations_
 
 _Eastern Europe!_
 _The Balkan Wars_
