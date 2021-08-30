@@ -278,18 +278,14 @@ RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea E
 
 **honorable mention:** _Asimov; Borges; Bram Stoker's Dracula; Chiang's Exhalation (Stories); Her Smoke Rose Up Forever; Hitchhikers Guide series; The Hobbit; Invisible Cities; Stanislaw Lem; Gabriel García Márquez; Narnia series; Neuromancer; PKD; Space Odyssey series; N. Stephenson; Vonnegut_
 
-**another time (_maybe_):** _Ender's Game; The Dispossessed; The Forever War; Ancillary Justice; The Gods Themselves; Rendezvous with Rama_
+**another time (_maybe_):** _Ender's Game; The Dispossessed; The Forever War; Ancillary Justice; The Gods Themselves; Rendezvous with Rama; Orlando_ (Virginia Woolf); _Oryx and Crake; Cryptonomicon_ (joined by Code and The Code Book)
 
-_Cryptonomicon_ Neal Stephenson
+
+_The Yiddish Policeman’s Union_
 _The Buried Giant_ Kazuo Ishiguro
 _The Color of Magic_ Terry Pratchett
-_The City & the City_ China Miéville
-_The Code Book_
-_Code_
-
-_The Dunwich Horror_ H. P. Lovecraft
-_Natural-Born Cyborgs_ Andy Clark
-_American Gods_ Neil Gaiman
+_The Complete Cosmicomics_ Italo Calvino 
+ 
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -297,10 +293,10 @@ _American Gods_ Neil Gaiman
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_The Dunwich Horror_	|	H. P. Lovecraft	|	EBOOK	|	First one from Lovecraft, had to jump in sometime.	|
+|	_The City & the City_	|	China Miéville	|	EBOOK	|		|
+|	_American Gods_	|	Neil Gaiman	|	EBOOK	|		|
+|	_Natural-Born Cyborgs_	|	Andy Clark	|	EBOOK	|	Interest in embedded cognition	|
 |	_The Wanderer_	|	Peter Van den Ende	|	EBOOK	|		|
 |	_A World Without Why_	|	Raymond Geuss	|	EBOOK	|	_Philosophy and Real Politics_	|
 |	_Frankenstein_	|	Mary Shelley	|	EBOOK	|		|
@@ -312,10 +308,6 @@ _American Gods_ Neil Gaiman
 |	_The Sandman (1989), Volume 4 - Season of Mists_	|	Neil Gaiman	|	EBOOK	|	_The Sandman (1989), Volume 3 - Dream Country_	|
 |	_The Fifth Season_	|	N. K. Jemisin	|	EBOOK	|		|
 
-
-_Orlando_ Virginia Woolf 
-_Oryx and Crake_
-_The Yiddish Policeman’s Union_
 
 https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
