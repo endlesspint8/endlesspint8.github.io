@@ -63,6 +63,7 @@ _A Swim in a Pond in the Rain_ George Sauders
 _One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE)
 _Secondhand Time_ Svetlana Alexievich
 _The Gambler_ Fyodor Dostoyevsky
+_Oblomov_ Ivan Goncharov
 
 
 ## The Sweet Science?
@@ -120,6 +121,7 @@ _Under the Volcano_
 _The Shining_
 _Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slingerland
 _Jigger, Beaker and Glass_
+_The Republic of Wine_
 
 
 ## Dangerous Ideas
@@ -291,7 +293,7 @@ _The Buried Giant_ Kazuo Ishiguro
 |		|		|		|		|
 |		|		|		|		|
 |	_The Color of Magic_	|	Terry Pratchett	|	EBOOK	|		|
-|	~~_The Complete Cosmicomics_~~	|	~~Italo Calvino ~~	|	~~EBOOK~~	|	Bigger fan of _Invisible Cities_; finished half, read all original Cosmicomics and a few of later ones; time was a factor here, prioritized the longer fiction books in this section	|
+|	~~_The Complete Cosmicomics_~~	|	~~Italo Calvino~~	|	~~EBOOK~~	|	Bigger fan of _Invisible Cities_; finished half, read all original Cosmicomics and a few of later ones; time was a factor here, prioritized the longer fiction books in this section	|
 |	_The Dunwich Horror_	|	H. P. Lovecraft	|	EBOOK	|	First one from Lovecraft, had to jump in sometime.	|
 |	_The City & the City_	|	China Miéville	|	EBOOK	|		|
 |	_American Gods_	|	Neil Gaiman	|	EBOOK	|		|
