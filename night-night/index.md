@@ -275,25 +275,23 @@ PL: Stanislaw Lem (e.g., _One Human Minute_); _The Painted Bird_ Jerzy Kosinski;
 RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea Eliade; _Adventures In Immediate Irreality_ Max Blecher; _Train to Trieste_
 
 
-## Summer '21 - x titles (y abandoned), theme: Speculate This
+## Summer '21 - x titles (1 abandoned), theme: Speculate This
 
-**honorable mention:** _Asimov; Borges; Bram Stoker's Dracula; Chiang's Exhalation (Stories); Her Smoke Rose Up Forever; Hitchhikers Guide series; The Hobbit; Invisible Cities; Stanislaw Lem; Gabriel García Márquez; Narnia series; Neuromancer; PKD; Space Odyssey series; N. Stephenson; Vonnegut_
+**honorable mention:** _Asimov; Borges; Bram Stoker's Dracula; Chiang's Exhalation (Stories); Her Smoke Rose Up Forever; Hitchhikers Guide series; The Hobbit; Stanislaw Lem; Gabriel García Márquez; Narnia series; Neuromancer; PKD; Space Odyssey series; N. Stephenson; Vonnegut_
 
 **another time (_maybe_):** _Ender's Game; The Dispossessed; The Forever War; Ancillary Justice; The Gods Themselves; Rendezvous with Rama; Orlando_ (Virginia Woolf); _Oryx and Crake; Cryptonomicon_ (joined by Code and The Code Book)
 
 
 _The Yiddish Policeman’s Union_
 _The Buried Giant_ Kazuo Ishiguro
-_The Color of Magic_ Terry Pratchett
-_The Complete Cosmicomics_ Italo Calvino 
- 
 
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Color of Magic_	|	Terry Pratchett	|	EBOOK	|		|
+|	~~_The Complete Cosmicomics_~~	|	~~Italo Calvino ~~	|	~~EBOOK~~	|	Bigger fan of _Invisible Cities_; finished half, read all original Cosmicomics and a few of later ones; time was a factor here, prioritized the longer fiction books in this section	|
 |	_The Dunwich Horror_	|	H. P. Lovecraft	|	EBOOK	|	First one from Lovecraft, had to jump in sometime.	|
 |	_The City & the City_	|	China Miéville	|	EBOOK	|		|
 |	_American Gods_	|	Neil Gaiman	|	EBOOK	|		|
