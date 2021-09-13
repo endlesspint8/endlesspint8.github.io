@@ -289,10 +289,12 @@ _The Yiddish Policeman’s Union_
 _The Buried Giant_ Kazuo Ishiguro
 
 
+
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
+|	_Batman: Year One_	|	Frank Miller	|	EBOOK	|	_Batman: The Dark Knight Returns_, _300_, & [Forbidden Planet 50]	|
 |	_The Color of Magic_	|	Terry Pratchett	|	EBOOK	|		|
 |	~~_The Complete Cosmicomics_~~	|	~~Italo Calvino~~	|	~~EBOOK~~	|	Bigger fan of _Invisible Cities_; finished half, read all original Cosmicomics and a few of later ones; time was a factor here, prioritized the longer fiction books in this section	|
 |	_The Dunwich Horror_	|	H. P. Lovecraft	|	EBOOK	|	First one from Lovecraft, had to jump in sometime.	|
