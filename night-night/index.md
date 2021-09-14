@@ -284,16 +284,12 @@ RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea E
 
 **another time (_maybe_):** _Ender's Game; The Dispossessed; The Forever War; Ancillary Justice; The Gods Themselves; Rendezvous with Rama; Orlando_ (Virginia Woolf); _Oryx and Crake; Cryptonomicon_ (joined by Code and The Code Book)
 
-
-_The Yiddish Policeman’s Union_
 _The Buried Giant_ Kazuo Ishiguro
-
-
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Yiddish Policeman’s Union_	|	Michael Chabon	|	EBOOK	|	_The Amazing Adventures of Kavalier & Clay_	|
 |	_Batman: Year One_	|	Frank Miller	|	EBOOK	|	_Batman: The Dark Knight Returns_, _300_, & [Forbidden Planet 50]	|
 |	_The Color of Magic_	|	Terry Pratchett	|	EBOOK	|		|
 |	~~_The Complete Cosmicomics_~~	|	~~Italo Calvino~~	|	~~EBOOK~~	|	Bigger fan of _Invisible Cities_; finished half, read all original Cosmicomics and a few of later ones; time was a factor here, prioritized the longer fiction books in this section	|
