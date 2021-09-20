@@ -7,7 +7,7 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 
 
 
-Completed to date: 14%
+Completed to date: 16%
 
 ## Death & Co.
 
@@ -242,11 +242,22 @@ _The Life and Opinions of Tristram Shandy_
 Aristophanes
 
 
-## Between the Woods and the Water
+## Autumn '21 - x titles (y abandoned), theme: Between the Woods and the Water
 
 **honorable mention:** _The Book of My Lives; The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Unbearable Lightness of Being; Zorba the Greek_
 
-**wish list:** _Ashes and Diamonds; The Good Life Elsewhere; Little Infamies; From Peoples into Nations_
+**wish list:** _Ashes and Diamonds; The Good Life Elsewhere; Little Infamies; From Peoples into Nations; Adventures In Immediate Irreality_
+
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
 
 _Eastern Europe!_
 _The Balkan Wars_
@@ -255,9 +266,9 @@ _Bloodlands_ Timothy Snyder
 _My Century_ Aleksander Wat
 _Balkan Ghosts_ (SimplyE)
 _In Europe's Shadow_
+_The Fault Line_ Paolo Rumiz
 
-another section, another time: _The Fault Line_ Paolo Rumiz; _Fire and Blood_ ; LT: _Vilnius Poker_ Ricardas Gavelis
-
+another section, another time:  _Fire and Blood_ ; LT: _Vilnius Poker_ Ricardas Gavelis
 
 AL: _The Traitor's Niche_ Ismail Kadare
 
@@ -275,20 +286,19 @@ HR: _No-Signal Area_ Robert Perisic
 
 PL: Stanislaw Lem (e.g., _One Human Minute_); _The Painted Bird_ Jerzy Kosinski; _The Mountains of Parnassus_ Czesław Miłosz
 
-RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea Eliade; _Adventures In Immediate Irreality_ Max Blecher; _Train to Trieste_
+RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea Eliade; _Train to Trieste_
 
 
-## Summer '21 - x titles (1 abandoned), theme: Speculate This
+## Summer '21 - 18 titles (1 abandoned), theme: Speculate This
 
 **honorable mention:** _Asimov; Borges; Bram Stoker's Dracula; Chiang's Exhalation (Stories); Her Smoke Rose Up Forever; Hitchhikers Guide series; The Hobbit; Stanislaw Lem; Gabriel García Márquez; Narnia series; Neuromancer; PKD; Space Odyssey series; N. Stephenson; Vonnegut_
 
-**another time (_maybe_):** _Ender's Game; The Dispossessed; The Forever War; Ancillary Justice; The Gods Themselves; Rendezvous with Rama; Orlando_ (Virginia Woolf); _Oryx and Crake; Cryptonomicon_ (joined by Code and The Code Book)
+**another time (_maybe_):** _Ender's Game; The Dispossessed; The Best of Gene Wolfe; The Forever War; Ancillary Justice; The Gods Themselves; Rendezvous with Rama; Orlando_ (Virginia Woolf); _Oryx and Crake; Cryptonomicon_ (joined by Code and The Code Book); and [here](https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/)
 
-_The Buried Giant_ Kazuo Ishiguro
-
+ 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
+|	_The Buried Giant_	|	Kazuo Ishiguro	|	EBOOK	|	_Never Let Me Go_	|
 |	_The Yiddish Policeman’s Union_	|	Michael Chabon	|	EBOOK	|	_The Amazing Adventures of Kavalier & Clay_	|
 |	_Batman: Year One_	|	Frank Miller	|	EBOOK	|	_Batman: The Dark Knight Returns_, _300_, & [Forbidden Planet 50]	|
 |	_The Color of Magic_	|	Terry Pratchett	|	EBOOK	|		|
@@ -308,8 +318,6 @@ _The Buried Giant_ Kazuo Ishiguro
 |	_The Sandman (1989), Volume 4 - Season of Mists_	|	Neil Gaiman	|	EBOOK	|	_The Sandman (1989), Volume 3 - Dream Country_	|
 |	_The Fifth Season_	|	N. K. Jemisin	|	EBOOK	|		|
 
-
-https://www.barnesandnoble.com/blog/sci-fi-fantasy/the-novels-that-won-both-the-hugo-and-nebula-awards-ranked/
 
 ---
 
