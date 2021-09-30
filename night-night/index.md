@@ -183,6 +183,7 @@ _Capitalism, Socialism, Ecology_ Andre Gorz
 _The Pleasure Trap_ Douglas J. Lisle, Ph.D.
 _Consumer Society Reader_
 _HBR's 10 Must Reads on Strategy_
+_The Grand Chessboard_ (Brzezinski)
 
 
 ## You're All My Favorites
@@ -256,10 +257,10 @@ Aristophanes
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_Diary of a Short-Sighted Adolescent_ 	|	Mircea Eliade	|	EBOOK	|	RO //	|
+|	_Eastern Europe!_	|	Tomek E. Jankowski	|	EBOOK	|	Best to start off with a baseline survery of the region.	|
 
-_Eastern Europe!_
+
 _The Balkan Wars_
 _Iron Curtain_ Anne Applebaum
 _Bloodlands_ Timothy Snyder
@@ -286,7 +287,7 @@ HR: _No-Signal Area_ Robert Perisic
 
 PL: Stanislaw Lem (e.g., _One Human Minute_); _The Painted Bird_ Jerzy Kosinski; _The Mountains of Parnassus_ Czesław Miłosz
 
-RO: _Blinding_ Mircea Cartarescu; _Diary of a Short-Sighted Adolescent_ Mircea Eliade; _Train to Trieste_
+RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
 
 
 ## Summer '21 - 18 titles (1 abandoned), theme: Speculate This
