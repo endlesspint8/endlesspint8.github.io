@@ -257,16 +257,20 @@ Aristophanes
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|	_Diary of a Short-Sighted Adolescent_ 	|	Mircea Eliade	|	EBOOK	|	RO //	|
+|		|		|		|		|
+|	_The Balkan Wars_	|		|	EBOOK	|	The beginning of the end.	|
+|	_The Painted Bird_	|	Jerzy Kosinski	|	EBOOK	|	PL // and [Time 100 Novels]	|
+|	_In Europe's Shadow_	|	Robert D. Kaplan	|	EBOOK	|	RO //	|
+|	_Diary of a Short-Sighted Adolescent_ 	|	Mircea Eliade	|	EBOOK	|	RO // _The Sacred and the Profane_	|
 |	_Eastern Europe!_	|	Tomek E. Jankowski	|	EBOOK	|	Best to start off with a baseline survery of the region.	|
 
 
-_The Balkan Wars_
-_Iron Curtain_ Anne Applebaum
+
 _Bloodlands_ Timothy Snyder
+_Iron Curtain_ Anne Applebaum
 _My Century_ Aleksander Wat
 _Balkan Ghosts_ (SimplyE)
-_In Europe's Shadow_
+
 _The Fault Line_ Paolo Rumiz
 
 another section, another time:  _Fire and Blood_ ; LT: _Vilnius Poker_ Ricardas Gavelis
@@ -285,7 +289,7 @@ HU: _Embers_ Sandor Marai; _Cyclops_ Ranko Marinkovic
 
 HR: _No-Signal Area_ Robert Perisic
 
-PL: Stanislaw Lem (e.g., _One Human Minute_); _The Painted Bird_ Jerzy Kosinski; _The Mountains of Parnassus_ Czesław Miłosz
+PL: Stanislaw Lem (e.g., _One Human Minute_); _The Mountains of Parnassus_ Czesław Miłosz
 
 RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
 
