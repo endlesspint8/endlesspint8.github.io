@@ -247,7 +247,7 @@ Aristophanes
 
 **honorable mention:** _The Book of My Lives; The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Unbearable Lightness of Being; Zorba the Greek_
 
-**wish list:** _Ashes and Diamonds; The Good Life Elsewhere; Little Infamies; From Peoples into Nations; Adventures In Immediate Irreality_
+**wish list:** _Adventures In Immediate Irreality; Ashes and Diamonds; The Good Life Elsewhere; Little Infamies; From Peoples into Nations; The Street of Crocodiles_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -269,14 +269,14 @@ Aristophanes
 AT-HU: _Messages from a Lost World_ Stefan Zweig
 _Bloodlands_ Timothy Snyder
 _Iron Curtain_ Anne Applebaum
-_Second-hand Time_
+_Secondhand Time_
 
 _My Century_ Aleksander Wat
 _Balkan Ghosts_ (SimplyE)
 
 _The Fault Line_ Paolo Rumiz
 
-another section, another time:  _Fire and Blood_ ; LT: _Vilnius Poker_ Ricardas Gavelis
+another section, another time:  _Fire and Blood_ ; 
 
 AL: _The Traitor's Niche_ Ismail Kadare
 
@@ -290,7 +290,9 @@ HU: _Embers_ Sandor Marai; _Cyclops_ Ranko Marinkovic
 
 HR: _No-Signal Area_ Robert Perisic
 
-PL: Stanislaw Lem (e.g., _One Human Minute_); _The Mountains of Parnassus_ Czesław Miłosz
+LT: _Vilnius Poker_ Ricardas Gavelis
+
+PL: _Fatelessness_; _The Mountains of Parnassus_ Czesław Miłosz
 
 RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
 
