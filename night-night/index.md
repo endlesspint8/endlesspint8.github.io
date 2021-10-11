@@ -257,17 +257,20 @@ Aristophanes
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Dancing Lessons for the Advanced in Age_	|	Bohumil Hrabal	|	EBOOK	|		|
 |	_The Balkan Wars_	|		|	EBOOK	|	The beginning of the end.	|
-|	_The Painted Bird_	|	Jerzy Kosinski	|	EBOOK	|	PL // and [Time 100 Novels]	|
+|	_The Painted Bird_	|	Jerzy Kosinski	|	EBOOK	|	PL // and [Time 100 Novels]. Simply devastating; read with caution.	|
 |	_In Europe's Shadow_	|	Robert D. Kaplan	|	EBOOK	|	RO //	|
 |	_Diary of a Short-Sighted Adolescent_ 	|	Mircea Eliade	|	EBOOK	|	RO // _The Sacred and the Profane_	|
 |	_Eastern Europe!_	|	Tomek E. Jankowski	|	EBOOK	|	Best to start off with a baseline survery of the region.	|
 
 
 
+AT-HU: _Messages from a Lost World_ Stefan Zweig
 _Bloodlands_ Timothy Snyder
 _Iron Curtain_ Anne Applebaum
+_Second-hand Time_
+
 _My Century_ Aleksander Wat
 _Balkan Ghosts_ (SimplyE)
 
@@ -277,13 +280,11 @@ another section, another time:  _Fire and Blood_ ; LT: _Vilnius Poker_ Ricardas 
 
 AL: _The Traitor's Niche_ Ismail Kadare
 
-AT-HU: _Messages from a Lost World_ Stefan Zweig
-
 BA: _Nowhere Man_ Aleksandar Hemon
 
 BG: _The Physics of Sorrow_ Georgi Gospodinov; _18% Gray_ Zachary Karabashliev
 
-CZ: _The Good Soldier Švejk_; _Waiting for the Dark, Waiting for the Light_ Ivan Klíma; _Dancing Lessons for the Advanced in Age_ Bohumil Hrabal
+CZ: _The Good Soldier Švejk_; _Waiting for the Dark, Waiting for the Light_ Ivan Klíma
 
 HU: _Embers_ Sandor Marai; _Cyclops_ Ranko Marinkovic
 
