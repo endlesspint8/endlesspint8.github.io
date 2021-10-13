@@ -256,14 +256,13 @@ Aristophanes
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|	_Dancing Lessons for the Advanced in Age_	|	Bohumil Hrabal	|	EBOOK	|		|
+|	_The Physics of Sorrow_	|	Georgi Gospodinov	|	EBOOK	|	BG // 	|
 |	_The Balkan Wars_	|		|	EBOOK	|	The beginning of the end.	|
+|	_Dancing Lessons for the Advanced in Age_	|	Bohumil Hrabal	|	EBOOK	|	CZ // Reminiscent of Bernhard's _Concrete_ but lighter. You gotta be a fan of the European Renaissance.	|
 |	_The Painted Bird_	|	Jerzy Kosinski	|	EBOOK	|	PL // and [Time 100 Novels]. Simply devastating; read with caution.	|
 |	_In Europe's Shadow_	|	Robert D. Kaplan	|	EBOOK	|	RO //	|
 |	_Diary of a Short-Sighted Adolescent_ 	|	Mircea Eliade	|	EBOOK	|	RO // _The Sacred and the Profane_	|
 |	_Eastern Europe!_	|	Tomek E. Jankowski	|	EBOOK	|	Best to start off with a baseline survery of the region.	|
-
 
 
 AT-HU: _Messages from a Lost World_ Stefan Zweig
@@ -282,13 +281,13 @@ AL: _The Traitor's Niche_ Ismail Kadare
 
 BA: _Nowhere Man_ Aleksandar Hemon
 
-BG: _The Physics of Sorrow_ Georgi Gospodinov; _18% Gray_ Zachary Karabashliev
+BG: _18% Gray_ Zachary Karabashliev
 
 CZ: _The Good Soldier Švejk_; _Waiting for the Dark, Waiting for the Light_ Ivan Klíma
 
-HU: _Embers_ Sandor Marai; _Cyclops_ Ranko Marinkovic
+HU: _Embers_ Sandor Marai
 
-HR: _No-Signal Area_ Robert Perisic
+HR: _No-Signal Area_ Robert Perisic; _Cyclops_ Ranko Marinkovic
 
 LT: _Vilnius Poker_ Ricardas Gavelis
 
