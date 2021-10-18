@@ -245,7 +245,7 @@ Aristophanes
 
 ## Autumn '21 - x titles (y abandoned), theme: Between the Woods and the Water
 
-**honorable mention:** _The Book of My Lives; The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Unbearable Lightness of Being; Zorba the Greek_
+**honorable mention:** _The Book of My Lives; The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Unbearable Lightness of Being; View with a Grain of Sand; Zorba the Greek_
 
 **wish list:** _Adventures In Immediate Irreality; Ashes and Diamonds; The Good Life Elsewhere; Little Infamies; From Peoples into Nations; The Street of Crocodiles_
 
@@ -499,7 +499,7 @@ RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
 |	_Flowers of Evil_ 	|	Charles Baudelaire (ed. Marthiel Mathews)	|	EBOOK	|		|
 |	_The Windup Girl_	|	Paolo Bacigalupi	|	EBOOK	|		|
 |	_The Storm Before the Storm_	|	Mike Duncan	|	AUDIOBOOK	|	A distant mirror of sorts. 	|
-|	_The Crooked Timber of Humanity_ 	|	Isaiah Berlin	|	EBOOK	|	_Against the Grain_	|
+|	_The Crooked Timber of Humanity_ 	|	Isaiah Berlin	|	EBOOK	|	_Against the Current_	|
 |	_Betrayal_	|	Harold Pinter	|	EBOOK	|		|
 |	_Days of Destruction, Days of Revolt_	|	Chris Hedges	|	EBOOK	|	Pick anything he's written	|
 |	_The Bell Jar_	|		|	EBOOK	|		|
