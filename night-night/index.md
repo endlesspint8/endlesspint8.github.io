@@ -256,6 +256,10 @@ Aristophanes
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_Messages from a Lost World_	|	Stefan Zweig	|	EBOOK	|	Post Habsburg reflections; _Beware of Pity_ 	|
 |	_The Physics of Sorrow_	|	Georgi Gospodinov	|	EBOOK	|	BG // 	|
 |	_The Balkan Wars_	|		|	EBOOK	|	The beginning of the end.	|
 |	_Dancing Lessons for the Advanced in Age_	|	Bohumil Hrabal	|	EBOOK	|	CZ // Reminiscent of Bernhard's _Concrete_ but lighter. You gotta be a fan of the European Renaissance.	|
@@ -265,7 +269,7 @@ Aristophanes
 |	_Eastern Europe!_	|	Tomek E. Jankowski	|	EBOOK	|	Best to start off with a baseline survery of the region.	|
 
 
-AT-HU: _Messages from a Lost World_ Stefan Zweig
+  
 _Bloodlands_ Timothy Snyder
 _Iron Curtain_ Anne Applebaum
 _Secondhand Time_
