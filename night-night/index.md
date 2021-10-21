@@ -245,6 +245,7 @@ _Scoop_ Evelyn Waugh
 _The Red Room_ August Strindberg
 _The Life and Opinions of Tristram Shandy_
 Aristophanes
+_Being There_
 
 
 ## Autumn '21 - x titles (y abandoned), theme: Between the Woods and the Water
@@ -261,7 +262,7 @@ Aristophanes
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|	_Bloodlands_	|	Timothy Snyder	|	EBOOK	|		|
+|	_Bloodlands_	|	Timothy Snyder	|	EBOOK	|	_On Tyranny_	|
 |	_No-Signal Area_	|	Robert Perisic	|	EBOOK	|	HR //	|
 |	_Messages from a Lost World_	|	Stefan Zweig	|	EBOOK	|	Post Habsburg reflections; _Beware of Pity_ 	|
 |	_The Physics of Sorrow_	|	Georgi Gospodinov	|	EBOOK	|	BG // 	|
