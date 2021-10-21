@@ -107,6 +107,7 @@ Slavery by Another Name
 Parting the Waters (SimplyE)
 August Wilson (SimplyE)
 The Hero and the Blues _Albert Murray_ (13 ways to look)
+Blood in the Water
 
 
 ## Drinking & Co.
@@ -138,6 +139,7 @@ _The Satanic Verses_
 _Democracy Incorporated_
 _Achieving our Country_ (Rorty, PDF)
 _H.L. Mencken_
+_Antonio Gramsci_
 _Creating Freedom_ Raoul Martinez
 _The Deficit Myth_
 _Julie; or, The New Heloise_
