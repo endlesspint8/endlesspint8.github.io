@@ -106,6 +106,7 @@ A Colony in a Nation
 Slavery by Another Name
 Parting the Waters (SimplyE)
 August Wilson (SimplyE)
+The Hero and the Blues _Albert Murray_ (13 ways to look)
 
 
 ## Drinking & Co.
