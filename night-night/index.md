@@ -105,6 +105,7 @@ The Collected Essays of Ralph Ellison
 A Colony in a Nation
 Slavery by Another Name
 Parting the Waters (SimplyE)
+August Wilson (SimplyE)
 
 
 ## Drinking & Co.
@@ -257,11 +258,11 @@ Aristophanes
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_Bloodlands_	|	Timothy Snyder	|	EBOOK	|		|
+|	_No-Signal Area_	|	Robert Perisic	|	EBOOK	|	HR //	|
 |	_Messages from a Lost World_	|	Stefan Zweig	|	EBOOK	|	Post Habsburg reflections; _Beware of Pity_ 	|
 |	_The Physics of Sorrow_	|	Georgi Gospodinov	|	EBOOK	|	BG // 	|
-|	_The Balkan Wars_	|		|	EBOOK	|	The beginning of the end.	|
+|	_The Balkan Wars_	|	Jacob Gould Schurman	|	EBOOK	|	The beginning of the end.	|
 |	_Dancing Lessons for the Advanced in Age_	|	Bohumil Hrabal	|	EBOOK	|	CZ // Reminiscent of Bernhard's _Concrete_ but lighter. You gotta be a fan of the European Renaissance.	|
 |	_The Painted Bird_	|	Jerzy Kosinski	|	EBOOK	|	PL // and [Time 100 Novels]. Simply devastating; read with caution.	|
 |	_In Europe's Shadow_	|	Robert D. Kaplan	|	EBOOK	|	RO //	|
@@ -270,7 +271,7 @@ Aristophanes
 
 
   
-_Bloodlands_ Timothy Snyder
+ 
 _Iron Curtain_ Anne Applebaum
 _Secondhand Time_
 
@@ -291,7 +292,7 @@ CZ: _The Good Soldier Švejk_; _Waiting for the Dark, Waiting for the Light_ Iva
 
 HU: _Embers_ Sandor Marai
 
-HR: _No-Signal Area_ Robert Perisic; _Cyclops_ Ranko Marinkovic
+HR: _Cyclops_ Ranko Marinkovic
 
 LT: _Vilnius Poker_ Ricardas Gavelis
 
