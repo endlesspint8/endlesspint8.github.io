@@ -261,7 +261,7 @@ _Being There_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Nowhere Man_ 	|	Aleksandar Hemon	|	EBOOK	|	BA // _The Book of My Lives_	|
 |	_Bloodlands_	|	Timothy Snyder	|	EBOOK	|	_On Tyranny_	|
 |	_No-Signal Area_	|	Robert Perisic	|	EBOOK	|	HR //	|
 |	_Messages from a Lost World_	|	Stefan Zweig	|	EBOOK	|	Post Habsburg reflections; _Beware of Pity_ 	|
@@ -288,8 +288,6 @@ another section, another time:  _Fire and Blood_ ;
 
 AL: _The Traitor's Niche_ Ismail Kadare
 
-BA: _Nowhere Man_ Aleksandar Hemon
-
 BG: _18% Gray_ Zachary Karabashliev
 
 CZ: _The Good Soldier Švejk_; _Waiting for the Dark, Waiting for the Light_ Ivan Klíma
@@ -303,6 +301,18 @@ LT: _Vilnius Poker_ Ricardas Gavelis
 PL: _Fatelessness_; _The Mountains of Parnassus_ Czesław Miłosz
 
 RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
+
+---
+
+### Triple Five Roll 5
+
+|	Best Fiction-ish	|	Most Entertaining	| Think on It |
+|	---	|	---	|	---	|
+| _Engine Empire_, Cathy Park Hong 	| _Concrete_, Thomas Bernhard 	| _Evolution in Four Dimensions_, Eva Jablonka and Marion J. Lamb |
+| _Flights_, Olga Tokarczuk 	| _Life for Sale_, Yukio Mishima 	| _Minor Feelings_, Cathy Park Hong |
+| _Serotonin_, Michel Houellebecq 	| _Omon Ra_, Victor Pelevin (trans Andrew Bromfield) 	| _Natural-Born Cyborgs_, Andy Clark |
+| _The Left Hand of Darkness_, Ursula K. Le Guin 	| _The Color of Magic_, Terry Pratchett 	| _The End of Policing_, Alex S. Vitale |
+| _This Is How You Lose the Time War_, Amal El-Mohtar and Max Gladstone 	| _The Paper Menagerie and Other Stories_, Ken Liu 	| _The Uninhabitable Earth_, David Wallace-Wells |
 
 
 ## Summer '21 - 18 titles (1 abandoned), theme: Speculate This
