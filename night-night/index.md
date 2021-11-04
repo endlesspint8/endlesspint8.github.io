@@ -314,6 +314,7 @@ RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
 | _The Left Hand of Darkness_, Ursula K. Le Guin 	| _The Color of Magic_, Terry Pratchett 	| _The End of Policing_, Alex S. Vitale |
 | _This Is How You Lose the Time War_, Amal El-Mohtar and Max Gladstone 	| _The Paper Menagerie and Other Stories_, Ken Liu 	| _The Uninhabitable Earth_, David Wallace-Wells |
 
+**honorable mention:** _American Gods; The Buried Giant; Frankenstein; Sabrina; The Yiddish Policeman's Union; The Wanderer; A World Without Why_
 
 ## Summer '21 - 18 titles (1 abandoned), theme: Speculate This
 
