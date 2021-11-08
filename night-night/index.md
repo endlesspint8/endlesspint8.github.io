@@ -261,8 +261,9 @@ _Being There_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|	_Nowhere Man_ 	|	Aleksandar Hemon	|	EBOOK	|	BA // _The Book of My Lives_	|
+|	_The Traitor's Niche_	|	Ismail Kadare	|	EBOOK	|	AL //	|
 |	_Bloodlands_	|	Timothy Snyder	|	EBOOK	|	_On Tyranny_	|
+|	_Nowhere Man_ 	|	Aleksandar Hemon	|	EBOOK	|	BA // _The Book of My Lives_	|
 |	_No-Signal Area_	|	Robert Perisic	|	EBOOK	|	HR //	|
 |	_Messages from a Lost World_	|	Stefan Zweig	|	EBOOK	|	Post Habsburg reflections; _Beware of Pity_ 	|
 |	_The Physics of Sorrow_	|	Georgi Gospodinov	|	EBOOK	|	BG // 	|
@@ -285,8 +286,6 @@ _Balkan Ghosts_ (SimplyE)
 _The Fault Line_ Paolo Rumiz
 
 another section, another time:  _Fire and Blood_ ; 
-
-AL: _The Traitor's Niche_ Ismail Kadare
 
 BG: _18% Gray_ Zachary Karabashliev
 
