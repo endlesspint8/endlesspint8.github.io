@@ -260,7 +260,7 @@ _Being There_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Iron Curtain_	|	Anne Applebaum	|	EBOOK	|		|
 |	_The Traitor's Niche_	|	Ismail Kadare	|	EBOOK	|	AL //	|
 |	_Bloodlands_	|	Timothy Snyder	|	EBOOK	|	_On Tyranny_	|
 |	_Nowhere Man_ 	|	Aleksandar Hemon	|	EBOOK	|	BA // _The Book of My Lives_	|
@@ -277,7 +277,7 @@ _Being There_
 
   
  
-_Iron Curtain_ Anne Applebaum
+
 _Secondhand Time_
 
 _My Century_ Aleksander Wat
