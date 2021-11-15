@@ -259,10 +259,10 @@ _Being There_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|	_Iron Curtain: The Crushing of Eastern Europe, 1944-1956_	|	Anne Applebaum	|	EBOOK	|		|
+|	_Memoirs of an Anti-Semite_	|	Gregor von Rezzori	|	EBOOK	|	RO // 	|
+|	_Iron Curtain: The Crushing of Eastern Europe, 1944-1956_	|	Anne Applebaum	|	EBOOK	|	GDR, PL, HU //	|
 |	_The Traitor's Niche_	|	Ismail Kadare	|	EBOOK	|	AL //	|
-|	_Bloodlands: Europe Between Hitler and Stalin_	|	Timothy Snyder	|	EBOOK	|	_On Tyranny_	|
+|	_Bloodlands: Europe Between Hitler and Stalin_	|	Timothy Snyder	|	EBOOK	|	PL, LT, LV, EE, BY, UA (CZ, SK, HU, RO) // _On Tyranny_	|
 |	_Nowhere Man_ 	|	Aleksandar Hemon	|	EBOOK	|	BA // _The Book of My Lives_	|
 |	_No-Signal Area_	|	Robert Perisic	|	EBOOK	|	HR //	|
 |	_Messages from a Lost World: Europe on the Brink_	|	Stefan Zweig	|	EBOOK	|	Post Habsburg reflections; _Beware of Pity_ 	|
@@ -275,8 +275,6 @@ _Being There_
 |	_Eastern Europe!: Everything You Need to Know About the History (and More) of a Region that Shaped Our World and Still Does_	|	Tomek E. Jankowski	|	EBOOK	|	Best to start off with a baseline survery of the region.	|
 
 
-  
- 
 
 _Secondhand Time_
 
