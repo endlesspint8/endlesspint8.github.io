@@ -247,6 +247,42 @@ _The Life and Opinions of Tristram Shandy_
 Aristophanes
 _Being There_
 
+## Winter '22 - x titles (y abandoned), theme: The Broken Road
+
+**honorable mention:** see previous section
+
+**wish list:**
+
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+
+
+_My Century_ Aleksander Wat
+_Balkan Ghosts_ (SimplyE)
+
+_The Fault Line_ Paolo Rumiz
+
+another section, another time:  _Fire and Blood_ ; 
+
+BG: _18% Gray_ Zachary Karabashliev
+
+CZ: ; _Waiting for the Dark, Waiting for the Light_ Ivan Klíma
+
+HU: _Embers_ Sandor Marai
+
+HR: _Cyclops_ Ranko Marinkovic
+
+LT: _Vilnius Poker_ Ricardas Gavelis
+
+PL: _Fatelessness_; 
+
+RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
+
 
 ## Autumn '21 - x titles (y abandoned), theme: Between the Woods and the Water
 
@@ -257,10 +293,11 @@ _Being There_
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|	_Memoirs of an Anti-Semite_	|	Gregor von Rezzori	|	EBOOK	|	RO // 	|
+|	_Secondhand Time_	|		|	EBOOK	|		|
+|	_The Good Soldier Švejk_	|		|	PRINT	|	CZ // One of the inspirations, motivations for this theme; been meaning to read this title for years. Happy to finally get around to it.	|
+|	_The Mountains of Parnassus_	|	Czesław Miłosz	|	EBOOK	|	PL //	|
 |	_Iron Curtain: The Crushing of Eastern Europe, 1944-1956_	|	Anne Applebaum	|	EBOOK	|	GDR, PL, HU //	|
+|	_Memoirs of an Anti-Semite_	|	Gregor von Rezzori	|	EBOOK	|	Bukovina // 	|
 |	_The Traitor's Niche_	|	Ismail Kadare	|	EBOOK	|	AL //	|
 |	_Bloodlands: Europe Between Hitler and Stalin_	|	Timothy Snyder	|	EBOOK	|	PL, LT, LV, EE, BY, UA (CZ, SK, HU, RO) // _On Tyranny_	|
 |	_Nowhere Man_ 	|	Aleksandar Hemon	|	EBOOK	|	BA // _The Book of My Lives_	|
@@ -273,31 +310,6 @@ _Being There_
 |	_In Europe's Shadow: Two Cold Wars and a Thirty-Year Journey Through Romania and Beyond_	|	Robert D. Kaplan	|	EBOOK	|	RO //	|
 |	_Diary of a Short-Sighted Adolescent_ 	|	Mircea Eliade	|	EBOOK	|	RO // _The Sacred and the Profane_	|
 |	_Eastern Europe!: Everything You Need to Know About the History (and More) of a Region that Shaped Our World and Still Does_	|	Tomek E. Jankowski	|	EBOOK	|	Best to start off with a baseline survery of the region.	|
-
-
-
-_Secondhand Time_
-
-_My Century_ Aleksander Wat
-_Balkan Ghosts_ (SimplyE)
-
-_The Fault Line_ Paolo Rumiz
-
-another section, another time:  _Fire and Blood_ ; 
-
-BG: _18% Gray_ Zachary Karabashliev
-
-CZ: _The Good Soldier Švejk_; _Waiting for the Dark, Waiting for the Light_ Ivan Klíma
-
-HU: _Embers_ Sandor Marai
-
-HR: _Cyclops_ Ranko Marinkovic
-
-LT: _Vilnius Poker_ Ricardas Gavelis
-
-PL: _Fatelessness_; _The Mountains of Parnassus_ Czesław Miłosz
-
-RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
 
 ---
 
