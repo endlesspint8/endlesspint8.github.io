@@ -56,6 +56,12 @@ https://www.penguinrandomhouse.com/the-read-down/new-york-city-books
 https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday
 https://bookriot.com/100-must-read-new-york-city-novels/
 
+## Americana
+
+**honorable mention:** _Blood Meridian; Death of a Salesman; The Scarlet Letter; _
+
+_Only Yesterday; Since Yesterday_
+_Butcher's Crossing_
 
 ## From Russia with Letters
 
