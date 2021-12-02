@@ -58,10 +58,13 @@ https://bookriot.com/100-must-read-new-york-city-novels/
 
 ## Americana
 
-**honorable mention:** _Blood Meridian; Death of a Salesman; The Scarlet Letter; _
+**honorable mention:** _American Pastoral; Babbitt; Blood Meridian; Catch-22; Death of a Salesman; Faulkner; How the Other Half Live; In Cold Blood; The Jungle; McPhee; On the Road; Poe; The Scarlet Letter; To Kill a Mockingbird; Steinbeck; Studs Terkel; Twain; Walden; Whitman_
 
 _Only Yesterday; Since Yesterday_
 _Butcher's Crossing_
+_Moby Dick_
+_Collected Essays of Emerson_
+_An American Tragedy_
 
 ## From Russia with Letters
 
