@@ -31,7 +31,7 @@ _Natural Causes_ Barbara Ehrenreich
 _The Mansion of Happiness_
 
 
-## The Rotten Apple
+## The Rotten Manzana
 
 **honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; Big City; The Bonfire of the Vanities; Born to Use Mics; The Brief Wondrous Life of Oscar Wao; Bright Lights, Burr (Vidal); Call it Sleep; Can't Stop Won't Stop; The Catcher in the Rye; Downtown (Hamill); The Death and Life of Great American Cities; The Epic of New York City; Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; Honky; How the Other Half Lives; Invisible Man; Kitchen Confidential; Lush Life; Miles (Davis); Money; Motherless Brooklyn; My Misspent Youth; The New York Trilogy; Paradise Alley; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Unlubricated; Up in the Old Hotel and Other Stories; A Walker in the City; Washington Square; Watchmen_
 
@@ -153,6 +153,7 @@ _Creating Freedom_ Raoul Martinez
 _The Deficit Myth_
 _Julie; or, The New Heloise_
 _The Last Temptation of Christ_
+_Why Civil Resistance Works_
 
 
 ## Hold Overs
@@ -236,7 +237,7 @@ Marco Polo
 
 ## I am serious and don't call me Shirley
 
-**honorable mention:** _Catch-22; Fear and Loathing in Las Vegas; The Master and Margarita; The Sellout_
+**honorable mention:** _Catch-22; Fear and Loathing in Las Vegas; The Good Soldier Švejk; The Master and Margarita; The Sellout_
 
 _The House of God_ Samuel Shem, M.D.
 _Look Who's Back_ Timur Vermes
@@ -302,16 +303,16 @@ RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
-|	_Secondhand Time_	|		|	EBOOK	|		|
-|	_The Good Soldier Švejk_	|		|	PRINT	|	CZ // One of the inspirations, motivations for this theme; been meaning to read this title for years. Happy to finally get around to it.	|
-|	_The Mountains of Parnassus_	|	Czesław Miłosz	|	EBOOK	|	PL //	|
+|	_Secondhand Time: The Last of the Soviets_	|	Svetlana Alexievich	|	EBOOK	|	BY, RU, UA //	|
+|	_The Good Soldier Švejk_	|	Jaroslav Hasek	|	PRINT	|	CZ // One of the inspirations, motivations for this theme; been meaning to read this title for years. Happy to finally get around to it.	|
+|	_The Mountains of Parnassus_	|	Czesław Miłosz	|	EBOOK	|	PL // Haunting	|
 |	_Iron Curtain: The Crushing of Eastern Europe, 1944-1956_	|	Anne Applebaum	|	EBOOK	|	GDR, PL, HU //	|
-|	_Memoirs of an Anti-Semite_	|	Gregor von Rezzori	|	EBOOK	|	Bukovina // 	|
+|	_Memoirs of an Anti-Semite_	|	Gregor von Rezzori	|	EBOOK	|	Bukovina, Galicia, Bucharest, Vienna, Post Habsburg reflections // 	|
 |	_The Traitor's Niche_	|	Ismail Kadare	|	EBOOK	|	AL //	|
 |	_Bloodlands: Europe Between Hitler and Stalin_	|	Timothy Snyder	|	EBOOK	|	PL, LT, LV, EE, BY, UA (CZ, SK, HU, RO) // _On Tyranny_	|
 |	_Nowhere Man_ 	|	Aleksandar Hemon	|	EBOOK	|	BA // _The Book of My Lives_	|
 |	_No-Signal Area_	|	Robert Perisic	|	EBOOK	|	HR //	|
-|	_Messages from a Lost World: Europe on the Brink_	|	Stefan Zweig	|	EBOOK	|	Post Habsburg reflections; _Beware of Pity_ 	|
+|	_Messages from a Lost World: Europe on the Brink_	|	Stefan Zweig	|	EBOOK	|	Post Habsburg reflections // _Beware of Pity_ 	|
 |	_The Physics of Sorrow_	|	Georgi Gospodinov	|	EBOOK	|	BG // 	|
 |	_The Balkan Wars_	|	Jacob Gould Schurman	|	EBOOK	|	The beginning of the end.	|
 |	_Dancing Lessons for the Advanced in Age_	|	Bohumil Hrabal	|	EBOOK	|	CZ // Reminiscent of Bernhard's _Concrete_ but lighter. You gotta be a fan of the European Renaissance.	|
