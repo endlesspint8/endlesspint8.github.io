@@ -7,7 +7,7 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 
 
 
-Completed to date: 16%
+Completed to date: 18%
 
 ## Death & Co.
 
@@ -29,6 +29,7 @@ _Intoxicated by My Illness_, Anatole Broyard
 _Cancer Ward_ by Aleksandr Solzhenitsyn
 _Natural Causes_ Barbara Ehrenreich
 _The Mansion of Happiness_
+_War Is a Force that Gives Us Meaning_
 
 
 ## The Rotten Manzana
@@ -232,6 +233,7 @@ _The Travels of Ibn Battuta_
 _Discovery of India_
 _Let Us Now Praise Famous Men_
 _Creation_ Vidal
+_Eastward to Tartary_
 Marco Polo
 
 
@@ -294,7 +296,7 @@ PL: _Fatelessness_;
 RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
 
 
-## Autumn '21 - x titles (y abandoned), theme: Between the Woods and the Water
+## Autumn '21 - 17 titles (none abandoned), theme: Between the Woods and the Water
 
 **honorable mention:** _The Book of My Lives; The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Unbearable Lightness of Being; View with a Grain of Sand; Zorba the Greek_
 
@@ -302,8 +304,7 @@ RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
-|	_Secondhand Time: The Last of the Soviets_	|	Svetlana Alexievich	|	EBOOK	|	BY, RU, UA //	|
+|	_Secondhand Time: The Last of the Soviets_	|	Svetlana Alexievich	|	EBOOK	|	BY, RU, UA (AM, AZ, TJ) // Ironically so well written that it reminds you of the limits and insufficiency of words to cover something as rich and difficult as a human life. [Nobel Prize in Literature], _“for her polyphonic writings, a monument to suffering and courage in our time”_	|
 |	_The Good Soldier Švejk_	|	Jaroslav Hasek	|	PRINT	|	CZ // One of the inspirations, motivations for this theme; been meaning to read this title for years. Happy to finally get around to it.	|
 |	_The Mountains of Parnassus_	|	Czesław Miłosz	|	EBOOK	|	PL // Haunting	|
 |	_Iron Curtain: The Crushing of Eastern Europe, 1944-1956_	|	Anne Applebaum	|	EBOOK	|	GDR, PL, HU //	|
