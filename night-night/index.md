@@ -74,6 +74,7 @@ _One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE)
 _Secondhand Time_ Svetlana Alexievich
 _The Gambler_ Fyodor Dostoyevsky
 _Oblomov_ Ivan Goncharov
+_Rock, Paper, Scissors And Other Stories_ Maxim Osipov
 
 
 ## The Sweet Science?
