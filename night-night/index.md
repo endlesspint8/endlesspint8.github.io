@@ -273,18 +273,21 @@ _Being There_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_The Fault Line_	|	Paolo Rumiz	|	EBOOK	|		|
+|	_18% Gray_	|	Zachary Karabashliev	|	EBOOK	|	BG //	|
 
 
 _My Century_ Aleksander Wat
 _Balkan Ghosts_ (SimplyE)
 
-_The Fault Line_ Paolo Rumiz
 
 another section, another time:  _Fire and Blood_ ; 
 
-BG: _18% Gray_ Zachary Karabashliev
-
-CZ: ; _Waiting for the Dark, Waiting for the Light_ Ivan Klíma
+CZ: _Waiting for the Dark, Waiting for the Light_ Ivan Klíma
 
 HU: _Embers_ Sandor Marai
 
@@ -292,7 +295,7 @@ HR: _Cyclops_ Ranko Marinkovic
 
 LT: _Vilnius Poker_ Ricardas Gavelis
 
-PL: _Fatelessness_; 
+PL: _Fatelessness_
 
 RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
 
@@ -305,8 +308,8 @@ RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|	_Secondhand Time: The Last of the Soviets_	|	Svetlana Alexievich	|	EBOOK	|	BY, RU, UA (AM, AZ, TJ) // Ironically so well written that it reminds you of the limits and insufficiency of words to cover something as rich and difficult as a human life. [Nobel Prize in Literature], _“for her polyphonic writings, a monument to suffering and courage in our time”_	|
 |	_The Good Soldier Švejk_	|	Jaroslav Hasek	|	PRINT	|	CZ // One of the inspirations, motivations for this theme; been meaning to read this title for years. Happy to finally get around to it.	|
+|	_Secondhand Time: The Last of the Soviets_	|	Svetlana Alexievich	|	EBOOK	|	BY, RU, UA (AM, AZ, TJ) // Ironically so well written that it reminds you of the limits and insufficiency of words to cover something as rich and difficult as a human life. [Nobel Prize in Literature], _“for her polyphonic writings, a monument to suffering and courage in our time”_	|
 |	_The Mountains of Parnassus_	|	Czesław Miłosz	|	EBOOK	|	PL // Haunting	|
 |	_Iron Curtain: The Crushing of Eastern Europe, 1944-1956_	|	Anne Applebaum	|	EBOOK	|	GDR, PL, HU //	|
 |	_Memoirs of an Anti-Semite_	|	Gregor von Rezzori	|	EBOOK	|	Bukovina, Galicia, Bucharest, Vienna, Post Habsburg reflections // 	|
