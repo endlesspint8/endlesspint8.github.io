@@ -313,13 +313,13 @@ RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
 |	_The Mountains of Parnassus_	|	Czesław Miłosz	|	EBOOK	|	PL // Haunting	|
 |	_Iron Curtain: The Crushing of Eastern Europe, 1944-1956_	|	Anne Applebaum	|	EBOOK	|	GDR, PL, HU //	|
 |	_Memoirs of an Anti-Semite_	|	Gregor von Rezzori	|	EBOOK	|	Bukovina, Galicia, Bucharest, Vienna, Post Habsburg reflections // 	|
-|	_The Traitor's Niche_	|	Ismail Kadare	|	EBOOK	|	AL //	|
+|	_The Traitor's Niche_	|	Ismail Kadare	|	EBOOK	|	AL, Ottoman Empire //	|
 |	_Bloodlands: Europe Between Hitler and Stalin_	|	Timothy Snyder	|	EBOOK	|	PL, LT, LV, EE, BY, UA (CZ, SK, HU, RO) // _On Tyranny_	|
 |	_Nowhere Man_ 	|	Aleksandar Hemon	|	EBOOK	|	BA // _The Book of My Lives_	|
 |	_No-Signal Area_	|	Robert Perisic	|	EBOOK	|	HR //	|
 |	_Messages from a Lost World: Europe on the Brink_	|	Stefan Zweig	|	EBOOK	|	Post Habsburg reflections // _Beware of Pity_ 	|
 |	_The Physics of Sorrow_	|	Georgi Gospodinov	|	EBOOK	|	BG // 	|
-|	_The Balkan Wars_	|	Jacob Gould Schurman	|	EBOOK	|	The beginning of the end.	|
+|	_The Balkan Wars_	|	Jacob Gould Schurman	|	EBOOK	|	BG, GR, ME, RO, RS, Ottoman Empire // The beginning of the end.	|
 |	_Dancing Lessons for the Advanced in Age_	|	Bohumil Hrabal	|	EBOOK	|	CZ // Reminiscent of Bernhard's _Concrete_ but lighter. You gotta be a fan of the European Renaissance.	|
 |	_The Painted Bird_	|	Jerzy Kosinski	|	EBOOK	|	PL // and [Time 100 Novels]. Simply devastating; read with caution.	|
 |	_In Europe's Shadow: Two Cold Wars and a Thirty-Year Journey Through Romania and Beyond_	|	Robert D. Kaplan	|	EBOOK	|	RO //	|
