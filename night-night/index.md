@@ -278,6 +278,7 @@ _Being There_
 |		|		|		|		|
 |		|		|		|		|
 |	_The Fault Line_	|	Paolo Rumiz	|	EBOOK	|		|
+|	_Embers_	|	Sandor Marai	|	EBOOK	|	HU, Post Habsburg reflections //	|
 |	_18% Gray_	|	Zachary Karabashliev	|	EBOOK	|	BG //	|
 
 
@@ -287,9 +288,7 @@ _Balkan Ghosts_ (SimplyE)
 
 another section, another time:  _Fire and Blood_ ; 
 
-CZ: _Waiting for the Dark, Waiting for the Light_ Ivan Klíma
-
-HU: _Embers_ Sandor Marai
+CZ: _Waiting for the Dark, Waiting for the Light_ Ivan Klíma  
 
 HR: _Cyclops_ Ranko Marinkovic
 
@@ -297,12 +296,12 @@ LT: _Vilnius Poker_ Ricardas Gavelis
 
 PL: _Fatelessness_
 
-RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
+RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_; _History and Utopia_
 
 
 ## Autumn '21 - 17 titles (none abandoned), theme: Between the Woods and the Water
 
-**honorable mention:** _The Book of My Lives; The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Unbearable Lightness of Being; View with a Grain of Sand; Zorba the Greek_
+**honorable mention:** _The Book of My Lives; The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Trouble with Being Born; The Unbearable Lightness of Being; View with a Grain of Sand; Zorba the Greek_
 
 **wish list:** _Adventures In Immediate Irreality; Ashes and Diamonds; The Good Life Elsewhere; Little Infamies; From Peoples into Nations; The Street of Crocodiles_
 
