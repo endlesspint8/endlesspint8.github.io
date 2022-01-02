@@ -5,260 +5,8 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 ---
 
 
-
-
 Completed to date: 18%
 
-## Death & Co.
-
-_Martial Arts and Philosophy_
-_How to Live_, Sarah Bakewell
-_Japanese Death Poems_, Yoel Hoffmann
-_Dead Souls_, Nikolai Gogol
-_The Posthumous Memoirs of Brás Cubas_, Joaquim Maria Machado de Assis
-_Death on the Installment Plan_
-_Chasing the Scream_
-_Madwomen_
-_Cancer Ward_ Aleksandr Solzhenitsyn
-_The Best American Noir of the Century_, James Ellroy
-_American Violence_, Richard Hofstadter
-_Sickness onto Death_
-_Last Works_, Mark C. Taylor
-_The Stoic Challenge_
-_Intoxicated by My Illness_, Anatole Broyard
-_Cancer Ward_ by Aleksandr Solzhenitsyn
-_Natural Causes_ Barbara Ehrenreich
-_The Mansion of Happiness_
-_War Is a Force that Gives Us Meaning_
-
-
-## The Rotten Manzana
-
-**honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; Big City; The Bonfire of the Vanities; Born to Use Mics; The Brief Wondrous Life of Oscar Wao; Bright Lights, Burr (Vidal); Call it Sleep; Can't Stop Won't Stop; The Catcher in the Rye; Downtown (Hamill); The Death and Life of Great American Cities; The Epic of New York City; Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; Honky; How the Other Half Lives; Invisible Man; Kitchen Confidential; Lush Life; Miles (Davis); Money; Motherless Brooklyn; My Misspent Youth; The New York Trilogy; Paradise Alley; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Unlubricated; Up in the Old Hotel and Other Stories; A Walker in the City; Washington Square; Watchmen_
-
-_The Wanderers_ Richard Price (_Lush Life_)
-_Kafka Was the Rage_ Anatole Broyard
-_Another Country_ James Baldwin
-_Beyond the Melting Pot_
-_Gotham_
-_Memos from Purgatory_
-_A Little Life_
-_Jazz_
-_The Beautiful and Damned_
-_Breakfast at Tiffany's_
-_New York 2140_
-_Open City_
-_The Colossus of New York_
-_The Assistant_ (SimplyE)
-_Manchild in the Promised Land_ (SimplyE)
-_Wrestling with Moses_
-
-https://www.penguinrandomhouse.com/the-read-down/new-york-city-books
-https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday
-https://bookriot.com/100-must-read-new-york-city-novels/
-
-## Americana
-
-**honorable mention:** _American Pastoral; Babbitt; Blood Meridian; Catch-22; Death of a Salesman; Faulkner; How the Other Half Live; In Cold Blood; The Jungle; McPhee; On the Road; Poe; The Scarlet Letter; To Kill a Mockingbird; Steinbeck; Studs Terkel; Twain; Walden; Whitman_
-
-_Only Yesterday; Since Yesterday_
-_Butcher's Crossing_
-_Moby Dick_
-_Collected Essays of Emerson_
-_An American Tragedy_
-
-## From Russia with Letters
-
-_A Swim in a Pond in the Rain_ George Sauders
-_One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE)
-_Secondhand Time_ Svetlana Alexievich
-_The Gambler_ Fyodor Dostoyevsky
-_Oblomov_ Ivan Goncharov
-_Rock, Paper, Scissors And Other Stories_ Maxim Osipov
-
-
-## The Sweet Science?
-
-**honorable mention:** _Cinderella Man; Fat City; A Fighter's Heart; The Fight; On Boxing; Pound for Pound; The Professional; The Sweet Science; Tunney; Unforgivable Blackness_
-
-Four Kings
-A Neutral Corner
-Ghosts of Manilla
-At the Fights
-I Fight for a Living
-Boxing: A Cultural History
-
-
-## Going Dutch
-
-_Brilliant Orange_ David Winner
-_Going Dutch_
-_Embarrassment of Riches_
-_An Untouched House_ Willem Frederik Hermans
-_Brilliant Orange_
-
-
-## Cane
-
-**honorable mention:** _The Autobiography of Malcolm X; Between the World and Me; Black Boy; Cane; Citizen; Dreams from my Father; Go Tell it on the Mountain; I Know Why the Caged Bird Sings; Lincoln; Narrative of The Life of Frederick Douglass; Native Guard; Notes of a Native Son; A People's History of the United States; A Raisin in the Sun; Roots; Their Eyes Were Watching God; Thirteen Ways of Looking at a Black Man; Uncle Tom's Cabin; The Underground Railroad; Unforgivable Blackness: The Rise and Fall of Jack Johnson; We Were Eight Years in Power; The Wretched of the Earth_
-
-Beloved
-My Bondage and My Freedom 
-The Confessions of Nat Turner
-The Souls of Black Folk
-The Ways of White Folks
-Race Matters
-The Warmth of Other Suns
-The Water Dancer
-New Jim Crow
-The Devil Finds Work 
-The Collected Essays of Ralph Ellison
-A Colony in a Nation
-Slavery by Another Name
-Parting the Waters (SimplyE)
-August Wilson (SimplyE)
-The Hero and the Blues _Albert Murray_ (13 ways to look)
-Blood in the Water
-
-
-## Drinking & Co.
-
-**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Drinking Life; Drinking with Men; A Fan's Notes; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Rum Diaries; Tasting Bear; The Thought Gang_
-
-_Everyday Drinking_, Kingsley Amis
-_Tobacco_, Iain Gately
-_Drunks_, Christopher Finan
-_On Booze_, F. Scott Fitzgerald
-_I Drink Therefore I Am_, Roger Scruton
-_Chasing the Scream_
-_Under the Volcano_
-_The Shining_
-_Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slingerland
-_Jigger, Beaker and Glass_
-_The Republic of Wine_
-
-
-## Dangerous Ideas
-
-**honorable mention:** _All Quiet on the Western Front; The Autobiography of Malcolm X; Brave New World; Bury My Heart at Wounded Knee; Cane (Toomer); Catch-22; The Communist Manifesto; Doctor Zhivago; The Grapes of Wrath; High_Rise; The Jungle; Lolita; Madame Bovary; The Master and Margarita; Montaigne's Essays; Friedrich Nietzsche; A People's History of the United States; Rights of Man; Slaughterhouse-Five; The Sorrows of Young Werther; The Story of O; Tropic of Cancer; Uncle Tom's Cabin; The Wretched of the Earth_
-
-_A Room of One's Own_
-_Emma Goldman_
-_Rosa Luxemburg_
-_WEB Du Bois_
-_The Satanic Verses_
-_Democracy Incorporated_
-_Achieving our Country_ (Rorty, PDF)
-_H.L. Mencken_
-_Antonio Gramsci_
-_Creating Freedom_ Raoul Martinez
-_The Deficit Myth_
-_Julie; or, The New Heloise_
-_The Last Temptation of Christ_
-_Why Civil Resistance Works_
-
-
-## Hold Overs
-
-_Scale_
-_Understanding Media_
-Sam Bowles text (PDF)
-
-_The Origins of Totalitarianism_ (hold over)
-_Collapse of Complex Societies_ (hold over, PDF)
-
-
-## Top Shelf Literature
-
-**honorable mention:** _1984; The Amazing Adventures of Kavalier and Clay; Anna Karenina; As I Lay Dying; The Bell Jar; Brave New World; Cane; Catch-22; A Clockword Orange; In Cold Blood; Crime and Punishment; East of Eden; Go Tell it on the Mountain; The Golden Notebook; The Grapes of Wrath; The Great Gatsby; Heart of Darkness; The Iliad; Invisible Man; Madame Bovary; Midnight's Children; Money: A Suicide Note; The Odyssey; One Hundred Years of Solitude; Pail Fire; Portnoy's Complaint; A Portrait of the Artist as a Young Man; Ragtime; The Secret Agent; Shakespeare; The Sorrows of Young Werther; The Sun Also Rises; Tender is the Night; To the Lighthouse; Tropic of Cancer; Under the Net_
-
-_Don Quixote_
-_Moby Dick_
-_The Brothers Karamazov_
-_Paradise Lost_
-something Faulkner 
-
-## Decision Making
-
-**honorable mention:** _Thinking in Bets_
-
-_Radical Uncertainty_
-_Sources of Power_
-_The Perfect Bet_
-_Simple Rules_
-_Heuristic Reasoning_ (pdf)
-a negotiating title
-_Gut Feelings_
-_Superforecasting_
-_How to Decide_
-_Framers_
-_Dynamics in Action_ Juarrero (PDF)
-_If Then_ Jill Lepore
-_The Mating Mind_ Geoffrey Miller
-_Capitalism, Socialism, Ecology_ Andre Gorz
-_The Pleasure Trap_ Douglas J. Lisle, Ph.D.
-_Consumer Society Reader_
-_HBR's 10 Must Reads on Strategy_
-_The Grand Chessboard_ (Brzezinski)
-
-
-## You're All My Favorites
-
-_Catch-22_
-_Invisible Man_
-_Ubik_
-_Heart of Darkness_
-_Slaughterhouse Five_
-_Unbearable Lightness of Being_
-_Steppenwolf_
-_The Death and Life of Great American Cities_
-_Lincoln_ Gore Vidal
-_A Confederacy of Dunces_
-_Paris Spleen_
-_The Colossus of Maroussi_
-_Gay Science_
-_Watchmen_
-_The Four Tragedies_
-_Snow Crash or/er Diamond Age_
-_Otherwise Known as the Human Condition_
-_The Fight_
-
-
-## On the Road
-
-**honorable mention:** _Adrift_; _The Art of Travel_; _Blue Highways_; _The Colossus of Maroussi_; _Fear and Loathing in Las Vegas_; _The Hitchhiker's Guide to the Galaxy_ (series); _Jupiter's Travels_; _The Long Way Round_; _In Patagonia_; _Into the Wild_; _The Motorcycle Diaries_; _The Odyssey_; _On the Road_; PLF's Journey Across Europe trilogy; _The Road_; _Road Fever-; _Sex Lives Of Cannibals_; _Shantaram_; _Travels with Charlie_; _Vagabonding_; _A Walk in the Woods_
-
-_The Road to Oxiana_ Robert Byron [PLF]
-_Dark Star Safari_ Paul Theroux
-_The Travels of Ibn Battuta_
-_Discovery of India_
-_Let Us Now Praise Famous Men_
-_Creation_ Vidal
-_Eastward to Tartary_
-Marco Polo
-
-
-## I am serious and don't call me Shirley
-
-**honorable mention:** _Catch-22; Fear and Loathing in Las Vegas; The Good Soldier Švejk; The Master and Margarita; The Sellout_
-
-_The House of God_ Samuel Shem, M.D.
-_Look Who's Back_ Timur Vermes
-_The Sympathizer_ Viet Thanh Nguyen
-_The Zone_ Sergei Dovlatov
-_Her Body and Other Parties_ Carmen Maria Machado
-_Diary of an Oxygen Thief_ Anonymous
-_Boomsday_ Christopher Buckle
-_Don Juan_ Lord Byron
-_Gulliver's Travels_
-_Broken Glass_ Alain Mabanckou
-_A Visit from The Goon Squad_
-_Arms and the Man_ George Bernard Shaw
-_Scoop_ Evelyn Waugh
-_The Red Room_ August Strindberg
-_The Life and Opinions of Tristram Shandy_
-Aristophanes
-_Being There_
 
 ## Winter '22 - x titles (y abandoned), theme: The Broken Road
 
@@ -301,7 +49,7 @@ RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_; _History and Utopia_
 
 ## Autumn '21 - 17 titles (none abandoned), theme: Between the Woods and the Water
 
-**honorable mention:** _The Book of My Lives; The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Trouble with Being Born; The Unbearable Lightness of Being; View with a Grain of Sand; Zorba the Greek_
+**honorable mention:** _The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Trouble with Being Born; The Unbearable Lightness of Being; View with a Grain of Sand; Zorba the Greek_
 
 **wish list:** _Adventures In Immediate Irreality; Ashes and Diamonds; The Good Life Elsewhere; Little Infamies; From Peoples into Nations; The Street of Crocodiles_
 
@@ -676,6 +424,261 @@ So says Jack Nicholson's character, Frank Costello, to a nobody sitting at the b
 Books are not life but they are one of the few things that I have found to make it richer. Reading is not the same thing as acting in the world but it is still one of the most rewarding activities available. I remain amused by my own death, regarding it more as theoretically true than the most incontrovertible fact of my existence. However, I am beginning to take it seriously enough to reconsider how I spend my life. A good part of that, of what remains, should be spent on reading only the things I find valuable and interesting. No excuses. 
 
 There are undoubtedly more important things to address with what's left of one's time but I see no reason not to take the approach towards books as well. Exercising the culling of unnecessary objects, practices, and relationships from one's life while you still have the chance, the saying of "no", seems to me like a wonderful way to get a handle on what really counts, saying "yes".
+
+---
+
+### Mashing
+
+## Death & Co.
+
+_Martial Arts and Philosophy_
+_How to Live_, Sarah Bakewell
+_Japanese Death Poems_, Yoel Hoffmann
+_Dead Souls_, Nikolai Gogol
+_The Posthumous Memoirs of Brás Cubas_, Joaquim Maria Machado de Assis
+_Death on the Installment Plan_
+_Chasing the Scream_
+_Madwomen_
+_Cancer Ward_ Aleksandr Solzhenitsyn
+_The Best American Noir of the Century_, James Ellroy
+_American Violence_, Richard Hofstadter
+_Sickness onto Death_
+_Last Works_, Mark C. Taylor
+_The Stoic Challenge_
+_Intoxicated by My Illness_, Anatole Broyard
+_Cancer Ward_ by Aleksandr Solzhenitsyn
+_Natural Causes_ Barbara Ehrenreich
+_The Mansion of Happiness_
+_War Is a Force that Gives Us Meaning_
+
+
+## The Rotten Manzana
+
+**honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; Big City; The Bonfire of the Vanities; Born to Use Mics; The Brief Wondrous Life of Oscar Wao; Bright Lights, Burr (Vidal); Call it Sleep; Can't Stop Won't Stop; The Catcher in the Rye; Downtown (Hamill); The Death and Life of Great American Cities; The Epic of New York City; Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; Honky; How the Other Half Lives; Invisible Man; Kitchen Confidential; Lush Life; Miles (Davis); Money; Motherless Brooklyn; My Misspent Youth; The New York Trilogy; Paradise Alley; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Unlubricated; Up in the Old Hotel and Other Stories; A Walker in the City; Washington Square; Watchmen_
+
+_The Wanderers_ Richard Price (_Lush Life_)
+_Kafka Was the Rage_ Anatole Broyard
+_Another Country_ James Baldwin
+_Beyond the Melting Pot_
+_Gotham_
+_Memos from Purgatory_
+_A Little Life_
+_Jazz_
+_The Beautiful and Damned_
+_Breakfast at Tiffany's_
+_New York 2140_
+_Open City_
+_The Colossus of New York_
+_The Assistant_ (SimplyE)
+_Manchild in the Promised Land_ (SimplyE)
+_Wrestling with Moses_
+
+https://www.penguinrandomhouse.com/the-read-down/new-york-city-books
+https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday
+https://bookriot.com/100-must-read-new-york-city-novels/
+
+## Americana
+
+**honorable mention:** _American Pastoral; Babbitt; Blood Meridian; Catch-22; Death of a Salesman; Faulkner; How the Other Half Live; In Cold Blood; The Jungle; McPhee; On the Road; Poe; The Scarlet Letter; To Kill a Mockingbird; Steinbeck; Studs Terkel; Twain; Walden; Whitman_
+
+_Only Yesterday; Since Yesterday_
+_Butcher's Crossing_
+_Moby Dick_
+_Collected Essays of Emerson_
+_An American Tragedy_
+
+## From Russia with Letters
+
+_A Swim in a Pond in the Rain_ George Sauders
+_One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE)
+_Secondhand Time_ Svetlana Alexievich
+_The Gambler_ Fyodor Dostoyevsky
+_Oblomov_ Ivan Goncharov
+_Rock, Paper, Scissors And Other Stories_ Maxim Osipov
+
+
+## The Sweet Science?
+
+**honorable mention:** _Cinderella Man; Fat City; A Fighter's Heart; The Fight; On Boxing; Pound for Pound; The Professional; The Sweet Science; Tunney; Unforgivable Blackness_
+
+Four Kings
+A Neutral Corner
+Ghosts of Manilla
+At the Fights
+I Fight for a Living
+Boxing: A Cultural History
+
+
+## Going Dutch
+
+_Brilliant Orange_ David Winner
+_Going Dutch_
+_Embarrassment of Riches_
+_An Untouched House_ Willem Frederik Hermans
+_Brilliant Orange_
+
+
+## Cane
+
+**honorable mention:** _The Autobiography of Malcolm X; Between the World and Me; Black Boy; Cane; Citizen; Dreams from my Father; Go Tell it on the Mountain; I Know Why the Caged Bird Sings; Lincoln; Narrative of The Life of Frederick Douglass; Native Guard; Notes of a Native Son; A People's History of the United States; A Raisin in the Sun; Roots; Their Eyes Were Watching God; Thirteen Ways of Looking at a Black Man; Uncle Tom's Cabin; The Underground Railroad; Unforgivable Blackness: The Rise and Fall of Jack Johnson; We Were Eight Years in Power; The Wretched of the Earth_
+
+Beloved
+My Bondage and My Freedom 
+The Confessions of Nat Turner
+The Souls of Black Folk
+The Ways of White Folks
+Race Matters
+The Warmth of Other Suns
+The Water Dancer
+New Jim Crow
+The Devil Finds Work 
+The Collected Essays of Ralph Ellison
+A Colony in a Nation
+Slavery by Another Name
+Parting the Waters (SimplyE)
+August Wilson (SimplyE)
+The Hero and the Blues _Albert Murray_ (13 ways to look)
+Blood in the Water
+
+
+## Drinking & Co.
+
+**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Drinking Life; Drinking with Men; A Fan's Notes; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Rum Diaries; Tasting Bear; The Thought Gang_
+
+_Everyday Drinking_, Kingsley Amis
+_Tobacco_, Iain Gately
+_Drunks_, Christopher Finan
+_On Booze_, F. Scott Fitzgerald
+_I Drink Therefore I Am_, Roger Scruton
+_Chasing the Scream_
+_Under the Volcano_
+_The Shining_
+_Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slingerland
+_Jigger, Beaker and Glass_
+_The Republic of Wine_
+
+
+## Dangerous Ideas
+
+**honorable mention:** _All Quiet on the Western Front; The Autobiography of Malcolm X; Brave New World; Bury My Heart at Wounded Knee; Cane (Toomer); Catch-22; The Communist Manifesto; Doctor Zhivago; The Grapes of Wrath; High_Rise; The Jungle; Lolita; Madame Bovary; The Master and Margarita; Montaigne's Essays; Friedrich Nietzsche; A People's History of the United States; Rights of Man; Slaughterhouse-Five; The Sorrows of Young Werther; The Story of O; Tropic of Cancer; Uncle Tom's Cabin; The Wretched of the Earth_
+
+_A Room of One's Own_
+_Emma Goldman_
+_Rosa Luxemburg_
+_WEB Du Bois_
+_The Satanic Verses_
+_Democracy Incorporated_
+_Achieving our Country_ (Rorty, PDF)
+_H.L. Mencken_
+_Antonio Gramsci_
+_Creating Freedom_ Raoul Martinez
+_The Deficit Myth_
+_Julie; or, The New Heloise_
+_The Last Temptation of Christ_
+_Why Civil Resistance Works_
+
+
+## Hold Overs
+
+_Scale_
+_Understanding Media_
+Sam Bowles text (PDF)
+
+_The Origins of Totalitarianism_ (hold over)
+_Collapse of Complex Societies_ (hold over, PDF)
+
+
+## Top Shelf Literature
+
+**honorable mention:** _1984; The Amazing Adventures of Kavalier and Clay; Anna Karenina; As I Lay Dying; The Bell Jar; Brave New World; Cane; Catch-22; A Clockword Orange; In Cold Blood; Crime and Punishment; East of Eden; Go Tell it on the Mountain; The Golden Notebook; The Grapes of Wrath; The Great Gatsby; Heart of Darkness; The Iliad; Invisible Man; Madame Bovary; Midnight's Children; Money: A Suicide Note; The Odyssey; One Hundred Years of Solitude; Pail Fire; Portnoy's Complaint; A Portrait of the Artist as a Young Man; Ragtime; The Secret Agent; Shakespeare; The Sorrows of Young Werther; The Sun Also Rises; Tender is the Night; To the Lighthouse; Tropic of Cancer; Under the Net_
+
+_Don Quixote_
+_Moby Dick_
+_The Brothers Karamazov_
+_Paradise Lost_
+something Faulkner 
+
+## Decision Making
+
+**honorable mention:** _Thinking in Bets_
+
+_Radical Uncertainty_
+_Sources of Power_
+_The Perfect Bet_
+_Simple Rules_
+_Heuristic Reasoning_ (pdf)
+a negotiating title
+_Gut Feelings_
+_Superforecasting_
+_How to Decide_
+_Framers_
+_Dynamics in Action_ Juarrero (PDF)
+_If Then_ Jill Lepore
+_The Mating Mind_ Geoffrey Miller
+_Capitalism, Socialism, Ecology_ Andre Gorz
+_The Pleasure Trap_ Douglas J. Lisle, Ph.D.
+_Consumer Society Reader_
+_HBR's 10 Must Reads on Strategy_
+_The Grand Chessboard_ (Brzezinski)
+
+
+## You're All My Favorites
+
+_Catch-22_
+_Invisible Man_
+_Ubik_
+_Heart of Darkness_
+_Slaughterhouse Five_
+_Unbearable Lightness of Being_
+_Steppenwolf_
+_The Death and Life of Great American Cities_
+_Lincoln_ Gore Vidal
+_A Confederacy of Dunces_
+_Paris Spleen_
+_The Colossus of Maroussi_
+_Gay Science_
+_Watchmen_
+_The Four Tragedies_
+_Snow Crash or/er Diamond Age_
+_Otherwise Known as the Human Condition_
+_The Fight_
+
+
+## On the Road
+
+**honorable mention:** _Adrift_; _The Art of Travel_; _Blue Highways_; _The Colossus of Maroussi_; _Fear and Loathing in Las Vegas_; _The Hitchhiker's Guide to the Galaxy_ (series); _Jupiter's Travels_; _The Long Way Round_; _In Patagonia_; _Into the Wild_; _The Motorcycle Diaries_; _The Odyssey_; _On the Road_; PLF's Journey Across Europe trilogy; _The Road_; _Road Fever-; _Sex Lives Of Cannibals_; _Shantaram_; _Travels with Charlie_; _Vagabonding_; _A Walk in the Woods_
+
+_The Road to Oxiana_ Robert Byron [PLF]
+_Dark Star Safari_ Paul Theroux
+_The Travels of Ibn Battuta_
+_Discovery of India_
+_Let Us Now Praise Famous Men_
+_Creation_ Vidal
+_Eastward to Tartary_
+Marco Polo
+
+
+## I am serious and don't call me Shirley
+
+**honorable mention:** _Catch-22; Fear and Loathing in Las Vegas; The Good Soldier Švejk; The Master and Margarita; The Sellout_
+
+_The House of God_ Samuel Shem, M.D.
+_Look Who's Back_ Timur Vermes
+_The Sympathizer_ Viet Thanh Nguyen
+_The Zone_ Sergei Dovlatov
+_Her Body and Other Parties_ Carmen Maria Machado
+_Diary of an Oxygen Thief_ Anonymous
+_Boomsday_ Christopher Buckle
+_Don Juan_ Lord Byron
+_Gulliver's Travels_
+_Broken Glass_ Alain Mabanckou
+_A Visit from The Goon Squad_
+_Arms and the Man_ George Bernard Shaw
+_Scoop_ Evelyn Waugh
+_The Red Room_ August Strindberg
+_The Life and Opinions of Tristram Shandy_
+Aristophanes
+_Being There_
 
 ---
 
