@@ -25,16 +25,15 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|	_The Fault Line_	|	Paolo Rumiz	|	EBOOK	|		|
+|	_The Fault Line_	|	Paolo Rumiz	|	EBOOK	|	Karelia, The Baltics, Kaliningrad/Königsberg, The Vistula/Warsaw, BY, The Carpathians, Odessa, The Black Sea // 	|
 |	_Embers_	|	Sandor Marai	|	EBOOK	|	HU, Post Habsburg reflections //	|
 |	_18% Gray_	|	Zachary Karabashliev	|	EBOOK	|	BG //	|
 
 
-_My Century_ Aleksander Wat
 _Balkan Ghosts_ (SimplyE)
+_History and Utopia_ E. M. Cioran
+_Omer Pasha Latas_ Ivo Andric
 
-
-another section, another time:  _Fire and Blood_ ; 
 
 CZ: _Waiting for the Dark, Waiting for the Light_ Ivan Klíma  
 
@@ -42,9 +41,11 @@ HR: _Cyclops_ Ranko Marinkovic
 
 LT: _Vilnius Poker_ Ricardas Gavelis
 
-PL: _Fatelessness_
+PL: _Fatelessness_; _My Century_ Aleksander Wat
 
-RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_; _History and Utopia_
+RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
+
+another section, another time:  _Fire and Blood_ ; 
 
 
 ## Autumn '21 - 17 titles (none abandoned), theme: Between the Woods and the Water
