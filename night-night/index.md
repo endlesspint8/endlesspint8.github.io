@@ -25,7 +25,7 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|	_The Fault Line_	|	Paolo Rumiz	|	EBOOK	|	Karelia, The Baltics, Kaliningrad/Königsberg, The Vistula/Warsaw, BY, The Carpathians, Odessa, The Black Sea // 	|
+|	_The Fault Line: Traveling the Other Europe, from Finland to Ukraine_	|	Paolo Rumiz	|	EBOOK	|	Karelia, The Baltics, Kaliningrad/Königsberg, The Vistula/Warsaw, BY, The Carpathians, Odessa, The Black Sea // 	|
 |	_Embers_	|	Sandor Marai	|	EBOOK	|	HU, Post Habsburg reflections //	|
 |	_18% Gray_	|	Zachary Karabashliev	|	EBOOK	|	BG //	|
 
