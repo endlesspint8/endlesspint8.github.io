@@ -451,6 +451,7 @@ _Cancer Ward_ by Aleksandr Solzhenitsyn
 _Natural Causes_ Barbara Ehrenreich
 _The Mansion of Happiness_
 _War Is a Force that Gives Us Meaning_
+_The Return of the Soldier_
 
 
 ## The Rotten Manzana
