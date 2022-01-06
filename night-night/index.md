@@ -493,10 +493,10 @@ _An American Tragedy_
 
 _A Swim in a Pond in the Rain_ George Sauders
 _One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE)
-_Secondhand Time_ Svetlana Alexievich
 _The Gambler_ Fyodor Dostoyevsky
 _Oblomov_ Ivan Goncharov
 _Rock, Paper, Scissors And Other Stories_ Maxim Osipov
+_Inhuman Land_
 
 
 ## The Sweet Science?
@@ -545,7 +545,7 @@ Blood in the Water
 
 ## Drinking & Co.
 
-**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Drinking Life; Drinking with Men; A Fan's Notes; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Rum Diaries; Tasting Bear; The Thought Gang_
+**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Brief History of Vice; A Drinking Life; Drinking with Men; A Fan's Notes; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Rum Diaries; Tasting Bear; The Thought Gang_
 
 _Everyday Drinking_, Kingsley Amis
 _Tobacco_, Iain Gately
