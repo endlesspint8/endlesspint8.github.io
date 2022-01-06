@@ -23,21 +23,17 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_History and Utopia_	|	E. M. Cioran	|	EBOOK	|	RO // _The Trouble with Being Born_	|
+|	_Omer Pasha Latas_	|	Ivo Andric	|	EBOOK	|	BA // [Nobel Prize in Literature], _“for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country”_	|
 |	_The Fault Line: Traveling the Other Europe, from Finland to Ukraine_	|	Paolo Rumiz	|	EBOOK	|	Karelia, The Baltics, Kaliningrad/Königsberg, The Vistula/Warsaw, BY, The Carpathians, Odessa, The Black Sea // 	|
 |	_Embers_	|	Sandor Marai	|	EBOOK	|	HU, Post Habsburg reflections //	|
 |	_18% Gray_	|	Zachary Karabashliev	|	EBOOK	|	BG //	|
 
 
 _Balkan Ghosts_ (SimplyE)
-_History and Utopia_ E. M. Cioran
-_Omer Pasha Latas_ Ivo Andric
-
+_Cyclops_ Ranko Marinkovic
 
 CZ: _Waiting for the Dark, Waiting for the Light_ Ivan Klíma  
-
-HR: _Cyclops_ Ranko Marinkovic
 
 LT: _Vilnius Poker_ Ricardas Gavelis
 
@@ -50,7 +46,7 @@ another section, another time:  _Fire and Blood_ ;
 
 ## Autumn '21 - 17 titles (none abandoned), theme: Between the Woods and the Water
 
-**honorable mention:** _The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Trouble with Being Born; The Unbearable Lightness of Being; View with a Grain of Sand; Zorba the Greek_
+**honorable mention:** _The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Unbearable Lightness of Being; View with a Grain of Sand; Zorba the Greek_
 
 **wish list:** _Adventures In Immediate Irreality; Ashes and Diamonds; The Good Life Elsewhere; Little Infamies; From Peoples into Nations; The Street of Crocodiles_
 
