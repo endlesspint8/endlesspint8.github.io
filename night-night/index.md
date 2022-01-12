@@ -644,7 +644,7 @@ _The Fight_
 
 ## On the Road
 
-**honorable mention:** _Adrift_; _The Art of Travel_; _Blue Highways_; _The Colossus of Maroussi_; _Fear and Loathing in Las Vegas_; _The Hitchhiker's Guide to the Galaxy_ (series); _Jupiter's Travels_; _The Long Way Round_; _In Patagonia_; _Into the Wild_; _The Motorcycle Diaries_; _The Odyssey_; _On the Road_; PLF's Journey Across Europe trilogy; _The Road_; _Road Fever-; _Sex Lives Of Cannibals_; _Shantaram_; _Travels with Charlie_; _Vagabonding_; _A Walk in the Woods_
+**honorable mention:** _Adrift; The Art of Travel; Blue Highways; The Colossus of Maroussi; Fear and Loathing in Las Vegas; The Hitchhiker's Guide to the Galaxy (series); Jupiter's Travels; The Long Way Round; In Patagonia; Into the Wild; The Motorcycle Diaries; The Odyssey; On the Road; PLF's Journey Across Europe trilogy; The Road; Road Fever; Sex Lives Of Cannibals; Shantaram; Travels with Charlie; Vagabonding; A Walk in the Woods_
 
 _The Road to Oxiana_ Robert Byron [PLF]
 _Dark Star Safari_ Paul Theroux
@@ -677,6 +677,7 @@ _The Red Room_ August Strindberg
 _The Life and Opinions of Tristram Shandy_
 Aristophanes
 _Being There_
+_A Modest Proposal_
 
 ---
 
