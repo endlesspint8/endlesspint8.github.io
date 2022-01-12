@@ -477,13 +477,15 @@ https://bookriot.com/100-must-read-new-york-city-novels/
 
 ## Americana
 
-**honorable mention:** _American Pastoral; Babbitt; Blood Meridian; Catch-22; Death of a Salesman; Faulkner; How the Other Half Live; In Cold Blood; The Jungle; McPhee; On the Road; Poe; The Scarlet Letter; To Kill a Mockingbird; Steinbeck; Studs Terkel; Twain; Walden; Whitman_
+**honorable mention:** _American Pastoral; Babbitt; Blood Meridian; Catch-22; Death of a Salesman; Faulkner; How the Other Half Live; In Cold Blood; The Jungle; McPhee; On the Road; Poe; The Scarlet Letter; To Kill a Mockingbird; Rabbit, Run; Steinbeck; Studs Terkel; Twain; Walden; Whitman_
 
 _Only Yesterday; Since Yesterday_
 _Butcher's Crossing_
 _Moby Dick_
 _Collected Essays of Emerson_
 _An American Tragedy_
+John Dos Passos' USA Trilogy
+_The Adventures of Augie March_
 
 ## From Russia with Letters
 
@@ -668,7 +670,7 @@ _Her Body and Other Parties_ Carmen Maria Machado
 _Diary of an Oxygen Thief_ Anonymous
 _Boomsday_ Christopher Buckle
 _Don Juan_ Lord Byron
-_Gulliver's Travels_
+_Gulliver's Travels_ (& _A Modest Proposal_)
 _Broken Glass_ Alain Mabanckou
 _A Visit from The Goon Squad_
 _Arms and the Man_ George Bernard Shaw
@@ -677,7 +679,7 @@ _The Red Room_ August Strindberg
 _The Life and Opinions of Tristram Shandy_
 Aristophanes
 _Being There_
-_A Modest Proposal_
+_Three Men in a Boat_
 
 ---
 
