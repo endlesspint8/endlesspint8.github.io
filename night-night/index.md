@@ -658,7 +658,7 @@ Marco Polo
 
 ## I am serious and don't call me Shirley
 
-**honorable mention:** _Catch-22; Fear and Loathing in Las Vegas; The Good Soldier Švejk; The Master and Margarita; The Sellout_
+**honorable mention:** _Babbitt; Catch-22; Fear and Loathing in Las Vegas; The Good Soldier Švejk; The Master and Margarita; The Sellout_
 
 _The House of God_ Samuel Shem, M.D.
 _Look Who's Back_ Timur Vermes
