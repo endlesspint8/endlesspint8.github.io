@@ -22,7 +22,7 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Cyclops_	|	Ranko Marinkovic	|	EBOOK	|	HR //	|
 |	_History and Utopia_	|	E. M. Cioran	|	EBOOK	|	RO // _The Trouble with Being Born_	|
 |	_Omer Pasha Latas_	|	Ivo Andric	|	EBOOK	|	BA // [Nobel Prize in Literature], _“for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country”_	|
 |	_The Fault Line: Traveling the Other Europe, from Finland to Ukraine_	|	Paolo Rumiz	|	EBOOK	|	Karelia, The Baltics, Kaliningrad/Königsberg, The Vistula/Warsaw, BY, The Carpathians, Odessa, The Black Sea // 	|
@@ -30,8 +30,10 @@ Completed to date: 18%
 |	_18% Gray_	|	Zachary Karabashliev	|	EBOOK	|	BG //	|
 
 
+_The Captive Mind_ Czeslaw Milosz AUDIOBOOK
 _Balkan Ghosts_ (SimplyE)
-_Cyclops_ Ranko Marinkovic
+_Blinding_ Mircea Cartarescu;
+ 
 
 CZ: _Waiting for the Dark, Waiting for the Light_ Ivan Klíma  
 
@@ -39,9 +41,24 @@ LT: _Vilnius Poker_ Ricardas Gavelis
 
 PL: _Fatelessness_; _My Century_ Aleksander Wat
 
-RO: _Blinding_ Mircea Cartarescu; _Train to Trieste_
+RO:  _Train to Trieste_
 
 another section, another time:  _Fire and Blood_ ; 
+
+---
+
+### Triple Five Roll 6
+
+|	Best Fiction-ish	|	Most Entertaining	| Think on It |
+|	---	|	---	|	---	|
+| _Flights_, Olga Tokarczuk 	| _Life for Sale_, Yukio Mishima 	| _The End of Policing_, Alex S. Vitale |
+| _Serotonin_, Michel Houellebecq 	| _Omon Ra_, Victor Pelevin (trans Andrew Bromfield) 	| _The Uninhabitable Earth_, David Wallace-Wells |
+| _The Left Hand of Darkness_, Ursula K. Le Guin 	| _Concrete_, Thomas Bernhard 	| _Minor Feelings_, Cathy Park Hong |
+| _This Is How You Lose the Time War_, Amal El-Mohtar and Max Gladstone 	| _The Good Soldier Švejk_, Jaroslav Hasek 	| _Secondhand Time: The Last of the Soviets_, Svetlana Alexievich |
+| _The Painted Bird_, Jerzy Kosinski 	| _Dancing Lessons for the Advanced in Age_, Bohumil Hrabal 	| _Bloodlands: Europe Between Hitler and Stalin_, Timothy Snyder |
+
+
+**honorable mention:** _The Mountains of Parnassus; Iron Curtain: The Crushing of Eastern Europe; Memoirs of an Anti-Semite_
 
 
 ## Autumn '21 - 17 titles (none abandoned), theme: Between the Woods and the Water
