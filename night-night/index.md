@@ -22,6 +22,11 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_The Captive Mind_	|	Czeslaw Milosz	|	AUDIOBOOK	|	PL // _The Mountains of Parnassus_	|
 |	_Cyclops_	|	Ranko Marinkovic	|	EBOOK	|	HR //	|
 |	_History and Utopia_	|	E. M. Cioran	|	EBOOK	|	RO // _The Trouble with Being Born_	|
 |	_Omer Pasha Latas_	|	Ivo Andric	|	EBOOK	|	BA // [Nobel Prize in Literature], _“for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country”_	|
@@ -30,10 +35,10 @@ Completed to date: 18%
 |	_18% Gray_	|	Zachary Karabashliev	|	EBOOK	|	BG //	|
 
 
-_The Captive Mind_ Czeslaw Milosz AUDIOBOOK
+
 _Balkan Ghosts_ (SimplyE)
-_Blinding_ Mircea Cartarescu;
- 
+_Blinding_ Mircea Cartarescu
+_Minarets in the Mountains_
 
 CZ: _Waiting for the Dark, Waiting for the Light_ Ivan Klíma  
 
