@@ -25,7 +25,7 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Balkan Ghosts: A Journey Through History_	|	Robert D. Kaplan	|	EBOOK	|	Yugo, RO, BG, GR // _In Europe's Shadow_ 	|
 |	_The Captive Mind_	|	Czeslaw Milosz	|	AUDIOBOOK	|	PL // _The Mountains of Parnassus_	|
 |	_Cyclops_	|	Ranko Marinkovic	|	EBOOK	|	HR //	|
 |	_History and Utopia_	|	E. M. Cioran	|	EBOOK	|	RO // _The Trouble with Being Born_	|
@@ -36,7 +36,7 @@ Completed to date: 18%
 
 
 
-_Balkan Ghosts_ (SimplyE)
+_Adults in the Room: My Battle with the European and American Deep Establishment_ Yanis Varoufakis
 _Blinding_ Mircea Cartarescu
 _Minarets in the Mountains_
 
