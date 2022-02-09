@@ -76,7 +76,7 @@ another section, another time:  _Fire and Blood_ ;
 |	---	|	---	|	---	|	---	|
 |	_The Good Soldier Švejk_	|	Jaroslav Hasek	|	PRINT	|	CZ // One of the inspirations, motivations for this theme; been meaning to read this title for years. Happy to finally get around to it.	|
 |	_Secondhand Time: The Last of the Soviets_	|	Svetlana Alexievich	|	EBOOK	|	BY, RU, UA (AM, AZ, TJ) // Ironically so well written that it reminds you of the limits and insufficiency of words to cover something as rich and difficult as a human life. [Nobel Prize in Literature], _“for her polyphonic writings, a monument to suffering and courage in our time”_	|
-|	_The Mountains of Parnassus_	|	Czesław Miłosz	|	EBOOK	|	PL // Haunting	|
+|	_The Mountains of Parnassus_	|	Czesław Miłosz	|	EBOOK	|	PL // Haunting. [Nobel Prize in Literature],  _"who with uncompromising clear-sightedness voices man’s exposed condition in a world of severe conflicts"_	|
 |	_Iron Curtain: The Crushing of Eastern Europe, 1944-1956_	|	Anne Applebaum	|	EBOOK	|	GDR, PL, HU //	|
 |	_Memoirs of an Anti-Semite_	|	Gregor von Rezzori	|	EBOOK	|	Bukovina, Galicia, Bucharest, Vienna, Post Habsburg reflections // 	|
 |	_The Traitor's Niche_	|	Ismail Kadare	|	EBOOK	|	AL, Ottoman Empire //	|
