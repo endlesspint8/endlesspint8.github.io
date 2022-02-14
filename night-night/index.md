@@ -24,7 +24,7 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Blinding_	|	Mircea Cartarescu	|	EBOOK	|	RO //	|
 |	_Balkan Ghosts: A Journey Through History_	|	Robert D. Kaplan	|	EBOOK	|	Yugo, RO, BG, GR // _In Europe's Shadow_ 	|
 |	_The Captive Mind_	|	Czeslaw Milosz	|	AUDIOBOOK	|	PL // _The Mountains of Parnassus_	|
 |	_Cyclops_	|	Ranko Marinkovic	|	EBOOK	|	HR //	|
@@ -37,8 +37,9 @@ Completed to date: 18%
 
 
 _Adults in the Room: My Battle with the European and American Deep Establishment_ Yanis Varoufakis
-_Blinding_ Mircea Cartarescu
-_Minarets in the Mountains_
+_Minarets in the Mountains: A Journey Into Muslim Europe_ Tharik Hussain
+_Ferdydurke_ Witold Gombrowicz
+
 
 CZ: _Waiting for the Dark, Waiting for the Light_ Ivan Klíma  
 
