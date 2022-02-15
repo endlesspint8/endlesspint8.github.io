@@ -22,8 +22,8 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_Adults in the Room: My Battle with the European and American Deep Establishment_	|	Yanis Varoufakis	|	AUDIOBOOK	|	GR // _And the Weak Suffer What They Must?_ and	_Talking to My Daughter: A Brief History of Capitalism_ |
+|	_Minarets in the Mountains: A Journey Into Muslim Europe_	|	Tharik Hussain	|	PRINT	|	BIH, SRB, MK, AL, ME // 	|
 |	_Blinding_	|	Mircea Cartarescu	|	EBOOK	|	RO //	|
 |	_Balkan Ghosts: A Journey Through History_	|	Robert D. Kaplan	|	EBOOK	|	Yugo, RO, BG, GR // _In Europe's Shadow_ 	|
 |	_The Captive Mind_	|	Czeslaw Milosz	|	AUDIOBOOK	|	PL // _The Mountains of Parnassus_	|
@@ -36,8 +36,6 @@ Completed to date: 18%
 
 
 
-_Adults in the Room: My Battle with the European and American Deep Establishment_ Yanis Varoufakis
-_Minarets in the Mountains: A Journey Into Muslim Europe_ Tharik Hussain
 _Ferdydurke_ Witold Gombrowicz
 
 
@@ -87,7 +85,7 @@ another section, another time:  _Fire and Blood_ ;
 |	_Messages from a Lost World: Europe on the Brink_	|	Stefan Zweig	|	EBOOK	|	Post Habsburg reflections // _Beware of Pity_ 	|
 |	_The Physics of Sorrow_	|	Georgi Gospodinov	|	EBOOK	|	BG // 	|
 |	_The Balkan Wars_	|	Jacob Gould Schurman	|	EBOOK	|	BG, GR, ME, RO, RS, Ottoman Empire // The beginning of the end.	|
-|	_Dancing Lessons for the Advanced in Age_	|	Bohumil Hrabal	|	EBOOK	|	CZ // Reminiscent of Bernhard's _Concrete_ but lighter. You gotta be a fan of the European Renaissance.	|
+|	_Dancing Lessons for the Advanced in Age_	|	Bohumil Hrabal	|	EBOOK	|	CZ // Reminiscent of Bernhard's _Concrete_ but lighter. You gotta be a fan of the "European Renaissance"	|
 |	_The Painted Bird_	|	Jerzy Kosinski	|	EBOOK	|	PL // and [Time 100 Novels]. Simply devastating; read with caution.	|
 |	_In Europe's Shadow: Two Cold Wars and a Thirty-Year Journey Through Romania and Beyond_	|	Robert D. Kaplan	|	EBOOK	|	RO //	|
 |	_Diary of a Short-Sighted Adolescent_ 	|	Mircea Eliade	|	EBOOK	|	RO // _The Sacred and the Profane_	|
