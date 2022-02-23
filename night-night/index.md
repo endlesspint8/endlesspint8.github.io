@@ -8,6 +8,29 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 Completed to date: 18%
 
 
+## Spring '22 - x titles (y abandoned), theme: CEE cont.
+
+**honorable mention:** see previous section
+
+**wish list:**
+
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|		|		|		|		|
+|		|		|		|		|
+
+LT: _Vilnius Poker_ Ricardas Gavelis
+
+PL: _Fatelessness_; _My Century_ Aleksander Wat
+
+RO:  _Train to Trieste_
+
+[The Mountain Wreath](https://web.archive.org/web/20090226210356/http://www.rastko.org.rs/knjizevnost/njegos/njegos-mountain_wreath.html)
+
+another section, another time:  _Fire and Blood_ ; 
+
+
+
 ## Winter '22 - x titles (y abandoned), theme: The Broken Road
 
 **honorable mention:** see previous section
@@ -21,7 +44,7 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Ferdydurke_	|	Witold Gombrowicz	|	EBOOK	|	PL //	|
 |	_Adults in the Room: My Battle with the European and American Deep Establishment_	|	Yanis Varoufakis	|	AUDIOBOOK	|	GR // _And the Weak Suffer What They Must?_ and	_Talking to My Daughter: A Brief History of Capitalism_ |
 |	_Minarets in the Mountains: A Journey Into Muslim Europe_	|	Tharik Hussain	|	PRINT	|	BIH, SRB, MK, AL, ME // 	|
 |	_Blinding_	|	Mircea Cartarescu	|	EBOOK	|	RO //	|
@@ -35,19 +58,9 @@ Completed to date: 18%
 |	_18% Gray_	|	Zachary Karabashliev	|	EBOOK	|	BG //	|
 
 
-
-_Ferdydurke_ Witold Gombrowicz
-
-
-CZ: _Waiting for the Dark, Waiting for the Light_ Ivan Klíma  
-
-LT: _Vilnius Poker_ Ricardas Gavelis
-
-PL: _Fatelessness_; _My Century_ Aleksander Wat
-
-RO:  _Train to Trieste_
-
-another section, another time:  _Fire and Blood_ ; 
+_Waiting for the Dark, Waiting for the Light_ Ivan Klíma  
+_Death and the Penguin_
+_Odessa Stories_
 
 ---
 
