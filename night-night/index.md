@@ -19,7 +19,6 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 
-LT: _Vilnius Poker_ Ricardas Gavelis
 
 PL: _Fatelessness_; _My Century_ Aleksander Wat
 
@@ -42,7 +41,7 @@ another section, another time:  _Fire and Blood_ ;
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Death and the Penguin_	|	Andrey Kurkov	|	PRINT	|	UA // 	|
 |	_Waiting for the Dark, Waiting for the Light_	|	Ivan Klíma	|	EBOOK	|	CZ //	|
 |	_Ferdydurke_	|	Witold Gombrowicz	|	EBOOK	|	PL //	|
 |	_Adults in the Room: My Battle with the European and American Deep Establishment_	|	Yanis Varoufakis	|	AUDIOBOOK	|	GR // _And the Weak Suffer What They Must?_ and	_Talking to My Daughter: A Brief History of Capitalism_ |
@@ -58,8 +57,8 @@ another section, another time:  _Fire and Blood_ ;
 |	_18% Gray_	|	Zachary Karabashliev	|	EBOOK	|	BG //	|
 
 
+_Negative Space_ Luljeta Lleshanaku
 _Vilnius Poker_ Ricardas Gavelis
-_Death and the Penguin_
 _Odessa Stories_
 
 ---
