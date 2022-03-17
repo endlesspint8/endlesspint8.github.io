@@ -40,7 +40,7 @@ another section, another time:  _Fire and Blood_ ;
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Vilnius Poker_	|	Ricardas Gavelis	|	EBOOK	|	LT //	|
 |	_Death and the Penguin_	|	Andrey Kurkov	|	PRINT	|	UA // 	|
 |	_Waiting for the Dark, Waiting for the Light_	|	Ivan Klíma	|	EBOOK	|	CZ //	|
 |	_Ferdydurke_	|	Witold Gombrowicz	|	EBOOK	|	PL //	|
@@ -58,7 +58,6 @@ another section, another time:  _Fire and Blood_ ;
 
 
 _Negative Space_ Luljeta Lleshanaku
-_Vilnius Poker_ Ricardas Gavelis
 _Odessa Stories_
 
 ---
