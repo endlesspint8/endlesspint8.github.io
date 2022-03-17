@@ -189,7 +189,7 @@ _Odessa Stories_
 
 ---
 
-### Triple Five Roll  #3 (last four quarters)
+### Triple Five Roll 3 (last four quarters)
 
 |	Best Fiction-ish	|	Most Entertaining	| Think on It |
 |	---	|	---	|	---	|
@@ -235,7 +235,7 @@ _Odessa Stories_
 
 ---
 
-### Triple Five Roll  #2 (last four quarters)
+### Triple Five Roll 2 (last four quarters)
 
 |	Best Fiction-ish	|	Most Entertaining	| Think on It |
 |	---	|	---	|	---	|
@@ -282,7 +282,7 @@ _Odessa Stories_
 
 
 
-### Triple Five Roll  #1 (last four quarters)
+### Triple Five Roll 1 (last four quarters)
 
 |	Best Fiction-ish	|	Most Entertaining	| Think on It |
 |	---	|	---	|	---	|
