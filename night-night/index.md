@@ -10,7 +10,7 @@ Completed to date: 18%
 
 ## Spring '22 - x titles (y abandoned), theme: CEE cont.
 
-**honorable mention:** see previous section
+**honorable mention:** see pre-previous section
 
 **wish list:**
 
@@ -30,7 +30,7 @@ another section, another time:  _Fire and Blood_ ;
 
 
 
-## Winter '22 - x titles (y abandoned), theme: The Broken Road
+## Winter '22 - 17 titles (none abandoned), theme: The Broken Road
 
 **honorable mention:** see previous section
 
@@ -38,8 +38,8 @@ another section, another time:  _Fire and Blood_ ;
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
-|		|		|		|		|
+|	_Odessa Stories_	|	Isaac Babel	|	EBOOK	|	RU, UA //	|
+|	_Negative Space_	|	Luljeta Lleshanaku	|	EBOOK	|	AL // 	|
 |	_Vilnius Poker_	|	Ricardas Gavelis	|	EBOOK	|	LT //	|
 |	_Death and the Penguin_	|	Andrey Kurkov	|	PRINT	|	UA // 	|
 |	_Waiting for the Dark, Waiting for the Light_	|	Ivan Klíma	|	EBOOK	|	CZ //	|
@@ -57,7 +57,7 @@ another section, another time:  _Fire and Blood_ ;
 |	_18% Gray_	|	Zachary Karabashliev	|	EBOOK	|	BG //	|
 
 
-_Negative Space_ Luljeta Lleshanaku
+
 _Odessa Stories_
 
 ---
