@@ -18,7 +18,10 @@ Completed to date: 18%
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|	The Last Temptation of Christ	|	Nikos Kazantzakis	|	EBOOK	|	GR // _Zorba the Greek_	|
 
+by 
 
 PL: _Fatelessness_; _My Century_ Aleksander Wat
 
