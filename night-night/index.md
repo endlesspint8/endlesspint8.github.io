@@ -19,18 +19,17 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|	The Last Temptation of Christ	|	Nikos Kazantzakis	|	EBOOK	|	GR // _Zorba the Greek_	|
+|	_The Last Temptation of Christ_	|	Nikos Kazantzakis	|	EBOOK	|	GR // _Zorba the Greek_	|
 
-by 
 
-PL: _Fatelessness_; _My Century_ Aleksander Wat
+_Fatelessness_
+_My Century_ Aleksander Wat
 
 RO:  _Train to Trieste_
 
 [The Mountain Wreath](https://web.archive.org/web/20090226210356/http://www.rastko.org.rs/knjizevnost/njegos/njegos-mountain_wreath.html)
 
 another section, another time:  _Fire and Blood_ ; 
-
 
 
 ## Winter '22 - 17 titles (none abandoned), theme: The Broken Road
@@ -59,9 +58,6 @@ another section, another time:  _Fire and Blood_ ;
 |	_Embers_	|	Sandor Marai	|	EBOOK	|	HU, Post Habsburg reflections //	|
 |	_18% Gray_	|	Zachary Karabashliev	|	EBOOK	|	BG //	|
 
-
-
-_Odessa Stories_
 
 ---
 
@@ -574,6 +570,7 @@ Parting the Waters (SimplyE)
 August Wilson (SimplyE)
 The Hero and the Blues _Albert Murray_ (13 ways to look)
 Blood in the Water
+The Shadow of the Sun
 
 
 ## Drinking & Co.
@@ -691,6 +688,8 @@ _Let Us Now Praise Famous Men_
 _Creation_ Vidal
 _Eastward to Tartary_
 Marco Polo
+_Travels with Herodotus_ (or _The Shadow of the Sun_)
+_The Levant Trilogy_
 
 
 ## I am serious and don't call me Shirley
