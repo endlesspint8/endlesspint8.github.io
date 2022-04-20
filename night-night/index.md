@@ -18,11 +18,15 @@ Completed to date: 18%
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_Fortunes of War: The Balkan Trilogy_	|	Olivia Manning	|	EBOOK	|	RO, GR //	|
 |	_On the Road to Babadag: Travels in the Other Europe_	|	Andrzej Stasiuk	|	EBOOK	|	PL, SK, HU, UA, RO, MD, SI, AL //	|
 |	_The Last Temptation of Christ_	|	Nikos Kazantzakis	|	EBOOK	|	GR // _Zorba the Greek_	|
 
 
-_Fortunes of War: The Balkan Trilogy_
+_Drive Your Plow Over the Bones of the Dead_ Olga Tokarczuk
 _Border: A Journey to the Edge of Europe_ Kapka Kassabova
 _Fatelessness_
 _My Century_ Aleksander Wat
