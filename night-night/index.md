@@ -38,6 +38,18 @@ RO:  _Train to Trieste_
 
 another section, another time:  _Fire and Blood_ ; 
 
+---
+
+### Triple Five Roll 7
+
+|	Best Fiction-ish	|	Most Entertaining	| Think on It |		
+|	---	|	---	|	---	|
+| _Blinding_, Mircea Cartarescu 	| _Dancing Lessons for the Advanced in Age_, Bohumil Hrabal 	| _Bloodlands: Europe Between Hitler and Stalin_, Timothy Snyder |				
+| _Cyclops_, Ranko Marinkovic 	| _Heretics of Dune_, Frank Herbert 	| _Secondhand Time: The Last of the Soviets_, Svetlana Alexievich |				
+| _The Left Hand of Darkness_, Ursula K. Le Guin 	| _Odessa Stories_, Isaac Babel 	| _The Captive Mind_, Czeslaw Milosz |				
+| _The Painted Bird_, Jerzy Kosinski 	| _The Good Soldier Švejk_, Jaroslav Hasek 	| _The Fault Line: Traveling the Other Europe, from Finland to Ukraine_, Paolo Rumiz |				
+| _Vilnius Poker_, Ricardas Gavelis 	| _This Is How You Lose the Time War_, Amal El-Mohtar and Max Gladstone 	| _The Great Transformation_, Karl Polanyi |				
+
 
 ## Winter '22 - 17 titles (none abandoned), theme: The Broken Road
 
@@ -172,7 +184,7 @@ another section, another time:  _Fire and Blood_ ;
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|	_The Great Transformation_	|	Karl Polanyi	|	EBOOK	|		|
+|	_The Great Transformation_	|	Karl Polanyi	|	EBOOK	|	Karl Polanyi	|
 |	_The Black Prince_	|	Iris Murdoch	|	EBOOK	|	_The Sea, The Sea_ and _Under the Net_	|
 |	_Sabrina_	|	Nick Drnaso	|	EBOOK	|	Man Booker longlist and [Just Write video](https://youtu.be/Yuyu1y1m1s4)	|
 |	_Long Day's Journey into Night_	|	Eugene O'Neill	|	EBOOK	|	_The Iceman Cometh_	|
