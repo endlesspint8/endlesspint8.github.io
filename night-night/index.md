@@ -714,6 +714,7 @@ _Eastward to Tartary_
 Marco Polo
 _Travels with Herodotus_ (or _The Shadow of the Sun_)
 _The Levant Trilogy_
+_Hell's Angels: A Strange and Terrible Saga_
 
 
 ## I am serious and don't call me Shirley
