@@ -20,6 +20,9 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_Fatelessness_	|	Imre Kertész	|	EBOOK	|	HU //	|
 |	_Border: A Journey to the Edge of Europe_	|	Kapka Kassabova	|	EBOOK	|	BG, GR, TR, Thrace, Rumelia //	|
 |	_On the Edge of Reason_	|	Miroslav Krleza	|	EBOOK	|	HR // 	|
 |	_Drive Your Plow Over the Bones of the Dead_	|	Olga Tokarczuk	|	EBOOK	|	PL // _Flights_	|
@@ -29,7 +32,9 @@ Completed to date: 18%
 |	_The Last Temptation of Christ_	|	Nikos Kazantzakis	|	EBOOK	|	GR // _Zorba the Greek_	|
 
 
-_Fatelessness_
+
+_The Jews of Easter Europe, 1772-1881_ Israel Bartal
+_The Wandering Jews_ Joseph Roth
 _My Century_ Aleksander Wat
 
 RO:  _Train to Trieste_
