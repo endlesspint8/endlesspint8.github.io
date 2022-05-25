@@ -20,7 +20,7 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Dictionary of the Khazars: A Lexicon Novel (M)_	|	Milorad Pavić	|	PRINT	|	RS // I did also have a print out of [the female passage](https://literature.stackexchange.com/questions/723/why-did-the-author-of-the-dictionary-of-the-khazars-publish-a-male-and-female).	|
 |	_The Jews of Easter Europe, 1772-1881_	|	Israel Bartal	|	PRINT	|	PL-LT, RU, Galicia, The Pale //	|
 |	_Fatelessness_	|	Imre Kertész	|	EBOOK	|	HU //	|
 |	_Border: A Journey to the Edge of Europe_	|	Kapka Kassabova	|	EBOOK	|	BG, GR, TR, Thrace, Rumelia //	|
