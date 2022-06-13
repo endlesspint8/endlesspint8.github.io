@@ -18,6 +18,7 @@ Completed to date: 18%
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
+|	_From Peoples into Nations: A History of Eastern Europe_	|	John Connelly	|	PRINT	|		|
 |	_The Ministry of Pain_	|	Dubravka Ugresic	|	EBOOK	|	YU (HR) //	|
 |	_The Wandering Jews_	|	Joseph Roth	|	EBOOK	|		|
 |	_Dictionary of the Khazars: A Lexicon Novel (M)_	|	Milorad Pavić	|	PRINT	|	RS // I did also have a print out of [the female passage](https://literature.stackexchange.com/questions/723/why-did-the-author-of-the-dictionary-of-the-khazars-publish-a-male-and-female).	|
