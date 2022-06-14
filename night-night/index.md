@@ -17,7 +17,7 @@ Completed to date: 18%
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
-|		|		|		|		|
+|	_Fieldwork in Ukrainian Sex_	|	Oksana Zabuzhko	|	PRINT	|	UA // 	|
 |	_From Peoples into Nations: A History of Eastern Europe_	|	John Connelly	|	PRINT	|		|
 |	_The Ministry of Pain_	|	Dubravka Ugresic	|	EBOOK	|	YU (HR) //	|
 |	_The Wandering Jews_	|	Joseph Roth	|	EBOOK	|		|
