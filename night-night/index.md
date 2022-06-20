@@ -8,7 +8,33 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 Completed to date: 18%
 
 
-## Spring '22 - x titles (y abandoned), theme: CEE cont.
+## Summer '22 - x titles (y abandoned), theme: The Broken Road
+
+**honorable mention:** see previous section
+
+**wish list:**
+
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+
+
+_My Century_ Aleksander Wat
+
+RO:  _Train to Trieste_
+
+[The Mountain Wreath](https://web.archive.org/web/20090226210356/http://www.rastko.org.rs/knjizevnost/njegos/njegos-mountain_wreath.html)
+
+another section, another time:  _Fire and Blood_ ; 
+
+
+
+## Spring '22 - 16 titles (0 abandoned), theme: CEE cont.
 
 **honorable mention:** see pre-previous section
 
@@ -16,7 +42,8 @@ Completed to date: 18%
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
+|	_Athene Palace: Hitler's "New Order" Comes to Rumania_	|	R. G. Waldeck	|	PDF	|	RO // A wonderful companion to Manning's _Balkan Trilogy_	|
+|	_The Street of Crocodiles and Other Stories_	|	Bruno Schul	|	PRINT	|	PL //	|
 |	_Fieldwork in Ukrainian Sex_	|	Oksana Zabuzhko	|	PRINT	|	UA // 	|
 |	_From Peoples into Nations: A History of Eastern Europe_	|	John Connelly	|	PRINT	|		|
 |	_The Ministry of Pain_	|	Dubravka Ugresic	|	EBOOK	|	YU (HR) //	|
@@ -33,16 +60,6 @@ Completed to date: 18%
 |	_The Last Temptation of Christ_	|	Nikos Kazantzakis	|	EBOOK	|	GR // _Zorba the Greek_	|
 
 
- 
-  
-_My Century_ Aleksander Wat
-
-RO:  _Train to Trieste_
-
-[The Mountain Wreath](https://web.archive.org/web/20090226210356/http://www.rastko.org.rs/knjizevnost/njegos/njegos-mountain_wreath.html)
-
-another section, another time:  _Fire and Blood_ ; 
-
 ---
 
 ### Triple Five Roll 7
@@ -56,7 +73,7 @@ another section, another time:  _Fire and Blood_ ;
 | _Vilnius Poker_, Ricardas Gavelis 	| _This Is How You Lose the Time War_, Amal El-Mohtar and Max Gladstone 	| _The Great Transformation_, Karl Polanyi |				
 
 
-## Winter '22 - 17 titles (none abandoned), theme: The Broken Road
+## Winter '22 - 17 titles (none abandoned), theme: ... and the Water
 
 **honorable mention:** see previous section
 
@@ -99,7 +116,7 @@ another section, another time:  _Fire and Blood_ ;
 **honorable mention:** _The Mountains of Parnassus; Iron Curtain: The Crushing of Eastern Europe; Memoirs of an Anti-Semite_
 
 
-## Autumn '21 - 17 titles (none abandoned), theme: Between the Woods and the Water
+## Autumn '21 - 17 titles (none abandoned), theme: Between the Woods ...
 
 **honorable mention:** _The Broken Road; Flights; The Fox Was Ever the Hunter; The Futurological Congress; The Master and Margarita; Rhinoceros; The Trial; The Unbearable Lightness of Being; View with a Grain of Sand; Zorba the Greek_
 
