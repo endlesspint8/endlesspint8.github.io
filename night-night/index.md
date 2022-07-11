@@ -24,11 +24,11 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Books of Jacob_	|	Olga Tokarczuk	|	EBOOK	|	Podolia, Ruthenia, Moravia, Silesia, Wallachia, Moldova, Galicia, Salonika, Smyrna, Stamboul, Dneister, ... Warsaw, Kraków, Częstochowa, Brno  // _Flights_ and _Drive Your Plow Over the Bones of the Dead_; what a whirlwind	|
 |	_Free: Coming of Age at the End of History_	|	Lea Ypi 	|	EBOOK	|	AL //	|
 
 
-
+ 
 
 _My Century_ Aleksander Wat
 
