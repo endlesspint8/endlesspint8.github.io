@@ -22,14 +22,12 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Adriatic: A Concert of Civilizations at the End of the Modern Age_	|	Robert D. Kaplan	|	EBOOK	|	(IT), SI, HR, AL, Corfu //	|
 |	_Prospero's Cell: A Guide to the Landscape and Manners of the Island of Corfu_	|	Lawrence Durrell	|	EBOOK	|	GR //	|
 |	_The Books of Jacob_	|	Olga Tokarczuk	|	EBOOK	|	Podolia, Ruthenia, Moravia, Silesia, Wallachia, Moldova, Galicia, Salonika, Smyrna, Stamboul, Dneister, ... Warsaw, Kraków, Częstochowa, Brno  // _Flights_ and _Drive Your Plow Over the Bones of the Dead_; what a whirlwind	|
 |	_Free: Coming of Age at the End of History_	|	Lea Ypi 	|	EBOOK	|	AL //	|
 
- 
 
-_My Century_ Aleksander Wat
 
 RO:  _Train to Trieste_
 
