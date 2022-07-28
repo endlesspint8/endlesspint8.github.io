@@ -34,6 +34,20 @@ RO:  _Train to Trieste_
 [The Mountain Wreath](https://web.archive.org/web/20090226210356/http://www.rastko.org.rs/knjizevnost/njegos/njegos-mountain_wreath.html)
 
 
+---
+
+### Triple Five Roll 8
+
+|	Best Storytelling	|	Most Entertaining	| Think on It |		
+|	---	|	---	|	---	|
+| _Blinding_, Mircea Cartarescu 	| _Dancing Lessons for the Advanced in Age_, Bohumil Hrabal 	| _Bloodlands: Europe Between Hitler and Stalin_, Timothy Snyder |	
+| _Cyclops_, Ranko Marinkovic 	| _Dictionary of the Khazars: A Lexicon Novel (M)_, Milorad Pavić 	| _From Peoples into Nations: A History of Eastern Europe_, John Connelly |	
+| _The Left Hand of Darkness_, Ursula K. Le Guin 	| _Odessa Stories_, Isaac Babel 	| _Secondhand Time: The Last of the Soviets_, Svetlana Alexievich |	
+| _The Painted Bird_, Jerzy Kosinski 	| _The Good Soldier Švejk_, Jaroslav Hasek 	| _The Captive Mind_, Czeslaw Milosz |	
+| _Vilnius Poker_, Ricardas Gavelis 	| _This Is How You Lose the Time War_, Amal El-Mohtar and Max Gladstone 	| _The Fault Line: Traveling the Other Europe, from Finland to Ukraine_, Paolo Rumiz |	
+
+**honorable mention:** _Fieldwork in Ukrainian Sex; Border: A Journey to the Edge of Europe; The Last Temptation of Christ_
+
 
 ## Spring '22 - 16 titles (0 abandoned), theme: CEE cont.
 
@@ -71,7 +85,9 @@ RO:  _Train to Trieste_
 | _Cyclops_, Ranko Marinkovic 	| _Heretics of Dune_, Frank Herbert 	| _Secondhand Time: The Last of the Soviets_, Svetlana Alexievich |				
 | _The Left Hand of Darkness_, Ursula K. Le Guin 	| _Odessa Stories_, Isaac Babel 	| _The Captive Mind_, Czeslaw Milosz |				
 | _The Painted Bird_, Jerzy Kosinski 	| _The Good Soldier Švejk_, Jaroslav Hasek 	| _The Fault Line: Traveling the Other Europe, from Finland to Ukraine_, Paolo Rumiz |				
-| _Vilnius Poker_, Ricardas Gavelis 	| _This Is How You Lose the Time War_, Amal El-Mohtar and Max Gladstone 	| _The Great Transformation_, Karl Polanyi |				
+| _Vilnius Poker_, Ricardas Gavelis 	| _This Is How You Lose the Time War_, Amal El-Mohtar and Max Gladstone 	| _The Great Transformation_, Karl Polanyi |
+
+**honorable mention:** _Death and the Penguin; Embers_
 
 
 ## Winter '22 - 17 titles (none abandoned), theme: ... and the Water
