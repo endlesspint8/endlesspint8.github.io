@@ -21,19 +21,15 @@ Completed to date: 18%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_Black Earth: The Holocaust as History and Warning_	|	Timothy Snyder	|	EBOOK	|		|
+|	_The Door_	|	Magda Szabo	|	EBOOK	|	HU // 	|
+|	_Bury Me Standing: The Gypsies and Their Journey_	|	Isabel Fonseca	|	EBOOK	|	PL, AL, CZ, SK, BG, RO //	|
 |	_Dostoyevsky Reads Hegel in Siberia and Bursts into Tears_	|	Laszlo F. Foldenyi	|	EBOOK	|	HU // 	|
 |	_Adriatic: A Concert of Civilizations at the End of the Modern Age_	|	Robert D. Kaplan	|	EBOOK	|	(IT), SI, HR, AL, Corfu //	|
 |	_Prospero's Cell: A Guide to the Landscape and Manners of the Island of Corfu_	|	Lawrence Durrell	|	EBOOK	|	GR //	|
 |	_The Books of Jacob_	|	Olga Tokarczuk	|	EBOOK	|	Podolia, Ruthenia, Moravia, Silesia, Wallachia, Moldova, Galicia, Salonika, Smyrna, Stamboul, Dneister, ... Warsaw, Kraków, Częstochowa, Brno  // _Flights_ and _Drive Your Plow Over the Bones of the Dead_; what a whirlwind	|
 |	_Free: Coming of Age at the End of History_	|	Lea Ypi 	|	EBOOK	|	AL //	|
 
-
-_Bury Me Standing: The Gypsies and Their Journey_ Isabel Fonseca PL, AL, SK, BG, RO
-_The Door_ Magda Szabo
- 
 
 RO:  _Train to Trieste_
 
