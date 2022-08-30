@@ -8,11 +8,37 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 Completed to date: 18%
 
 
+## Autumn '22 - x titles (y abandoned), theme: I am serious and don't call me Shirley
+
+**honorable mention:** _Babbitt; Catch-22; Fear and Loathing in Las Vegas; The Good Soldier Švejk; The Master and Margarita; The Sellout_
+
+_The House of God_ Samuel Shem, M.D.
+_Look Who's Back_ Timur Vermes
+_The Sympathizer_ Viet Thanh Nguyen
+_The Zone_ Sergei Dovlatov
+_Her Body and Other Parties_ Carmen Maria Machado
+_Diary of an Oxygen Thief_ Anonymous
+_Boomsday_ Christopher Buckle
+_Don Juan_ Lord Byron
+_Gulliver's Travels_ (& _A Modest Proposal_)
+_Broken Glass_ Alain Mabanckou
+_A Visit from The Goon Squad_
+_Arms and the Man_ George Bernard Shaw
+_Scoop_ Evelyn Waugh
+_The Red Room_ August Strindberg
+_The Life and Opinions of Tristram Shandy_
+Aristophanes
+_Being There_
+_Three Men in a Boat_
+
+
 ## Summer '22 - x titles (y abandoned), theme: The Broken Road
 
 **honorable mention:** see previous section
 
-**wish list:**
+**another time (_maybe_):** _Train to Trieste; I Served the King of England; They Were Found Wanting / Counted; The Bridge on the Drina; Death and the Dervish; War with the Newts; Eastward to Tartary; The Snows of Yesteryear; The War in Eastern Europe; Fourteen Byzantine Rulers; Ashes and Diamonds; The Good Life Elsewhere; Little Infamies; [The Mountain Wreath](https://web.archive.org/web/20090226210356/http://www.rastko.org.rs/knjizevnost/njegos/njegos-mountain_wreath.html)_
+
+
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -30,10 +56,6 @@ Completed to date: 18%
 |	_The Books of Jacob_	|	Olga Tokarczuk	|	EBOOK	|	Podolia, Ruthenia, Moravia, Silesia, Wallachia, Moldova, Galicia, Salonika, Smyrna, Stamboul, Dneister, ... Warsaw, Kraków, Częstochowa, Brno  // _Flights_ and _Drive Your Plow Over the Bones of the Dead_; what a whirlwind	|
 |	_Free: Coming of Age at the End of History_	|	Lea Ypi 	|	EBOOK	|	AL //	|
 
-
-RO:  _Train to Trieste_
-
-[The Mountain Wreath](https://web.archive.org/web/20090226210356/http://www.rastko.org.rs/knjizevnost/njegos/njegos-mountain_wreath.html)
 
 
 ---
@@ -55,7 +77,6 @@ RO:  _Train to Trieste_
 
 **honorable mention:** see pre-previous section
 
-**wish list:**
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -96,7 +117,6 @@ RO:  _Train to Trieste_
 
 **honorable mention:** see previous section
 
-**wish list:**
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -753,28 +773,7 @@ _The Levant Trilogy_
 _Hell's Angels: A Strange and Terrible Saga_
 
 
-## I am serious and don't call me Shirley
 
-**honorable mention:** _Babbitt; Catch-22; Fear and Loathing in Las Vegas; The Good Soldier Švejk; The Master and Margarita; The Sellout_
-
-_The House of God_ Samuel Shem, M.D.
-_Look Who's Back_ Timur Vermes
-_The Sympathizer_ Viet Thanh Nguyen
-_The Zone_ Sergei Dovlatov
-_Her Body and Other Parties_ Carmen Maria Machado
-_Diary of an Oxygen Thief_ Anonymous
-_Boomsday_ Christopher Buckle
-_Don Juan_ Lord Byron
-_Gulliver's Travels_ (& _A Modest Proposal_)
-_Broken Glass_ Alain Mabanckou
-_A Visit from The Goon Squad_
-_Arms and the Man_ George Bernard Shaw
-_Scoop_ Evelyn Waugh
-_The Red Room_ August Strindberg
-_The Life and Opinions of Tristram Shandy_
-Aristophanes
-_Being There_
-_Three Men in a Boat_
 
 ---
 
