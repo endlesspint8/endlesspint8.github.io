@@ -775,10 +775,11 @@ _Hell's Angels: A Strange and Terrible Saga_
 
 ## Mem-Muah
 
-**honorable mention:** _Angela's Ashes; Autobiography of Malcolm X; Dreams of My Father; Kitchen Confidential; I Know Why the Caged Bird Sings; A Moveable Feast; Night; The Year of Magical Thinking_
+**honorable mention:** _Angela's Ashes; The Autobiography of Benjamin Franklin; The Autobiography of Malcolm X; The Bell Jar; Between the World and Me; Black Boy; The Diary of a Young Girl; Dreams From My Father; Dry; Gandhi; A Heartbreaking Work of Staggering Genius; Into the Wild; Into Thin Air; Kitchen Confidential; I Know Why the Caged Bird Sings; Maus; Man's Search for Meaning; Me Talk Pretty One Day; A Moveable Feast; My Century; Narrative of the Life of Frederick Douglass; Night; Open; Persepolis; The Power Broker; Surely You’re Joking, Mr. Feynman!; Travels with Charlie; Tuesdays with Morrie; Walden; A Walk in the Woods; The Year of Magical Thinking_
 
 _The Snows of Yesteryear_
 _The Autobiography of Alice B. Toklas_
+_Barbarian Days_
 
 
 
