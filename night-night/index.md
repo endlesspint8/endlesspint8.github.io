@@ -773,6 +773,13 @@ _The Levant Trilogy_
 _Hell's Angels: A Strange and Terrible Saga_
 
 
+## Mem-Muah
+
+**honorable mention:** _Autobiography of Malcolm X; _
+
+_The Snows of Yesteryear_
+_The Autobiography of Alice B. Toklas_
+
 
 
 ---
