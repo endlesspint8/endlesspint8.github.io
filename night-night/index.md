@@ -775,7 +775,7 @@ _Hell's Angels: A Strange and Terrible Saga_
 
 ## Mem-Muah
 
-**honorable mention:** _Autobiography of Malcolm X; _
+**honorable mention:** _Angela's Ashes; Autobiography of Malcolm X; Dreams of My Father; Kitchen Confidential; I Know Why the Caged Bird Sings; A Moveable Feast; Night; The Year of Magical Thinking_
 
 _The Snows of Yesteryear_
 _The Autobiography of Alice B. Toklas_
