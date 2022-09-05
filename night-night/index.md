@@ -600,12 +600,16 @@ _The Adventures of Augie March_
 
 ## From Russia with Letters
 
+**honorable mention:** _Everything is Possible and Nothing is True; Love and Fate_
+
 _A Swim in a Pond in the Rain_ George Sauders
 _One Day in the Life of Ivan Denisovich_ Alexander Solzhenitsyn (SimplyE)
 _The Gambler_ Fyodor Dostoyevsky
 _Oblomov_ Ivan Goncharov
 _Rock, Paper, Scissors And Other Stories_ Maxim Osipov
 _Inhuman Land_
+_Russia: A 1000-Year Chronicle of the Wild East_
+_The Story of Russia_ Orlando Figes
 
 
 ## The Sweet Science?
