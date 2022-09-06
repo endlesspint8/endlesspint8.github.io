@@ -46,7 +46,7 @@ _Three Men in a Boat_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Bosnian Chronicle: A Novel_	|	Ivo Andric	|	EBOOK	|	BA // _Omer Pasha Latas_	|
 |	_Black Earth: The Holocaust as History and Warning_	|	Timothy Snyder	|	EBOOK	|		|
 |	_The Door_	|	Magda Szabo	|	EBOOK	|	HU // 	|
 |	_Bury Me Standing: The Gypsies and Their Journey_	|	Isabel Fonseca	|	EBOOK	|	PL, AL, CZ, SK, BG, RO //	|
