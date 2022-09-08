@@ -10,7 +10,7 @@ Completed to date: 18%
 
 ## Winter '23 - x titles (y abandoned), theme: none, sabbatical two
 
-_Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Beginning of Infinity; On the Abolition of All Political Parties; Cryptonomicon; Travel Light; Genuine Pretending: On the Philosophy of the Zhuangzi; Woodcutters; True History of the Kelly Gang; Water by the Spoonful; The Dawn Watch: Joseph Conrad in a Global World; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; _
+_Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Beginning of Infinity; On the Abolition of All Political Parties; Cryptonomicon; Travel Light; Genuine Pretending: On the Philosophy of the Zhuangzi; Woodcutters; True History of the Kelly Gang; Water by the Spoonful; The Dawn Watch: Joseph Conrad in a Global World; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; The General in His Labyrinth; Creation (Vidal); Dune VI_
 
 
 ## Autumn '22 - x titles (y abandoned), theme: I am serious and don't call me Shirley
@@ -545,7 +545,7 @@ There are undoubtedly more important things to address with what's left of one's
 
 ## Things Fall Apart
 
-_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; _
+_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; The Precipice;_
 
 ## Death & Co.
 
