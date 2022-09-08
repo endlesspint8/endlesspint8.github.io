@@ -8,6 +8,11 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 Completed to date: 18%
 
 
+## Winter '23 - x titles (y abandoned), theme: none, sabbatical two
+
+_Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Beginning of Infinity; On the Abolition of All Political Parties; Cryptonomicon; Travel Light; Genuine Pretending: On the Philosophy of the Zhuangzi; Woodcutters; True History of the Kelly Gang; _
+
+
 ## Autumn '22 - x titles (y abandoned), theme: I am serious and don't call me Shirley
 
 **honorable mention:** _Babbitt; Catch-22; Fear and Loathing in Las Vegas; The Good Soldier Švejk; The Master and Margarita; The Sellout_
@@ -30,6 +35,7 @@ _The Life and Opinions of Tristram Shandy_
 Aristophanes
 _Being There_
 _Three Men in a Boat_
+_Genuine Pretending: On the Philosophy of the Zhuangzi_
 
 
 ## Summer '22 - x titles (y abandoned), theme: The Broken Road
@@ -240,7 +246,7 @@ _Three Men in a Boat_
 **honorable mention:** _Angels in America; The Black Prince; Collapse; Glengarry Glen Ross; The Great Transformation; Heretics of Dune; Long Day's Journey into Night; Minor Feelings; Winners Take All_
 
 
-## Spring '21 - 19 titles (1 abandoned), theme: no-theme, sabatical season
+## Spring '21 - 19 titles (1 abandoned), theme: no-theme, sabbatical season
 
 
 |	title	|	author	|	media	|	alibi	|
