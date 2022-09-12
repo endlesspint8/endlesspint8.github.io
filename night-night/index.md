@@ -545,7 +545,7 @@ There are undoubtedly more important things to address with what's left of one's
 
 ## Things Fall Apart
 
-_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; The Precipice;_
+_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; The Precipice; The Narrow Corridor; Splinterlands;_
 
 ## Death & Co.
 
