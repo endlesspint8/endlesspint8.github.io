@@ -592,6 +592,7 @@ _The Colossus of New York_
 _The Assistant_ (SimplyE)
 _Manchild in the Promised Land_ (SimplyE)
 _Wrestling with Moses_
+_Fear City: New York’s Fiscal Crisis and the Rise of Austerity Politics_
 
 https://www.penguinrandomhouse.com/the-read-down/new-york-city-books
 https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday
@@ -674,6 +675,7 @@ The Hero and the Blues _Albert Murray_ (13 ways to look)
 Blood in the Water
 The Shadow of the Sun
 Empire of Cotton: A Global History
+Frederick Douglass: Prophet of Freedom
 
 
 ## Drinking & Co.
