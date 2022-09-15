@@ -545,7 +545,7 @@ There are undoubtedly more important things to address with what's left of one's
 
 ## Things Fall Apart
 
-_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; The Precipice; The Narrow Corridor; Splinterlands;_
+_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; The Precipice; The Narrow Corridor; Splinterlands; A Cold Welcome: The Little Ice Age and Europe’s Encounter with North America; The Anarchy: The Relentless Rise of the East India Company; The Horde: How the Mongols Changed the World_
 
 ## Death & Co.
 
@@ -569,6 +569,7 @@ _Natural Causes_ Barbara Ehrenreich
 _The Mansion of Happiness_
 _War Is a Force that Gives Us Meaning_
 _The Return of the Soldier_
+_The Work of the Dead: A Cultural History of Mortal Remains_
 
 
 ## The Rotten Manzana
@@ -619,7 +620,7 @@ _Oblomov_ Ivan Goncharov
 _Rock, Paper, Scissors And Other Stories_ Maxim Osipov
 _Inhuman Land_
 _Russia: A 1000-Year Chronicle of the Wild East_
-_The Story of Russia_ Orlando Figes
+_The Story of Russia_ and/ or _A People’s Tragedy: The Russian Revolution 1891-1924_ Orlando Figes
 
 
 ## The Sweet Science?
@@ -634,13 +635,20 @@ I Fight for a Living
 Boxing: A Cultural History
 
 
+## The Great War; before, during, after
+
+_The Sleepwalkers: How Europe Went To War In 1914; The Guardians: The League of Nations and the Crisis of Empire; Ring of Steel: Germany and Austria-Hungary at War, 1914-1918; The Eastern Front 1914-17_
+
+
 ## Going Dutch
 
 _Brilliant Orange_ David Winner
-_Going Dutch_
+_Going Dutch: How England Plundered Holland’s Glory_
 _Embarrassment of Riches_
 _An Untouched House_ Willem Frederik Hermans
 _Brilliant Orange_
+_Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_
+_Patriots and Liberators: Revolution in the Netherlands, 1780-1813_
 
 
 ## Cane
@@ -665,6 +673,7 @@ August Wilson (SimplyE)
 The Hero and the Blues _Albert Murray_ (13 ways to look)
 Blood in the Water
 The Shadow of the Sun
+Empire of Cotton: A Global History
 
 
 ## Drinking & Co.
