@@ -51,7 +51,7 @@ _Genuine Pretending: On the Philosophy of the Zhuangzi_
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_My Century_	|	Aleksander Wat	|	EBOOK	|	PL, UA, RU //	|
 |	_Bosnian Chronicle: A Novel_	|	Ivo Andric	|	EBOOK	|	BA // _Omer Pasha Latas_	|
 |	_Black Earth: The Holocaust as History and Warning_	|	Timothy Snyder	|	EBOOK	|		|
 |	_The Door_	|	Magda Szabo	|	EBOOK	|	HU // 	|
