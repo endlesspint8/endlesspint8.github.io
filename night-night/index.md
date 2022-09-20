@@ -17,6 +17,17 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 
 **honorable mention:** _Babbitt; Catch-22; Fear and Loathing in Las Vegas; The Good Soldier Švejk; The Master and Margarita; The Sellout_
 
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+
 _The House of God_ Samuel Shem, M.D.
 _Look Who's Back_ Timur Vermes
 _The Sympathizer_ Viet Thanh Nguyen
@@ -38,7 +49,7 @@ _Three Men in a Boat_
 _Genuine Pretending: On the Philosophy of the Zhuangzi_
 
 
-## Summer '22 - x titles (y abandoned), theme: The Broken Road
+## Summer '22 - 12 titles (none abandoned... but one still in process), theme: The Broken Road
 
 **honorable mention:** see previous section
 
@@ -48,9 +59,8 @@ _Genuine Pretending: On the Philosophy of the Zhuangzi_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
-|		|		|		|		|
-|	_Black Lamb and Grey Falcon: A Journey Through Yugoslavia_	|	Rebecca West	|	EBOOK	|	SI, HR, BA, RS, MK // A (book) bucket list dream come true; simply one of the best titles I've ever read.	|
+|	_Adventures in Immediate Irreality_	|	Max Blecher	|	PRINT	|	RO //	|
+|	_Black Lamb and Grey Falcon: A Journey Through Yugoslavia_	|	Rebecca West	|	PRINT	|	SI, HR, BA, RS, MK // A (book) bucket list dream come true; simply one of the best titles I've ever read.	|
 |	_My Century_	|	Aleksander Wat	|	EBOOK	|	PL, UA, RU //	|
 |	_Bosnian Chronicle: A Novel_	|	Ivo Andric	|	EBOOK	|	BA // _Omer Pasha Latas_	|
 |	_Black Earth: The Holocaust as History and Warning_	|	Timothy Snyder	|	EBOOK	|		|
