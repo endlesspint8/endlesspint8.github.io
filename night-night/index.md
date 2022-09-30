@@ -27,6 +27,11 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_Being There_	|	Jerzy Kosinski	|	EBOOK	|	_The Painted Bird_	|
+|	_Scoop_	|	Evelyn Waugh	|	EBOOK	|	_A Handful of Dust_	|
+|	_A Visit from The Goon Squad_	|	Jennifer Egan	|	EBOOK	|		|
 
 _The House of God_ Samuel Shem, M.D.
 _Look Who's Back_ Timur Vermes
@@ -38,13 +43,13 @@ _Boomsday_ Christopher Buckle
 _Don Juan_ Lord Byron
 _Gulliver's Travels_ (& _A Modest Proposal_)
 _Broken Glass_ Alain Mabanckou
-_A Visit from The Goon Squad_
+
 _Arms and the Man_ George Bernard Shaw
-_Scoop_ Evelyn Waugh
+ 
 _The Red Room_ August Strindberg
 _The Life and Opinions of Tristram Shandy_
 Aristophanes
-_Being There_
+
 _Three Men in a Boat_
 _Genuine Pretending: On the Philosophy of the Zhuangzi_
 
@@ -63,7 +68,7 @@ _Genuine Pretending: On the Philosophy of the Zhuangzi_
 |	_Black Lamb and Grey Falcon: A Journey Through Yugoslavia_	|	Rebecca West	|	PRINT	|	SI, HR, BA, RS, MK // A (book) bucket list dream come true; simply one of the best titles I've ever read.	|
 |	_My Century_	|	Aleksander Wat	|	EBOOK	|	PL, UA, RU //	|
 |	_Bosnian Chronicle: A Novel_	|	Ivo Andric	|	EBOOK	|	BA // _Omer Pasha Latas_	|
-|	_Black Earth: The Holocaust as History and Warning_	|	Timothy Snyder	|	EBOOK	|		|
+|	_Black Earth: The Holocaust as History and Warning_	|	Timothy Snyder	|	EBOOK	|	PL, UA, USSR // _Bloodlands_	|
 |	_The Door_	|	Magda Szabo	|	EBOOK	|	HU // 	|
 |	_Bury Me Standing: The Gypsies and Their Journey_	|	Isabel Fonseca	|	EBOOK	|	PL, AL, CZ, SK, BG, RO //	|
 |	_Dostoyevsky Reads Hegel in Siberia and Bursts into Tears_	|	Laszlo F. Foldenyi	|	EBOOK	|	HU // 	|
