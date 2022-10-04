@@ -15,7 +15,7 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 
 ## Autumn '22 - x titles (y abandoned), theme: I am serious and don't call me Shirley
 
-**honorable mention:** _Babbitt; Catch-22; Fear and Loathing in Las Vegas; The Good Soldier Švejk; The Master and Margarita; The Sellout_
+**honorable mention:** _Babbitt; Catch-22; PKD; Fear and Loathing in Las Vegas; The Good Soldier Švejk; The Master and Margarita; The Sellout; Vonnegut_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -54,11 +54,11 @@ _Three Men in a Boat_
 _Genuine Pretending: On the Philosophy of the Zhuangzi_
 
 
-## Summer '22 - 12 titles (none abandoned... but one still in process), theme: The Broken Road
+## Summer '22 - 12 titles (none abandoned... but one still in progress), theme: The Broken Road
 
 **honorable mention:** see previous section
 
-**another time (_maybe_):** _Train to Trieste; I Served the King of England; They Were Found Wanting / Counted; The Bridge on the Drina; Death and the Dervish; War with the Newts; Eastward to Tartary; The Snows of Yesteryear; The War in Eastern Europe; Fourteen Byzantine Rulers; Ashes and Diamonds; The Good Life Elsewhere; Little Infamies; [The Mountain Wreath](https://web.archive.org/web/20090226210356/http://www.rastko.org.rs/knjizevnost/njegos/njegos-mountain_wreath.html)_
+**another time (_maybe_):** _Train to Trieste; I Served the King of England; They Were Found Wanting / Counted; The Bridge on the Drina; Death and the Dervish; War with the Newts; Eastward to Tartary; The Snows of Yesteryear; The War in Eastern Europe; Fourteen Byzantine Rulers; Ashes and Diamonds; The Good Life Elsewhere; [The Mountain Wreath](https://web.archive.org/web/20090226210356/http://www.rastko.org.rs/knjizevnost/njegos/njegos-mountain_wreath.html); Little Infamies; [Danube: A Sentimental Journey from the Source to the Black Sea](https://archive.org/search.php?query=danube%20magris)_
 
 
 
