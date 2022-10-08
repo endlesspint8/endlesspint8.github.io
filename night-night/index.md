@@ -5,7 +5,7 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 ---
 
 
-Completed to date: 18%
+Completed to date: 20+%
 
 
 ## Winter '23 - x titles (y abandoned), theme: none, sabbatical two
@@ -15,7 +15,7 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 
 ## Autumn '22 - x titles (y abandoned), theme: I am serious and don't call me Shirley
 
-**honorable mention:** _Babbitt; Catch-22; PKD; Fear and Loathing in Las Vegas; The Good Soldier Švejk; The Master and Margarita; The Sellout; Vonnegut_
+**honorable mention:** _Babbitt; Catch-22; PKD; Fear and Loathing in Las Vegas; Fight Club; The Good Soldier Švejk; Lucky Jim; The Master and Margarita; The Sellout; Vonnegut_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -28,14 +28,14 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Sympathizer_	|	Viet Thanh Nguyen	|	EBOOK	|	the awards	|
 |	_Being There_	|	Jerzy Kosinski	|	EBOOK	|	_The Painted Bird_	|
 |	_Scoop_	|	Evelyn Waugh	|	EBOOK	|	_A Handful of Dust_	|
-|	_A Visit from The Goon Squad_	|	Jennifer Egan	|	EBOOK	|		|
+|	_A Visit from The Goon Squad_	|	Jennifer Egan	|	EBOOK	|	the hype	|
 
 _The House of God_ Samuel Shem, M.D.
 _Look Who's Back_ Timur Vermes
-_The Sympathizer_ Viet Thanh Nguyen
+ 
 _The Zone_ Sergei Dovlatov
 _Her Body and Other Parties_ Carmen Maria Machado
 _Diary of an Oxygen Thief_ Anonymous
