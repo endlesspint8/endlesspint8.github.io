@@ -15,7 +15,7 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 
 ## Autumn '22 - x titles (y abandoned), theme: I am serious and don't call me Shirley
 
-**honorable mention:** _Babbitt; Catch-22; PKD; Fear and Loathing in Las Vegas; Fight Club; The Good Soldier Švejk; Lucky Jim; The Master and Margarita; The Sellout; Vonnegut_
+**honorable mention:** _American Psycho; Babbitt; Catch-22; PKD; Fear and Loathing in Las Vegas; Fight Club; The Good Soldier Švejk; Lucky Jim; The Master and Margarita; The Sellout; Vonnegut_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -27,7 +27,7 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Diary of an Oxygen Thief_	|	Anonymous	|	EBOOK	|	the mystery	|
 |	_The Sympathizer_	|	Viet Thanh Nguyen	|	EBOOK	|	the awards	|
 |	_Being There_	|	Jerzy Kosinski	|	EBOOK	|	_The Painted Bird_	|
 |	_Scoop_	|	Evelyn Waugh	|	EBOOK	|	_A Handful of Dust_	|
@@ -38,7 +38,7 @@ _Look Who's Back_ Timur Vermes
  
 _The Zone_ Sergei Dovlatov
 _Her Body and Other Parties_ Carmen Maria Machado
-_Diary of an Oxygen Thief_ Anonymous
+ 
 _Boomsday_ Christopher Buckle
 _Don Juan_ Lord Byron
 _Gulliver's Travels_ (& _A Modest Proposal_)
