@@ -58,7 +58,7 @@ _Genuine Pretending: On the Philosophy of the Zhuangzi_
 
 **honorable mention:** see previous section
 
-**another time (_maybe_):** _Train to Trieste; I Served the King of England; They Were Found Wanting / Counted; The Bridge on the Drina; Death and the Dervish; War with the Newts; Eastward to Tartary; The Snows of Yesteryear; The War in Eastern Europe; Fourteen Byzantine Rulers; Ashes and Diamonds; The Good Life Elsewhere; [The Mountain Wreath](https://web.archive.org/web/20090226210356/http://www.rastko.org.rs/knjizevnost/njegos/njegos-mountain_wreath.html); Little Infamies; [Danube: A Sentimental Journey from the Source to the Black Sea](https://archive.org/search.php?query=danube%20magris)_
+**another time (_maybe_):** _Train to Trieste; I Served the King of England; They Were Found Wanting / Counted; The Bridge on the Drina; Death and the Dervish; War with the Newts; Eastward to Tartary; The Snows of Yesteryear; The War in Eastern Europe; Fourteen Byzantine Rulers; Ashes and Diamonds; The Good Life Elsewhere; [The Mountain Wreath](https://web.archive.org/web/20090226210356/http://www.rastko.org.rs/knjizevnost/njegos/njegos-mountain_wreath.html); Little Infamies; [Danube: A Sentimental Journey from the Source to the Black Sea](https://archive.org/search.php?query=danube%20magris); Byzantium After Byzantium (N. Iorga)_
 
 
 
