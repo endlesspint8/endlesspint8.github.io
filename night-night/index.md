@@ -560,7 +560,7 @@ There are undoubtedly more important things to address with what's left of one's
 
 ## Things Fall Apart
 
-_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; The Precipice; The Narrow Corridor; Splinterlands; A Cold Welcome: The Little Ice Age and Europe’s Encounter with North America; The Anarchy: The Relentless Rise of the East India Company; The Horde: How the Mongols Changed the World_
+_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; The Precipice; The Narrow Corridor; Splinterlands; A Cold Welcome: The Little Ice Age and Europe’s Encounter with North America; The Anarchy: The Relentless Rise of the East India Company; The Horde: How the Mongols Changed the World; Staying with the Trouble_
 
 ## Death & Co.
 
@@ -770,6 +770,7 @@ _The Pleasure Trap_ Douglas J. Lisle, Ph.D.
 _Consumer Society Reader_
 _HBR's 10 Must Reads on Strategy_
 _The Grand Chessboard_ (Brzezinski)
+_Who Gets What--and why_
 
 
 ## You're All My Favorites
