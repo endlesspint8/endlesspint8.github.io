@@ -15,7 +15,7 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 
 ## Autumn '22 - x titles (y abandoned), theme: I am serious and don't call me Shirley
 
-**honorable mention:** _American Psycho; Babbitt; Catch-22; PKD; Fear and Loathing in Las Vegas; Fight Club; The Good Soldier Švejk; Lucky Jim; The Master and Margarita; The Sellout; Vonnegut_
+**honorable mention:** _American Psycho; Babbitt; Catch-22; PKD; Fear and Loathing in Las Vegas; Fight Club; The Good Soldier Švejk; Life for Sale; Love in the Ruins; Lucky Jim; The Master and Margarita; Omon Ra; Pushkin Hills; The Sellout; Vonnegut_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -26,7 +26,7 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Look Who's Back_	|	Timur Vermes	|	EBOOK	|	the gall	|
 |	_Diary of an Oxygen Thief_	|	Anonymous	|	EBOOK	|	the mystery	|
 |	_The Sympathizer_	|	Viet Thanh Nguyen	|	EBOOK	|	the awards	|
 |	_Being There_	|	Jerzy Kosinski	|	EBOOK	|	_The Painted Bird_	|
@@ -34,13 +34,13 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |	_A Visit from The Goon Squad_	|	Jennifer Egan	|	EBOOK	|	the hype	|
 
 _The House of God_ Samuel Shem, M.D.
-_Look Who's Back_ Timur Vermes
  
 _The Zone_ Sergei Dovlatov
 _Her Body and Other Parties_ Carmen Maria Machado
  
 _Boomsday_ Christopher Buckle
 _Don Juan_ Lord Byron
+
 _Gulliver's Travels_ (& _A Modest Proposal_)
 _Broken Glass_ Alain Mabanckou
 
