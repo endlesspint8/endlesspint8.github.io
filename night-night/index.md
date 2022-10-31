@@ -10,7 +10,7 @@ Completed to date: 20+%
 
 ## Winter '23 - x titles (y abandoned), theme: none, sabbatical two
 
-_Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Beginning of Infinity; On the Abolition of All Political Parties; Cryptonomicon; Travel Light; Genuine Pretending: On the Philosophy of the Zhuangzi; Woodcutters; True History of the Kelly Gang; Water by the Spoonful; The Dawn Watch: Joseph Conrad in a Global World; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; The General in His Labyrinth; Creation (Vidal); Dune VI_
+_Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Beginning of Infinity; On the Abolition of All Political Parties; Cryptonomicon; Travel Light; Genuine Pretending: On the Philosophy of the Zhuangzi; Woodcutters; True History of the Kelly Gang; Water by the Spoonful; The Dawn Watch: Joseph Conrad in a Global World; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; Bad Samaritans; The General in His Labyrinth; Creation (Vidal); Dune VI_
 
 
 ## Autumn '22 - x titles (y abandoned), theme: I am serious and don't call me Shirley
@@ -24,8 +24,8 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_Boomsday_	|	Christopher Buckle	|	EBOOK	|	_Thank You for Smoking_	|
+|	_Genuine Pretending: On the Philosophy of the Zhuangzi_	|	Hans-Georg Moeller; Paul J. D'Ambrosio	|	EBOOK	|		|
 |	_Look Who's Back_	|	Timur Vermes	|	EBOOK	|	the gall	|
 |	_Diary of an Oxygen Thief_	|	Anonymous	|	EBOOK	|	the mystery	|
 |	_The Sympathizer_	|	Viet Thanh Nguyen	|	EBOOK	|	the awards	|
@@ -37,8 +37,7 @@ _The House of God_ Samuel Shem, M.D.
  
 _The Zone_ Sergei Dovlatov
 _Her Body and Other Parties_ Carmen Maria Machado
- 
-_Boomsday_ Christopher Buckle
+
 _Don Juan_ Lord Byron
 
 _Gulliver's Travels_ (& _A Modest Proposal_)
@@ -51,7 +50,7 @@ _The Life and Opinions of Tristram Shandy_
 Aristophanes
 
 _Three Men in a Boat_
-_Genuine Pretending: On the Philosophy of the Zhuangzi_
+
 
 
 ## Summer '22 - 12 titles (none abandoned... but one still in progress), theme: The Broken Road
