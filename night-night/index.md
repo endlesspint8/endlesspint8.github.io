@@ -5,7 +5,7 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 ---
 
 
-Completed to date: 20+%
+Completed to date: 23%
 
 
 ## Winter '23 - x titles (y abandoned), theme: none, sabbatical two
@@ -48,9 +48,6 @@ _Arms and the Man_ George Bernard Shaw
 _The Red Room_ August Strindberg
 _The Life and Opinions of Tristram Shandy_
 Aristophanes
-
-_Three Men in a Boat_
-
 
 
 ## Summer '22 - 12 titles (none abandoned... but one still in progress), theme: The Broken Road
@@ -809,6 +806,7 @@ Marco Polo
 _Travels with Herodotus_ (or _The Shadow of the Sun_)
 _The Levant Trilogy_
 _Hell's Angels: A Strange and Terrible Saga_
+_Three Men in a Boat_
 
 
 ## Mem-Muah
