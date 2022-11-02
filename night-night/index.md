@@ -13,9 +13,9 @@ Completed to date: 23%
 _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Beginning of Infinity; On the Abolition of All Political Parties; Cryptonomicon; Travel Light; Genuine Pretending: On the Philosophy of the Zhuangzi; Woodcutters; True History of the Kelly Gang; Water by the Spoonful; The Dawn Watch: Joseph Conrad in a Global World; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; Bad Samaritans; The General in His Labyrinth; Creation (Vidal); Dune VI_
 
 
-## Autumn '22 - x titles (y abandoned), theme: I am serious and don't call me Shirley
+## Autumn '22 - x titles (y abandoned), theme: [I am serious](https://www.supremecourt.gov/DocketPDF/22/22-293/242292/20221003125252896_35295545_1-22.10.03%20-%20Novak-Parma%20-%20Onion%20Amicus%20Brief.pdf) and [don't call me Shirley](https://youtu.be/KM2K7sV-K74)
 
-**honorable mention:** _American Psycho; Babbitt; Catch-22; PKD; Fear and Loathing in Las Vegas; Fight Club; The Good Soldier Švejk; Life for Sale; Love in the Ruins; Lucky Jim; The Master and Margarita; Omon Ra; Pushkin Hills; The Sellout; Vonnegut_
+**honorable mention:** _American Psycho; Babbitt; Candide; Catch-22; PKD; Fear and Loathing in Las Vegas; Fight Club; The Good Soldier Švejk; Life for Sale; Love in the Ruins; Lucky Jim; The Master and Margarita; Omon Ra; Pushkin Hills; The Sellout; Vonnegut_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
