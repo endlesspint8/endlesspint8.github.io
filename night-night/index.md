@@ -23,6 +23,10 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_The House of God_	|	Samuel Shem, M.D.	|	EBOOK	|	the notoriety	|
 |	_Her Body and Other Parties_	|	Carmen Maria Machado	|	EBOOK	|		|
 |	_Boomsday_	|	Christopher Buckley	|	EBOOK	|	_Thank You for Smoking_	|
 |	_Genuine Pretending: On the Philosophy of the Zhuangzi_	|	Hans-Georg Moeller; Paul J. D'Ambrosio	|	EBOOK	|	the profilicity	|
@@ -33,20 +37,23 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |	_Scoop_	|	Evelyn Waugh	|	EBOOK	|	_A Handful of Dust_	|
 |	_A Visit from The Goon Squad_	|	Jennifer Egan	|	EBOOK	|	the hype	|
 
-_The House of God_ Samuel Shem, M.D.
+ 
  
 _The Zone_ Sergei Dovlatov
+_The Life and Opinions of Tristram Shandy_
+
+_Broken Glass_ Alain Mabanckou
+
+Aristophanes
+
+_The Red Room_ August Strindberg
+
+_Arms and the Man_ George Bernard Shaw
+
+_Gulliver's Travels_ (& _A Modest Proposal_)
 
 _Don Juan_ Lord Byron
 
-_Gulliver's Travels_ (& _A Modest Proposal_)
-_Broken Glass_ Alain Mabanckou
-
-_Arms and the Man_ George Bernard Shaw
- 
-_The Red Room_ August Strindberg
-_The Life and Opinions of Tristram Shandy_
-Aristophanes
 
 
 ## Summer '22 - 12 titles (none abandoned... but one still in progress), theme: The Broken Road
