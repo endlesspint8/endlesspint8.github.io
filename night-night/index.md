@@ -15,7 +15,7 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 
 ## Autumn '22 - x titles (y abandoned), theme: [I am serious](https://www.supremecourt.gov/DocketPDF/22/22-293/242292/20221003125252896_35295545_1-22.10.03%20-%20Novak-Parma%20-%20Onion%20Amicus%20Brief.pdf) and [don't call me Shirley](https://youtu.be/KM2K7sV-K74)
 
-**honorable mention:** _American Psycho; Babbitt; Candide; Catch-22; PKD; Fear and Loathing in Las Vegas; Fight Club; The Good Soldier Švejk; Life for Sale; Love in the Ruins; Lucky Jim; The Master and Margarita; Omon Ra; Pushkin Hills; The Sellout; Vonnegut_
+**honorable mention:** _American Psycho; Babbitt; Candide; Captain Pantoja and the Special Service; Catch-22; A Confederacy of Dunces; PKD; Fear and Loathing in Las Vegas; Fight Club; The Good Soldier Švejk; Life for Sale; Love in the Ruins; Lucky Jim; The Master and Margarita; Omon Ra; Pushkin Hills; The Sellout; The Thought Gang; Vonnegut_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -562,7 +562,7 @@ There are undoubtedly more important things to address with what's left of one's
 
 ## Things Fall Apart
 
-_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; The Precipice; The Narrow Corridor; Splinterlands; A Cold Welcome: The Little Ice Age and Europe’s Encounter with North America; The Anarchy: The Relentless Rise of the East India Company; The Horde: How the Mongols Changed the World; Staying with the Trouble_
+_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; The Precipice; The Narrow Corridor; Splinterlands; A Cold Welcome: The Little Ice Age and Europe’s Encounter with North America; The Anarchy: The Relentless Rise of the East India Company; The Horde: How the Mongols Changed the World; Staying with the Trouble; Splinterlands; The end of the world is just the beginning; Road to Unfreedom (or latest Snyder title)_
 
 ## Death & Co.
 
@@ -610,6 +610,7 @@ _The Assistant_ (SimplyE)
 _Manchild in the Promised Land_ (SimplyE)
 _Wrestling with Moses_
 _Fear City: New York’s Fiscal Crisis and the Rise of Austerity Politics_
+Netherland (O’Neill);
 
 https://www.penguinrandomhouse.com/the-read-down/new-york-city-books
 https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday
@@ -639,6 +640,7 @@ _Rock, Paper, Scissors And Other Stories_ Maxim Osipov
 _Inhuman Land_
 _Russia: A 1000-Year Chronicle of the Wild East_
 _The Story of Russia_ and/ or _A People’s Tragedy: The Russian Revolution 1891-1924_ Orlando Figes
+The Soviet Mind (I. Berlin); Sasha Sokolov; Oblomov; Osip Mandelshtam; Earthly Signs (Tsvetaeva); The Portable Twentieth Century Russian Reader; Kolyma Stories
 
 
 ## The Sweet Science?
@@ -667,6 +669,7 @@ _An Untouched House_ Willem Frederik Hermans
 _Brilliant Orange_
 _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_
 _Patriots and Liberators: Revolution in the Netherlands, 1780-1813_
+_Why the Dutch are Different_
 
 
 ## Cane
@@ -693,6 +696,8 @@ Blood in the Water
 The Shadow of the Sun
 Empire of Cotton: A Global History
 Frederick Douglass: Prophet of Freedom
+Passing
+The Cross and the Tree;
 
 
 ## Drinking & Co.
@@ -749,6 +754,7 @@ _Moby Dick_
 _The Brothers Karamazov_
 _Paradise Lost_
 something Faulkner 
+Kalevala (Lonnrot)
 
 ## Decision Making
 
@@ -773,6 +779,7 @@ _Consumer Society Reader_
 _HBR's 10 Must Reads on Strategy_
 _The Grand Chessboard_ (Brzezinski)
 _Who Gets What--and why_
+Transformative Experience (L. A. Paul)
 
 
 ## You're All My Favorites
@@ -795,11 +802,12 @@ _The Four Tragedies_
 _Snow Crash or/er Diamond Age_
 _Otherwise Known as the Human Condition_
 _The Fight_
+_Money_ Amis
 
 
 ## On the Road
 
-**honorable mention:** _Adrift; The Art of Travel; Blue Highways; The Colossus of Maroussi; Fear and Loathing in Las Vegas; The Hitchhiker's Guide to the Galaxy (series); Jupiter's Travels; The Long Way Round; In Patagonia; Into the Wild; The Motorcycle Diaries; The Odyssey; On the Road; PLF's Journey Across Europe trilogy; The Road; Road Fever; Sex Lives Of Cannibals; Shantaram; Travels with Charlie; Vagabonding; A Walk in the Woods_
+**honorable mention:** _Adrift; The Art of Travel; Black Lamb and Grey Falcon; Blue Highways; The Colossus of Maroussi; Fear and Loathing in Las Vegas; The Hitchhiker's Guide to the Galaxy (series); Jupiter's Travels; The Long Way Round; In Patagonia; Into the Wild; The Motorcycle Diaries; The Odyssey; On the Road; PLF's Journey Across Europe trilogy; The Road; Road Fever; Sex Lives Of Cannibals; Shantaram; Travels with Charlie; Vagabonding; A Walk in the Woods_
 
 _The Road to Oxiana_ Robert Byron [PLF]
 _Dark Star Safari_ Paul Theroux
@@ -813,6 +821,7 @@ _Travels with Herodotus_ (or _The Shadow of the Sun_)
 _The Levant Trilogy_
 _Hell's Angels: A Strange and Terrible Saga_
 _Three Men in a Boat_
+Edith Durham
 
 
 ## Mem-Muah
@@ -824,6 +833,11 @@ _The Autobiography of Alice B. Toklas_
 _Barbarian Days_
 
 
+## Mem-Muah
+
+**honorable mention:** Revolution Road
+
+_Fate and Furies; Portrait Of a Marriage; The Beauty of the Husband; The Corrections; Elective Affinities_
 
 ---
 
