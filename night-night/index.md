@@ -17,6 +17,8 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 
 **honorable mention:** _American Psycho; Babbitt; Candide; Captain Pantoja and the Special Service; Catch-22; A Confederacy of Dunces; PKD; Fear and Loathing in Las Vegas; Fight Club; The Good Soldier Švejk; Life for Sale; Love in the Ruins; Lucky Jim; The Master and Margarita; Omon Ra; Pushkin Hills; The Sellout; The Thought Gang; Vonnegut_
 
+**another time (_maybe_):** _Gulliver's Travels (& A Modest Proposal); Don Juan_ Lord Byron
+
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
@@ -25,7 +27,7 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_The Zone_	|	Sergei Dovlatov	|	EBOOK	|	_Pushkin Hills_	|
 |	_The House of God_	|	Samuel Shem, M.D.	|	EBOOK	|	the notoriety	|
 |	_Her Body and Other Parties_	|	Carmen Maria Machado	|	EBOOK	|		|
 |	_Boomsday_	|	Christopher Buckley	|	EBOOK	|	_Thank You for Smoking_	|
@@ -39,7 +41,7 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 
  
  
-_The Zone_ Sergei Dovlatov
+ 
 _The Life and Opinions of Tristram Shandy_
 
 _Broken Glass_ Alain Mabanckou
@@ -50,9 +52,7 @@ _The Red Room_ August Strindberg
 
 _Arms and the Man_ George Bernard Shaw
 
-_Gulliver's Travels_ (& _A Modest Proposal_)
 
-_Don Juan_ Lord Byron
 
 
 
