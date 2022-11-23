@@ -25,8 +25,7 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_Broken Glass_	|	Alain Mabanckou	|	EBOOK	|	the drinks	|
 |	_The Zone_	|	Sergei Dovlatov	|	EBOOK	|	_Pushkin Hills_	|
 |	_The House of God_	|	Samuel Shem, M.D.	|	EBOOK	|	the notoriety	|
 |	_Her Body and Other Parties_	|	Carmen Maria Machado	|	EBOOK	|		|
@@ -44,16 +43,11 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
  
 _The Life and Opinions of Tristram Shandy_
 
-_Broken Glass_ Alain Mabanckou
-
 Aristophanes
 
 _The Red Room_ August Strindberg
 
 _Arms and the Man_ George Bernard Shaw
-
-
-
 
 
 ## Summer '22 - 12 titles (none abandoned... but one still in progress), theme: The Broken Road
