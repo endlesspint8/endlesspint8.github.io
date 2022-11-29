@@ -644,6 +644,7 @@ _Rock, Paper, Scissors And Other Stories_ Maxim Osipov
 _Inhuman Land_
 _Russia: A 1000-Year Chronicle of the Wild East_
 _The Story of Russia_ and/ or _A People’s Tragedy: The Russian Revolution 1891-1924_ Orlando Figes
+_The Kingdom of Rye: A Brief History of Russian Food_
 The Soviet Mind (I. Berlin); Sasha Sokolov; Oblomov; Osip Mandelshtam; Earthly Signs (Tsvetaeva); The Portable Twentieth Century Russian Reader; Kolyma Stories
 
 
