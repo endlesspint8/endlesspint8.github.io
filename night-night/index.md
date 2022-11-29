@@ -17,18 +17,18 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 
 **honorable mention:** _American Psycho; Babbitt; Candide; Captain Pantoja and the Special Service; Catch-22; A Confederacy of Dunces; PKD; Fear and Loathing in Las Vegas; Fight Club; The Good Soldier Švejk; Life for Sale; Love in the Ruins; Lucky Jim; The Master and Margarita; Omon Ra; Pushkin Hills; The Sellout; The Thought Gang; Vonnegut_
 
-**another time (_maybe_):** _Gulliver's Travels (& A Modest Proposal); Don Juan_ Lord Byron
+**another time (_maybe_):** _Aristophanes; Gulliver's Travels (& A Modest Proposal); Don Juan_ Lord Byron
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Arms and the Man_	|	George Bernard Shaw	|	EBOOK	|	the militarism	|
 |	_Broken Glass_	|	Alain Mabanckou	|	EBOOK	|	the drinks	|
 |	_The Zone_	|	Sergei Dovlatov	|	EBOOK	|	_Pushkin Hills_	|
 |	_The House of God_	|	Samuel Shem, M.D.	|	EBOOK	|	the notoriety	|
-|	_Her Body and Other Parties_	|	Carmen Maria Machado	|	EBOOK	|		|
+|	_Her Body and Other Parties_	|	Carmen Maria Machado	|	EBOOK	|	the sex	|
 |	_Boomsday_	|	Christopher Buckley	|	EBOOK	|	_Thank You for Smoking_	|
 |	_Genuine Pretending: On the Philosophy of the Zhuangzi_	|	Hans-Georg Moeller; Paul J. D'Ambrosio	|	EBOOK	|	the profilicity	|
 |	_Look Who's Back_	|	Timur Vermes	|	EBOOK	|	the gall	|
@@ -43,11 +43,21 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
  
 _The Life and Opinions of Tristram Shandy_
 
-Aristophanes
-
 _The Red Room_ August Strindberg
 
-_Arms and the Man_ George Bernard Shaw
+---
+
+### Triple Five Roll 9
+
+|	Best Storytelling	|	Most Entertaining	| Think on It |		
+|	---	|	---	|	---	|
+| _Black Lamb and Grey Falcon: A Journey Through Yugoslavia_, Rebecca West 	| _Black Lamb and Grey Falcon: A Journey Through Yugoslavia_, Rebecca West 	| _Black Earth: The Holocaust as History and Warning_, Timothy Snyder |				
+| _Blinding_, Mircea Cartarescu 	| _Dancing Lessons for the Advanced in Age_, Bohumil Hrabal 	| _From Peoples into Nations: A History of Eastern Europe_, John Connelly |				
+| _Cyclops_, Ranko Marinkovic 	| _Dictionary of the Khazars: A Lexicon Novel (M)_, Milorad Pavić 	| _Secondhand Time: The Last of the Soviets_, Svetlana Alexievich |				
+| _The Painted Bird_, Jerzy Kosinski 	| _Odessa Stories_, Isaac Babel 	| _The Captive Mind_, Czeslaw Milosz |				
+| _Vilnius Poker_, Ricardas Gavelis 	| _The Good Soldier Švejk_, Jaroslav Hasek 	| _The Fault Line: Traveling the Other Europe, from Finland to Ukraine_, Paolo Rumiz |
+
+**honorable mention:** _The Books of Jacob; Free: Coming of Age at the End of History_
 
 
 ## Summer '22 - 12 titles (none abandoned... but one still in progress), theme: The Broken Road
@@ -104,7 +114,7 @@ _Arms and the Man_ George Bernard Shaw
 |	_The Ministry of Pain_	|	Dubravka Ugresic	|	EBOOK	|	YU (HR) //	|
 |	_The Wandering Jews_	|	Joseph Roth	|	EBOOK	|		|
 |	_Dictionary of the Khazars: A Lexicon Novel (M)_	|	Milorad Pavić	|	PRINT	|	RS // I did also have a print out of [the female passage](https://literature.stackexchange.com/questions/723/why-did-the-author-of-the-dictionary-of-the-khazars-publish-a-male-and-female).	|
-|	_The Jews of Easter Europe, 1772-1881_	|	Israel Bartal	|	PRINT	|	PL-LT, RU, Galicia, The Pale //	|
+|	_The Jews of Eastern Europe, 1772-1881_	|	Israel Bartal	|	PRINT	|	PL-LT, RU, Galicia, The Pale //	|
 |	_Fatelessness_	|	Imre Kertész	|	EBOOK	|	HU //	|
 |	_Border: A Journey to the Edge of Europe_	|	Kapka Kassabova	|	EBOOK	|	BG, GR, TR, Thrace, Rumelia //	|
 |	_On the Edge of Reason_	|	Miroslav Krleza	|	EBOOK	|	HR // 	|
