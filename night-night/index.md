@@ -26,7 +26,7 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 
 ## Autumn '22 - x titles (y abandoned), theme: [I am serious](https://www.supremecourt.gov/DocketPDF/22/22-293/242292/20221003125252896_35295545_1-22.10.03%20-%20Novak-Parma%20-%20Onion%20Amicus%20Brief.pdf) and [don't call me Shirley](https://youtu.be/KM2K7sV-K74)
 
-**honorable mention:** _American Psycho; Babbitt; Candide; Captain Pantoja and the Special Service; Catch-22; A Confederacy of Dunces; PKD; Fear and Loathing in Las Vegas; Fight Club; The Good Soldier Švejk; Life for Sale; Love in the Ruins; Lucky Jim; The Master and Margarita; Omon Ra; Pushkin Hills; The Sellout; The Thought Gang; Vonnegut_
+**honorable mention:** _American Psycho; Animal Farm; Babbitt; The Bonfire of the Vanities; Candide; Captain Pantoja and the Special Service; Catch-22; The Color of Magic; A Confederacy of Dunces; The Day of the Locust; PKD; Fear and Loathing in Las Vegas; Fight Club; Flatland; The Good Soldier Švejk; The Hitchhiker's Guide To The Galaxy; The Importance of Being Earnest; Life for Sale; Love in the Ruins; Lucky Jim; The Master and Margarita; Omon Ra; Pushkin Hills; The Sellout; The Thought Gang; Vonnegut_
 
 **another time (_maybe_):** _Aristophanes; Gulliver's Travels (& A Modest Proposal); Don Juan_ Lord Byron
 
