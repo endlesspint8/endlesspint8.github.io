@@ -12,6 +12,17 @@ Completed to date: 23%
 
 _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Beginning of Infinity; On the Abolition of All Political Parties; Cryptonomicon; Travel Light; Woodcutters; True History of the Kelly Gang; Water by the Spoonful; The Dawn Watch: Joseph Conrad in a Global World; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; Bad Samaritans; The General in His Labyrinth; Creation (Vidal); Dune VI_
 
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+
 
 ## Autumn '22 - x titles (y abandoned), theme: [I am serious](https://www.supremecourt.gov/DocketPDF/22/22-293/242292/20221003125252896_35295545_1-22.10.03%20-%20Novak-Parma%20-%20Onion%20Amicus%20Brief.pdf) and [don't call me Shirley](https://youtu.be/KM2K7sV-K74)
 
@@ -23,12 +34,12 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_My Year of Rest and Relaxation_	|	Ottessa Moshfegh	|	EBOOK	|	the res(e)t	|
 |	_Arms and the Man_	|	George Bernard Shaw	|	EBOOK	|	the militarism	|
 |	_Broken Glass_	|	Alain Mabanckou	|	EBOOK	|	the drinks	|
 |	_The Zone_	|	Sergei Dovlatov	|	EBOOK	|	_Pushkin Hills_	|
 |	_The House of God_	|	Samuel Shem, M.D.	|	EBOOK	|	the notoriety	|
-|	_Her Body and Other Parties_	|	Carmen Maria Machado	|	EBOOK	|	the sex	|
+|	_Her Body and Other Parties_	|	Carmen Maria Machado	|	EBOOK	|	the sex(es)	|
 |	_Boomsday_	|	Christopher Buckley	|	EBOOK	|	_Thank You for Smoking_	|
 |	_Genuine Pretending: On the Philosophy of the Zhuangzi_	|	Hans-Georg Moeller; Paul J. D'Ambrosio	|	EBOOK	|	the profilicity	|
 |	_Look Who's Back_	|	Timur Vermes	|	EBOOK	|	the gall	|
@@ -38,8 +49,6 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |	_Scoop_	|	Evelyn Waugh	|	EBOOK	|	_A Handful of Dust_	|
 |	_A Visit from The Goon Squad_	|	Jennifer Egan	|	EBOOK	|	the hype	|
 
- 
- 
  
 _The Life and Opinions of Tristram Shandy_
 
