@@ -641,6 +641,25 @@ _An American Tragedy_
 John Dos Passos' USA Trilogy
 _The Adventures of Augie March_
 
+## A More Perfect Union
+
+**honorable mention:**
+
+The True Flag, Stephen Kinzer
+The Framers' Coup, Michael J. Klarman
+Democracy in Chains, Nancy MacLean
+Wages of Rebellion, Chris Hedges
+Reflections on the Revolution in France, Edmund Burke
+Race Matters, Cornel West
+American Violence, Richard Hofstadter
+My Bondage and My Freedom, Frederick Douglass
+What's the Matter with Kansas?, Thomas Frank
+The Money Cult, Chris Lehmann
+A Colony in a Nation, Chris Hayes
+Slavery by Another Name, Douglas A. Blackmon
+Miami and the Siege of Chicago, Norman Mailer
+The Whiskey Rebellion, William Hogeland
+
 ## From Russia with Letters
 
 **honorable mention:** _Everything is Possible and Nothing is True; Love and Fate_
@@ -847,7 +866,7 @@ _The Autobiography of Alice B. Toklas_
 _Barbarian Days_
 
 
-## Mem-Muah
+## Mauwage
 
 **honorable mention:** Revolution Road
 
