@@ -24,7 +24,7 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |		|		|		|		|
 
 
-## Autumn '22 - x titles (y abandoned), theme: [I am serious](https://www.supremecourt.gov/DocketPDF/22/22-293/242292/20221003125252896_35295545_1-22.10.03%20-%20Novak-Parma%20-%20Onion%20Amicus%20Brief.pdf) and [don't call me Shirley](https://youtu.be/KM2K7sV-K74)
+## Autumn '22 - 16 titles (none abandoned), theme: [I am serious](https://www.supremecourt.gov/DocketPDF/22/22-293/242292/20221003125252896_35295545_1-22.10.03%20-%20Novak-Parma%20-%20Onion%20Amicus%20Brief.pdf) and [don't call me Shirley](https://youtu.be/KM2K7sV-K74)
 
 **honorable mention:** _American Psycho; Animal Farm; Babbitt; The Bonfire of the Vanities; Candide; Captain Pantoja and the Special Service; Catch-22; The Color of Magic; A Confederacy of Dunces; The Day of the Locust; PKD; Fear and Loathing in Las Vegas; Fight Club; Flatland; The Good Soldier Švejk; The Hitchhiker's Guide To The Galaxy; The Importance of Being Earnest; Life for Sale; Love in the Ruins; Lucky Jim; The Master and Margarita; Omon Ra; Pushkin Hills; The Sellout; The Thought Gang; Vonnegut_
 
@@ -32,8 +32,8 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
-|		|		|		|		|
+|	_The Life and Opinions of Tristram Shandy_	|	Laurence Sterne 	|	PRINT	|	the shaggy dog	|
+|	_The Red Room_	|	August Strindberg	|	EBOOK	|	the starving artist	|
 |	_My Year of Rest and Relaxation_	|	Ottessa Moshfegh	|	EBOOK	|	the res(e)t	|
 |	_Arms and the Man_	|	George Bernard Shaw	|	EBOOK	|	the militarism	|
 |	_Broken Glass_	|	Alain Mabanckou	|	EBOOK	|	the drinks	|
@@ -50,9 +50,8 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |	_A Visit from The Goon Squad_	|	Jennifer Egan	|	EBOOK	|	the hype	|
 
  
-_The Life and Opinions of Tristram Shandy_
 
-_The Red Room_ August Strindberg
+
 
 ---
 
