@@ -22,6 +22,12 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|	_Heat 2_	|	Meg Gardiner and Michael Mann	|	EBOOK	|	_I had to get it on._	|
+|	_Chapterhouse: Dune_ 	|	Frank Herbert	|	EBOOK	|	Dune, done; the previous five titles	|
+|	_Travel Light_	|	Naomi Mitchison	|	EBOOK	|	mentioned in _This is How You Lose the Time War_	|
+|	_The Dawn Watch: Joseph Conrad in a Global World_	|	Maya Jasanoff	|	EBOOK	|		|
+
+
 
 
 ## Autumn '22 - 16 titles (none abandoned), theme: [I am serious](https://www.supremecourt.gov/DocketPDF/22/22-293/242292/20221003125252896_35295545_1-22.10.03%20-%20Novak-Parma%20-%20Onion%20Amicus%20Brief.pdf) and [don't call me Shirley](https://youtu.be/KM2K7sV-K74)
