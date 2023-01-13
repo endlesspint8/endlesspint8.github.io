@@ -21,11 +21,13 @@ _Zeno's Conscience; Roadside Picnic; Why Civil Resistance Works; Blindly; The Be
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Ill Fares the Land_	|	Tony Judt	|	EBOOK	|	Belatedly made aware of Tony from Wesley Yang's [essay](https://nymag.com/news/features/64626/), referencing what was then this forthcoming title; later made more familiar with his work through Timothy Snyder.	|
 |	_Heat 2_	|	Meg Gardiner and Michael Mann	|	EBOOK	|	_I had to get it on._	|
 |	_Chapterhouse: Dune_ 	|	Frank Herbert	|	EBOOK	|	Dune, done; the previous five titles	|
 |	_Travel Light_	|	Naomi Mitchison	|	EBOOK	|	mentioned in _This is How You Lose the Time War_	|
 |	_The Dawn Watch: Joseph Conrad in a Global World_	|	Maya Jasanoff	|	EBOOK	|		|
+
+
 
 
 
@@ -849,17 +851,17 @@ _Money_ Amis
 
 _The Road to Oxiana_ Robert Byron [PLF]
 _Dark Star Safari_ Paul Theroux
-_The Travels of Ibn Battuta_
+[_The Travels of Ibn Battuta_](https://archive.org/details/travels-of-ibn-battuta/The%20Travels%20of%20Ibn%20Battuta-1325%E2%80%931354-Volume-I/)
 _Discovery of India_
 _Let Us Now Praise Famous Men_
 _Creation_ Vidal
 _Eastward to Tartary_
-Marco Polo
+_The Travels of Marco Polo_
 _Travels with Herodotus_ (or _The Shadow of the Sun_)
 _The Levant Trilogy_
 _Hell's Angels: A Strange and Terrible Saga_
 _Three Men in a Boat_
-Edith Durham
+[Edith Durham](https://www.gutenberg.org/ebooks/author/8806)
 
 
 ## Mem-Muah
