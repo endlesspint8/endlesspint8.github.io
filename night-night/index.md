@@ -580,9 +580,15 @@ There are undoubtedly more important things to address with what's left of one's
 
 # Mashing
 
+
+## The empty space between German and Russian power
+
+_Reconstruction of Nations (Snyder); Gates of Europe; Armageddon Averted_
+
+
 ## Things Fall Apart
 
-_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; The Precipice; The Narrow Corridor; Splinterlands; A Cold Welcome: The Little Ice Age and Europe’s Encounter with North America; The Anarchy: The Relentless Rise of the East India Company; The Horde: How the Mongols Changed the World; Staying with the Trouble; Splinterlands; The end of the world is just the beginning; Road to Unfreedom (or latest Snyder title)_
+_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; The Precipice; The Narrow Corridor; Splinterlands; A Cold Welcome: The Little Ice Age and Europe’s Encounter with North America; The Anarchy: The Relentless Rise of the East India Company; The Horde: How the Mongols Changed the World; Staying with the Trouble; Splinterlands; The end of the world is just the beginning; Road to Unfreedom (or latest Snyder title); Globalization and its Discontents_
 
 ## Death & Co.
 
@@ -666,6 +672,7 @@ A Colony in a Nation, Chris Hayes
 Slavery by Another Name, Douglas A. Blackmon
 Miami and the Siege of Chicago, Norman Mailer
 The Whiskey Rebellion, William Hogeland
+These Truths: A History of the United States, Jill Lepore
 
 ## From Russia with Letters
 
@@ -680,7 +687,7 @@ _Inhuman Land_
 _Russia: A 1000-Year Chronicle of the Wild East_
 _The Story of Russia_ and/ or _A People’s Tragedy: The Russian Revolution 1891-1924_ Orlando Figes
 _The Kingdom of Rye: A Brief History of Russian Food_
-The Soviet Mind (I. Berlin); Sasha Sokolov; Oblomov; Osip Mandelshtam; Earthly Signs (Tsvetaeva); The Portable Twentieth Century Russian Reader; Kolyma Stories
+The Soviet Mind (I. Berlin); Sasha Sokolov; Osip Mandelshtam; Earthly Signs (Tsvetaeva); The Portable Twentieth Century Russian Reader; Kolyma Stories
 
 
 ## The Sweet Science?
@@ -697,7 +704,7 @@ Boxing: A Cultural History
 
 ## The Great War; before, during, after
 
-_The Sleepwalkers: How Europe Went To War In 1914; The Guardians: The League of Nations and the Crisis of Empire; Ring of Steel: Germany and Austria-Hungary at War, 1914-1918; The Eastern Front 1914-17_
+_The Sleepwalkers: How Europe Went To War In 1914; The Guardians: The League of Nations and the Crisis of Empire; Ring of Steel: Germany and Austria-Hungary at War, 1914-1918; The Eastern Front 1914-17; The Economic Consequences of the Peace_
 
 
 ## Going Dutch
@@ -747,19 +754,22 @@ The Cross and the Tree;
 _Everyday Drinking_, Kingsley Amis
 _Tobacco_, Iain Gately
 _Drunks_, Christopher Finan
-_On Booze_, F. Scott Fitzgerald
-_I Drink Therefore I Am_, Roger Scruton
 _Chasing the Scream_
 _Under the Volcano_
 _The Shining_
-_Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slingerland
 _Jigger, Beaker and Glass_
 _The Republic of Wine_
+
+_Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slingerland (SimplyE)
+
+_On Booze_, F. Scott Fitzgerald
+_I Drink Therefore I Am_, Roger Scruton
+
 
 
 ## Dangerous Ideas
 
-**honorable mention:** _All Quiet on the Western Front; The Autobiography of Malcolm X; Brave New World; Bury My Heart at Wounded Knee; Cane (Toomer); Catch-22; The Communist Manifesto; Doctor Zhivago; The Grapes of Wrath; High_Rise; The Jungle; Lolita; Madame Bovary; The Master and Margarita; Montaigne's Essays; Friedrich Nietzsche; A People's History of the United States; Rights of Man; Slaughterhouse-Five; The Sorrows of Young Werther; The Story of O; Tropic of Cancer; Uncle Tom's Cabin; The Wretched of the Earth_
+**honorable mention:** _All Quiet on the Western Front; The Autobiography of Malcolm X; Brave New World; Bury My Heart at Wounded Knee; Cane (Toomer); Catch-22; The Communist Manifesto; Doctor Zhivago; The Grapes of Wrath; High_Rise; The Jungle; The Last Temptation of Christ; Lolita; Madame Bovary; The Master and Margarita; Montaigne's Essays; Friedrich Nietzsche; A People's History of the United States; Rights of Man; Slaughterhouse-Five; The Sorrows of Young Werther; The Story of O; Tropic of Cancer; Uncle Tom's Cabin; The Wretched of the Earth_
 
 _A Room of One's Own_
 _Emma Goldman_
@@ -773,7 +783,6 @@ _Antonio Gramsci_
 _Creating Freedom_ Raoul Martinez
 _The Deficit Myth_
 _Julie; or, The New Heloise_
-_The Last Temptation of Christ_
 _Why Civil Resistance Works_
 
 
