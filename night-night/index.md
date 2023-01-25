@@ -656,7 +656,7 @@ _The Adventures of Augie March_
 
 ## A More Perfect Union
 
-**honorable mention:**
+**honorable mention:** _A People's History of the United States; Ill Fares the Land; Strangers to These Shores_
 
 The True Flag, Stephen Kinzer
 The Framers' Coup, Michael J. Klarman
@@ -673,6 +673,7 @@ Slavery by Another Name, Douglas A. Blackmon
 Miami and the Siege of Chicago, Norman Mailer
 The Whiskey Rebellion, William Hogeland
 These Truths: A History of the United States, Jill Lepore
+Achieving Our Country, Rorty
 
 ## From Russia with Letters
 
