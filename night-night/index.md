@@ -10,7 +10,7 @@ Completed to date: 23%
 
 ## Winter '23 - x titles (y abandoned), theme: none, sabbatical two
 
-_Roadside Picnic; Why Civil Resistance Works; Blindly; The Beginning of Infinity; On the Abolition of All Political Parties; Cryptonomicon; Travel Light; Woodcutters; True History of the Kelly Gang; Water by the Spoonful; The Dawn Watch: Joseph Conrad in a Global World; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; Bad Samaritans; The General in His Labyrinth; Creation (Vidal); Dune VI_
+_Roadside Picnic; Why Civil Resistance Works; Blindly; The Beginning of Infinity; On the Abolition of All Political Parties; Woodcutters; True History of the Kelly Gang; Water by the Spoonful; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; Bad Samaritans; The General in His Labyrinth; Creation (Vidal)_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -18,8 +18,8 @@ _Roadside Picnic; Why Civil Resistance Works; Blindly; The Beginning of Infinity
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography_	|	Simon Singh	|	EBOOK	|	_Cryptonomicon_ supplement	|
+|	_Cryptonomicon_	|	Neal Stephenson	|	EBOOK	|	_Snow Crash, The Diamond Age_, and _Some Remarks_	|
 |	_Zeno's Conscience_	|	Italo Svevo	|	EBOOK	|	Multiple references/appearances.	|
 |	_Ill Fares the Land_	|	Tony Judt	|	EBOOK	|	Belatedly made aware of Tony from Wesley Yang's [essay](https://nymag.com/news/features/64626/), referencing what was then this forthcoming title; later made more familiar with his work through Timothy Snyder; almost time to put on my big boy pants and read _Postwar_	|
 |	_Heat 2_	|	Meg Gardiner and Michael Mann	|	EBOOK	|	_I had to get it on._	|
