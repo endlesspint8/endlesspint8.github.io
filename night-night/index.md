@@ -60,6 +60,19 @@ https://bookriot.com/100-must-read-new-york-city-novels/
 |	_The Dawn Watch: Joseph Conrad in a Global World_	|	Maya Jasanoff	|	EBOOK	|		|
 
 
+---
+
+### Triple Five Roll 10
+
+|	Best Storytelling	|	Most Entertaining	| Think on It |		
+|	---	|	---	|	---	|
+| _Black Lamb and Grey Falcon: A Journey Through Yugoslavia_, Rebecca West 	| _Dictionary of the Khazars: A Lexicon Novel (M)_, Milorad Pavić 	| _Black Earth: The Holocaust as History and Warning_, Timothy Snyder |				
+| _Blinding_, Mircea Cartarescu 	| _Look Who's Back_, Timur Vermes 	| _Border: A Journey to the Edge of Europe_, Kapka Kassabova |				
+| _Cyclops_, Ranko Marinkovic 	| _My Year of Rest and Relaxation_, Ottessa Moshfegh 	| _From Peoples into Nations: A History of Eastern Europe_, John Connelly |				
+| _The Books of Jacob_, Olga Tokarczuk 	| _The House of God_, Samuel Shem, M.D. 	| _The Captive Mind_, Czeslaw Milosz |				
+| _Vilnius Poker_, Ricardas Gavelis 	| _The Life and Opinions of Tristram Shandy_, Laurence Sterne 	| _The Fault Line: Traveling the Other Europe, from Finland to Ukraine_, Paolo Rumiz |				
+
+
 
 ## Autumn '22 - 16 titles (none abandoned), theme: [I am serious](https://www.supremecourt.gov/DocketPDF/22/22-293/242292/20221003125252896_35295545_1-22.10.03%20-%20Novak-Parma%20-%20Onion%20Amicus%20Brief.pdf) and [don't call me Shirley](https://youtu.be/KM2K7sV-K74)
 
@@ -87,9 +100,6 @@ https://bookriot.com/100-must-read-new-york-city-novels/
 |	_A Visit from The Goon Squad_	|	Jennifer Egan	|	EBOOK	|	the hype	|
 
  
-
-
-
 ---
 
 ### Triple Five Roll 9
