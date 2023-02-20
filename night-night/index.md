@@ -7,6 +7,33 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 
 Completed to date: 23%
 
+## Spring '23 - x titles (y abandoned), theme: The Rotten Manzana
+
+**honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; Big City; The Bonfire of the Vanities; Born to Use Mics; The Brief Wondrous Life of Oscar Wao; Bright Lights, Burr (Vidal); Call it Sleep; Can't Stop Won't Stop; The Catcher in the Rye; Downtown (Hamill); The Death and Life of Great American Cities; The Epic of New York City; Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; Here is New York; Honky; How the Other Half Lives; Invisible Man; Kitchen Confidential; Lush Life; Miles (Davis); Money; Motherless Brooklyn; My Misspent Youth; The New York Trilogy; Paradise Alley; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Unlubricated; Up in the Old Hotel and Other Stories; A Walker in the City; Washington Square; Watchmen_
+
+_The Wanderers_ Richard Price (_Lush Life_)
+_Kafka Was the Rage_ Anatole Broyard
+_Another Country_ James Baldwin
+_Beyond the Melting Pot_
+_Gotham_
+_Memos from Purgatory_
+_A Little Life_
+_Jazz_
+_The Beautiful and Damned_
+_Breakfast at Tiffany's_
+_New York 2140_
+_Open City_
+_The Colossus of New York_
+_The Assistant_ (SimplyE)
+_Manchild in the Promised Land_ (SimplyE)
+_Wrestling with Moses_
+_Fear City: New York’s Fiscal Crisis and the Rise of Austerity Politics_
+Netherland (O’Neill);
+
+https://www.penguinrandomhouse.com/the-read-down/new-york-city-books
+https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday
+https://bookriot.com/100-must-read-new-york-city-novels/
+
 
 ## Winter '23 - x titles (y abandoned), theme: none, sabbatical two
 
@@ -617,32 +644,7 @@ _The Return of the Soldier_
 _The Work of the Dead: A Cultural History of Mortal Remains_
 
 
-## The Rotten Manzana
 
-**honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; Big City; The Bonfire of the Vanities; Born to Use Mics; The Brief Wondrous Life of Oscar Wao; Bright Lights, Burr (Vidal); Call it Sleep; Can't Stop Won't Stop; The Catcher in the Rye; Downtown (Hamill); The Death and Life of Great American Cities; The Epic of New York City; Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; Honky; How the Other Half Lives; Invisible Man; Kitchen Confidential; Lush Life; Miles (Davis); Money; Motherless Brooklyn; My Misspent Youth; The New York Trilogy; Paradise Alley; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Unlubricated; Up in the Old Hotel and Other Stories; A Walker in the City; Washington Square; Watchmen_
-
-_The Wanderers_ Richard Price (_Lush Life_)
-_Kafka Was the Rage_ Anatole Broyard
-_Another Country_ James Baldwin
-_Beyond the Melting Pot_
-_Gotham_
-_Memos from Purgatory_
-_A Little Life_
-_Jazz_
-_The Beautiful and Damned_
-_Breakfast at Tiffany's_
-_New York 2140_
-_Open City_
-_The Colossus of New York_
-_The Assistant_ (SimplyE)
-_Manchild in the Promised Land_ (SimplyE)
-_Wrestling with Moses_
-_Fear City: New York’s Fiscal Crisis and the Rise of Austerity Politics_
-Netherland (O’Neill);
-
-https://www.penguinrandomhouse.com/the-read-down/new-york-city-books
-https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday
-https://bookriot.com/100-must-read-new-york-city-novels/
 
 ## Americana
 
