@@ -10,7 +10,7 @@ Completed to date: 23%
 
 ## Winter '23 - x titles (y abandoned), theme: none, sabbatical two
 
-**another time (_maybe_):** _Roadside Picnic; Why Civil Resistance Works; Blindly; The Beginning of Infinity; On the Abolition of All Political Parties; True History of the Kelly Gang; Water by the Spoonful; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; Bad Samaritans; The General in His Labyrinth; Creation (Vidal)_
+**another time (_maybe_):** _Why Civil Resistance Works; Blindly; The Beginning of Infinity; On the Abolition of All Political Parties; True History of the Kelly Gang; Water by the Spoonful; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; Bad Samaritans; The General in His Labyrinth; Creation (Vidal)_
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -21,7 +21,7 @@ Completed to date: 23%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Roadside Picnic_	|	 Arkady & Boris Strugatsky	|	EBOOK	|		|
 |	_Woodcutters_	|	Thomas Bernhard	|	EBOOK	|	_Concrete_	|
 |	_The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography_	|	Simon Singh	|	EBOOK	|	_Cryptonomicon_ supplement	|
 |	_Cryptonomicon_	|	Neal Stephenson	|	EBOOK	|	_Snow Crash, The Diamond Age_, and _Some Remarks_	|
