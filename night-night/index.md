@@ -37,7 +37,9 @@ https://bookriot.com/100-must-read-new-york-city-novels/
 
 ## Winter '23 - x titles (y abandoned), theme: none, sabbatical two
 
-**another time (_maybe_):** _Why Civil Resistance Works; Blindly; The Beginning of Infinity; On the Abolition of All Political Parties; True History of the Kelly Gang; Water by the Spoonful; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; Bad Samaritans; The General in His Labyrinth; Creation (Vidal)_
+**another time (_maybe_):** _Why Civil Resistance Works; On the Abolition of All Political Parties; Water by the Spoonful; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; Bad Samaritans; Creation (Vidal)_
+
+The Beginning of Infinity; True History of the Kelly Gang; Blindly; 
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -46,8 +48,8 @@ https://bookriot.com/100-must-read-new-york-city-novels/
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_The General in His Labyrinth_	|	Gabriel García Márquez	|	PRINT	|	_One Hundred Years of Solitude_ and _Love in the Time of Cholera_	|
+|	_Before the West: The Rise and Fall of Eastern World Orders_	|	Ayse Zarakol	|	PRINT	|		|
 |	_Roadside Picnic_	|	 Arkady & Boris Strugatsky	|	EBOOK	|		|
 |	_Woodcutters_	|	Thomas Bernhard	|	EBOOK	|	_Concrete_	|
 |	_The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography_	|	Simon Singh	|	EBOOK	|	_Cryptonomicon_ supplement	|
@@ -58,6 +60,7 @@ https://bookriot.com/100-must-read-new-york-city-novels/
 |	_Chapterhouse: Dune_ 	|	Frank Herbert	|	EBOOK	|	Dune, done; the previous five titles	|
 |	_Travel Light_	|	Naomi Mitchison	|	EBOOK	|	mentioned in _This is How You Lose the Time War_	|
 |	_The Dawn Watch: Joseph Conrad in a Global World_	|	Maya Jasanoff	|	EBOOK	|		|
+
 
 
 ---
