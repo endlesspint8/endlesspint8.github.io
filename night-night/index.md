@@ -11,6 +11,13 @@ Completed to date: 23%
 
 **honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; Big City; The Bonfire of the Vanities; Born to Use Mics; The Brief Wondrous Life of Oscar Wao; Bright Lights, Big City; Burr (Vidal); Call it Sleep; Can't Stop Won't Stop; The Catcher in the Rye; Downtown (Hamill); The Death and Life of Great American Cities; The Epic of New York City; Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; Here is New York; Honky; How the Other Half Lives; Invisible Man; Kitchen Confidential; Lush Life; Miles (Davis); Money; Motherless Brooklyn; My Misspent Youth; The New York Trilogy; Paradise Alley; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Unlubricated; Up in the Old Hotel and Other Stories; A Walker in the City; Washington Square; Watchmen_
 
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+
 _The Wanderers_ Richard Price (_Lush Life_)
 _Kafka Was the Rage_ Anatole Broyard
 _Another Country_ James Baldwin
@@ -35,7 +42,7 @@ https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber
 https://bookriot.com/100-must-read-new-york-city-novels/
 
 
-## Winter '23 - x titles (y abandoned), theme: none, sabbatical two
+## Winter '23 - 16 titles (1 abandoned), theme: none, sabbatical two
 
 **another time (_maybe_):** _Why Civil Resistance Works; On the Abolition of All Political Parties; Water by the Spoonful; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; Bad Samaritans; Creation (Vidal)_
 
@@ -44,13 +51,14 @@ The Beginning of Infinity; True History of the Kelly Gang; Blindly;
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_Artificial Communication: How Algorithms Produce Social Intelligence_	|	Elena Esposito	|	[PDF](https://direct.mit.edu/books/book/5338/Artificial-CommunicationHow-Algorithms-Produce)	|		|
+|	_Blindly_	|	Claudio Magris	|	EBOOK	|		|
+|	_True History of the Kelly Gang_	|	Peter Carey	|	EBOOK	|		|
+|	_The Beginning of Infinity: Explanations That Transform the World_	|	David Deutsch	|	EBOOK	|	_The Fabric of Reality: The Science of Parallel Universes and Its Implications_	|
 |	_The General in His Labyrinth_	|	Gabriel García Márquez	|	PRINT	|	_One Hundred Years of Solitude_ and _Love in the Time of Cholera_	|
 |	_Before the West: The Rise and Fall of Eastern World Orders_	|	Ayse Zarakol	|	PRINT	|		|
 |	_Roadside Picnic_	|	 Arkady & Boris Strugatsky	|	EBOOK	|		|
+|	~~_Code: The Hidden Language of Computer Hardware and Software_~~	|	~~Charles Petzold~~	|	~~PDF~~	|	meant to be a 2nd _Cryptonomicon_ supplement (btw, previoulsy read Gleick's _The Information_ should be included) but ran out of time; more than half way through	|
 |	_Woodcutters_	|	Thomas Bernhard	|	EBOOK	|	_Concrete_	|
 |	_The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography_	|	Simon Singh	|	EBOOK	|	_Cryptonomicon_ supplement	|
 |	_Cryptonomicon_	|	Neal Stephenson	|	EBOOK	|	_Snow Crash, The Diamond Age_, and _Some Remarks_	|
@@ -61,7 +69,11 @@ The Beginning of Infinity; True History of the Kelly Gang; Blindly;
 |	_Travel Light_	|	Naomi Mitchison	|	EBOOK	|	mentioned in _This is How You Lose the Time War_	|
 |	_The Dawn Watch: Joseph Conrad in a Global World_	|	Maya Jasanoff	|	EBOOK	|		|
 
+ 
+ 
+ 
 
+ 
 
 ---
 
