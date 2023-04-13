@@ -17,24 +17,30 @@ Completed to date: 23%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_Fear City: New York’s Fiscal Crisis and the Rise of Austerity Politics_	|	Kim Phillips-Fein	|	EBOOK	|	mid to late 1970's	|
+|	_Breakfast at Tiffany's_	|	Truman Capote	|	EBOOK	|	1950's Manhattan; _In True Blood_	|
+|	_Jazz_	|	Toni Morrison	|	EBOOK	|	1920's Harlem	|
+|	_The Colossus of New York_	|	Colson Whitehead	|	EBOOK	|	late 20th, turn of century; _The Underground Railroad_	|
+|	_The Wanderers_	|	Richard Price	|	EBOOK	|	early 1960's Bronx; _Lush Life_	|
+|	_Kafka Was the Rage_	|	Anatole Broyard	|	EBOOK	|	late 1940's Greenwich Village; Henry Louis Gates, Jr's _Thirteen Ways of Looking at a Black Man_		|
 
-_The Wanderers_ Richard Price (_Lush Life_)
-_Kafka Was the Rage_ Anatole Broyard
 _Another Country_ James Baldwin
 _Beyond the Melting Pot_
 _Gotham_
 _Memos from Purgatory_
 _A Little Life_
-_Jazz_
+
 _The Beautiful and Damned_
-_Breakfast at Tiffany's_
+
 _New York 2140_
 _Open City_
-_The Colossus of New York_
+
 _The Assistant_ (SimplyE)
 _Manchild in the Promised Land_ (SimplyE)
 _Wrestling with Moses_
-_Fear City: New York’s Fiscal Crisis and the Rise of Austerity Politics_
+
 Netherland (O’Neill);
 
 https://www.penguinrandomhouse.com/the-read-down/new-york-city-books
