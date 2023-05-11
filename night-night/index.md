@@ -7,12 +7,52 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 
 Completed to date: 23%
 
+## Autumn '23 - x titles (y abandoned), theme: Drinking & Co.
+
+**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Brief History of Vice; A Drinking Life; Drinking with Men; A Fan's Notes; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Rum Diaries; Tasting Bear; The Thought Gang_
+
+_Everyday Drinking_, Kingsley Amis
+_Tobacco_, Iain Gately
+_Drunks_, Christopher Finan
+_Chasing the Scream_
+_Under the Volcano_
+_The Shining_
+_Jigger, Beaker and Glass_
+_The Republic of Wine_
+
+_Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slingerland (SimplyE)
+
+_On Booze_, F. Scott Fitzgerald
+_I Drink Therefore I Am_, Roger Scruton
+
+## Summer '23 - x titles (y abandoned), theme: On the Road
+
+**honorable mention:** _Adrift; The Art of Travel; Black Lamb and Grey Falcon; Blue Highways; The Colossus of Maroussi; Fear and Loathing in Las Vegas; The Hitchhiker's Guide to the Galaxy (series); Jupiter's Travels; The Long Way Round; In Patagonia; Into the Wild; The Motorcycle Diaries; The Odyssey; On the Road; PLF's Journey Across Europe trilogy; The Road; Road Fever; Sex Lives Of Cannibals; Shantaram; Travels with Charlie; Vagabonding; A Walk in the Woods_
+
+_The Road to Oxiana_ Robert Byron [PLF]
+_Dark Star Safari_ Paul Theroux
+[_The Travels of Ibn Battuta_](https://archive.org/details/travels-of-ibn-battuta/The%20Travels%20of%20Ibn%20Battuta-1325%E2%80%931354-Volume-I/)
+_Discovery of India_
+_Let Us Now Praise Famous Men_
+_Creation_ Vidal
+_Eastward to Tartary_
+_The Travels of Marco Polo_
+_Travels with Herodotus_ (or _The Shadow of the Sun_)
+_The Levant Trilogy_
+_Hell's Angels: A Strange and Terrible Saga_
+_Three Men in a Boat_
+[Edith Durham](https://www.gutenberg.org/ebooks/author/8806)
+
 ## Spring '23 - x titles (y abandoned), theme: The Rotten Manzana
 
 **honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; Big City; The Bonfire of the Vanities; Born to Use Mics; The Brief Wondrous Life of Oscar Wao; Bright Lights, Big City; Burr (Vidal); Call it Sleep; Can't Stop Won't Stop; The Catcher in the Rye; Downtown (Hamill); The Death and Life of Great American Cities; The Epic of New York City; Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; Here is New York; Honky; How the Other Half Lives; Invisible Man; Kitchen Confidential; Lush Life; Miles (Davis); Money; Motherless Brooklyn; My Misspent Youth; The New York Trilogy; Paradise Alley; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Unlubricated; Up in the Old Hotel and Other Stories; A Walker in the City; Washington Square; Watchmen_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
@@ -75,11 +115,6 @@ The Beginning of Infinity; True History of the Kelly Gang; Blindly;
 |	_Travel Light_	|	Naomi Mitchison	|	EBOOK	|	mentioned in _This is How You Lose the Time War_	|
 |	_The Dawn Watch: Joseph Conrad in a Global World_	|	Maya Jasanoff	|	EBOOK	|		|
 
- 
- 
- 
-
- 
 
 ---
 
@@ -675,8 +710,6 @@ _The Return of the Soldier_
 _The Work of the Dead: A Cultural History of Mortal Remains_
 
 
-
-
 ## Americana
 
 **honorable mention:** _American Pastoral; Babbitt; Blood Meridian; Catch-22; Death of a Salesman; Faulkner; How the Other Half Live; In Cold Blood; The Jungle; McPhee; On the Road; Poe; The Scarlet Letter; To Kill a Mockingbird; Rabbit, Run; Steinbeck; Studs Terkel; Twain; Walden; Whitman_
@@ -753,6 +786,7 @@ _Brilliant Orange_
 _Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age_
 _Patriots and Liberators: Revolution in the Netherlands, 1780-1813_
 _Why the Dutch are Different_
+_Amsterdam Stories_ Nescio
 
 
 ## Cane
@@ -781,25 +815,6 @@ Empire of Cotton: A Global History
 Frederick Douglass: Prophet of Freedom
 Passing
 The Cross and the Tree;
-
-
-## Drinking & Co.
-
-**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Brief History of Vice; A Drinking Life; Drinking with Men; A Fan's Notes; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Rum Diaries; Tasting Bear; The Thought Gang_
-
-_Everyday Drinking_, Kingsley Amis
-_Tobacco_, Iain Gately
-_Drunks_, Christopher Finan
-_Chasing the Scream_
-_Under the Volcano_
-_The Shining_
-_Jigger, Beaker and Glass_
-_The Republic of Wine_
-
-_Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slingerland (SimplyE)
-
-_On Booze_, F. Scott Fitzgerald
-_I Drink Therefore I Am_, Roger Scruton
 
 
 
@@ -888,25 +903,6 @@ _Snow Crash or/er Diamond Age_
 _Otherwise Known as the Human Condition_
 _The Fight_
 _Money_ Amis
-
-
-## On the Road
-
-**honorable mention:** _Adrift; The Art of Travel; Black Lamb and Grey Falcon; Blue Highways; The Colossus of Maroussi; Fear and Loathing in Las Vegas; The Hitchhiker's Guide to the Galaxy (series); Jupiter's Travels; The Long Way Round; In Patagonia; Into the Wild; The Motorcycle Diaries; The Odyssey; On the Road; PLF's Journey Across Europe trilogy; The Road; Road Fever; Sex Lives Of Cannibals; Shantaram; Travels with Charlie; Vagabonding; A Walk in the Woods_
-
-_The Road to Oxiana_ Robert Byron [PLF]
-_Dark Star Safari_ Paul Theroux
-[_The Travels of Ibn Battuta_](https://archive.org/details/travels-of-ibn-battuta/The%20Travels%20of%20Ibn%20Battuta-1325%E2%80%931354-Volume-I/)
-_Discovery of India_
-_Let Us Now Praise Famous Men_
-_Creation_ Vidal
-_Eastward to Tartary_
-_The Travels of Marco Polo_
-_Travels with Herodotus_ (or _The Shadow of the Sun_)
-_The Levant Trilogy_
-_Hell's Angels: A Strange and Terrible Saga_
-_Three Men in a Boat_
-[Edith Durham](https://www.gutenberg.org/ebooks/author/8806)
 
 
 ## Mem-Muah
