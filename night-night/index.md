@@ -87,6 +87,16 @@ https://www.penguinrandomhouse.com/the-read-down/new-york-city-books
 https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday
 https://bookriot.com/100-must-read-new-york-city-novels/
 
+---
+
+|	Best Storytelling	|	Most Entertaining	| Think on It |		
+|	---	|	---	|	---	|
+| _Black Lamb and Grey Falcon: A Journey Through Yugoslavia_, Rebecca West 	| _Look Who's Back_, Timur Vermes 	| _Before the West: The Rise and Fall of Eastern World Orders_, Ayse Zarakol |				
+| _Blindly_, Claudio Magris 	| _My Year of Rest and Relaxation_, Ottessa Moshfegh 	| _Black Earth: The Holocaust as History and Warning_, Timothy Snyder |				
+| _Roadside Picnic_, Arkady & Boris Strugatsky 	| _The House of God_, Samuel Shem, M.D. 	| _Border: A Journey to the Edge of Europe_, Kapka Kassabova |				
+| _The Books of Jacob_, Olga Tokarczuk 	| _The Life and Opinions of Tristram Shandy_, Laurence Sterne 	| _From Peoples into Nations: A History of Eastern Europe_, John Connelly |				
+| _The Last Temptation of Christ_, Nikos Kazantzakis 	| _Woodcutters_, Thomas Bernhard 	| _The Beginning of Infinity: Explanations That Transform the World_, David Deutsch |				
+
 
 ## Winter '23 - 16 titles (1 abandoned), theme: none, sabbatical two
 
