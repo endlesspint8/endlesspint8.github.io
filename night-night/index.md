@@ -43,22 +43,25 @@ _Hell's Angels: A Strange and Terrible Saga_
 _Three Men in a Boat_
 [Edith Durham](https://www.gutenberg.org/ebooks/author/8806)
 
-## Spring '23 - x titles (y abandoned), theme: The Rotten Manzana
+## Spring '23 - 16 titles (1 abandoned), theme: The Rotten Manzana
 
 **honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; Big City; The Bonfire of the Vanities; Born to Use Mics; The Brief Wondrous Life of Oscar Wao; Bright Lights, Big City; Burr (Vidal); Call it Sleep; Can't Stop Won't Stop; The Catcher in the Rye; Downtown (Hamill); The Death and Life of Great American Cities; The Epic of New York City; Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; Here is New York; Honky; How the Other Half Lives; Invisible Man; Kitchen Confidential; Lush Life; Miles (Davis); Money; Motherless Brooklyn; My Misspent Youth; The New York Trilogy; Paradise Alley; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Unlubricated; Up in the Old Hotel and Other Stories; A Walker in the City; Washington Square; Watchmen_
 
+**another time (_maybe_):** _Beyond the Melting Pot; Greater Gotham; A Little Life; New York 2140; and [here](https://www.penguinrandomhouse.com/the-read-down/new-york-city-books), from [here](https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday), and [some of these](https://bookriot.com/100-must-read-new-york-city-novels/)_
+
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_Goodbye to All That (Revised Edition): Writers on Loving and Leaving New York_	|	Sari Botton (Editor)	|	EBOOK	|	late 20th, early 21st century NYC	|
+|	~~_The Works: Anatomy of a City_~~	|	~~Kate Ascher~~	|	EBOOK	|	just **NOT** enough time	|
+|	_Gotham: A History of New York City to 1898_	|	Edwin G. Burrows and Mike Wallace	|	EBOOK	|	first book in section started, nearly the last one finished	|
+|	_Open City_	|	Teju Cole	|	EBOOK	|	post 9/11	|
+|	_Netherland (novel)_	|	Joseph O'Neill	|	EBOOK	|	post 9/11	|
+|	_Wrestling with Moses: How Jane Jacobs Took On New York's Master Builder and Transformed the American City_	|	Anthony Flint	|	EBOOK	|	50's / 60's New York; 	|
+|	_The Beautiful and Damned_	|	F. Scott Fitzgerald	|	EBOOK	|	1920's New York	|
+|	_Memos from Purgatory_	|	Harlan Ellison	|	EBOOK	|		|
+|	_The Assistant_	|	Bernard Malamud	|	EBOOK	|	1950's Brooklyn	|
+|	_Another Country_	|	James Baldwin	|	EBOOK	|	1960's Village & Harlem; _Go Tell it on The Mountain_; _Notes of a Native Son_	|
+|	_Manchild in the Promised Land_	|	Claude Brown	|	AUDIOBOOK	|	1950's Harlem	|
 |	_Fear City: New York’s Fiscal Crisis and the Rise of Austerity Politics_	|	Kim Phillips-Fein	|	EBOOK	|	mid to late 1970's	|
 |	_Breakfast at Tiffany's_	|	Truman Capote	|	EBOOK	|	1950's Manhattan; _In True Blood_	|
 |	_Jazz_	|	Toni Morrison	|	EBOOK	|	1920's Harlem	|
@@ -66,28 +69,10 @@ _Three Men in a Boat_
 |	_The Wanderers_	|	Richard Price	|	EBOOK	|	early 1960's Bronx; _Lush Life_	|
 |	_Kafka Was the Rage_	|	Anatole Broyard	|	EBOOK	|	late 1940's Greenwich Village; Henry Louis Gates, Jr's _Thirteen Ways of Looking at a Black Man_		|
 
-_Another Country_ James Baldwin
-_Beyond the Melting Pot_
-_Gotham_
-_Memos from Purgatory_
-_A Little Life_
-
-_The Beautiful and Damned_
-
-_New York 2140_
-_Open City_
-
-_The Assistant_ (SimplyE)
-_Manchild in the Promised Land_ (SimplyE)
-_Wrestling with Moses_
-
-Netherland (O’Neill);
-
-https://www.penguinrandomhouse.com/the-read-down/new-york-city-books
-https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday
-https://bookriot.com/100-must-read-new-york-city-novels/
 
 ---
+
+### Triple Five Roll 11
 
 |	Best Storytelling	|	Most Entertaining	| Think on It |		
 |	---	|	---	|	---	|
