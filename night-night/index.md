@@ -7,7 +7,26 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 
 Completed to date: 23%
 
-## Autumn '23 - x titles (y abandoned), theme: Drinking & Co.
+## Winter '24 - x titles (y abandoned), theme: Death & Co.
+
+_Martial Arts and Philosophy_
+_How to Live_, Sarah Bakewell
+_Japanese Death Poems_, Yoel Hoffmann
+_Dead Souls_, Nikolai Gogol
+_The Posthumous Memoirs of Brás Cubas_, Joaquim Maria Machado de Assis
+_Death on the Installment Plan_
+_Madwomen_
+_Cancer Ward_ Aleksandr Solzhenitsyn
+_Sickness onto Death_
+_Last Works_, Mark C. Taylor
+_The Stoic Challenge_
+_Intoxicated by My Illness_, Anatole Broyard
+_Cancer Ward_ by Aleksandr Solzhenitsyn
+_Natural Causes_ Barbara Ehrenreich
+_The Mansion of Happiness_
+_The Work of the Dead: A Cultural History of Mortal Remains_
+
+## Autumn '23 - x titles (y abandoned), theme: Drink & Co.
 
 **honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Brief History of Vice; A Drinking Life; Drinking with Men; A Fan's Notes; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Rum Diaries; Tasting Bear; The Thought Gang_
 
@@ -19,15 +38,32 @@ _Under the Volcano_
 _The Shining_
 _Jigger, Beaker and Glass_
 _The Republic of Wine_
-
 _Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slingerland (SimplyE)
-
 _On Booze_, F. Scott Fitzgerald
 _I Drink Therefore I Am_, Roger Scruton
 
 ## Summer '23 - x titles (y abandoned), theme: On the Road
 
-**honorable mention:** _Adrift; The Art of Travel; Black Lamb and Grey Falcon; Blue Highways; The Colossus of Maroussi; Fear and Loathing in Las Vegas; The Hitchhiker's Guide to the Galaxy (series); Jupiter's Travels; The Long Way Round; In Patagonia; Into the Wild; The Motorcycle Diaries; The Odyssey; On the Road; PLF's Journey Across Europe trilogy; The Road; Road Fever; Sex Lives Of Cannibals; Shantaram; Travels with Charlie; Vagabonding; A Walk in the Woods_
+**honorable mention:** _Adrift; The Art of Travel; Black Lamb and Grey Falcon; Blue Highways; The Colossus of Maroussi; The Fault Line; Fear and Loathing in Las Vegas; The Hitchhiker's Guide to the Galaxy (series); Jupiter's Travels; The Long Way Round; In Patagonia; Into the Wild; The Motorcycle Diaries; The Odyssey; On the Road; On the Road to Babadag; PLF's Journey Across Europe trilogy; The Road; Road Fever; Sex Lives Of Cannibals; Shantaram; The Snow Leopard; Travels with Charlie; Vagabonding; A Walk in the Woods_
+
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|	_A Handbook for the Perfect Adventurer_	|	Pierre Mac Orlan	|	PRINT	|	a considerate gift	|
 
 _The Road to Oxiana_ Robert Byron [PLF]
 _Dark Star Safari_ Paul Theroux
@@ -41,13 +77,14 @@ _Travels with Herodotus_ (or _The Shadow of the Sun_)
 _The Levant Trilogy_
 _Hell's Angels: A Strange and Terrible Saga_
 _Three Men in a Boat_
-[Edith Durham](https://www.gutenberg.org/ebooks/author/8806)
+Pico Iyer; Rolf Potts
+
 
 ## Spring '23 - 16 titles (1 abandoned), theme: The Rotten Manzana
 
-**honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; Big City; The Bonfire of the Vanities; Born to Use Mics; The Brief Wondrous Life of Oscar Wao; Bright Lights, Big City; Burr (Vidal); Call it Sleep; Can't Stop Won't Stop; The Catcher in the Rye; Downtown (Hamill); The Death and Life of Great American Cities; The Epic of New York City; Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; Here is New York; Honky; How the Other Half Lives; Invisible Man; Kitchen Confidential; Lush Life; Miles (Davis); Money; Motherless Brooklyn; My Misspent Youth; The New York Trilogy; Paradise Alley; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Unlubricated; Up in the Old Hotel and Other Stories; A Walker in the City; Washington Square; Watchmen_
+**honorable mention:** _The Amazing Adventures of Kavalier and Clay; American Psycho; The Bell Jar; Big City; The Bonfire of the Vanities; Born to Use Mics; The Brief Wondrous Life of Oscar Wao; Bright Lights, Big City; Burr (Vidal); Call it Sleep; Can't Stop Won't Stop; The Catcher in the Rye; Downtown (Hamill); The Death and Life of Great American Cities; The Epic of New York City; Go Tell it on the Mountain; The Great Bridge (McCullough); The Great Gatsby; Here is New York; Honky; How the Other Half Lives; Invisible Man; Kitchen Confidential; Levels of the Game; Lush Life; Miles (Davis); Money; Motherless Brooklyn; My Misspent Youth; The New York Trilogy; Paradise Alley; The Power Broker; Ragtime; A Tree Grows in Brooklyn; Underworld; Unlubricated; Up in the Old Hotel and Other Stories; A Walker in the City; Washington Square; Watchmen_
 
-**another time (_maybe_):** _Beyond the Melting Pot; Greater Gotham; A Little Life; New York 2140; and [here](https://www.penguinrandomhouse.com/the-read-down/new-york-city-books), from [here](https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday), and [some of these](https://bookriot.com/100-must-read-new-york-city-novels/)_
+**another time (_maybe_):** _Beyond the Melting Pot; Greater Gotham; A Hazard of New Fortunes; A Little Life; New York 2140; and [here](https://www.penguinrandomhouse.com/the-read-down/new-york-city-books), from [here](https://ny.curbed.com/2017/11/22/16682062/best-new-york-books-black-friday-cyber-monday), and [some of these](https://bookriot.com/100-must-read-new-york-city-novels/)_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -86,8 +123,6 @@ _Three Men in a Boat_
 ## Winter '23 - 16 titles (1 abandoned), theme: none, sabbatical two
 
 **another time (_maybe_):** _Why Civil Resistance Works; On the Abolition of All Political Parties; Water by the Spoonful; Energy and Civilization; Nothing Like the Sun; The City As a Tangled Bank; Primitive Man as Philosopher; Bad Samaritans; Creation (Vidal)_
-
-The Beginning of Infinity; True History of the Kelly Gang; Blindly; 
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -673,36 +708,13 @@ There are undoubtedly more important things to address with what's left of one's
 
 ## The empty space between German and Russian power
 
-_Reconstruction of Nations (Snyder); Gates of Europe; Armageddon Averted_
+_Reconstruction of Nations (Snyder); Gates of Europe; Armageddon Averted; [Edith Durham](https://www.gutenberg.org/ebooks/author/8806); Time Shelter; A Sacred Space Is Never Empty: A History of Soviet Atheism; A Kidnapped West: The Tragedy of Central Europe; Tainted Democracy: Viktor Orbán and the Subversion of Hungary_
 
 
 ## Things Fall Apart
 
-_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; The Precipice; The Narrow Corridor; Splinterlands; A Cold Welcome: The Little Ice Age and Europe’s Encounter with North America; The Anarchy: The Relentless Rise of the East India Company; The Horde: How the Mongols Changed the World; Staying with the Trouble; Splinterlands; The end of the world is just the beginning; Road to Unfreedom (or latest Snyder title); Globalization and its Discontents_
+_The Structure of Scientific Revolutions; The Best and the Brightest; Collapse of Complex Societies (hold over, PDF); The Origins of Totalitarianism; The Precipice; The Narrow Corridor; Splinterlands; A Cold Welcome: The Little Ice Age and Europe’s Encounter with North America; The Anarchy: The Relentless Rise of the East India Company; The Horde: How the Mongols Changed the World; Staying with the Trouble; Splinterlands; The end of the world is just the beginning; Road to Unfreedom (or latest Snyder title); Globalization and its Discontents; The Earth Transformed; Liberalism in Dark Times; Margaret Macmillan, War: How Conflict Shaped Us ; Linda Yueh’s Great Crashes; The Capital Order_
 
-## Death & Co.
-
-_Martial Arts and Philosophy_
-_How to Live_, Sarah Bakewell
-_Japanese Death Poems_, Yoel Hoffmann
-_Dead Souls_, Nikolai Gogol
-_The Posthumous Memoirs of Brás Cubas_, Joaquim Maria Machado de Assis
-_Death on the Installment Plan_
-_Chasing the Scream_
-_Madwomen_
-_Cancer Ward_ Aleksandr Solzhenitsyn
-_The Best American Noir of the Century_, James Ellroy
-_American Violence_, Richard Hofstadter
-_Sickness onto Death_
-_Last Works_, Mark C. Taylor
-_The Stoic Challenge_
-_Intoxicated by My Illness_, Anatole Broyard
-_Cancer Ward_ by Aleksandr Solzhenitsyn
-_Natural Causes_ Barbara Ehrenreich
-_The Mansion of Happiness_
-_War Is a Force that Gives Us Meaning_
-_The Return of the Soldier_
-_The Work of the Dead: A Cultural History of Mortal Remains_
 
 
 ## Americana
@@ -716,6 +728,9 @@ _Collected Essays of Emerson_
 _An American Tragedy_
 John Dos Passos' USA Trilogy
 _The Adventures of Augie March_
+_The Best American Noir of the Century_, James Ellroy
+_American Violence_, Richard Hofstadter
+_War Is a Force that Gives Us Meaning_
 
 ## A More Perfect Union
 
@@ -737,6 +752,7 @@ Miami and the Siege of Chicago, Norman Mailer
 The Whiskey Rebellion, William Hogeland
 These Truths: A History of the United States, Jill Lepore
 Achieving Our Country, Rorty
+The Ends of Freedom: Reclaiming America's Lost Promise of Economic Rights
 
 ## From Russia with Letters
 
@@ -768,7 +784,11 @@ Boxing: A Cultural History
 
 ## The Great War; before, during, after
 
-_The Sleepwalkers: How Europe Went To War In 1914; The Guardians: The League of Nations and the Crisis of Empire; Ring of Steel: Germany and Austria-Hungary at War, 1914-1918; The Eastern Front 1914-17; The Economic Consequences of the Peace_
+_The Sleepwalkers: How Europe Went To War In 1914; 
+The Guardians: The League of Nations and the Crisis of Empire; 
+Ring of Steel: Germany and Austria-Hungary at War, 1914-1918; 
+The Eastern Front 1914-17; 
+The Economic Consequences of the Peace; The Return of the Soldier_
 
 
 ## Going Dutch
@@ -911,7 +931,7 @@ _Barbarian Days_
 
 ## Mauwage
 
-**honorable mention:** Revolution Road
+**honorable mention:** _Balkan Trilogy; Death in the Family; Revolution Road_
 
 _Fate and Furies; Portrait Of a Marriage; The Beauty of the Husband; The Corrections; Elective Affinities_
 
