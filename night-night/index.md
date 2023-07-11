@@ -60,9 +60,9 @@ _I Drink Therefore I Am_, Roger Scruton
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_Creation_	|	Gore Vidal	|	PRINT	|	_Narratives of Empire_; i think all seven, not sure about _The Golden Age_	|
+|	_Hell's Angels: A Strange and Terrible Saga_	|	Hunter S. Thompson	|	EBOOK	|	_The Rum Diary_ and _Fear and loathing in Las Vegas_ |
+|	_Travels with Herodotus_	|	Ryszard Kapuscinski	|	EBOOK	|		|
 |	_A Handbook for the Perfect Adventurer_	|	Pierre Mac Orlan	|	PRINT	|	a considerate gift	|
 
 _The Road to Oxiana_ Robert Byron [PLF]
@@ -70,12 +70,9 @@ _Dark Star Safari_ Paul Theroux
 [_The Travels of Ibn Battuta_](https://archive.org/details/travels-of-ibn-battuta/The%20Travels%20of%20Ibn%20Battuta-1325%E2%80%931354-Volume-I/)
 _Discovery of India_
 _Let Us Now Praise Famous Men_
-_Creation_ Vidal
 _Eastward to Tartary_
 _The Travels of Marco Polo_
-_Travels with Herodotus_ (or _The Shadow of the Sun_)
-_The Levant Trilogy_
-_Hell's Angels: A Strange and Terrible Saga_
+ (or _The Shadow of the Sun_)
 _Three Men in a Boat_
 Pico Iyer; Rolf Potts
 
@@ -933,7 +930,7 @@ _Barbarian Days_
 
 **honorable mention:** _Balkan Trilogy; Death in the Family; Revolution Road_
 
-_Fate and Furies; Portrait Of a Marriage; The Beauty of the Husband; The Corrections; Elective Affinities_
+_Fate and Furies; Portrait Of a Marriage; The Beauty of the Husband; The Corrections; Elective Affinities; The Levant Trilogy_
 
 ---
 
