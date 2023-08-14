@@ -21,14 +21,14 @@ _Sickness onto Death_
 _Last Works_, Mark C. Taylor
 _The Stoic Challenge_
 _Intoxicated by My Illness_, Anatole Broyard
-_Cancer Ward_ by Aleksandr Solzhenitsyn
 _Natural Causes_ Barbara Ehrenreich
 _The Mansion of Happiness_
 _The Work of the Dead: A Cultural History of Mortal Remains_
+_The American Way of Death_
 
 ## Autumn '23 - x titles (y abandoned), theme: Drink & Co.
 
-**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Brief History of Vice; A Drinking Life; Drinking with Men; A Fan's Notes; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Rum Diaries; Tasting Bear; The Thought Gang_
+**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Brief History of Vice; A Drinking Life; Drinking with Men; A Fan's Notes; Fitzgerald; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Rum Diaries; Tasting Bear; The Thought Gang_
 
 _Everyday Drinking_, Kingsley Amis
 _Tobacco_, Iain Gately
@@ -44,7 +44,7 @@ _I Drink Therefore I Am_, Roger Scruton
 
 ## Summer '23 - x titles (y abandoned), theme: On the Road
 
-**honorable mention:** _Adrift; The Art of Travel; Black Lamb and Grey Falcon; Blue Highways; The Colossus of Maroussi; The Fault Line; Fear and Loathing in Las Vegas; The Hitchhiker's Guide to the Galaxy (series); Jupiter's Travels; The Long Way Round; In Patagonia; Into the Wild; The Motorcycle Diaries; The Odyssey; On the Road; On the Road to Babadag; PLF's Journey Across Europe trilogy; The Road; Road Fever; Sex Lives Of Cannibals; Shantaram; The Snow Leopard; Travels with Charlie; Vagabonding; A Walk in the Woods_
+**honorable mention:** _Adrift; The Art of Travel; Black Lamb and Grey Falcon; Blue Highways; The Colossus of Maroussi; The Fault Line; Fear and Loathing in Las Vegas; The Hitchhiker's Guide to the Galaxy (series); Jupiter's Travels; The Long Way Round; In Patagonia; Into the Wild; The Motorcycle Diaries; The Odyssey; On the Road; On the Road to Babadag; PLF's Journey Across Europe trilogy; The Road; Road Fever; Sex Lives Of Cannibals; Shantaram; The Snow Leopard; Travel Light; Travels with Charlie; Vagabonding; A Walk in the Woods_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -55,26 +55,22 @@ _I Drink Therefore I Am_, Roger Scruton
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_A Passage to India_	|	E. M. Forster	|	EBOOK	|	(maybe _A Room with a View)	|
+|	_Eastward to Tartary_	|	Robert D. Kaplan	|	EBOOK	|		|
+|	_The Road to Oxiana_	|	Robert Byron	|	EBOOK	|	Came across in reading PLF.	|
+|	_The Travels of Marco Polo_	|	Marco Polo	|	PRINT	|	One of the OG's.	|
+|	_A Visit to Don Otavio_	|	Sybille Bedford	|	EBOOK	|		|
 |	_Creation_	|	Gore Vidal	|	PRINT	|	_Narratives of Empire_; i think all seven, not sure about _The Golden Age_	|
 |	_Hell's Angels: A Strange and Terrible Saga_	|	Hunter S. Thompson	|	EBOOK	|	_The Rum Diary_ and _Fear and loathing in Las Vegas_ |
 |	_Travels with Herodotus_	|	Ryszard Kapuscinski	|	EBOOK	|		|
 |	_A Handbook for the Perfect Adventurer_	|	Pierre Mac Orlan	|	PRINT	|	a considerate gift	|
 
-_The Road to Oxiana_ Robert Byron [PLF]
+
 _Dark Star Safari_ Paul Theroux
 [_The Travels of Ibn Battuta_](https://archive.org/details/travels-of-ibn-battuta/The%20Travels%20of%20Ibn%20Battuta-1325%E2%80%931354-Volume-I/)
 _Discovery of India_
 _Let Us Now Praise Famous Men_
-_Eastward to Tartary_
-_The Travels of Marco Polo_
- (or _The Shadow of the Sun_)
 _Three Men in a Boat_
-Pico Iyer; Rolf Potts
 
 
 ## Spring '23 - 16 titles (1 abandoned), theme: The Rotten Manzana
@@ -91,8 +87,8 @@ Pico Iyer; Rolf Potts
 |	_Open City_	|	Teju Cole	|	EBOOK	|	post 9/11	|
 |	_Netherland (novel)_	|	Joseph O'Neill	|	EBOOK	|	post 9/11	|
 |	_Wrestling with Moses: How Jane Jacobs Took On New York's Master Builder and Transformed the American City_	|	Anthony Flint	|	EBOOK	|	50's / 60's New York; 	|
-|	_The Beautiful and Damned_	|	F. Scott Fitzgerald	|	EBOOK	|	1920's New York	|
-|	_Memos from Purgatory_	|	Harlan Ellison	|	EBOOK	|		|
+|	_The Beautiful and Damned_	|	F. Scott Fitzgerald	|	EBOOK	|	1920's New York; _The Great Gatsby_; _This Side of Paradise_	|
+|	_Memos from Purgatory_	|	Harlan Ellison	|	EBOOK	|	1950's Brooklyn	|
 |	_The Assistant_	|	Bernard Malamud	|	EBOOK	|	1950's Brooklyn	|
 |	_Another Country_	|	James Baldwin	|	EBOOK	|	1960's Village & Harlem; _Go Tell it on The Mountain_; _Notes of a Native Son_	|
 |	_Manchild in the Promised Land_	|	Claude Brown	|	AUDIOBOOK	|	1950's Harlem	|
