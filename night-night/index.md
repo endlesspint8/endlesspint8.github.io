@@ -54,7 +54,7 @@ _I Drink Therefore I Am_, Roger Scruton
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Three Men in a Boat (To Say Nothing of the Dog)_	|	Jerome K. Jerome 	|	EBOOK	|	Hold over from the satire section; well worth it	|
 |	_A Passage to India_	|	E. M. Forster	|	EBOOK	|	(maybe _A Room with a View)	|
 |	_Eastward to Tartary_	|	Robert D. Kaplan	|	EBOOK	|		|
 |	_The Road to Oxiana_	|	Robert Byron	|	EBOOK	|	Came across in reading PLF.	|
@@ -70,7 +70,19 @@ _Dark Star Safari_ Paul Theroux
 [_The Travels of Ibn Battuta_](https://archive.org/details/travels-of-ibn-battuta/The%20Travels%20of%20Ibn%20Battuta-1325%E2%80%931354-Volume-I/)
 _Discovery of India_
 _Let Us Now Praise Famous Men_
-_Three Men in a Boat_
+
+
+---
+
+### Triple Five Roll 12
+
+|	Best Storytelling	|	Most Entertaining	| Think on It |		
+|	---	|	---	|	---	|
+| _Black Lamb and Grey Falcon: A Journey Through Yugoslavia_, Rebecca West 	| _The Life and Opinions of Tristram Shandy_, Laurence Sterne 	| _Black Earth: The Holocaust as History and Warning_, Timothy Snyder |
+| _The Books of Jacob_, Olga Tokarczuk 	| _My Year of Rest and Relaxation_, Ottessa Moshfegh 	| _The Beginning of Infinity: Explanations That Transform the World_, David Deutsch |
+| _Blindly_, Claudio Magris 	| _The House of God_, Samuel Shem, M.D. 	| _Before the West: The Rise and Fall of Eastern World Orders_, Ayse Zarakol |
+| _Open City_, Teju Cole 	| _Look Who's Back_, Timur Vermes 	| _The Dawn Watch: Joseph Conrad in a Global World_, Maya Jasanoff |
+| _Jazz_, Toni Morrison 	| _The Beautiful and Damned_, F. Scott Fitzgerald 	| _Gotham: A History of New York City to 1898_, Edwin G. Burrows and Mike Wallace |
 
 
 ## Spring '23 - 16 titles (1 abandoned), theme: The Rotten Manzana
