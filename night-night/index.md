@@ -927,11 +927,9 @@ _Money_ Amis
 
 ## Mem-Muah
 
-**honorable mention:** _Angela's Ashes; The Autobiography of Benjamin Franklin; The Autobiography of Malcolm X; The Bell Jar; Between the World and Me; Black Boy; The Diary of a Young Girl; Dreams From My Father; Dry; Gandhi; A Heartbreaking Work of Staggering Genius; Into the Wild; Into Thin Air; Kitchen Confidential; I Know Why the Caged Bird Sings; Maus; Man's Search for Meaning; Me Talk Pretty One Day; A Moveable Feast; My Century; Narrative of the Life of Frederick Douglass; Night; Open; Persepolis; The Power Broker; Surely You’re Joking, Mr. Feynman!; Travels with Charlie; Tuesdays with Morrie; Walden; A Walk in the Woods; The Year of Magical Thinking_
+**honorable mention:** _Angela's Ashes; The Autobiography of Benjamin Franklin; The Autobiography of Malcolm X; The Bell Jar; Between the World and Me; Black Boy; The Diary of a Young Girl; Dreams From My Father; Dry; Gandhi; A Heartbreaking Work of Staggering Genius; Into the Wild; Into Thin Air; Kitchen Confidential; I Know Why the Caged Bird Sings; Manchild in the Promised Land; Man's Search for Meaning; Maus; Me Talk Pretty One Day; A Moveable Feast; My Century; Narrative of the Life of Frederick Douglass; Night; Notes of a Native Son; On Writing (S. King); Open; Persepolis; The Power Broker; Surely You’re Joking, Mr. Feynman!; Travels with Charlie; Tuesdays with Morrie; Walden; A Walk in the Woods; The Year of Magical Thinking_
 
-_The Snows of Yesteryear_
-_The Autobiography of Alice B. Toklas_
-_Barbarian Days_
+_The Snows of Yesteryear; The Autobiography of Alice B. Toklas; Barbarian Days; Speak, Memory_
 
 
 ## Mauwage
