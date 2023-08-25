@@ -53,8 +53,8 @@ _I Drink Therefore I Am_, Roger Scruton
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_The Half Known Life_	|	Pico Iyer	|	EBOOK	|		|
+|	_The Travels of Ibn Battuta_	|	Ibn Battuta	|	PRINT	|	Another OG; can also be read [here](https://archive.org/details/travels-of-ibn-battuta/The%20Travels%20of%20Ibn%20Battuta-1325%E2%80%931354-Volume-I/)	|
 |	_Three Men in a Boat (To Say Nothing of the Dog)_	|	Jerome K. Jerome 	|	EBOOK	|	Hold over from the satire section; well worth it	|
 |	_A Passage to India_	|	E. M. Forster	|	EBOOK	|	(maybe _A Room with a View)	|
 |	_Eastward to Tartary_	|	Robert D. Kaplan	|	EBOOK	|		|
@@ -66,12 +66,11 @@ _I Drink Therefore I Am_, Roger Scruton
 |	_Travels with Herodotus_	|	Ryszard Kapuscinski	|	EBOOK	|		|
 |	_A Handbook for the Perfect Adventurer_	|	Pierre Mac Orlan	|	PRINT	|	a considerate gift	|
 
-
 _Dark Star Safari_ Paul Theroux
-[_The Travels of Ibn Battuta_](https://archive.org/details/travels-of-ibn-battuta/The%20Travels%20of%20Ibn%20Battuta-1325%E2%80%931354-Volume-I/)
-_Discovery of India_
+
 _Let Us Now Praise Famous Men_
 
+_Discovery of India_
 
 ---
 
