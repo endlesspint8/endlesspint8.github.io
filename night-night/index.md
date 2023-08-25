@@ -25,6 +25,7 @@ _Natural Causes_ Barbara Ehrenreich
 _The Mansion of Happiness_
 _The Work of the Dead: A Cultural History of Mortal Remains_
 _The American Way of Death_
+_The Decameron_ Giovanni Boccaccio
 
 ## Autumn '23 - x titles (y abandoned), theme: Drink & Co.
 
