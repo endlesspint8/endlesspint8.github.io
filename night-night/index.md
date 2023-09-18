@@ -31,6 +31,25 @@ _The Decameron_ Giovanni Boccaccio
 
 **honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Brief History of Vice; A Drinking Life; Drinking with Men; A Fan's Notes; Fitzgerald; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Rum Diaries; Tasting Bear; The Thought Gang_
 
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+|		|		|		|		|
+
 _Everyday Drinking_, Kingsley Amis
 _Tobacco_, Iain Gately
 _Drunks_, Christopher Finan
@@ -43,16 +62,17 @@ _Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slin
 _On Booze_, F. Scott Fitzgerald
 _I Drink Therefore I Am_, Roger Scruton
 
-## Summer '23 - x titles (y abandoned), theme: On the Road
+## Summer '23 - 15 titles (none abandoned), theme: On the Road
 
 **honorable mention:** _Adrift; The Art of Travel; Black Lamb and Grey Falcon; Blue Highways; The Colossus of Maroussi; The Fault Line; Fear and Loathing in Las Vegas; The Hitchhiker's Guide to the Galaxy (series); Jupiter's Travels; The Long Way Round; In Patagonia; Into the Wild; The Motorcycle Diaries; The Odyssey; On the Road; On the Road to Babadag; PLF's Journey Across Europe trilogy; The Road; Road Fever; Sex Lives Of Cannibals; Shantaram; The Snow Leopard; Travel Light; Travels with Charlie; Vagabonding; A Walk in the Woods_
 
+**another time (_maybe_):** _Discovery of India; Seven Pillars of Wisdom_
+
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_Let Us Now Praise Famous Men_	|	James Agee and Walker Evans	|	PRINT	|	[Time 100 Nonfiction]	|
+|	_The Songlines_	|	Bruce Chatwin	|	EBOOK	|	_In Patagonia_	|
+|	_Dark Star Safari_	|	Paul Theroux	|	EBOOK	|		|
 |	_The Half Known Life_	|	Pico Iyer	|	EBOOK	|		|
 |	_The Travels of Ibn Battuta_	|	Ibn Battuta	|	PRINT	|	Another OG; can also be read [here](https://archive.org/details/travels-of-ibn-battuta/The%20Travels%20of%20Ibn%20Battuta-1325%E2%80%931354-Volume-I/)	|
 |	_Three Men in a Boat (To Say Nothing of the Dog)_	|	Jerome K. Jerome 	|	EBOOK	|	Hold over from the satire section; well worth it	|
@@ -65,12 +85,6 @@ _I Drink Therefore I Am_, Roger Scruton
 |	_Hell's Angels: A Strange and Terrible Saga_	|	Hunter S. Thompson	|	EBOOK	|	_The Rum Diary_ and _Fear and loathing in Las Vegas_ |
 |	_Travels with Herodotus_	|	Ryszard Kapuscinski	|	EBOOK	|		|
 |	_A Handbook for the Perfect Adventurer_	|	Pierre Mac Orlan	|	PRINT	|	a considerate gift	|
-
-_Dark Star Safari_ Paul Theroux
-
-_Let Us Now Praise Famous Men_
-
-_Discovery of India_
 
 ---
 
