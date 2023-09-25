@@ -29,7 +29,8 @@ _The Decameron_ Giovanni Boccaccio
 
 ## Autumn '23 - x titles (y abandoned), theme: Drink & Co.
 
-**honorable mention:** _Babylon Revisited; The Brewmaster's Table; A Brief History of Vice; A Drinking Life; Drinking with Men; A Fan's Notes; Fitzgerald; The Ginger Man; Hemingway; The Iceman Cometh; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Rum Diaries; Tasting Bear; The Thought Gang_
+**honorable mention:** _Babylon Revisited; Between Meals: An Appetite for Paris; The Brewmaster's Table; Brideshead Revisited; A Brief History of Vice; Cat on a Hot Tin Roof; A Drinking Life; Drinking with Men; Dry (Augusten Burroughs); A Fan's Notes; A Farewell to Arms; Fitzgerald; The Ginger Man; Ham on Rye; A History of the World in 6 Glasses; The Iceman Cometh; Kitchen Confidential; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Lucky Jim; A Moveable Feast; Rum Diaries; Tasting Bear; The Thought Gang_
+
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
