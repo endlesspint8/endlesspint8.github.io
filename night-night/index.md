@@ -48,7 +48,8 @@ _The Decameron_ Giovanni Boccaccio
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_On Booze_	|	F. Scott Fitzgerald	|	PRINT	|		|
+
 
 _Everyday Drinking_, Kingsley Amis
 _Tobacco_, Iain Gately
@@ -59,7 +60,6 @@ _The Shining_
 _Jigger, Beaker and Glass_
 _The Republic of Wine_
 _Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slingerland (SimplyE)
-_On Booze_, F. Scott Fitzgerald
 _I Drink Therefore I Am_, Roger Scruton
 
 ## Summer '23 - 15 titles (none abandoned), theme: On the Road
