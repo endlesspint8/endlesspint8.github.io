@@ -29,7 +29,7 @@ _The Decameron_ Giovanni Boccaccio
 
 ## Autumn '23 - x titles (y abandoned), theme: Drink & Co.
 
-**honorable mention:** _Babylon Revisited; Between Meals: An Appetite for Paris; The Brewmaster's Table; Brideshead Revisited; A Brief History of Vice; Cat on a Hot Tin Roof; A Drinking Life; Drinking with Men; Dry (Augusten Burroughs); A Fan's Notes; A Farewell to Arms; Fitzgerald; The Ginger Man; Ham on Rye; A History of the World in 6 Glasses; The Iceman Cometh; Kitchen Confidential; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Lucky Jim; A Moveable Feast; Rum Diaries; Tasting Bear; The Thought Gang_
+**honorable mention:** _Babylon Revisited; Between Meals: An Appetite for Paris; The Brewmaster's Table; A Brief History of Vice; Broken Glass; Cat on a Hot Tin Roof; Cyclops; A Drinking Life; Drinking with Men; Dry (Augusten Burroughs); A Fan's Notes; A Farewell to Arms; Fitzgerald; The Ginger Man; Ham on Rye; A History of the World in 6 Glasses; The Iceman Cometh; Kitchen Confidential; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Lucky Jim; A Moveable Feast; Rum Diaries; Tasting Bear; The Thought Gang_
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -45,23 +45,23 @@ _The Decameron_ Giovanni Boccaccio
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+|	_I Drink Therefore I Am_	|	Roger Scruton	|	PRINT	|		|
+|	_Tender is the Night_	|		|	EBOOK	|		|
+|	_Tobacco_	|	Iain Gately	|	EBOOK	|		|
+|	_Under the Volcano_	|		|	EBOOK	|		|
 |	_On Booze_	|	F. Scott Fitzgerald	|	PRINT	|		|
 
 
 _Everyday Drinking_, Kingsley Amis
-_Tobacco_, Iain Gately
+, 
 _Drunks_, Christopher Finan
 _Chasing the Scream_
-_Under the Volcano_
+
 _The Shining_
 _Jigger, Beaker and Glass_
 _The Republic of Wine_
 _Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slingerland (SimplyE)
-_I Drink Therefore I Am_, Roger Scruton
+, 
 
 ## Summer '23 - 15 titles (none abandoned), theme: On the Road
 
