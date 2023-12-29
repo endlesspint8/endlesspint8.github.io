@@ -9,29 +9,6 @@ Completed to date: 23%
 
 ## Winter '24 - x titles (y abandoned), theme: Death & Co.
 
-_Martial Arts and Philosophy_
-_How to Live_, Sarah Bakewell
-_Japanese Death Poems_, Yoel Hoffmann
-_Dead Souls_, Nikolai Gogol
-_The Posthumous Memoirs of Brás Cubas_, Joaquim Maria Machado de Assis
-_Death on the Installment Plan_
-_Madwomen_
-_Cancer Ward_ Aleksandr Solzhenitsyn
-_Sickness onto Death_
-_Last Works_, Mark C. Taylor
-_The Stoic Challenge_
-_Intoxicated by My Illness_, Anatole Broyard
-_Natural Causes_ Barbara Ehrenreich
-_The Mansion of Happiness_
-_The Work of the Dead: A Cultural History of Mortal Remains_
-_The American Way of Death_
-_The Decameron_ Giovanni Boccaccio
-
-## Autumn '23 - x titles (y abandoned), theme: Drink & Co.
-
-**honorable mention:** _Babylon Revisited; Between Meals: An Appetite for Paris; The Brewmaster's Table; A Brief History of Vice; Broken Glass; Cat on a Hot Tin Roof; Cyclops; A Drinking Life; Drinking with Men; Dry (Augusten Burroughs); A Fan's Notes; A Farewell to Arms; Fitzgerald; The Ginger Man; Ham on Rye; A History of the World in 6 Glasses; The Iceman Cometh; Kitchen Confidential; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Lucky Jim; A Moveable Feast; Rum Diaries; Tasting Bear; The Thought Gang_
-
-
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
 |		|		|		|		|
@@ -44,24 +21,54 @@ _The Decameron_ Giovanni Boccaccio
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|		|		|		|		|
+|	_Dreamland_	|		|		|		|
+
+
+_Martial Arts and Philosophy_
+_How to Live_, Sarah Bakewell
+_The Posthumous Memoirs of Brás Cubas_, Joaquim Maria Machado de Assis
+_Sickness onto Death_
+_Last Works_, Mark C. Taylor
+_The Stoic Challenge_
+_Intoxicated by My Illness_, Anatole Broyard
+_Natural Causes_ Barbara Ehrenreich
+_The Mansion of Happiness_
+_The Work of the Dead: A Cultural History of Mortal Remains_
+_The American Way of Death_
+_The Decameron_ Giovanni Boccaccio
+
+_Japanese Death Poems_, Yoel Hoffmann
+_Dead Souls_, Nikolai Gogol
+_Death on the Installment Plan_
+_Madwomen_
+_Cancer Ward_ Aleksandr Solzhenitsyn
+
+## Autumn '23 - 16 titles (none abandoned), theme: Drink & Co.
+
+**honorable mention:** _Babylon Revisited; Between Meals: An Appetite for Paris; The Brewmaster's Table; A Brief History of Vice; Broken Glass; Cat on a Hot Tin Roof; Cyclops; A Drinking Life; Drinking with Men; Dry (Augusten Burroughs); A Fan's Notes; A Farewell to Arms; Fitzgerald; The Ginger Man; Ham on Rye; A History of the World in 6 Glasses; The Iceman Cometh; Kitchen Confidential; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Lucky Jim; A Moveable Feast; Rum Diaries; Tasting Bear; The Thought Gang_
+
+**another time (_maybe_):** _Jigger, Beaker and Glass; The Minotaur Takes a Cigarette Break; A Moon for the Misbegotten; The Shining_
+
+
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|_The Big Book_|		|		|		|
+|_Brideshead Revisited_|		|		|		|
+|_The Electric Kool-Aid Acid Test_|		|		|		|
+|_The Lost Weekend_|		|		|		|
+|_Chasing the Scream_|		|		|		|
+|_Naked Lunch_|		|		|		|
+|_Confessions of an English Opium Eater_|		|		|		|
+|_Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization Edward Slingerland_|		|		|		|
+|_The News: A User's Manual_|		|		|		|
+|_The Republic of Wine_|		|		|		|
+|_Everyday Drinking_ | Kingsley Amis |		|		|
 |	_I Drink Therefore I Am_	|	Roger Scruton	|	PRINT	|		|
-|	_Tender is the Night_	|		|	EBOOK	|		|
+|	_Tender is the Night_	|	F. Scott Fitzgerald	|	EBOOK	|		|
 |	_Tobacco_	|	Iain Gately	|	EBOOK	|		|
 |	_Under the Volcano_	|		|	EBOOK	|		|
 |	_On Booze_	|	F. Scott Fitzgerald	|	PRINT	|		|
 
-
-_Everyday Drinking_, Kingsley Amis
-, 
-_Drunks_, Christopher Finan
-_Chasing the Scream_
-
-_The Shining_
-_Jigger, Beaker and Glass_
-_The Republic of Wine_
-_Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization_ Edward Slingerland (SimplyE)
-, 
 
 ## Summer '23 - 15 titles (none abandoned), theme: On the Road
 
