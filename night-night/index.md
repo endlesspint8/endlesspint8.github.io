@@ -21,7 +21,13 @@ Completed to date: 23%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
-|	_Dreamland_	|		|		|		|
+|		|		|		|		|
+|	_Natural Causes: An Epidemic of Wellness, the Certainty of Dying, and Killing Ourselves to Live Longer_	|	Barbara Ehrenreich 	|	EBOOK	|	_Nickel & Dimed_	|
+|	_Intoxicated by My Illness: And Other Writings on Life and Death_	|	Anatole Broyard	|	EBOOK	|	_Kafka Was the Rage: A Greenwich Village Memoir_	|
+|	_Last Works: Lessons in Leaving_	|	Mark C. Taylor	|	EBOOK	|	_Speed Limits: Where Time Went and Why We Have So Little Left_	|
+|	_The Infinity Gauntlet_	|	Jim Starlin , George Perez, et al.	|	EBOOK	|	Thanatos!	|
+|	_How to Live: Or A Life of Montaigne in One Question and Twenty Attempts at an Answer_	|	Sarah Bakewell 	|	EBOOK	|	_At The Existentialist Café_	|
+|	_Dreamland: The True Tale of America's Opiate Epidemic_	|	Sam Quinones	|	EBOOK	|	Morpheus!	|
 
 
 _Martial Arts and Philosophy_
