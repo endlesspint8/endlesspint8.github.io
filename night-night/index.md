@@ -7,7 +7,9 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 
 Completed to date: 23%
 
-## Winter '24 - x titles (y abandoned), theme: Death & Co.
+## Spring '24 - x titles (y abandoned), theme: Decisions, Decisions
+
+**honorable mention:** _Thinking in Bets_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
@@ -22,6 +24,51 @@ Completed to date: 23%
 |		|		|		|		|
 |		|		|		|		|
 |		|		|		|		|
+|		|		|		|		|
+|	_HBR's 10 Must Reads on Strategy_	|		|		|		|
+|	_If Then_	|	Jill Lepore	|	AUDIOBOOK	|	_The Mansion of Happiness_	|
+
+
+
+_Radical Uncertainty_
+_Sources of Power_
+_The Perfect Bet_
+_Simple Rules_
+_Heuristic Reasoning_ (pdf)
+
+_Gut Feelings_
+_Superforecasting_
+_How to Decide_
+_Framers_
+_Dynamics in Action_ Juarrero (PDF)
+ 
+_The Mating Mind_ Geoffrey Miller
+_Capitalism, Socialism, Ecology_ Andre Gorz
+_The Pleasure Trap_ Douglas J. Lisle, Ph.D.
+_Consumer Society Reader_
+
+_The Grand Chessboard_ (Brzezinski)
+_Who Gets What--and why_
+Transformative Experience (L. A. Paul)
+
+## Winter '24 - 15 titles (1 abandoned), theme: Death & Co.
+
+**honorable mention:** _The Fault in Our Stars; Tuesdays with Morrie; The Year of Magical Living; On Death and Dying; The Five Invitations; Lincoln in the Bardo; As I Lay Dying; The Picture of Dorian Gray; One Hundred Years of Solitude; The Buried Giant; The Road; The Stand; No Exit; The Emperor of All Maladies_
+
+**another time (_maybe_):** _Cancer Ward (Solzhenitsyn); Dead Souls (Gogol); Death on the Installment Plan; The Denial of Death; Japanese Death Poems; Madwomen: The "Locas mujeres" Poems of Gabriela Mistral; Sickness onto Death; The Stoic Challenge_
+
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|	_The Decameron_	|	Giovanni Boccaccio	|	PRINT	|		|
+|	_The Work of the Dead: A Cultural History of Mortal Remains_	|	Thomas Walter Laqueur	|	PRINT	|		|
+|	_The American Way of Death_	|	Jessica Mitford	|	EBOOK	|		|
+|	_Martial Arts and Philosophy_	|		|		|		|
+|	_The Mansion of Happiness: A History of Life and Death_	|	Jill Lepore	|	EBOOK	|		|
+|	_My Friend Dahmer_	|	Derf Backderf	|	EBOOK	|		|
+|	_My Sister, the Serial Killer: A Novel_	|	Oyinkan Braithwaite	|	EBOOK	|		|
+|	_The Posthumous Memoirs of Brás Cubas_	|	Joaquim Maria Machado de Assis	|	EBOOK	|	_Dom Casmurro_	|
+|	~~_Lingua Latina per se Illustrata, Pars I: Familia Romana (Latin Edition)_~~	|	~~Hans H. Ørberg~~ 	|	~~PRINT~~	|	Latin, dead or immortal?; bit more than half way through, more attention needed than currently available	|
+|	_Appointment in Samarra_	|		|	EBOOK	|		|
 |	_Natural Causes: An Epidemic of Wellness, the Certainty of Dying, and Killing Ourselves to Live Longer_	|	Barbara Ehrenreich 	|	EBOOK	|	_Nickel & Dimed_	|
 |	_Intoxicated by My Illness: And Other Writings on Life and Death_	|	Anatole Broyard	|	EBOOK	|	_Kafka Was the Rage: A Greenwich Village Memoir_	|
 |	_Last Works: Lessons in Leaving_	|	Mark C. Taylor	|	EBOOK	|	_Speed Limits: Where Time Went and Why We Have So Little Left_	|
@@ -29,31 +76,14 @@ Completed to date: 23%
 |	_How to Live: Or A Life of Montaigne in One Question and Twenty Attempts at an Answer_	|	Sarah Bakewell 	|	EBOOK	|	_At The Existentialist Café_	|
 |	_Dreamland: The True Tale of America's Opiate Epidemic_	|	Sam Quinones	|	EBOOK	|	Morpheus!	|
 
+ 
 
-_Martial Arts and Philosophy_
-_How to Live_, Sarah Bakewell
-_The Posthumous Memoirs of Brás Cubas_, Joaquim Maria Machado de Assis
-_Sickness onto Death_
-_Last Works_, Mark C. Taylor
-_The Stoic Challenge_
-_Intoxicated by My Illness_, Anatole Broyard
-_Natural Causes_ Barbara Ehrenreich
-_The Mansion of Happiness_
-_The Work of the Dead: A Cultural History of Mortal Remains_
-_The American Way of Death_
-_The Decameron_ Giovanni Boccaccio
-
-_Japanese Death Poems_, Yoel Hoffmann
-_Dead Souls_, Nikolai Gogol
-_Death on the Installment Plan_
-_Madwomen_
-_Cancer Ward_ Aleksandr Solzhenitsyn
 
 ## Autumn '23 - 16 titles (none abandoned), theme: Drink & Co.
 
 **honorable mention:** _Babylon Revisited; Between Meals: An Appetite for Paris; The Brewmaster's Table; A Brief History of Vice; Broken Glass; Cat on a Hot Tin Roof; Cyclops; A Drinking Life; Drinking with Men; Dry (Augusten Burroughs); A Fan's Notes; A Farewell to Arms; Fitzgerald; The Ginger Man; Ham on Rye; A History of the World in 6 Glasses; The Iceman Cometh; Kitchen Confidential; Last Call: The Rise and Fall of Prohibition; Long Day's Journey into Night; Money; Lucky Jim; A Moveable Feast; Rum Diaries; Tasting Bear; The Thought Gang_
 
-**another time (_maybe_):** _Jigger, Beaker and Glass; The Minotaur Takes a Cigarette Break; A Moon for the Misbegotten; The Shining_
+**another time (_maybe_):** _Jigger, Beaker and Glass; The Minotaur Takes a Cigarette Break; A Moon for the Misbegotten; The Shining; At Swim-Two-Birds_
 
 
 |	title	|	author	|	media	|	alibi	|
@@ -903,31 +933,6 @@ _The Brothers Karamazov_
 _Paradise Lost_
 something Faulkner 
 Kalevala (Lonnrot)
-
-## Decision Making
-
-**honorable mention:** _Thinking in Bets_
-
-_Radical Uncertainty_
-_Sources of Power_
-_The Perfect Bet_
-_Simple Rules_
-_Heuristic Reasoning_ (pdf)
-a negotiating title
-_Gut Feelings_
-_Superforecasting_
-_How to Decide_
-_Framers_
-_Dynamics in Action_ Juarrero (PDF)
-_If Then_ Jill Lepore
-_The Mating Mind_ Geoffrey Miller
-_Capitalism, Socialism, Ecology_ Andre Gorz
-_The Pleasure Trap_ Douglas J. Lisle, Ph.D.
-_Consumer Society Reader_
-_HBR's 10 Must Reads on Strategy_
-_The Grand Chessboard_ (Brzezinski)
-_Who Gets What--and why_
-Transformative Experience (L. A. Paul)
 
 
 ## You're All My Favorites
