@@ -7,24 +7,32 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 
 Completed to date: 23%
 
-## Spring '24 - x titles (y abandoned), theme: Decisions, Decisions
+## Spring '24 - 20 titles (2 abandoned), theme: Decisions, Decisions
 
 **honorable mention:** _Thinking in Bets_
 
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
-|		|		|		|		|
+| ~~_Insights into Game Theory_~~ | | | |
+| _The Best and Brightest_ | | | |
+| _At Swim-Two-Birds_ | | | |
+| _Against the Gods: The Remarkable Story of Risk_ | | | |
+| _Blankets_ | | | |
+| _The Stoic Challenge: A Philosopher's Guide to Becoming Tougher, Calmer, and More Resilient_ | | | |
+| _Superforecasting: The Art and Science of Prediction_ | | | |
+| ~~_How to Solve It: A New Aspect of Mathematical Method_~~ | | | |
+| _Sources of Power, 20th Anniversary Edition: How People Make Decisions_ | | | |
+| _Think Again_ | | | |
+| _The Grand Chessboard: American Primacy and Its Geostrategic Imperatives_ | | | |
+| _Gut Feelings: The Intelligence of the Unconscious_ | | | |
+| _Omnivore's Dilemma_ | | | |
+| _A Theory of Justice: Original Edition_ | | | |
+| _Framers_ | | | |
+| _Wild Problems_ | | | |
+| _The Tragic Mind: Fear, Fate, and the Burden of Power_ | | | |
+| _The Precipice: Existential Risk and the Future of Humanity_ | | | |
+| _Decisive_ | | | |
+| _With Winning in Mind_ | | | |
 |	_HBR's 10 Must Reads on Strategy_	|		|		|		|
 |	_If Then_	|	Jill Lepore	|	AUDIOBOOK	|	_The Mansion of Happiness_	|
 
