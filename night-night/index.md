@@ -7,6 +7,30 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 
 Completed to date: 23%
 
+## Summer '24 - x titles (none abandoned), theme: Going Dutch
+
+**honorable mention:** _Nederland: A Novel_
+
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+| 	 |	 | 	|	 |
+| 	 |	 | 	|	 |
+| 	 |	 | 	|	 |
+| __	 |	 | 	|	 |
+| __	 |	 | 	|	 |
+| __	 |	 | 	|	 |
+| __	 |	 | 	|	 |
+| __	 |	 | 	|	 |
+| _The Darkroom of Damocles_	 |Willem Frederik Hermans | 	|	 |
+| _Max Havelaar: Or, the Coffee Auctions of The Dutch Trading Company_	 |Multatuli|EBOOK|	 |
+| _De Avonden_	 | Gerard Reve |EBOOK|	 |
+| _Going Dutch: How England Plundered Holland's Glory_	 |Lisa Jardine | PRINT	|	 |
+| _Murder in Amsterdam: Liberal Europe, Islam, and the Limits of Tolerence_	 |Ian Buruma| 	|	 |
+| _Amsterdam: A HISTORY OF THE WORLD'S MOST LIBERAL CITY_	 |Russell Shorto|AUDIO|	 |
+| _Brilliant Orange: the neurotic genius of Dutch soccer_	 |David Winner| 	|	 |
+
+
+
 ## Spring '24 - 20 titles (2 abandoned), theme: Decisions, Decisions
 
 **honorable mention:** _Thinking in Bets_
