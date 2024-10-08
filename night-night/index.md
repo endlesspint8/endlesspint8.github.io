@@ -5,26 +5,28 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 ---
 
 
-Completed to date: 23%
+Completed to date: 35.1%
 
-## Summer '24 - x titles (none abandoned), theme: Going Dutch
+## Summer '24 - 15 titles (none abandoned), theme: Going Dutch
 
 **honorable mention:** _Nederland: A Novel_
 
+**another time (_maybe_):** _Erasmus; Grotius; Spinoza; Calvin’s Commentaries; Matters of Exchange: Commerce, Medicine, and Science in the Dutch Golden Age; Tulipmania: Money, Honor and Knowledge in the Dutch Golden Age; Amsterdam (Ian McEwan)_
+
 |	title	|	author	|	media	|	alibi	|
 |	---	|	---	|	---	|	---	|
-| 	 |	 | 	|	 |
-| 	 |	 | 	|	 |
-| 	 |	 | 	|	 |
-| __	 |	 | 	|	 |
-| __	 |	 | 	|	 |
-| __	 |	 | 	|	 |
-| __	 |	 | 	|	 |
-| __	 |	 | 	|	 |
-| _The Darkroom of Damocles_	 |Willem Frederik Hermans | 	|	 |
+| _The Embarrassment of Riches: An Interpretation of Dutch Culture in the Golden Age_	 | Simon Schama | PRINT |	 |
+| _The Burgundians: A Vanished Empire_	 | Bart van Loo | EBOOK |	 |
+| _The Dinner_	 | Herman Koch | EBOOK |	 |
+| _Amsterdam Stories_	 | Nescio | EBOOK |	 |
+| _Why The Dutch are Different: A Journey into the Hidden Heart of the Netherlands_	 | Ben Coates | AUDIO |	 |
+| _The Bookshop of the World: Making and Trading Books in the Dutch Golden Age_	 | Andrew Pettegree and Arthur der Weduwen | EBOOK |	 |
+| _The Assault_	 | Harry Mulisch | EBOOK |	 |
+| _The Darkroom of Damocles_	 | Willem Frederik Hermans | 	|	 |
 | _Max Havelaar: Or, the Coffee Auctions of The Dutch Trading Company_	 |Multatuli|EBOOK|	 |
 | _De Avonden_	 | Gerard Reve |EBOOK|	 |
 | _Going Dutch: How England Plundered Holland's Glory_	 |Lisa Jardine | PRINT	|	 |
+| _Nooit Meer Slapen_	 | Willem Frederik Hermans | EBOOK |	 |
 | _Murder in Amsterdam: Liberal Europe, Islam, and the Limits of Tolerence_	 |Ian Buruma| 	|	 |
 | _Amsterdam: A HISTORY OF THE WORLD'S MOST LIBERAL CITY_	 |Russell Shorto|AUDIO|	 |
 | _Brilliant Orange: the neurotic genius of Dutch soccer_	 |David Winner| 	|	 |
