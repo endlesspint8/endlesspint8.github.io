@@ -5,7 +5,34 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 ---
 
 
-Completed to date: 35.1%
+Completed to date: 36.9%
+
+## Fall '24 - 18 titles (3 abandoned), theme: none, sabbatical
+
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|	_The Wind-Up Bird Chronicle_	|	Haruki Murakami	|	PRINT	|		|
+|	_The Gift of Violence_	|	Matt Thornton, Peter Boghossian	|	EBOOK	|		|
+|	_A Distant Mirror_	|	Barbara W. Tuchman	|	EBOOK	|		|
+|	~~_Berserk, Volume 1_~~	|	~~Kentaro Miura~~	|	EBOOK	|		|
+|	_Imagined Communities_	|	Benedict Anderson	|	EBOOK	|		|
+|	~~_Why Place Matters_~~	|	~~Wilfred M. McClay, Ted V. McAllister (eds.)~~	|	EBOOK	|		|
+|	_Palestine_	|	Joe Sacco	|	EBOOK	|		|
+|	_The Glass Menagerie_	|	Tennessee Williams	|	EBOOK	|		|
+|	_Ender's Game_	|	Orson Scott Card	|	EBOOK	|		|
+|	_Millennium: The End of the World and the Forging of Christendom_	|	Tom Holland	|	PRINT	|		|
+|	_Beverly_	|	Nick Drnaso	|	EBOOK	|		|
+|	_The Dispossessed_	|	Ursula K. Le Guin	|	EBOOK	|		|
+|	_Batman: The Long Halloween_	|	Jeph Loeb	|	EBOOK	|		|
+|	_Who Will Make the Pancakes_	|	Megan Kelso	|	EBOOK	|		|
+|	_Something Happened_	|	Joseph Heller	|	PRINT	|		|
+|	~~_Free Market_~~	|	~~Jacob Soll~~	|	AUDIO	|		|
+|	_Time's Arrow_	|	Martin Amis	|	PRINT	|		|
+|	_Monstress (2015), Volume 1_	|	Marjorie Liu	|	EBOOK	|		|
+|	_Stoner_	|	John Williams	|	EBOOK	|		|
+|	_The Earth Transformed_	|	Peter Frankopan	|	EBOOK	|		|
+|	_Here_	|	Richard McGuire	|	EBOOK	|		|
+
 
 ## Summer '24 - 15 titles (none abandoned), theme: Going Dutch
 
