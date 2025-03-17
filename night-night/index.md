@@ -5,7 +5,29 @@ subtitle: Out, out, brief candle - the last 1,001 titles
 ---
 
 
-Completed to date: 36.9%
+Completed to date: 38.2%
+
+## Winter '24/25 - 13 titles (1 abandoned), theme: Mem-muah
+
+**another time (_maybe_):** _The Babur Nama; Black Sun (Wolff); The Color of Water; The Education of Henry Adams; Experience (M. Amis); Goodbye to All That; Half Broke Horses; Istanbul (Pamuk); The Liars' Club; The Life of Samuel Johnson; On the Move (Sacks); Up from Slavery; The World of Yesterday_
+
+|	title	|	author	|	media	|	alibi	|
+|	---	|	---	|	---	|	---	|
+|	_The Autobiography of Alice B. Toklas_	|	Gertrude Stein	|	EBOOK	|		|
+|	_Homage to Catalonia / Down and Out In Paris and London_	|	George Orwell	|	EBOOK	|		|
+|	_Speak, Memory_	|	Vladimir Nabokov	|	EBOOK	|		|
+|	_What I Talk About When I Talk About Running_	|	Haruki Murakami	|	EBOOK	|		|
+|	~~_Out of Africa_~~	|	~~Isak Dinesen~~	|	EBOOK	|		|
+|	_My Bondage and My Freedom_	|	Frederick Douglass	|	EBOOK	|		|
+|	_H Is for Hawk_	|	Helen Macdonald	|	EBOOK	|		|
+|	_The Snows of Yesteryear_	|	Gregor Von Rezzori	|	EBOOK	|		|
+|	_Nietzsche_	|	Stefan Zweig	|	EBOOK	|		|
+|	_Although Of Course You End Up Becoming Yourself: A Road Trip with David Foster Wallace_	|	David Lipsky	|	EBOOK	|		|
+|	_Days in the Caucasus_	|	Banine	|	PRINT	|		|
+|	_The Memory Chalet_	|	Tony Judt	|	PRINT	|		|
+|	_Stalin: Paradoxes of Power_	|	Stephen Kotkin	|	EBOOK	|		|
+|	_Barbarian Days: A Surfing Life_	|	William Finnegan	|	EBOOK	|		|
+
 
 ## Fall '24 - 18 titles (3 abandoned), theme: none, sabbatical
 
